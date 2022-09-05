@@ -13,6 +13,10 @@ on:
 #     branches:
 #     - main
   
+env:
+
+  GITHUB_USER_NAME: SpikingChen
+  GITHUB_USER_EMAIL: spikingchen@163.com
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
