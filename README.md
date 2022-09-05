@@ -11,7 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-07-23**|**Event-Driven Tactile Learning with Location Spiking Neurons**|Peng Kang et.al.|[2209.01080v1](http://arxiv.org/abs/2209.01080v1)|null|
+|**2022-07-23**|**Event-Driven Tactile Learning with Location Spiking Neurons**|Peng Kang et.al.|[2209.01080v1](http://arxiv.org/abs/2209.01080v1)|**[link](https://github.com/pkang2017/tactilelocneurons)**|
 |**2022-09-01**|**Characterization and modeling of spiking and bursting in experimental NbOx neuron**|Marie Drouhin et.al.|[2209.00413v1](http://arxiv.org/abs/2209.00413v1)|null|
 |**2022-08-29**|**Bayesian Continual Learning via Spiking Neural Networks**|Nicolas Skatchkovsky et.al.|[2208.13723v1](http://arxiv.org/abs/2208.13723v1)|null|
 |**2022-08-28**|**Scalable Nanophotonic-Electronic Spiking Neural Networks**|Luis El Srouji et.al.|[2208.13144v1](http://arxiv.org/abs/2208.13144v1)|null|
