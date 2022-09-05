@@ -49,3 +49,5 @@ jobs:
           commit-message: "Github Action Automatic Update SNN Arxiv Papers"
           files: README.md snn-arxiv-daily.json
           rebase: 'true'
+          name: ${{ env.GITHUB_USER_NAME }}
+          email: ${{ env.GITHUB_USER_EMAIL }}
