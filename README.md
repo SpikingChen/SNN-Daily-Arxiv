@@ -1,4 +1,4 @@
-## Updated on 2022.09.06
+## Updated on 2022.09.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Neuromorphic implementation of ECG anomaly detection using delay chains**|Stefan Gerber et.al.|[2209.01266v1](http://arxiv.org/abs/2209.01266v1)|null|
 |**2022-07-23**|**Event-Driven Tactile Learning with Location Spiking Neurons**|Peng Kang et.al.|[2209.01080v1](http://arxiv.org/abs/2209.01080v1)|**[link](https://github.com/pkang2017/tactilelocneurons)**|
 |**2022-09-01**|**Characterization and modeling of spiking and bursting in experimental NbOx neuron**|Marie Drouhin et.al.|[2209.00413v1](http://arxiv.org/abs/2209.00413v1)|null|
 |**2022-08-29**|**Bayesian Continual Learning via Spiking Neural Networks**|Nicolas Skatchkovsky et.al.|[2208.13723v1](http://arxiv.org/abs/2208.13723v1)|null|
@@ -127,7 +128,7 @@
 |**2022-05-27**|**Supervised Training of Siamese Spiking Neural Networks with Earth Mover's Distance**|Mateusz Pabian et.al.|[2203.13207v2](http://arxiv.org/abs/2203.13207v2)|null|
 |**2022-03-23**|**Efficient Hardware Acceleration of Sparsely Active Convolutional Spiking Neural Networks**|Jan Sommer et.al.|[2203.12437v1](http://arxiv.org/abs/2203.12437v1)|null|
 |**2022-03-21**|**DSP-Packing: Squeezing Low-precision Arithmetic into FPGA DSP Blocks**|Jan Sommer et.al.|[2203.11028v1](http://arxiv.org/abs/2203.11028v1)|null|
-|**2022-07-01**|**Voltage-Dependent Synaptic Plasticity (VDSP): Unsupervised probabilistic Hebbian plasticity rule based on neurons membrane potential**|Nikhil Garg et.al.|[2203.11022v4](http://arxiv.org/abs/2203.11022v4)|null|
+|**2022-09-05**|**Voltage-Dependent Synaptic Plasticity (VDSP): Unsupervised probabilistic Hebbian plasticity rule based on neurons membrane potential**|Nikhil Garg et.al.|[2203.11022v5](http://arxiv.org/abs/2203.11022v5)|null|
 |**2022-03-18**|**Ultra-low Latency Spiking Neural Networks with Spatio-Temporal Compression and Synaptic Convolutional Block**|Changqing Xu et.al.|[2203.10006v1](http://arxiv.org/abs/2203.10006v1)|null|
 |**2022-03-16**|**Exact mean-field models for spiking neural networks with adaptation**|Liang Chen et.al.|[2203.08341v1](http://arxiv.org/abs/2203.08341v1)|null|
 |**2022-03-14**|**Skydiver: A Spiking Neural Network Accelerator Exploiting Spatio-Temporal Workload Balance**|Qinyu Chen et.al.|[2203.07516v1](http://arxiv.org/abs/2203.07516v1)|null|
@@ -162,5 +163,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20220906>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220907>back to top</a>)</p>
 
