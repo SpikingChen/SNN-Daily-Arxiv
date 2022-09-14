@@ -1,4 +1,4 @@
-## Updated on 2022.09.13
+## Updated on 2022.09.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-13**|**A CMOL-Like Memristor-CMOS Neuromorphic Chip-Core Demonstrating Stochastic Binary STDP**|L. A. Camuñas-Mesa et.al.|[2209.06068v1](http://arxiv.org/abs/2209.06068v1)|null|
 |**2022-09-07**|**Securing the Spike: On the Transferabilty and Security of Spiking Neural Networks to Adversarial Examples**|Nuo Xu et.al.|[2209.03358v1](http://arxiv.org/abs/2209.03358v1)|null|
 |**2022-09-06**|**Bioinspired Smooth Neuromorphic Control for Robotic Arms**|Ioannis Polykretis et.al.|[2209.02787v1](http://arxiv.org/abs/2209.02787v1)|null|
 |**2022-09-02**|**Neuromorphic implementation of ECG anomaly detection using delay chains**|Stefan Gerber et.al.|[2209.01266v1](http://arxiv.org/abs/2209.01266v1)|null|
@@ -38,6 +39,7 @@
 |**2022-07-26**|**SPAIC: A Spike-based Artificial Intelligence Computing Framework**|Chaofei Hong et.al.|[2207.12750v1](http://arxiv.org/abs/2207.12750v1)|**[link](https://github.com/ZhejianglabNCRC/SPAIC)**|
 |**2022-07-25**|**Static Hand Gesture Recognition for American Sign Language using Neuromorphic Hardware**|MohammedReza Mohammadi et.al.|[2207.12559v1](http://arxiv.org/abs/2207.12559v1)|null|
 |**2022-07-24**|**Modeling Associative Plasticity between Synapses to Enhance Learning of Spiking Neural Networks**|Haibo Shen et.al.|[2207.11670v1](http://arxiv.org/abs/2207.11670v1)|null|
+|**2022-09-13**|**Data Augmentation in Temporal and Polar Domains for Event-Based Learning**|Haibo Shen et.al.|[2207.11659v2](http://arxiv.org/abs/2207.11659v2)|null|
 |**2022-07-20**|**A Temporally and Spatially Local Spike-based Backpropagation Algorithm to Enable Training in Hardware**|Anmol Biswas et.al.|[2207.09755v1](http://arxiv.org/abs/2207.09755v1)|null|
 |**2022-07-18**|**BrainCog: A Spiking Neural Network based Brain-inspired Cognitive Intelligence Engine for Brain-inspired AI and Brain Simulation**|Yi Zeng et.al.|[2207.08533v1](http://arxiv.org/abs/2207.08533v1)|null|
 |**2022-07-14**|**Efficient spike encoding algorithms for neuromorphic speech recognition**|Sidi Yaya Arnaud Yarga et.al.|[2207.07073v1](http://arxiv.org/abs/2207.07073v1)|null|
@@ -165,5 +167,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20220913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220914>back to top</a>)</p>
 
