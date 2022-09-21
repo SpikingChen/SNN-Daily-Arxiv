@@ -1,4 +1,4 @@
-## Updated on 2022.09.20
+## Updated on 2022.09.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**A Spiking Neural Network Learning Markov Chain**|Mikhail Kiselev et.al.|[2209.09572v1](http://arxiv.org/abs/2209.09572v1)|null|
 |**2022-09-19**|**Ensembles of Compact, Region-specific & Regularized Spiking Neural Networks for Scalable Place Recognition**|Somayeh Hussaini et.al.|[2209.08723v1](http://arxiv.org/abs/2209.08723v1)|null|
 |**2022-09-15**|**Astromorphic Self-Repair of Neuromorphic Hardware Systems**|Zhuangyu Han et.al.|[2209.07428v1](http://arxiv.org/abs/2209.07428v1)|null|
 |**2022-09-13**|**A CMOL-Like Memristor-CMOS Neuromorphic Chip-Core Demonstrating Stochastic Binary STDP**|L. A. Camuñas-Mesa et.al.|[2209.06068v1](http://arxiv.org/abs/2209.06068v1)|null|
@@ -21,7 +22,7 @@
 |**2022-09-01**|**Characterization and modeling of spiking and bursting in experimental NbOx neuron**|Marie Drouhin et.al.|[2209.00413v1](http://arxiv.org/abs/2209.00413v1)|null|
 |**2022-08-29**|**Bayesian Continual Learning via Spiking Neural Networks**|Nicolas Skatchkovsky et.al.|[2208.13723v1](http://arxiv.org/abs/2208.13723v1)|null|
 |**2022-08-28**|**Scalable Nanophotonic-Electronic Spiking Neural Networks**|Luis El Srouji et.al.|[2208.13144v1](http://arxiv.org/abs/2208.13144v1)|null|
-|**2022-08-30**|**Sub-mW Neuromorphic SNN audio processing applications with Rockpool and Xylo**|Hannah Bos et.al.|[2208.12991v2](http://arxiv.org/abs/2208.12991v2)|null|
+|**2022-09-20**|**Sub-mW Neuromorphic SNN audio processing applications with Rockpool and Xylo**|Hannah Bos et.al.|[2208.12991v3](http://arxiv.org/abs/2208.12991v3)|null|
 |**2022-08-25**|**CMOS-based area-and-power-efficient neuron and synapse circuits for time-domain analog spiking neural networks**|Xiangyu Chen et.al.|[2208.11881v1](http://arxiv.org/abs/2208.11881v1)|null|
 |**2022-08-15**|**Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks**|Jintang Li et.al.|[2208.10364v1](http://arxiv.org/abs/2208.10364v1)|null|
 |**2022-08-17**|**Autocorrelations from emergent bistability in homeostatic spiking neural networks on neuromorphic hardware**|Benjamin Cramer et.al.|[2208.08329v1](http://arxiv.org/abs/2208.08329v1)|null|
@@ -62,7 +63,7 @@
 |**2022-06-17**|**Effects of Neural Heterogeneity on Spiking Neural Network Dynamics**|Richard Gast et.al.|[2206.08813v1](http://arxiv.org/abs/2206.08813v1)|null|
 |**2022-06-17**|**tinySNN: Towards Memory- and Energy-Efficient Spiking Neural Networks**|Rachmad Vidya Wicaksana Putra et.al.|[2206.08656v1](http://arxiv.org/abs/2206.08656v1)|null|
 |**2022-06-13**|**Spiking Neural Networks for Frame-based and Event-based Single Object Localization**|Sami Barchid et.al.|[2206.06506v1](http://arxiv.org/abs/2206.06506v1)|null|
-|**2022-06-10**|**A Synapse-Threshold Synergistic Learning Approach for Spiking Neural Networks**|Hongze Sun et.al.|[2206.06129v1](http://arxiv.org/abs/2206.06129v1)|null|
+|**2022-09-20**|**A Synapse-Threshold Synergistic Learning Approach for Spiking Neural Networks**|Hongze Sun et.al.|[2206.06129v2](http://arxiv.org/abs/2206.06129v2)|null|
 |**2022-06-13**|**Neuromorphic Wireless Cognition: Event-Driven Semantic Communications for Remote Inference**|Jiechen Chen et.al.|[2206.06047v1](http://arxiv.org/abs/2206.06047v1)|null|
 |**2022-06-10**|**A bio-inspired implementation of a sparse-learning spike-based hippocampus memory model**|Daniel Casanueva-Morato et.al.|[2206.04924v1](http://arxiv.org/abs/2206.04924v1)|null|
 |**2022-06-09**|**Biologically Inspired Dynamic Thresholds for Spiking Neural Networks**|Jianchuan Ding et.al.|[2206.04426v1](http://arxiv.org/abs/2206.04426v1)|null|
@@ -169,5 +170,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20220920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20220921>back to top</a>)</p>
 
