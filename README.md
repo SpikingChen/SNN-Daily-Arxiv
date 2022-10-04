@@ -1,4 +1,4 @@
-## Updated on 2022.10.03
+## Updated on 2022.10.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-03**|**Failure of neuron network coherence induced by SARS-CoV-2-infected astrocytes**|Sergey V. Stasenko et.al.|[2210.01014v1](http://arxiv.org/abs/2210.01014v1)|null|
+|**2022-09-30**|**A Novel Explainable Out-of-Distribution Detection Approach for Spiking Neural Networks**|Aitor Martinez Seras et.al.|[2210.00894v1](http://arxiv.org/abs/2210.00894v1)|null|
+|**2022-10-02**|**RISC-V Toolchain and Agile Development based Open-source Neuromorphic Processor**|Jiulong Wang et.al.|[2210.00562v1](http://arxiv.org/abs/2210.00562v1)|null|
 |**2022-09-29**|**Spikformer: When Spiking Neural Network Meets Transformer**|Zhaokun Zhou et.al.|[2209.15425v1](http://arxiv.org/abs/2209.15425v1)|**[link](https://github.com/zk-zhou/spikformer)**|
 |**2022-09-29**|**Evaluating the temporal understanding of neural networks on event-based action recognition with DVS-Gesture-Chain**|Alex Vicente-Sola et.al.|[2209.14915v1](http://arxiv.org/abs/2209.14915v1)|**[link](https://github.com/vicentealex/dvs-gesture-chain)**|
 |**2022-09-28**|**Attention Spiking Neural Networks**|Man Yao et.al.|[2209.13929v1](http://arxiv.org/abs/2209.13929v1)|null|
@@ -50,7 +53,7 @@
 |**2022-07-31**|**Text Classification in Memristor-based Spiking Neural Networks**|Jinqi Huang et.al.|[2207.13729v2](http://arxiv.org/abs/2207.13729v2)|**[link](https://github.com/hjq310/text-classification-in-memristorsnn)**|
 |**2022-07-27**|**Towards the Neuroevolution of Low-level Artificial General Intelligence**|Sidney Pontes-Filho et.al.|[2207.13583v1](http://arxiv.org/abs/2207.13583v1)|**[link](https://github.com/socratesnfr/neat-nagi-python)**|
 |**2022-07-26**|**SPAIC: A Spike-based Artificial Intelligence Computing Framework**|Chaofei Hong et.al.|[2207.12750v1](http://arxiv.org/abs/2207.12750v1)|**[link](https://github.com/ZhejianglabNCRC/SPAIC)**|
-|**2022-09-29**|**Static Hand Gesture Recognition for American Sign Language using Neuromorphic Hardware**|MohammedReza Mohammadi et.al.|[2207.12559v2](http://arxiv.org/abs/2207.12559v2)|null|
+|**2022-10-03**|**Static Hand Gesture Recognition for American Sign Language using Neuromorphic Hardware**|MohammadReza Mohammadi et.al.|[2207.12559v3](http://arxiv.org/abs/2207.12559v3)|null|
 |**2022-07-24**|**Modeling Associative Plasticity between Synapses to Enhance Learning of Spiking Neural Networks**|Haibo Shen et.al.|[2207.11670v1](http://arxiv.org/abs/2207.11670v1)|null|
 |**2022-09-13**|**Data Augmentation in Temporal and Polar Domains for Event-Based Learning**|Haibo Shen et.al.|[2207.11659v2](http://arxiv.org/abs/2207.11659v2)|null|
 |**2022-07-20**|**A Temporally and Spatially Local Spike-based Backpropagation Algorithm to Enable Training in Hardware**|Anmol Biswas et.al.|[2207.09755v1](http://arxiv.org/abs/2207.09755v1)|null|
@@ -180,5 +183,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
 
