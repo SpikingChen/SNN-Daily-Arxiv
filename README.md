@@ -1,4 +1,4 @@
-## Updated on 2022.10.04
+## Updated on 2022.10.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-04**|**In the realm of hybrid Brain: Human Brain and AI**|Hoda Fares et.al.|[2210.01461v1](http://arxiv.org/abs/2210.01461v1)|null|
+|**2022-10-03**|**Event-based Temporally Dense Optical Flow Estimation with Sequential Neural Networks**|Wachirawit Ponghiran et.al.|[2210.01244v1](http://arxiv.org/abs/2210.01244v1)|null|
+|**2022-10-03**|**Learning over time using a neuromorphic adaptive control algorithm for robotic arms**|Lazar Supic et.al.|[2210.01243v1](http://arxiv.org/abs/2210.01243v1)|null|
+|**2022-10-03**|**Efficient Spiking Transformer Enabled By Partial Information**|Ziqing Wang et.al.|[2210.01208v1](http://arxiv.org/abs/2210.01208v1)|null|
 |**2022-10-03**|**Failure of neuron network coherence induced by SARS-CoV-2-infected astrocytes**|Sergey V. Stasenko et.al.|[2210.01014v1](http://arxiv.org/abs/2210.01014v1)|null|
-|**2022-09-30**|**A Novel Explainable Out-of-Distribution Detection Approach for Spiking Neural Networks**|Aitor Martinez Seras et.al.|[2210.00894v1](http://arxiv.org/abs/2210.00894v1)|null|
+|**2022-09-30**|**A Novel Explainable Out-of-Distribution Detection Approach for Spiking Neural Networks**|Aitor Martinez Seras et.al.|[2210.00894v1](http://arxiv.org/abs/2210.00894v1)|**[link](https://github.com/aitor-martinez-seras/ood_on_snns)**|
 |**2022-10-02**|**RISC-V Toolchain and Agile Development based Open-source Neuromorphic Processor**|Jiulong Wang et.al.|[2210.00562v1](http://arxiv.org/abs/2210.00562v1)|null|
 |**2022-09-29**|**Spikformer: When Spiking Neural Network Meets Transformer**|Zhaokun Zhou et.al.|[2209.15425v1](http://arxiv.org/abs/2209.15425v1)|**[link](https://github.com/zk-zhou/spikformer)**|
 |**2022-09-29**|**Evaluating the temporal understanding of neural networks on event-based action recognition with DVS-Gesture-Chain**|Alex Vicente-Sola et.al.|[2209.14915v1](http://arxiv.org/abs/2209.14915v1)|**[link](https://github.com/vicentealex/dvs-gesture-chain)**|
@@ -88,7 +92,7 @@
 |**2022-06-04**|**Low Power Neuromorphic EMG Gesture Classification**|Sai Sukruth Bezugam et.al.|[2206.02061v1](http://arxiv.org/abs/2206.02061v1)|null|
 |**2022-06-07**|**The Spike Gating Flow: A Hierarchical Structure Based Spiking Neural Network for Online Gesture Recognition**|Zihao Zhao et.al.|[2206.01910v2](http://arxiv.org/abs/2206.01910v2)|**[link](https://github.com/ZihaoZhao/SpikeGatingFlow)**|
 |**2022-06-01**|**Spiking Neural Network Equalization on Neuromorphic Hardware for IM/DD Optical Communication**|Elias Arnold et.al.|[2206.00401v1](http://arxiv.org/abs/2206.00401v1)|null|
-|**2022-05-30**|**Braille Letter Reading: A Benchmark for Spatio-Temporal Pattern Recognition on Neuromorphic Hardware**|Simon F Muller-Cleve et.al.|[2205.15864v1](http://arxiv.org/abs/2205.15864v1)|**[link](https://github.com/event-driven-robotics/tactile_braille_reading)**|
+|**2022-10-03**|**Braille Letter Reading: A Benchmark for Spatio-Temporal Pattern Recognition on Neuromorphic Hardware**|Simon F Muller-Cleve et.al.|[2205.15864v2](http://arxiv.org/abs/2205.15864v2)|**[link](https://github.com/event-driven-robotics/tactile_braille_reading)**|
 |**2022-05-30**|**Accelerating spiking neural network training**|Luke Taylor et.al.|[2205.15286v1](http://arxiv.org/abs/2205.15286v1)|**[link](https://github.com/webstorms/fastsnn)**|
 |**2022-05-30**|**Skyrmion-based Leaky Integrate and Fire Neurons for Neuromorphic Applications**|Aijaz H. Lone et.al.|[2205.14913v1](http://arxiv.org/abs/2205.14913v1)|null|
 |**2022-05-28**|**Temporal support vectors for spiking neuronal networks**|Ran Rubin et.al.|[2205.14544v1](http://arxiv.org/abs/2205.14544v1)|null|
@@ -183,5 +187,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
 
