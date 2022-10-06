@@ -1,4 +1,4 @@
-## Updated on 2022.10.05
+## Updated on 2022.10.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-05**|**Neuro-Planner: A 3D Visual Navigation Method for MAV with Depth Camera based on Neuromorphic Reinforcement Learning**|Junjie Jiang et.al.|[2210.02305v1](http://arxiv.org/abs/2210.02305v1)|null|
 |**2022-10-04**|**In the realm of hybrid Brain: Human Brain and AI**|Hoda Fares et.al.|[2210.01461v1](http://arxiv.org/abs/2210.01461v1)|null|
 |**2022-10-03**|**Event-based Temporally Dense Optical Flow Estimation with Sequential Neural Networks**|Wachirawit Ponghiran et.al.|[2210.01244v1](http://arxiv.org/abs/2210.01244v1)|null|
 |**2022-10-03**|**Learning over time using a neuromorphic adaptive control algorithm for robotic arms**|Lazar Supic et.al.|[2210.01243v1](http://arxiv.org/abs/2210.01243v1)|null|
@@ -187,5 +188,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
 
