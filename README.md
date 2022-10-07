@@ -1,4 +1,4 @@
-## Updated on 2022.10.06
+## Updated on 2022.10.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 |**2022-10-03**|**Efficient Spiking Transformer Enabled By Partial Information**|Ziqing Wang et.al.|[2210.01208v1](http://arxiv.org/abs/2210.01208v1)|null|
 |**2022-10-03**|**Failure of neuron network coherence induced by SARS-CoV-2-infected astrocytes**|Sergey V. Stasenko et.al.|[2210.01014v1](http://arxiv.org/abs/2210.01014v1)|null|
 |**2022-09-30**|**A Novel Explainable Out-of-Distribution Detection Approach for Spiking Neural Networks**|Aitor Martinez Seras et.al.|[2210.00894v1](http://arxiv.org/abs/2210.00894v1)|**[link](https://github.com/aitor-martinez-seras/ood_on_snns)**|
-|**2022-10-02**|**RISC-V Toolchain and Agile Development based Open-source Neuromorphic Processor**|Jiulong Wang et.al.|[2210.00562v1](http://arxiv.org/abs/2210.00562v1)|null|
+|**2022-10-06**|**RISC-V Toolchain and Agile Development based Open-source Neuromorphic Processor**|Jiulong Wang et.al.|[2210.00562v2](http://arxiv.org/abs/2210.00562v2)|null|
 |**2022-09-29**|**Spikformer: When Spiking Neural Network Meets Transformer**|Zhaokun Zhou et.al.|[2209.15425v1](http://arxiv.org/abs/2209.15425v1)|**[link](https://github.com/zk-zhou/spikformer)**|
 |**2022-09-29**|**Evaluating the temporal understanding of neural networks on event-based action recognition with DVS-Gesture-Chain**|Alex Vicente-Sola et.al.|[2209.14915v1](http://arxiv.org/abs/2209.14915v1)|**[link](https://github.com/vicentealex/dvs-gesture-chain)**|
 |**2022-09-28**|**Attention Spiking Neural Networks**|Man Yao et.al.|[2209.13929v1](http://arxiv.org/abs/2209.13929v1)|null|
@@ -136,7 +136,7 @@
 |**2022-04-09**|**An Introductory Review of Spiking Neural Network and Artificial Neural Network: From Biological Intelligence to Artificial Intelligence**|Shengjie Zheng et.al.|[2204.07519v1](http://arxiv.org/abs/2204.07519v1)|null|
 |**2022-07-30**|**Recent Advances and New Frontiers in Spiking Neural Networks**|Duzhen Zhang et.al.|[2204.07050v6](http://arxiv.org/abs/2204.07050v6)|**[link](https://github.com/thomasaimondy/CogSNN)**|
 |**2022-04-12**|**A Robust Learning Rule for Soft-Bounded Memristive Synapses Competitive with Supervised Learning in Standard Spiking Neural Networks**|Thomas F. Tiotto et.al.|[2204.05682v1](http://arxiv.org/abs/2204.05682v1)|null|
-|**2022-04-11**|**SATA: Sparsity-Aware Training Accelerator for Spiking Neural Networks**|Ruokai Yin et.al.|[2204.05422v1](http://arxiv.org/abs/2204.05422v1)|null|
+|**2022-10-06**|**SATA: Sparsity-Aware Training Accelerator for Spiking Neural Networks**|Ruokai Yin et.al.|[2204.05422v2](http://arxiv.org/abs/2204.05422v2)|null|
 |**2022-03-26**|**A Spiking Neural Network based on Neural Manifold for Augmenting Intracortical Brain-Computer Interface Data**|Shengjie Zheng et.al.|[2204.05132v1](http://arxiv.org/abs/2204.05132v1)|null|
 |**2022-04-10**|**Analysis of Power-Oriented Fault Injection Attacks on Spiking Neural Networks**|Karthikeyan Nagarajan et.al.|[2204.04768v1](http://arxiv.org/abs/2204.04768v1)|null|
 |**2022-04-09**|**A Spiking Neural Network Structure Implementing Reinforcement Learning**|Mikhail Kiselev et.al.|[2204.04431v1](http://arxiv.org/abs/2204.04431v1)|null|
@@ -188,5 +188,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221007>back to top</a>)</p>
 
