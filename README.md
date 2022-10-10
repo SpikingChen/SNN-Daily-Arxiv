@@ -1,4 +1,4 @@
-## Updated on 2022.10.09
+## Updated on 2022.10.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-06**|**Spiking neural network for nonlinear regression**|Alexander Henkes et.al.|[2210.03515v1](http://arxiv.org/abs/2210.03515v1)|null|
 |**2022-10-05**|**Neuro-Planner: A 3D Visual Navigation Method for MAV with Depth Camera based on Neuromorphic Reinforcement Learning**|Junjie Jiang et.al.|[2210.02305v1](http://arxiv.org/abs/2210.02305v1)|null|
-|**2022-10-04**|**In the realm of hybrid Brain: Human Brain and AI**|Hoda Fares et.al.|[2210.01461v1](http://arxiv.org/abs/2210.01461v1)|null|
+|**2022-10-07**|**In the realm of hybrid Brain: Human Brain and AI**|Hoda Fares et.al.|[2210.01461v2](http://arxiv.org/abs/2210.01461v2)|null|
 |**2022-10-03**|**Event-based Temporally Dense Optical Flow Estimation with Sequential Neural Networks**|Wachirawit Ponghiran et.al.|[2210.01244v1](http://arxiv.org/abs/2210.01244v1)|null|
 |**2022-10-03**|**Learning over time using a neuromorphic adaptive control algorithm for robotic arms**|Lazar Supic et.al.|[2210.01243v1](http://arxiv.org/abs/2210.01243v1)|null|
 |**2022-10-03**|**Efficient Spiking Transformer Enabled By Partial Information**|Ziqing Wang et.al.|[2210.01208v1](http://arxiv.org/abs/2210.01208v1)|null|
@@ -188,5 +189,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221010>back to top</a>)</p>
 
