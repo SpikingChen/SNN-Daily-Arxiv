@@ -1,4 +1,4 @@
-## Updated on 2022.10.10
+## Updated on 2022.10.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-10**|**Training Spiking Neural Networks with Local Tandem Learning**|Qu Yang et.al.|[2210.04532v1](http://arxiv.org/abs/2210.04532v1)|**[link](https://github.com/aries231/local_tandem_learning_rule)**|
+|**2022-10-09**|**Event-Driven Tactile Learning with Various Location Spiking Neurons**|Peng Kang et.al.|[2210.04277v1](http://arxiv.org/abs/2210.04277v1)|null|
+|**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
+|**2022-10-09**|**Online Training Through Time for Spiking Neural Networks**|Mingqing Xiao et.al.|[2210.04195v1](http://arxiv.org/abs/2210.04195v1)|null|
+|**2022-10-07**|**Toward an Over-parameterized Direct-Fit Model of Visual Perception**|Xin Li et.al.|[2210.03850v1](http://arxiv.org/abs/2210.03850v1)|null|
 |**2022-10-06**|**Spiking neural network for nonlinear regression**|Alexander Henkes et.al.|[2210.03515v1](http://arxiv.org/abs/2210.03515v1)|null|
 |**2022-10-05**|**Neuro-Planner: A 3D Visual Navigation Method for MAV with Depth Camera based on Neuromorphic Reinforcement Learning**|Junjie Jiang et.al.|[2210.02305v1](http://arxiv.org/abs/2210.02305v1)|null|
 |**2022-10-07**|**In the realm of hybrid Brain: Human Brain and AI**|Hoda Fares et.al.|[2210.01461v2](http://arxiv.org/abs/2210.01461v2)|null|
@@ -189,5 +194,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221011>back to top</a>)</p>
 
