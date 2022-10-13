@@ -1,4 +1,4 @@
-## Updated on 2022.10.12
+## Updated on 2022.10.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|**[link](https://github.com/langfengq/mlf-dsresnet)**|
+|**2022-10-07**|**An Energy-Efficient Spiking Neural Network for Finger Velocity Decoding for Implantable Brain-Machine Interface**|Jiawei Liao et.al.|[2210.06287v1](http://arxiv.org/abs/2210.06287v1)|null|
+|**2022-10-12**|**The computational and learning benefits of Daleian neural networks**|Adam Haber et.al.|[2210.05961v1](http://arxiv.org/abs/2210.05961v1)|null|
 |**2022-10-11**|**STSC-SNN: Spatio-Temporal Synaptic Connection with Temporal Convolution and Attention for Spiking Neural Networks**|Chengting Yu et.al.|[2210.05241v1](http://arxiv.org/abs/2210.05241v1)|null|
 |**2022-10-10**|**Energy-Efficient Deployment of Machine Learning Workloads on Neuromorphic Hardware**|Peyton Chandarana et.al.|[2210.05006v1](http://arxiv.org/abs/2210.05006v1)|null|
 |**2022-10-10**|**Training Spiking Neural Networks with Local Tandem Learning**|Qu Yang et.al.|[2210.04532v1](http://arxiv.org/abs/2210.04532v1)|**[link](https://github.com/aries231/local_tandem_learning_rule)**|
@@ -102,7 +105,7 @@
 |**2022-06-07**|**The Spike Gating Flow: A Hierarchical Structure Based Spiking Neural Network for Online Gesture Recognition**|Zihao Zhao et.al.|[2206.01910v2](http://arxiv.org/abs/2206.01910v2)|**[link](https://github.com/ZihaoZhao/SpikeGatingFlow)**|
 |**2022-06-01**|**Spiking Neural Network Equalization on Neuromorphic Hardware for IM/DD Optical Communication**|Elias Arnold et.al.|[2206.00401v1](http://arxiv.org/abs/2206.00401v1)|null|
 |**2022-10-03**|**Braille Letter Reading: A Benchmark for Spatio-Temporal Pattern Recognition on Neuromorphic Hardware**|Simon F Muller-Cleve et.al.|[2205.15864v2](http://arxiv.org/abs/2205.15864v2)|**[link](https://github.com/event-driven-robotics/tactile_braille_reading)**|
-|**2022-05-30**|**Accelerating spiking neural network training**|Luke Taylor et.al.|[2205.15286v1](http://arxiv.org/abs/2205.15286v1)|**[link](https://github.com/webstorms/fastsnn)**|
+|**2022-10-11**|**Robust and accelerated single-spike spiking neural network training with applicability to challenging temporal tasks**|Luke Taylor et.al.|[2205.15286v2](http://arxiv.org/abs/2205.15286v2)|**[link](https://github.com/webstorms/fastsnn)**|
 |**2022-05-30**|**Skyrmion-based Leaky Integrate and Fire Neurons for Neuromorphic Applications**|Aijaz H. Lone et.al.|[2205.14913v1](http://arxiv.org/abs/2205.14913v1)|null|
 |**2022-05-28**|**Temporal support vectors for spiking neuronal networks**|Ran Rubin et.al.|[2205.14544v1](http://arxiv.org/abs/2205.14544v1)|null|
 |**2022-05-28**|**Efficient Federated Learning with Spike Neural Networks for Traffic Sign Recognition**|Kan Xie et.al.|[2205.14315v1](http://arxiv.org/abs/2205.14315v1)|null|
@@ -116,7 +119,7 @@
 |**2022-05-23**|**Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity**|Thomas Limbacher et.al.|[2205.11276v1](http://arxiv.org/abs/2205.11276v1)|**[link](https://github.com/igitugraz/memorydependentcomputation)**|
 |**2022-06-22**|**Efficient visual object representation using a biologically plausible spike-latency code and winner-take-all inhibition**|Melani Sanchez-Garcia et.al.|[2205.10338v2](http://arxiv.org/abs/2205.10338v2)|null|
 |**2022-05-20**|**EXODUS: Stable and Efficient Training of Spiking Neural Networks**|Felix Christian Bauer et.al.|[2205.10242v1](http://arxiv.org/abs/2205.10242v1)|**[link](https://github.com/synsense/sinabs-exodus)**|
-|**2022-05-17**|**Function Regression using Spiking DeepONet**|Adar Kahana et.al.|[2205.10130v1](http://arxiv.org/abs/2205.10130v1)|null|
+|**2022-10-12**|**Spiking Neural Operators for Scientific Machine Learning**|Adar Kahana et.al.|[2205.10130v2](http://arxiv.org/abs/2205.10130v2)|null|
 |**2022-05-06**|**Converting Artificial Neural Networks to Spiking Neural Networks via Parameter Calibration**|Yuhang Li et.al.|[2205.10121v1](http://arxiv.org/abs/2205.10121v1)|null|
 |**2022-05-19**|**Spikemax: Spike-based Loss Methods for Classification**|Sumit Bam Shrestha et.al.|[2205.09845v1](http://arxiv.org/abs/2205.09845v1)|null|
 |**2022-05-19**|**Design and Mathematical Modelling of Inter Spike Interval of Temporal Neuromorphic Encoder for Image Recognition**|Aadhitiya VS et.al.|[2205.09519v1](http://arxiv.org/abs/2205.09519v1)|null|
@@ -196,5 +199,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221012>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221013>back to top</a>)</p>
 
