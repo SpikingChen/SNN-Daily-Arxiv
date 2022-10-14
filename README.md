@@ -1,4 +1,4 @@
-## Updated on 2022.10.13
+## Updated on 2022.10.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-13**|**Biologically plausible solutions for spiking networks with efficient coding**|Veronika Koren et.al.|[2210.07069v1](http://arxiv.org/abs/2210.07069v1)|null|
+|**2022-10-13**|**S-JSCC: A Digital Joint Source-Channel Coding Framework based on Spiking Neural Network**|Mengyang Wang et.al.|[2210.06836v1](http://arxiv.org/abs/2210.06836v1)|null|
+|**2022-10-13**|**Real Spike: Learning Real-valued Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2210.06686v1](http://arxiv.org/abs/2210.06686v1)|**[link](https://github.com/yfguo91/Real-Spike)**|
 |**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|**[link](https://github.com/langfengq/mlf-dsresnet)**|
-|**2022-10-07**|**An Energy-Efficient Spiking Neural Network for Finger Velocity Decoding for Implantable Brain-Machine Interface**|Jiawei Liao et.al.|[2210.06287v1](http://arxiv.org/abs/2210.06287v1)|null|
-|**2022-10-12**|**The computational and learning benefits of Daleian neural networks**|Adam Haber et.al.|[2210.05961v1](http://arxiv.org/abs/2210.05961v1)|null|
+|**2022-10-07**|**An Energy-Efficient Spiking Neural Network for Finger Velocity Decoding for Implantable Brain-Machine Interface**|Jiawei Liao et.al.|[2210.06287v1](http://arxiv.org/abs/2210.06287v1)|**[link](https://github.com/liaorichard/snn-for-finger-velocity-ibmi)**|
+|**2022-10-12**|**The computational and learning benefits of Daleian neural networks**|Adam Haber et.al.|[2210.05961v1](http://arxiv.org/abs/2210.05961v1)|**[link](https://github.com/adamhaber/daleian_networks)**|
 |**2022-10-11**|**STSC-SNN: Spatio-Temporal Synaptic Connection with Temporal Convolution and Attention for Spiking Neural Networks**|Chengting Yu et.al.|[2210.05241v1](http://arxiv.org/abs/2210.05241v1)|null|
 |**2022-10-10**|**Energy-Efficient Deployment of Machine Learning Workloads on Neuromorphic Hardware**|Peyton Chandarana et.al.|[2210.05006v1](http://arxiv.org/abs/2210.05006v1)|null|
 |**2022-10-10**|**Training Spiking Neural Networks with Local Tandem Learning**|Qu Yang et.al.|[2210.04532v1](http://arxiv.org/abs/2210.04532v1)|**[link](https://github.com/aries231/local_tandem_learning_rule)**|
@@ -199,5 +202,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221014>back to top</a>)</p>
 
