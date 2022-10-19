@@ -1,4 +1,4 @@
-## Updated on 2022.10.18
+## Updated on 2022.10.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-18**|**The Brain-Inspired Cooperative Shared Control for Brain-Machine Interface**|Shengjie Zheng et.al.|[2210.09531v1](http://arxiv.org/abs/2210.09531v1)|null|
 |**2022-10-13**|**Biologically plausible solutions for spiking networks with efficient coding**|Veronika Koren et.al.|[2210.07069v1](http://arxiv.org/abs/2210.07069v1)|null|
 |**2022-10-13**|**S-JSCC: A Digital Joint Source-Channel Coding Framework based on Spiking Neural Network**|Mengyang Wang et.al.|[2210.06836v1](http://arxiv.org/abs/2210.06836v1)|null|
 |**2022-10-13**|**Real Spike: Learning Real-valued Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2210.06686v1](http://arxiv.org/abs/2210.06686v1)|**[link](https://github.com/yfguo91/Real-Spike)**|
@@ -202,5 +203,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221019>back to top</a>)</p>
 
