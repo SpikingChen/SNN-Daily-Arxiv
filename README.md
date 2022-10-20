@@ -1,4 +1,4 @@
-## Updated on 2022.10.19
+## Updated on 2022.10.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -99,7 +99,7 @@
 |**2022-09-20**|**A Synapse-Threshold Synergistic Learning Approach for Spiking Neural Networks**|Hongze Sun et.al.|[2206.06129v2](http://arxiv.org/abs/2206.06129v2)|null|
 |**2022-06-13**|**Neuromorphic Wireless Cognition: Event-Driven Semantic Communications for Remote Inference**|Jiechen Chen et.al.|[2206.06047v1](http://arxiv.org/abs/2206.06047v1)|null|
 |**2022-06-10**|**A bio-inspired implementation of a sparse-learning spike-based hippocampus memory model**|Daniel Casanueva-Morato et.al.|[2206.04924v1](http://arxiv.org/abs/2206.04924v1)|null|
-|**2022-06-09**|**Biologically Inspired Dynamic Thresholds for Spiking Neural Networks**|Jianchuan Ding et.al.|[2206.04426v1](http://arxiv.org/abs/2206.04426v1)|null|
+|**2022-10-19**|**Biologically Inspired Dynamic Thresholds for Spiking Neural Networks**|Jianchuan Ding et.al.|[2206.04426v2](http://arxiv.org/abs/2206.04426v2)|null|
 |**2022-06-08**|**Construction of a spike-based memory using neural-like logic gates based on Spiking Neural Networks on SpiNNaker**|Alvaro Ayuso-Martinez et.al.|[2206.03957v1](http://arxiv.org/abs/2206.03957v1)|null|
 |**2022-06-08**|**Solving the Spike Feature Information Vanishing Problem in Spiking Deep Q Network with Potential Based Normalization**|Yinqian Sun et.al.|[2206.03654v1](http://arxiv.org/abs/2206.03654v1)|null|
 |**2022-06-06**|**Symbolic Knowledge Structures and Intuitive Knowledge Structures**|Nancy Lynch et.al.|[2206.02932v1](http://arxiv.org/abs/2206.02932v1)|null|
@@ -203,5 +203,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221019>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221020>back to top</a>)</p>
 
