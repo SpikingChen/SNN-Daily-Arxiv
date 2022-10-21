@@ -1,4 +1,4 @@
-## Updated on 2022.10.20
+## Updated on 2022.10.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -108,7 +108,7 @@
 |**2022-06-04**|**Low Power Neuromorphic EMG Gesture Classification**|Sai Sukruth Bezugam et.al.|[2206.02061v1](http://arxiv.org/abs/2206.02061v1)|null|
 |**2022-06-07**|**The Spike Gating Flow: A Hierarchical Structure Based Spiking Neural Network for Online Gesture Recognition**|Zihao Zhao et.al.|[2206.01910v2](http://arxiv.org/abs/2206.01910v2)|**[link](https://github.com/ZihaoZhao/SpikeGatingFlow)**|
 |**2022-06-01**|**Spiking Neural Network Equalization on Neuromorphic Hardware for IM/DD Optical Communication**|Elias Arnold et.al.|[2206.00401v1](http://arxiv.org/abs/2206.00401v1)|null|
-|**2022-10-03**|**Braille Letter Reading: A Benchmark for Spatio-Temporal Pattern Recognition on Neuromorphic Hardware**|Simon F Muller-Cleve et.al.|[2205.15864v2](http://arxiv.org/abs/2205.15864v2)|**[link](https://github.com/event-driven-robotics/tactile_braille_reading)**|
+|**2022-10-19**|**Braille Letter Reading: A Benchmark for Spatio-Temporal Pattern Recognition on Neuromorphic Hardware**|Simon F Muller-Cleve et.al.|[2205.15864v3](http://arxiv.org/abs/2205.15864v3)|**[link](https://github.com/event-driven-robotics/tactile_braille_reading)**|
 |**2022-10-11**|**Robust and accelerated single-spike spiking neural network training with applicability to challenging temporal tasks**|Luke Taylor et.al.|[2205.15286v2](http://arxiv.org/abs/2205.15286v2)|**[link](https://github.com/webstorms/fastsnn)**|
 |**2022-05-30**|**Skyrmion-based Leaky Integrate and Fire Neurons for Neuromorphic Applications**|Aijaz H. Lone et.al.|[2205.14913v1](http://arxiv.org/abs/2205.14913v1)|null|
 |**2022-05-28**|**Temporal support vectors for spiking neuronal networks**|Ran Rubin et.al.|[2205.14544v1](http://arxiv.org/abs/2205.14544v1)|null|
@@ -203,5 +203,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221021>back to top</a>)</p>
 
