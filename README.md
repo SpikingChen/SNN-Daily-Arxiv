@@ -1,4 +1,4 @@
-## Updated on 2022.10.24
+## Updated on 2022.10.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-24**|**An Analytical Estimation of Spiking Neural Networks Energy Efficiency**|Edgar Lemaire et.al.|[2210.13107v1](http://arxiv.org/abs/2210.13107v1)|null|
+|**2022-10-24**|**SpikeSim: An end-to-end Compute-in-Memory Hardware Evaluation Tool for Benchmarking Spiking Neural Networks**|Abhishek Moitra et.al.|[2210.12899v1](http://arxiv.org/abs/2210.12899v1)|**[link](https://github.com/intelligent-computing-lab-yale/quanitzation-aware-snn-training-and-hardware-evaluation-for-imc-architectures)**|
+|**2022-10-23**|**Towards Energy-Efficient, Low-Latency and Accurate Spiking LSTMs**|Gourav Datta et.al.|[2210.12613v1](http://arxiv.org/abs/2210.12613v1)|null|
 |**2022-10-18**|**The Brain-Inspired Cooperative Shared Control for Brain-Machine Interface**|Shengjie Zheng et.al.|[2210.09531v1](http://arxiv.org/abs/2210.09531v1)|null|
-|**2022-10-13**|**Biologically plausible solutions for spiking networks with efficient coding**|Veronika Koren et.al.|[2210.07069v1](http://arxiv.org/abs/2210.07069v1)|null|
+|**2022-10-24**|**Biologically plausible solutions for spiking networks with efficient coding**|Veronika Koren et.al.|[2210.07069v2](http://arxiv.org/abs/2210.07069v2)|null|
 |**2022-10-13**|**S-JSCC: A Digital Joint Source-Channel Coding Framework based on Spiking Neural Network**|Mengyang Wang et.al.|[2210.06836v1](http://arxiv.org/abs/2210.06836v1)|null|
 |**2022-10-13**|**Real Spike: Learning Real-valued Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2210.06686v1](http://arxiv.org/abs/2210.06686v1)|**[link](https://github.com/yfguo91/Real-Spike)**|
 |**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|**[link](https://github.com/langfengq/mlf-dsresnet)**|
@@ -203,5 +206,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221024>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221025>back to top</a>)</p>
 
