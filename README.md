@@ -1,4 +1,4 @@
-## Updated on 2022.10.26
+## Updated on 2022.10.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -29,7 +29,7 @@
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-09**|**Online Training Through Time for Spiking Neural Networks**|Mingqing Xiao et.al.|[2210.04195v1](http://arxiv.org/abs/2210.04195v1)|**[link](https://github.com/pkuxmq/ottt-snn)**|
 |**2022-10-11**|**Toward an Over-parameterized Direct-Fit Model of Visual Perception**|Xin Li et.al.|[2210.03850v2](http://arxiv.org/abs/2210.03850v2)|null|
-|**2022-10-06**|**Spiking neural network for nonlinear regression**|Alexander Henkes et.al.|[2210.03515v1](http://arxiv.org/abs/2210.03515v1)|null|
+|**2022-10-26**|**Spiking neural networks for nonlinear regression**|Alexander Henkes et.al.|[2210.03515v2](http://arxiv.org/abs/2210.03515v2)|null|
 |**2022-10-05**|**Neuro-Planner: A 3D Visual Navigation Method for MAV with Depth Camera based on Neuromorphic Reinforcement Learning**|Junjie Jiang et.al.|[2210.02305v1](http://arxiv.org/abs/2210.02305v1)|null|
 |**2022-10-25**|**In the realm of hybrid Brain: Human Brain and AI**|Hoda Fares et.al.|[2210.01461v3](http://arxiv.org/abs/2210.01461v3)|null|
 |**2022-10-03**|**Event-based Temporally Dense Optical Flow Estimation with Sequential Neural Networks**|Wachirawit Ponghiran et.al.|[2210.01244v1](http://arxiv.org/abs/2210.01244v1)|null|
@@ -207,5 +207,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221027>back to top</a>)</p>
 
