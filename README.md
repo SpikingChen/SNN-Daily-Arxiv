@@ -1,4 +1,4 @@
-## Updated on 2022.11.03
+## Updated on 2022.11.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-24**|**Spiking Variational Graph Auto-Encoders for Efficient Graph Representation Learning**|Hanxuan Yang et.al.|[2211.01952v1](http://arxiv.org/abs/2211.01952v1)|null|
 |**2022-10-31**|**A Faster Approach to Spiking Deep Convolutional Neural Networks**|Shahriar Rezghi Shirsavar et.al.|[2210.17442v1](http://arxiv.org/abs/2210.17442v1)|null|
 |**2022-10-18**|**Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation**|Jane H. Lee et.al.|[2210.15415v1](http://arxiv.org/abs/2210.15415v1)|null|
-|**2022-10-25**|**GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Xingting Yao et.al.|[2210.13768v1](http://arxiv.org/abs/2210.13768v1)|**[link](https://github.com/ikarosy/gated-lif)**|
+|**2022-11-03**|**GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Xingting Yao et.al.|[2210.13768v2](http://arxiv.org/abs/2210.13768v2)|**[link](https://github.com/ikarosy/gated-lif)**|
 |**2022-10-24**|**An Analytical Estimation of Spiking Neural Networks Energy Efficiency**|Edgar Lemaire et.al.|[2210.13107v1](http://arxiv.org/abs/2210.13107v1)|null|
 |**2022-10-24**|**SpikeSim: An end-to-end Compute-in-Memory Hardware Evaluation Tool for Benchmarking Spiking Neural Networks**|Abhishek Moitra et.al.|[2210.12899v1](http://arxiv.org/abs/2210.12899v1)|**[link](https://github.com/intelligent-computing-lab-yale/quanitzation-aware-snn-training-and-hardware-evaluation-for-imc-architectures)**|
 |**2022-10-23**|**Towards Energy-Efficient, Low-Latency and Accurate Spiking LSTMs**|Gourav Datta et.al.|[2210.12613v1](http://arxiv.org/abs/2210.12613v1)|null|
@@ -209,5 +210,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
