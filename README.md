@@ -1,4 +1,4 @@
-## Updated on 2022.11.06
+## Updated on 2022.11.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-04**|**Adversarial Defense via Neural Oscillation inspired Gradient Masking**|Chunming Jiang et.al.|[2211.02223v1](http://arxiv.org/abs/2211.02223v1)|null|
+|**2022-11-03**|**Hardware/Software co-design with ADC-Less In-memory Computing Hardware for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2211.02167v1](http://arxiv.org/abs/2211.02167v1)|null|
 |**2022-10-24**|**Spiking Variational Graph Auto-Encoders for Efficient Graph Representation Learning**|Hanxuan Yang et.al.|[2211.01952v1](http://arxiv.org/abs/2211.01952v1)|null|
 |**2022-10-31**|**A Faster Approach to Spiking Deep Convolutional Neural Networks**|Shahriar Rezghi Shirsavar et.al.|[2210.17442v1](http://arxiv.org/abs/2210.17442v1)|null|
 |**2022-10-18**|**Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation**|Jane H. Lee et.al.|[2210.15415v1](http://arxiv.org/abs/2210.15415v1)|null|
@@ -210,5 +212,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221107>back to top</a>)</p>
 
