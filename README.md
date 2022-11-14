@@ -1,4 +1,4 @@
-## Updated on 2022.11.13
+## Updated on 2022.11.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention**|Hao Zheng et.al.|[2211.06027v1](http://arxiv.org/abs/2211.06027v1)|**[link](https://github.com/monstersecond/dasbe)**|
 |**2022-11-10**|**A noise based novel strategy for faster SNN training**|Chunming Jiang et.al.|[2211.05453v1](http://arxiv.org/abs/2211.05453v1)|null|
 |**2022-11-10**|**Desire Backpropagation: A Lightweight Training Algorithm for Multi-Layer Spiking Neural Networks based on Spike-Timing-Dependent Plasticity**|Daniel Gerlinghoff et.al.|[2211.05412v1](http://arxiv.org/abs/2211.05412v1)|null|
-|**2022-11-09**|**Spiking Neural Network Decision Feedback Equalization**|Eike-Manuel Bansbach et.al.|[2211.04756v1](http://arxiv.org/abs/2211.04756v1)|null|
+|**2022-11-11**|**Spiking Neural Network Decision Feedback Equalization**|Eike-Manuel Bansbach et.al.|[2211.04756v2](http://arxiv.org/abs/2211.04756v2)|null|
 |**2022-09-22**|**Heterogeneous Recurrent Spiking Neural Network for Spatio-Temporal Classification**|Biswadeep Chakraborty et.al.|[2211.04297v1](http://arxiv.org/abs/2211.04297v1)|null|
 |**2022-11-04**|**Adversarial Defense via Neural Oscillation inspired Gradient Masking**|Chunming Jiang et.al.|[2211.02223v1](http://arxiv.org/abs/2211.02223v1)|null|
 |**2022-11-03**|**Hardware/Software co-design with ADC-Less In-memory Computing Hardware for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2211.02167v1](http://arxiv.org/abs/2211.02167v1)|null|
@@ -216,5 +217,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221114>back to top</a>)</p>
 
