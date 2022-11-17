@@ -1,4 +1,4 @@
-## Updated on 2022.11.16
+## Updated on 2022.11.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -14,7 +14,7 @@
 |**2022-10-27**|**Low Latency Conversion of Artificial Neural Network Models to Rate-encoded Spiking Neural Networks**|Zhanglu Yan et.al.|[2211.08410v1](http://arxiv.org/abs/2211.08410v1)|null|
 |**2022-10-27**|**Local learning through propagation delays in spiking neural networks**|Jørgen Jensen Farner et.al.|[2211.08397v1](http://arxiv.org/abs/2211.08397v1)|null|
 |**2022-11-14**|**Impact of spiking neurons leakages and network recurrences on event-based spatio-temporal pattern recognition**|Mohamed Sadek Bouanane et.al.|[2211.07761v1](http://arxiv.org/abs/2211.07761v1)|null|
-|**2022-11-12**|**Motif-topology improved Spiking Neural Network for the Cocktail Party Effect and McGurk Effect**|Shuncheng Jia et.al.|[2211.07641v1](http://arxiv.org/abs/2211.07641v1)|null|
+|**2022-11-12**|**Motif-topology improved Spiking Neural Network for the Cocktail Party Effect and McGurk Effect**|Shuncheng Jia et.al.|[2211.07641v1](http://arxiv.org/abs/2211.07641v1)|**[link](https://github.com/thomasaimondy/motif-snn)**|
 |**2022-11-13**|**NREM and REM: cognitive and energetic effects in thalamo-cortical sleeping and awake spiking model**|Leonardo Tonielli et.al.|[2211.06889v1](http://arxiv.org/abs/2211.06889v1)|null|
 |**2022-11-12**|**Design of Spintronics-based Neuronal and Synaptic Devices for Spiking Neural Network Circuits**|Debasis Das et.al.|[2211.06630v1](http://arxiv.org/abs/2211.06630v1)|null|
 |**2022-11-11**|**Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention**|Hao Zheng et.al.|[2211.06027v1](http://arxiv.org/abs/2211.06027v1)|**[link](https://github.com/monstersecond/dasbe)**|
@@ -223,5 +223,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221117>back to top</a>)</p>
 
