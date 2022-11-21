@@ -1,4 +1,4 @@
-## Updated on 2022.11.20
+## Updated on 2022.11.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-17**|**SMS: Spiking Marching Scheme for Efficient Long Time Integration of Differential Equations**|Qian Zhang et.al.|[2211.09928v1](http://arxiv.org/abs/2211.09928v1)|null|
 |**2022-10-27**|**Low Latency Conversion of Artificial Neural Network Models to Rate-encoded Spiking Neural Networks**|Zhanglu Yan et.al.|[2211.08410v1](http://arxiv.org/abs/2211.08410v1)|null|
 |**2022-10-27**|**Local learning through propagation delays in spiking neural networks**|Jørgen Jensen Farner et.al.|[2211.08397v1](http://arxiv.org/abs/2211.08397v1)|null|
 |**2022-11-14**|**Impact of spiking neurons leakages and network recurrences on event-based spatio-temporal pattern recognition**|Mohamed Sadek Bouanane et.al.|[2211.07761v1](http://arxiv.org/abs/2211.07761v1)|null|
@@ -223,5 +224,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221120>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221121>back to top</a>)</p>
 
