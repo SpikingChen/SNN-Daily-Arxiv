@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-22**|**Photonic Spiking Neural Networks with Highly Efficient Training Protocols for Ultrafast Neuromorphic Computing Systems**|Dafydd Owen-Newns et.al.|[2211.12239v1](http://arxiv.org/abs/2211.12239v1)|null|
+|**2022-11-22**|**Adaptive Sparse Structure Development with Pruning and Regeneration for Spiking Neural Networks**|Bing Han et.al.|[2211.12219v1](http://arxiv.org/abs/2211.12219v1)|null|
+|**2022-11-22**|**MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network**|Xiaoshan Wu et.al.|[2211.12156v1](http://arxiv.org/abs/2211.12156v1)|null|
+|**2022-11-21**|**A Low Latency Adaptive Coding Spiking Framework for Deep Reinforcement Learning**|Lang Qin et.al.|[2211.11760v1](http://arxiv.org/abs/2211.11760v1)|null|
 |**2022-11-19**|**HALSIE - Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities**|Shristi Das Biswas et.al.|[2211.10754v1](http://arxiv.org/abs/2211.10754v1)|null|
 |**2022-11-19**|**Intelligence Processing Units Accelerate Neuromorphic Learning**|Pao-Sheng Vincent Sun et.al.|[2211.10725v1](http://arxiv.org/abs/2211.10725v1)|null|
 |**2022-11-19**|**Spikeformer: A Novel Architecture for Training High-Performance Low-Latency Spiking Neural Network**|Yudong Li et.al.|[2211.10686v1](http://arxiv.org/abs/2211.10686v1)|null|
