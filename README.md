@@ -1,4 +1,4 @@
-## Updated on 2022.11.23
+## Updated on 2022.11.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-23**|**An Adaptive Event-based Data Converter for Always-on Biomedical Applications at the Edge**|Mohammadali Sharifshazileh et.al.|[2211.13102v1](http://arxiv.org/abs/2211.13102v1)|null|
+|**2022-11-23**|**Developmental Plasticity-inspired Adaptive Pruning for Deep Spiking and Artificial Neural Networks**|Bing Han et.al.|[2211.12714v1](http://arxiv.org/abs/2211.12714v1)|null|
 |**2022-11-22**|**Photonic Spiking Neural Networks with Highly Efficient Training Protocols for Ultrafast Neuromorphic Computing Systems**|Dafydd Owen-Newns et.al.|[2211.12239v1](http://arxiv.org/abs/2211.12239v1)|null|
 |**2022-11-22**|**Adaptive Sparse Structure Development with Pruning and Regeneration for Spiking Neural Networks**|Bing Han et.al.|[2211.12219v1](http://arxiv.org/abs/2211.12219v1)|null|
 |**2022-11-22**|**MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network**|Xiaoshan Wu et.al.|[2211.12156v1](http://arxiv.org/abs/2211.12156v1)|null|
 |**2022-11-21**|**A Low Latency Adaptive Coding Spiking Framework for Deep Reinforcement Learning**|Lang Qin et.al.|[2211.11760v1](http://arxiv.org/abs/2211.11760v1)|null|
-|**2022-11-19**|**HALSIE - Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities**|Shristi Das Biswas et.al.|[2211.10754v1](http://arxiv.org/abs/2211.10754v1)|null|
+|**2022-11-22**|**HALSIE -- Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities**|Shristi Das Biswas et.al.|[2211.10754v2](http://arxiv.org/abs/2211.10754v2)|null|
 |**2022-11-19**|**Intelligence Processing Units Accelerate Neuromorphic Learning**|Pao-Sheng Vincent Sun et.al.|[2211.10725v1](http://arxiv.org/abs/2211.10725v1)|null|
 |**2022-11-19**|**Spikeformer: A Novel Architecture for Training High-Performance Low-Latency Spiking Neural Network**|Yudong Li et.al.|[2211.10686v1](http://arxiv.org/abs/2211.10686v1)|null|
 |**2022-11-17**|**SMS: Spiking Marching Scheme for Efficient Long Time Integration of Differential Equations**|Qian Zhang et.al.|[2211.09928v1](http://arxiv.org/abs/2211.09928v1)|null|
@@ -47,7 +49,7 @@
 |**2022-10-07**|**An Energy-Efficient Spiking Neural Network for Finger Velocity Decoding for Implantable Brain-Machine Interface**|Jiawei Liao et.al.|[2210.06287v1](http://arxiv.org/abs/2210.06287v1)|**[link](https://github.com/liaorichard/snn-for-finger-velocity-ibmi)**|
 |**2022-10-12**|**The computational and learning benefits of Daleian neural networks**|Adam Haber et.al.|[2210.05961v1](http://arxiv.org/abs/2210.05961v1)|**[link](https://github.com/adamhaber/daleian_networks)**|
 |**2022-10-11**|**STSC-SNN: Spatio-Temporal Synaptic Connection with Temporal Convolution and Attention for Spiking Neural Networks**|Chengting Yu et.al.|[2210.05241v1](http://arxiv.org/abs/2210.05241v1)|null|
-|**2022-10-10**|**Energy-Efficient Deployment of Machine Learning Workloads on Neuromorphic Hardware**|Peyton Chandarana et.al.|[2210.05006v1](http://arxiv.org/abs/2210.05006v1)|null|
+|**2022-11-22**|**Energy-Efficient Deployment of Machine Learning Workloads on Neuromorphic Hardware**|Peyton Chandarana et.al.|[2210.05006v2](http://arxiv.org/abs/2210.05006v2)|null|
 |**2022-10-10**|**Training Spiking Neural Networks with Local Tandem Learning**|Qu Yang et.al.|[2210.04532v1](http://arxiv.org/abs/2210.04532v1)|**[link](https://github.com/aries231/local_tandem_learning_rule)**|
 |**2022-10-11**|**Event-Driven Tactile Learning with Various Location Spiking Neurons**|Peng Kang et.al.|[2210.04277v2](http://arxiv.org/abs/2210.04277v2)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
@@ -231,5 +233,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221124>back to top</a>)</p>
 
