@@ -1,4 +1,4 @@
-## Updated on 2022.11.29
+## Updated on 2022.11.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-29**|**Timing-Based Backpropagation in Spiking Neural Networks Without Single-Spike Restrictions**|Kakei Yamamoto et.al.|[2211.16113v1](http://arxiv.org/abs/2211.16113v1)|null|
 |**2022-11-24**|**PC-SNN: Supervised Learning with Local Hebbian Synaptic Plasticity based on Predictive Coding in Spiking Neural Networks**|Mengting Lan et.al.|[2211.15386v1](http://arxiv.org/abs/2211.15386v1)|null|
 |**2022-11-26**|**Game Theoretic Mixed Experts for Combinational Adversarial Machine Learning**|Ethan Rathbun et.al.|[2211.14669v1](http://arxiv.org/abs/2211.14669v1)|null|
 |**2022-11-26**|**Exploring Temporal Information Dynamics in Spiking Neural Networks**|Youngeun Kim et.al.|[2211.14406v1](http://arxiv.org/abs/2211.14406v1)|**[link](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks)**|
@@ -237,5 +238,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221130>back to top</a>)</p>
 
