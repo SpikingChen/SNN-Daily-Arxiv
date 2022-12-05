@@ -1,4 +1,4 @@
-## Updated on 2022.12.04
+## Updated on 2022.12.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-02**|**Bio-realistic and versatile artificial dendrites made of anti-ambipolar transistors**|Yifei Yang et.al.|[2212.01277v1](http://arxiv.org/abs/2212.01277v1)|null|
+|**2022-12-02**|**Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks**|Thomas Nowotny et.al.|[2212.01232v1](http://arxiv.org/abs/2212.01232v1)|null|
+|**2022-12-01**|**Surrogate Gradient Spiking Neural Networks as Encoders for Large Vocabulary Continuous Speech Recognition**|Alexandre Bittar et.al.|[2212.01187v1](http://arxiv.org/abs/2212.01187v1)|null|
 |**2022-11-30**|**Efficient multi-scale representation of visual objects using a biologically plausible spike-latency code and winner-take-all inhibition**|Melani Sanchez-Garcia et.al.|[2212.00081v1](http://arxiv.org/abs/2212.00081v1)|null|
 |**2022-11-29**|**Sequence learning in a spiking neuronal network with memristive synapses**|Younes Bouhadjar et.al.|[2211.16592v1](http://arxiv.org/abs/2211.16592v1)|null|
 |**2022-11-29**|**Timing-Based Backpropagation in Spiking Neural Networks Without Single-Spike Restrictions**|Kakei Yamamoto et.al.|[2211.16113v1](http://arxiv.org/abs/2211.16113v1)|null|
@@ -240,5 +243,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
 
