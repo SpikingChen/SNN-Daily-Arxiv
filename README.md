@@ -1,4 +1,4 @@
-## Updated on 2022.12.05
+## Updated on 2022.12.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-13**|**Review of medical data analysis based on spiking neural networks**|X. Li et.al.|[2212.02234v1](http://arxiv.org/abs/2212.02234v1)|null|
+|**2022-11-14**|**Wearable-based Human Activity Recognition with Spatio-Temporal Spiking Neural Networks**|Yuhang Li et.al.|[2212.02233v1](http://arxiv.org/abs/2212.02233v1)|null|
+|**2022-12-05**|**Learning to See Through with Events**|Lei Yu et.al.|[2212.02219v1](http://arxiv.org/abs/2212.02219v1)|null|
+|**2022-12-03**|**THOR -- A Neuromorphic Processor with 7.29G TSOP$^2$/mm$^2$Js Energy-Throughput Efficiency**|Mayank Senapati et.al.|[2212.01696v1](http://arxiv.org/abs/2212.01696v1)|null|
 |**2022-12-02**|**Bio-realistic and versatile artificial dendrites made of anti-ambipolar transistors**|Yifei Yang et.al.|[2212.01277v1](http://arxiv.org/abs/2212.01277v1)|null|
 |**2022-12-02**|**Loss shaping enhances exact gradient learning with EventProp in Spiking Neural Networks**|Thomas Nowotny et.al.|[2212.01232v1](http://arxiv.org/abs/2212.01232v1)|null|
 |**2022-12-01**|**Surrogate Gradient Spiking Neural Networks as Encoders for Large Vocabulary Continuous Speech Recognition**|Alexandre Bittar et.al.|[2212.01187v1](http://arxiv.org/abs/2212.01187v1)|null|
@@ -86,7 +90,7 @@
 |**2022-09-22**|**A Spatial-channel-temporal-fused Attention for Spiking Neural Networks**|Wuque Cai et.al.|[2209.10837v1](http://arxiv.org/abs/2209.10837v1)|null|
 |**2022-09-20**|**A Spiking Neural Network Learning Markov Chain**|Mikhail Kiselev et.al.|[2209.09572v1](http://arxiv.org/abs/2209.09572v1)|null|
 |**2022-09-19**|**Ensembles of Compact, Region-specific & Regularized Spiking Neural Networks for Scalable Place Recognition**|Somayeh Hussaini et.al.|[2209.08723v1](http://arxiv.org/abs/2209.08723v1)|null|
-|**2022-09-15**|**Astromorphic Self-Repair of Neuromorphic Hardware Systems**|Zhuangyu Han et.al.|[2209.07428v1](http://arxiv.org/abs/2209.07428v1)|null|
+|**2022-12-02**|**Astromorphic Self-Repair of Neuromorphic Hardware Systems**|Zhuangyu Han et.al.|[2209.07428v2](http://arxiv.org/abs/2209.07428v2)|**[link](https://github.com/NeuroCompLab-psu/Astromorphic_Self_Repair)**|
 |**2022-09-13**|**A CMOL-Like Memristor-CMOS Neuromorphic Chip-Core Demonstrating Stochastic Binary STDP**|L. A. Camuñas-Mesa et.al.|[2209.06068v1](http://arxiv.org/abs/2209.06068v1)|null|
 |**2022-09-07**|**Securing the Spike: On the Transferabilty and Security of Spiking Neural Networks to Adversarial Examples**|Nuo Xu et.al.|[2209.03358v1](http://arxiv.org/abs/2209.03358v1)|null|
 |**2022-09-06**|**Bioinspired Smooth Neuromorphic Control for Robotic Arms**|Ioannis Polykretis et.al.|[2209.02787v1](http://arxiv.org/abs/2209.02787v1)|null|
@@ -243,5 +247,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221206>back to top</a>)</p>
 
