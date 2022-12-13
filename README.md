@@ -1,4 +1,4 @@
-## Updated on 2022.12.12
+## Updated on 2022.12.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 |**2022-12-08**|**Models Developed for Spiking Neural Networks**|Shahriar Rezghi Shirsavar et.al.|[2212.04377v1](http://arxiv.org/abs/2212.04377v1)|null|
 |**2022-11-13**|**Review of medical data analysis based on spiking neural networks**|X. Li et.al.|[2212.02234v1](http://arxiv.org/abs/2212.02234v1)|null|
-|**2022-11-14**|**Wearable-based Human Activity Recognition with Spatio-Temporal Spiking Neural Networks**|Yuhang Li et.al.|[2212.02233v1](http://arxiv.org/abs/2212.02233v1)|null|
+|**2022-11-14**|**Wearable-based Human Activity Recognition with Spatio-Temporal Spiking Neural Networks**|Yuhang Li et.al.|[2212.02233v1](http://arxiv.org/abs/2212.02233v1)|**[link](https://github.com/intelligent-computing-lab-yale/snn_har)**|
 |**2022-12-05**|**Learning to See Through with Events**|Lei Yu et.al.|[2212.02219v1](http://arxiv.org/abs/2212.02219v1)|null|
 |**2022-12-03**|**THOR -- A Neuromorphic Processor with 7.29G TSOP$^2$/mm$^2$Js Energy-Throughput Efficiency**|Mayank Senapati et.al.|[2212.01696v1](http://arxiv.org/abs/2212.01696v1)|null|
 |**2022-12-02**|**Bio-realistic and versatile artificial dendrites made of anti-ambipolar transistors**|Yifei Yang et.al.|[2212.01277v1](http://arxiv.org/abs/2212.01277v1)|null|
@@ -248,5 +248,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221213>back to top</a>)</p>
 
