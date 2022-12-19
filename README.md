@@ -1,4 +1,4 @@
-## Updated on 2022.12.18
+## Updated on 2022.12.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -203,7 +203,7 @@
 |**2022-04-09**|**CMOS Circuit Implementation of Spiking Neural Network for Pattern Recognition Using On-chip Unsupervised STDP Learning**|Sahibia Kaur Vohra et.al.|[2204.04430v1](http://arxiv.org/abs/2204.04430v1)|null|
 |**2022-04-07**|**Analytic Investigation for Spatio-temporal Patterns Propagation in Spiking Neural Networks**|Ning Hua et.al.|[2204.03150v1](http://arxiv.org/abs/2204.03150v1)|null|
 |**2022-04-05**|**Collective control of modular soft robots via embodied Spiking Neural Cellular Automata**|Giorgia Nadizar et.al.|[2204.02099v1](http://arxiv.org/abs/2204.02099v1)|**[link](https://github.com/giorgia-nadizar/vsrcollectivecontrolviasnca)**|
-|**2022-04-04**|**Forward Signal Propagation Learning**|Adam Kohan et.al.|[2204.01723v1](http://arxiv.org/abs/2204.01723v1)|null|
+|**2022-11-17**|**Signal Propagation: A Framework for Learning and Inference In a Forward Pass**|Adam Kohan et.al.|[2204.01723v2](http://arxiv.org/abs/2204.01723v2)|null|
 |**2022-04-29**|**Mesoscopic description of hippocampal replay and metastability in spiking neural networks with short-term plasticity**|Bastian Pietras et.al.|[2204.01675v2](http://arxiv.org/abs/2204.01675v2)|null|
 |**2022-04-04**|**Optimizing the Consumption of Spiking Neural Networks with Activity Regularization**|Simon Narduzzi et.al.|[2204.01460v1](http://arxiv.org/abs/2204.01460v1)|null|
 |**2022-04-01**|**Deep Learning in Spiking Phasor Neural Networks**|Connor Bybee et.al.|[2204.00507v1](http://arxiv.org/abs/2204.00507v1)|null|
@@ -248,5 +248,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221219>back to top</a>)</p>
 
