@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-16**|**Emergent communication enhances foraging behaviour in evolved swarms controlled by Spiking Neural Networks**|Cristian Jimenez Romero et.al.|[2212.08484v1](http://arxiv.org/abs/2212.08484v1)|null|
 |**2022-12-08**|**Models Developed for Spiking Neural Networks**|Shahriar Rezghi Shirsavar et.al.|[2212.04377v1](http://arxiv.org/abs/2212.04377v1)|null|
 |**2022-11-13**|**Review of medical data analysis based on spiking neural networks**|X. Li et.al.|[2212.02234v1](http://arxiv.org/abs/2212.02234v1)|null|
 |**2022-11-14**|**Wearable-based Human Activity Recognition with Spatio-Temporal Spiking Neural Networks**|Yuhang Li et.al.|[2212.02233v1](http://arxiv.org/abs/2212.02233v1)|**[link](https://github.com/intelligent-computing-lab-yale/snn_har)**|
