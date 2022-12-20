@@ -1,4 +1,4 @@
-## Updated on 2022.12.19
+## Updated on 2022.12.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-15**|**Exact Error Backpropagation Through Spikes for Precise Training of Spiking Neural Networks**|Florian Bacho et.al.|[2212.09500v1](http://arxiv.org/abs/2212.09500v1)|**[link](https://github.com/florian-bacho/bats)**|
 |**2022-12-16**|**Emergent communication enhances foraging behaviour in evolved swarms controlled by Spiking Neural Networks**|Cristian Jimenez Romero et.al.|[2212.08484v1](http://arxiv.org/abs/2212.08484v1)|null|
 |**2022-12-08**|**Models Developed for Spiking Neural Networks**|Shahriar Rezghi Shirsavar et.al.|[2212.04377v1](http://arxiv.org/abs/2212.04377v1)|null|
 |**2022-11-13**|**Review of medical data analysis based on spiking neural networks**|X. Li et.al.|[2212.02234v1](http://arxiv.org/abs/2212.02234v1)|null|
@@ -67,7 +68,7 @@
 |**2022-10-11**|**STSC-SNN: Spatio-Temporal Synaptic Connection with Temporal Convolution and Attention for Spiking Neural Networks**|Chengting Yu et.al.|[2210.05241v1](http://arxiv.org/abs/2210.05241v1)|null|
 |**2022-11-22**|**Energy-Efficient Deployment of Machine Learning Workloads on Neuromorphic Hardware**|Peyton Chandarana et.al.|[2210.05006v2](http://arxiv.org/abs/2210.05006v2)|null|
 |**2022-10-10**|**Training Spiking Neural Networks with Local Tandem Learning**|Qu Yang et.al.|[2210.04532v1](http://arxiv.org/abs/2210.04532v1)|**[link](https://github.com/aries231/local_tandem_learning_rule)**|
-|**2022-10-11**|**Event-Driven Tactile Learning with Various Location Spiking Neurons**|Peng Kang et.al.|[2210.04277v2](http://arxiv.org/abs/2210.04277v2)|null|
+|**2022-12-19**|**Boost Event-Driven Tactile Learning with Location Spiking Neurons**|Peng Kang et.al.|[2210.04277v3](http://arxiv.org/abs/2210.04277v3)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-09**|**Online Training Through Time for Spiking Neural Networks**|Mingqing Xiao et.al.|[2210.04195v1](http://arxiv.org/abs/2210.04195v1)|**[link](https://github.com/pkuxmq/ottt-snn)**|
 |**2022-10-11**|**Toward an Over-parameterized Direct-Fit Model of Visual Perception**|Xin Li et.al.|[2210.03850v2](http://arxiv.org/abs/2210.03850v2)|null|
@@ -197,7 +198,7 @@
 |**2022-04-09**|**An Introductory Review of Spiking Neural Network and Artificial Neural Network: From Biological Intelligence to Artificial Intelligence**|Shengjie Zheng et.al.|[2204.07519v1](http://arxiv.org/abs/2204.07519v1)|null|
 |**2022-07-30**|**Recent Advances and New Frontiers in Spiking Neural Networks**|Duzhen Zhang et.al.|[2204.07050v6](http://arxiv.org/abs/2204.07050v6)|**[link](https://github.com/thomasaimondy/CogSNN)**|
 |**2022-04-12**|**A Robust Learning Rule for Soft-Bounded Memristive Synapses Competitive with Supervised Learning in Standard Spiking Neural Networks**|Thomas F. Tiotto et.al.|[2204.05682v1](http://arxiv.org/abs/2204.05682v1)|null|
-|**2022-10-06**|**SATA: Sparsity-Aware Training Accelerator for Spiking Neural Networks**|Ruokai Yin et.al.|[2204.05422v2](http://arxiv.org/abs/2204.05422v2)|null|
+|**2022-12-19**|**SATA: Sparsity-Aware Training Accelerator for Spiking Neural Networks**|Ruokai Yin et.al.|[2204.05422v3](http://arxiv.org/abs/2204.05422v3)|**[link](https://github.com/ruokaiyin/sata_sim)**|
 |**2022-03-26**|**A Spiking Neural Network based on Neural Manifold for Augmenting Intracortical Brain-Computer Interface Data**|Shengjie Zheng et.al.|[2204.05132v1](http://arxiv.org/abs/2204.05132v1)|null|
 |**2022-04-10**|**Analysis of Power-Oriented Fault Injection Attacks on Spiking Neural Networks**|Karthikeyan Nagarajan et.al.|[2204.04768v1](http://arxiv.org/abs/2204.04768v1)|null|
 |**2022-04-09**|**A Spiking Neural Network Structure Implementing Reinforcement Learning**|Mikhail Kiselev et.al.|[2204.04431v1](http://arxiv.org/abs/2204.04431v1)|null|
@@ -249,5 +250,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221220>back to top</a>)</p>
 
