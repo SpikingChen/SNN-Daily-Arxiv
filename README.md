@@ -1,4 +1,4 @@
-## Updated on 2022.12.21
+## Updated on 2022.12.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-21**|**In-Sensor & Neuromorphic Computing are all you need for Energy Efficient Computer Vision**|Gourav Datta et.al.|[2212.10881v1](http://arxiv.org/abs/2212.10881v1)|null|
 |**2022-12-20**|**Hoyer regularizer is all you need for ultra low-latency spiking neural networks**|Gourav Datta et.al.|[2212.10170v1](http://arxiv.org/abs/2212.10170v1)|null|
 |**2022-12-15**|**Exact Error Backpropagation Through Spikes for Precise Training of Spiking Neural Networks**|Florian Bacho et.al.|[2212.09500v1](http://arxiv.org/abs/2212.09500v1)|**[link](https://github.com/florian-bacho/bats)**|
 |**2022-12-16**|**Emergent communication enhances foraging behaviour in evolved swarms controlled by Spiking Neural Networks**|Cristian Jimenez Romero et.al.|[2212.08484v1](http://arxiv.org/abs/2212.08484v1)|null|
@@ -173,6 +174,7 @@
 |**2022-05-20**|**EXODUS: Stable and Efficient Training of Spiking Neural Networks**|Felix Christian Bauer et.al.|[2205.10242v1](http://arxiv.org/abs/2205.10242v1)|**[link](https://github.com/synsense/sinabs-exodus)**|
 |**2022-10-12**|**Spiking Neural Operators for Scientific Machine Learning**|Adar Kahana et.al.|[2205.10130v2](http://arxiv.org/abs/2205.10130v2)|null|
 |**2022-05-06**|**Converting Artificial Neural Networks to Spiking Neural Networks via Parameter Calibration**|Yuhang Li et.al.|[2205.10121v1](http://arxiv.org/abs/2205.10121v1)|null|
+|**2022-12-21**|**Towards biologically plausible Dreaming and Planning in recurrent spiking networks**|Cristiano Capone et.al.|[2205.10044v2](http://arxiv.org/abs/2205.10044v2)|null|
 |**2022-05-19**|**Spikemax: Spike-based Loss Methods for Classification**|Sumit Bam Shrestha et.al.|[2205.09845v1](http://arxiv.org/abs/2205.09845v1)|null|
 |**2022-05-19**|**Design and Mathematical Modelling of Inter Spike Interval of Temporal Neuromorphic Encoder for Image Recognition**|Aadhitiya VS et.al.|[2205.09519v1](http://arxiv.org/abs/2205.09519v1)|null|
 |**2022-05-18**|**Relational representation learning with spike trains**|Dominik Dold et.al.|[2205.09140v1](http://arxiv.org/abs/2205.09140v1)|null|
@@ -251,5 +253,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221222>back to top</a>)</p>
 
