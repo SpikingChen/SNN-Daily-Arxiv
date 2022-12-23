@@ -1,4 +1,4 @@
-## Updated on 2022.12.22
+## Updated on 2022.12.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-22**|**Fast Exploration of the Impact of Precision Reduction on Spiking Neural Networks**|Sepide Saeedi et.al.|[2212.11782v1](http://arxiv.org/abs/2212.11782v1)|null|
 |**2022-12-21**|**In-Sensor & Neuromorphic Computing are all you need for Energy Efficient Computer Vision**|Gourav Datta et.al.|[2212.10881v1](http://arxiv.org/abs/2212.10881v1)|null|
 |**2022-12-20**|**Hoyer regularizer is all you need for ultra low-latency spiking neural networks**|Gourav Datta et.al.|[2212.10170v1](http://arxiv.org/abs/2212.10170v1)|null|
 |**2022-12-15**|**Exact Error Backpropagation Through Spikes for Precise Training of Spiking Neural Networks**|Florian Bacho et.al.|[2212.09500v1](http://arxiv.org/abs/2212.09500v1)|**[link](https://github.com/florian-bacho/bats)**|
@@ -253,5 +254,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221223>back to top</a>)</p>
 
