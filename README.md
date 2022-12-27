@@ -1,4 +1,4 @@
-## Updated on 2022.12.26
+## Updated on 2022.12.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-25**|**Sitting Posture Recognition Using a Spiking Neural Network**|Jianquan Wang et.al.|[2212.12908v1](http://arxiv.org/abs/2212.12908v1)|null|
+|**2022-12-25**|**Closed-form control with spike coding networks**|Filip S. Slijkhuis et.al.|[2212.12887v1](http://arxiv.org/abs/2212.12887v1)|**[link](https://github.com/fsslijkhuis/scn_estimation_and_control)**|
+|**2022-12-24**|**Mantis: Enabling Energy-Efficient Autonomous Mobile Agents with Spiking Neural Networks**|Rachmad Vidya Wicaksana Putra et.al.|[2212.12620v1](http://arxiv.org/abs/2212.12620v1)|null|
 |**2022-12-23**|**An Exact Mapping From ReLU Networks to Spiking Neural Networks**|Ana Stanojevic et.al.|[2212.12522v1](http://arxiv.org/abs/2212.12522v1)|null|
 |**2022-12-23**|**hxtorch.snn: Machine-learning-inspired Spiking Neural Network Modeling on BrainScaleS-2**|Philipp Spilger et.al.|[2212.12210v1](http://arxiv.org/abs/2212.12210v1)|null|
 |**2022-11-22**|**Fast Exploration of the Impact of Precision Reduction on Spiking Neural Networks**|Sepide Saeedi et.al.|[2212.11782v1](http://arxiv.org/abs/2212.11782v1)|null|
@@ -256,5 +259,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221227>back to top</a>)</p>
 
