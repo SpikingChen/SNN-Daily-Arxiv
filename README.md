@@ -1,4 +1,4 @@
-## Updated on 2023.01.03
+## Updated on 2023.01.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -50,7 +50,7 @@
 |**2022-10-27**|**Local learning through propagation delays in spiking neural networks**|Jørgen Jensen Farner et.al.|[2211.08397v1](http://arxiv.org/abs/2211.08397v1)|null|
 |**2022-11-14**|**Impact of spiking neurons leakages and network recurrences on event-based spatio-temporal pattern recognition**|Mohamed Sadek Bouanane et.al.|[2211.07761v1](http://arxiv.org/abs/2211.07761v1)|null|
 |**2022-11-12**|**Motif-topology improved Spiking Neural Network for the Cocktail Party Effect and McGurk Effect**|Shuncheng Jia et.al.|[2211.07641v1](http://arxiv.org/abs/2211.07641v1)|**[link](https://github.com/thomasaimondy/motif-snn)**|
-|**2022-11-13**|**NREM and REM: cognitive and energetic effects in thalamo-cortical sleeping and awake spiking model**|Leonardo Tonielli et.al.|[2211.06889v1](http://arxiv.org/abs/2211.06889v1)|null|
+|**2023-01-03**|**NREM and REM: cognitive and energetic gains in thalamo-cortical sleeping and awake spiking model**|Chiara De Luca et.al.|[2211.06889v2](http://arxiv.org/abs/2211.06889v2)|null|
 |**2022-11-12**|**Design of Spintronics-based Neuronal and Synaptic Devices for Spiking Neural Network Circuits**|Debasis Das et.al.|[2211.06630v1](http://arxiv.org/abs/2211.06630v1)|null|
 |**2022-11-11**|**Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention**|Hao Zheng et.al.|[2211.06027v1](http://arxiv.org/abs/2211.06027v1)|**[link](https://github.com/monstersecond/dasbe)**|
 |**2022-11-10**|**A noise based novel strategy for faster SNN training**|Chunming Jiang et.al.|[2211.05453v1](http://arxiv.org/abs/2211.05453v1)|null|
@@ -68,7 +68,7 @@
 |**2022-10-23**|**Towards Energy-Efficient, Low-Latency and Accurate Spiking LSTMs**|Gourav Datta et.al.|[2210.12613v1](http://arxiv.org/abs/2210.12613v1)|null|
 |**2022-10-18**|**The Brain-Inspired Cooperative Shared Control for Brain-Machine Interface**|Shengjie Zheng et.al.|[2210.09531v1](http://arxiv.org/abs/2210.09531v1)|null|
 |**2022-10-24**|**Biologically plausible solutions for spiking networks with efficient coding**|Veronika Koren et.al.|[2210.07069v2](http://arxiv.org/abs/2210.07069v2)|null|
-|**2022-10-13**|**S-JSCC: A Digital Joint Source-Channel Coding Framework based on Spiking Neural Network**|Mengyang Wang et.al.|[2210.06836v1](http://arxiv.org/abs/2210.06836v1)|null|
+|**2023-01-03**|**SNN-SC: A Spiking Semantic Communication Framework for Classification**|Mengyang Wang et.al.|[2210.06836v2](http://arxiv.org/abs/2210.06836v2)|null|
 |**2022-10-13**|**Real Spike: Learning Real-valued Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2210.06686v1](http://arxiv.org/abs/2210.06686v1)|**[link](https://github.com/yfguo91/Real-Spike)**|
 |**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|**[link](https://github.com/langfengq/mlf-dsresnet)**|
 |**2022-10-07**|**An Energy-Efficient Spiking Neural Network for Finger Velocity Decoding for Implantable Brain-Machine Interface**|Jiawei Liao et.al.|[2210.06287v1](http://arxiv.org/abs/2210.06287v1)|**[link](https://github.com/liaorichard/snn-for-finger-velocity-ibmi)**|
@@ -259,5 +259,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230104>back to top</a>)</p>
 
