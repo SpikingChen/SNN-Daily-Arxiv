@@ -1,4 +1,4 @@
-## Updated on 2023.01.05
+## Updated on 2023.01.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-05**|**FireFly: A High-Throughput and Reconfigurable Hardware Accelerator for Spiking Neural Networks**|Jindong Li et.al.|[2301.01905v1](http://arxiv.org/abs/2301.01905v1)|null|
 |**2022-12-25**|**Sitting Posture Recognition Using a Spiking Neural Network**|Jianquan Wang et.al.|[2212.12908v1](http://arxiv.org/abs/2212.12908v1)|null|
 |**2022-12-25**|**Closed-form control with spike coding networks**|Filip S. Slijkhuis et.al.|[2212.12887v1](http://arxiv.org/abs/2212.12887v1)|**[link](https://github.com/fsslijkhuis/scn_estimation_and_control)**|
 |**2022-12-24**|**Mantis: Enabling Energy-Efficient Autonomous Mobile Agents with Spiking Neural Networks**|Rachmad Vidya Wicaksana Putra et.al.|[2212.12620v1](http://arxiv.org/abs/2212.12620v1)|null|
@@ -259,5 +260,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230106>back to top</a>)</p>
 
