@@ -1,4 +1,4 @@
-## Updated on 2023.01.09
+## Updated on 2023.01.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -153,7 +153,7 @@
 |**2022-06-17**|**tinySNN: Towards Memory- and Energy-Efficient Spiking Neural Networks**|Rachmad Vidya Wicaksana Putra et.al.|[2206.08656v1](http://arxiv.org/abs/2206.08656v1)|null|
 |**2022-06-13**|**Spiking Neural Networks for Frame-based and Event-based Single Object Localization**|Sami Barchid et.al.|[2206.06506v1](http://arxiv.org/abs/2206.06506v1)|null|
 |**2022-09-20**|**A Synapse-Threshold Synergistic Learning Approach for Spiking Neural Networks**|Hongze Sun et.al.|[2206.06129v2](http://arxiv.org/abs/2206.06129v2)|null|
-|**2022-06-13**|**Neuromorphic Wireless Cognition: Event-Driven Semantic Communications for Remote Inference**|Jiechen Chen et.al.|[2206.06047v1](http://arxiv.org/abs/2206.06047v1)|null|
+|**2023-01-08**|**Neuromorphic Wireless Cognition: Event-Driven Semantic Communications for Remote Inference**|Jiechen Chen et.al.|[2206.06047v2](http://arxiv.org/abs/2206.06047v2)|null|
 |**2022-06-10**|**A bio-inspired implementation of a sparse-learning spike-based hippocampus memory model**|Daniel Casanueva-Morato et.al.|[2206.04924v1](http://arxiv.org/abs/2206.04924v1)|null|
 |**2022-10-19**|**Biologically Inspired Dynamic Thresholds for Spiking Neural Networks**|Jianchuan Ding et.al.|[2206.04426v2](http://arxiv.org/abs/2206.04426v2)|null|
 |**2022-06-08**|**Construction of a spike-based memory using neural-like logic gates based on Spiking Neural Networks on SpiNNaker**|Alvaro Ayuso-Martinez et.al.|[2206.03957v1](http://arxiv.org/abs/2206.03957v1)|null|
@@ -171,7 +171,7 @@
 |**2022-05-28**|**Efficient Federated Learning with Spike Neural Networks for Traffic Sign Recognition**|Kan Xie et.al.|[2205.14315v1](http://arxiv.org/abs/2205.14315v1)|null|
 |**2022-05-27**|**Towards a Design Framework for TNN-Based Neuromorphic Sensory Processing Units**|Prabhu Vellaisamy et.al.|[2205.14248v1](http://arxiv.org/abs/2205.14248v1)|null|
 |**2022-05-26**|**Learning in Feedback-driven Recurrent Spiking Neural Networks using full-FORCE Training**|Ankita Paul et.al.|[2205.13585v1](http://arxiv.org/abs/2205.13585v1)|**[link](https://github.com/drexel-disco/snn-full-force)**|
-|**2022-05-26**|**Mesoscopic modeling of hidden spiking neurons**|Shuqi Wang et.al.|[2205.13493v1](http://arxiv.org/abs/2205.13493v1)|null|
+|**2023-01-07**|**Mesoscopic modeling of hidden spiking neurons**|Shuqi Wang et.al.|[2205.13493v2](http://arxiv.org/abs/2205.13493v2)|**[link](https://github.com/epfl-lcn/neulvm)**|
 |**2022-05-26**|**2D versus 3D Convolutional Spiking Neural Networks Trained with Unsupervised STDP for Human Action Recognition**|Mireille El-Assal et.al.|[2205.13474v1](http://arxiv.org/abs/2205.13474v1)|null|
 |**2022-05-13**|**The Neuro-Symbolic Brain**|Robert Lizée et.al.|[2205.13440v1](http://arxiv.org/abs/2205.13440v1)|**[link](https://github.com/robertlizee/neuro-symbolic-vm)**|
 |**2022-05-24**|**DPSNN: A Differentially Private Spiking Neural Network**|Jihang Wang et.al.|[2205.12718v1](http://arxiv.org/abs/2205.12718v1)|null|
@@ -260,5 +260,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
 
