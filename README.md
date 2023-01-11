@@ -1,4 +1,4 @@
-## Updated on 2023.01.10
+## Updated on 2023.01.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -102,7 +102,7 @@
 |**2022-09-22**|**A Spatial-channel-temporal-fused Attention for Spiking Neural Networks**|Wuque Cai et.al.|[2209.10837v1](http://arxiv.org/abs/2209.10837v1)|null|
 |**2022-09-20**|**A Spiking Neural Network Learning Markov Chain**|Mikhail Kiselev et.al.|[2209.09572v1](http://arxiv.org/abs/2209.09572v1)|null|
 |**2022-09-19**|**Ensembles of Compact, Region-specific & Regularized Spiking Neural Networks for Scalable Place Recognition**|Somayeh Hussaini et.al.|[2209.08723v1](http://arxiv.org/abs/2209.08723v1)|null|
-|**2022-12-02**|**Astromorphic Self-Repair of Neuromorphic Hardware Systems**|Zhuangyu Han et.al.|[2209.07428v2](http://arxiv.org/abs/2209.07428v2)|**[link](https://github.com/NeuroCompLab-psu/Astromorphic_Self_Repair)**|
+|**2023-01-09**|**Astromorphic Self-Repair of Neuromorphic Hardware Systems**|Zhuangyu Han et.al.|[2209.07428v3](http://arxiv.org/abs/2209.07428v3)|**[link](https://github.com/NeuroCompLab-psu/Astromorphic_Self_Repair)**|
 |**2022-09-13**|**A CMOL-Like Memristor-CMOS Neuromorphic Chip-Core Demonstrating Stochastic Binary STDP**|L. A. Camuñas-Mesa et.al.|[2209.06068v1](http://arxiv.org/abs/2209.06068v1)|null|
 |**2022-12-12**|**Securing the Spike: On the Transferability and Security of Spiking Neural Networks to Adversarial Examples**|Nuo Xu et.al.|[2209.03358v2](http://arxiv.org/abs/2209.03358v2)|null|
 |**2022-09-06**|**Bioinspired Smooth Neuromorphic Control for Robotic Arms**|Ioannis Polykretis et.al.|[2209.02787v1](http://arxiv.org/abs/2209.02787v1)|null|
@@ -260,5 +260,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230111>back to top</a>)</p>
 
