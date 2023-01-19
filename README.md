@@ -1,4 +1,4 @@
-## Updated on 2023.01.18
+## Updated on 2023.01.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-18**|**Multi-compartment Neuron and Population Encoding improved Spiking Neural Network for Deep Distributional Reinforcement Learning**|Yinqian Sun et.al.|[2301.07275v1](http://arxiv.org/abs/2301.07275v1)|null|
 |**2023-01-13**|**Effect of Adult-Born Immature Granule Cells on Pattern Separation in The Hippocampal Dentate Gyrus**|Sang-Yoon Kim et.al.|[2301.05387v1](http://arxiv.org/abs/2301.05387v1)|null|
 |**2023-01-12**|**Improving Reliability of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization**|Ayesha Siddique et.al.|[2301.05266v1](http://arxiv.org/abs/2301.05266v1)|null|
 |**2023-01-12**|**Security-Aware Approximate Spiking Neural Networks**|Syed Tihaam Ahmad et.al.|[2301.05264v1](http://arxiv.org/abs/2301.05264v1)|null|
@@ -59,7 +60,7 @@
 |**2022-11-11**|**Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention**|Hao Zheng et.al.|[2211.06027v1](http://arxiv.org/abs/2211.06027v1)|**[link](https://github.com/monstersecond/dasbe)**|
 |**2022-11-10**|**A noise based novel strategy for faster SNN training**|Chunming Jiang et.al.|[2211.05453v1](http://arxiv.org/abs/2211.05453v1)|null|
 |**2022-11-10**|**Desire Backpropagation: A Lightweight Training Algorithm for Multi-Layer Spiking Neural Networks based on Spike-Timing-Dependent Plasticity**|Daniel Gerlinghoff et.al.|[2211.05412v1](http://arxiv.org/abs/2211.05412v1)|null|
-|**2022-11-11**|**Spiking Neural Network Decision Feedback Equalization**|Eike-Manuel Bansbach et.al.|[2211.04756v2](http://arxiv.org/abs/2211.04756v2)|null|
+|**2023-01-18**|**Spiking Neural Network Decision Feedback Equalization**|Eike-Manuel Bansbach et.al.|[2211.04756v3](http://arxiv.org/abs/2211.04756v3)|null|
 |**2022-09-22**|**Heterogeneous Recurrent Spiking Neural Network for Spatio-Temporal Classification**|Biswadeep Chakraborty et.al.|[2211.04297v1](http://arxiv.org/abs/2211.04297v1)|null|
 |**2022-11-04**|**Adversarial Defense via Neural Oscillation inspired Gradient Masking**|Chunming Jiang et.al.|[2211.02223v1](http://arxiv.org/abs/2211.02223v1)|null|
 |**2022-11-03**|**Hardware/Software co-design with ADC-Less In-memory Computing Hardware for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2211.02167v1](http://arxiv.org/abs/2211.02167v1)|null|
@@ -263,5 +264,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230119>back to top</a>)</p>
 
