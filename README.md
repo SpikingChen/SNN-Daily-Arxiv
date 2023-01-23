@@ -1,4 +1,4 @@
-## Updated on 2023.01.22
+## Updated on 2023.01.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-19**|**ETLP: Event-based Three-factor Local Plasticity for online learning with neuromorphic hardware**|Fernando M. Quintana et.al.|[2301.08281v1](http://arxiv.org/abs/2301.08281v1)|null|
 |**2023-01-18**|**Multi-compartment Neuron and Population Encoding improved Spiking Neural Network for Deep Distributional Reinforcement Learning**|Yinqian Sun et.al.|[2301.07275v1](http://arxiv.org/abs/2301.07275v1)|null|
 |**2023-01-13**|**Effect of Adult-Born Immature Granule Cells on Pattern Separation in The Hippocampal Dentate Gyrus**|Sang-Yoon Kim et.al.|[2301.05387v1](http://arxiv.org/abs/2301.05387v1)|null|
 |**2023-01-12**|**Improving Reliability of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization**|Ayesha Siddique et.al.|[2301.05266v1](http://arxiv.org/abs/2301.05266v1)|null|
@@ -264,5 +265,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230123>back to top</a>)</p>
 
