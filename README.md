@@ -1,4 +1,4 @@
-## Updated on 2023.01.25
+## Updated on 2023.01.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-24**|**Accelerate & Actualize: Can 2D Materials Bridge the Gap Between Neuromorphic Hardware and the Human Brain?**|Xiwen Liu et.al.|[2301.10277v1](http://arxiv.org/abs/2301.10277v1)|null|
 |**2023-01-24**|**A Comparison of Temporal Encoders for Neuromorphic Keyword Spotting with Few Neurons**|Mattias Nilsson et.al.|[2301.09962v1](http://arxiv.org/abs/2301.09962v1)|null|
 |**2023-01-23**|**Optimising Event-Driven Spiking Neural Network with Regularisation and Cutoff**|Dengyu Wu et.al.|[2301.09522v1](http://arxiv.org/abs/2301.09522v1)|**[link](https://github.com/Dengyu-Wu/SNN-Regularisation-Cutoff)**|
-|**2023-01-19**|**ETLP: Event-based Three-factor Local Plasticity for online learning with neuromorphic hardware**|Fernando M. Quintana et.al.|[2301.08281v1](http://arxiv.org/abs/2301.08281v1)|**[link](https://github.com/ferqui/etlp)**|
+|**2023-01-24**|**ETLP: Event-based Three-factor Local Plasticity for online learning with neuromorphic hardware**|Fernando M. Quintana et.al.|[2301.08281v2](http://arxiv.org/abs/2301.08281v2)|**[link](https://github.com/ferqui/etlp)**|
 |**2023-01-18**|**Multi-compartment Neuron and Population Encoding improved Spiking Neural Network for Deep Distributional Reinforcement Learning**|Yinqian Sun et.al.|[2301.07275v1](http://arxiv.org/abs/2301.07275v1)|null|
 |**2023-01-13**|**Effect of Adult-Born Immature Granule Cells on Pattern Separation in The Hippocampal Dentate Gyrus**|Sang-Yoon Kim et.al.|[2301.05387v1](http://arxiv.org/abs/2301.05387v1)|null|
 |**2023-01-12**|**Improving Reliability of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization**|Ayesha Siddique et.al.|[2301.05266v1](http://arxiv.org/abs/2301.05266v1)|null|
@@ -267,5 +268,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230126>back to top</a>)</p>
 
