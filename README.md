@@ -1,4 +1,4 @@
-## Updated on 2023.01.30
+## Updated on 2023.01.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-29**|**Exploiting High Performance Spiking Neural Networks with Efficient Spiking Patterns**|Guobin Shen et.al.|[2301.12356v1](http://arxiv.org/abs/2301.12356v1)|null|
+|**2023-01-27**|**Training Full Spike Neural Networks via Auxiliary Accumulation Pathway**|Guangyao Chen et.al.|[2301.11929v1](http://arxiv.org/abs/2301.11929v1)|**[link](https://github.com/iCGY96/syops-counter)**|
 |**2023-01-24**|**Accelerate & Actualize: Can 2D Materials Bridge the Gap Between Neuromorphic Hardware and the Human Brain?**|Xiwen Liu et.al.|[2301.10277v1](http://arxiv.org/abs/2301.10277v1)|null|
 |**2023-01-24**|**A Comparison of Temporal Encoders for Neuromorphic Keyword Spotting with Few Neurons**|Mattias Nilsson et.al.|[2301.09962v1](http://arxiv.org/abs/2301.09962v1)|null|
 |**2023-01-23**|**Optimising Event-Driven Spiking Neural Network with Regularisation and Cutoff**|Dengyu Wu et.al.|[2301.09522v1](http://arxiv.org/abs/2301.09522v1)|**[link](https://github.com/Dengyu-Wu/SNN-Regularisation-Cutoff)**|
@@ -193,7 +195,7 @@
 |**2022-05-19**|**Spikemax: Spike-based Loss Methods for Classification**|Sumit Bam Shrestha et.al.|[2205.09845v1](http://arxiv.org/abs/2205.09845v1)|null|
 |**2022-05-19**|**Design and Mathematical Modelling of Inter Spike Interval of Temporal Neuromorphic Encoder for Image Recognition**|Aadhitiya VS et.al.|[2205.09519v1](http://arxiv.org/abs/2205.09519v1)|null|
 |**2022-05-18**|**Relational representation learning with spike trains**|Dominik Dold et.al.|[2205.09140v1](http://arxiv.org/abs/2205.09140v1)|null|
-|**2022-05-16**|**Towards Lossless ANN-SNN Conversion under Ultra-Low Latency with Dual-Phase Optimization**|Ziming Wang et.al.|[2205.07473v1](http://arxiv.org/abs/2205.07473v1)|null|
+|**2023-01-30**|**Towards Lossless ANN-SNN Conversion under Ultra-Low Latency with Dual-Phase Optimization**|Ziming Wang et.al.|[2205.07473v2](http://arxiv.org/abs/2205.07473v2)|null|
 |**2022-05-26**|**A Computational Framework of Cortical Microcircuits Approximates Sign-concordant Random Backpropagation**|Yukun Yang et.al.|[2205.07292v3](http://arxiv.org/abs/2205.07292v3)|null|
 |**2022-05-14**|**Spiking Approximations of the MaxPooling Operation in Deep SNNs**|Ramashish Gaurav et.al.|[2205.07076v1](http://arxiv.org/abs/2205.07076v1)|**[link](https://github.com/R-Gaurav/SpikingMaxPooling)**|
 |**2022-05-10**|**Spike-based computational models of bio-inspired memories in the hippocampal CA3 region on SpiNNaker**|Daniel Casanueva-Morato et.al.|[2205.04782v1](http://arxiv.org/abs/2205.04782v1)|**[link](https://github.com/dancasmor/spike-based-computational-models-of-bio-inspired-memories-in-the-hippocampal-ca3-region-in-spinnaker)**|
@@ -268,5 +270,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230131>back to top</a>)</p>
 
