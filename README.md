@@ -1,4 +1,4 @@
-## Updated on 2023.01.31
+## Updated on 2023.02.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-31**|**Spyker: High-performance Library for Spiking Deep Neural Networks**|Shahriar Rezghi Shirsavar et.al.|[2301.13659v1](http://arxiv.org/abs/2301.13659v1)|null|
+|**2023-01-31**|**Tricking AI chips into Simulating the Human Brain: A Detailed Performance Analysis**|Lennart P. L. Landsmeer et.al.|[2301.13637v1](http://arxiv.org/abs/2301.13637v1)|**[link](https://github.com/llandsmeer/iotf)**|
 |**2023-01-29**|**Exploiting High Performance Spiking Neural Networks with Efficient Spiking Patterns**|Guobin Shen et.al.|[2301.12356v1](http://arxiv.org/abs/2301.12356v1)|null|
 |**2023-01-27**|**Training Full Spike Neural Networks via Auxiliary Accumulation Pathway**|Guangyao Chen et.al.|[2301.11929v1](http://arxiv.org/abs/2301.11929v1)|**[link](https://github.com/iCGY96/syops-counter)**|
 |**2023-01-24**|**Accelerate & Actualize: Can 2D Materials Bridge the Gap Between Neuromorphic Hardware and the Human Brain?**|Xiwen Liu et.al.|[2301.10277v1](http://arxiv.org/abs/2301.10277v1)|null|
@@ -270,5 +272,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230201>back to top</a>)</p>
 
