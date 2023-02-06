@@ -1,4 +1,4 @@
-## Updated on 2023.02.05
+## Updated on 2023.02.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-03**|**Spiking Synaptic Penalty: Appropriate Penalty Term for Energy-Efficient Spiking Neural Networks**|Kazuma Suetake et.al.|[2302.01500v1](http://arxiv.org/abs/2302.01500v1)|null|
 |**2023-02-02**|**Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition**|Minglun Han et.al.|[2302.01194v1](http://arxiv.org/abs/2302.01194v1)|null|
 |**2023-02-02**|**OpenSpike: An OpenRAM SNN Accelerator**|Farhad Modaresi et.al.|[2302.01015v1](http://arxiv.org/abs/2302.01015v1)|**[link](https://github.com/sfmth/openspike)**|
 |**2023-02-02**|**Energy Efficient Training of SNN using Local Zeroth Order Method**|Bhaskar Mukhoty et.al.|[2302.00910v1](http://arxiv.org/abs/2302.00910v1)|null|
@@ -56,7 +57,7 @@
 |**2022-11-23**|**An Adaptive Event-based Data Converter for Always-on Biomedical Applications at the Edge**|Mohammadali Sharifshazileh et.al.|[2211.13102v1](http://arxiv.org/abs/2211.13102v1)|null|
 |**2022-11-23**|**Developmental Plasticity-inspired Adaptive Pruning for Deep Spiking and Artificial Neural Networks**|Bing Han et.al.|[2211.12714v1](http://arxiv.org/abs/2211.12714v1)|null|
 |**2022-11-22**|**Photonic Spiking Neural Networks with Highly Efficient Training Protocols for Ultrafast Neuromorphic Computing Systems**|Dafydd Owen-Newns et.al.|[2211.12239v1](http://arxiv.org/abs/2211.12239v1)|null|
-|**2022-11-22**|**Adaptive Sparse Structure Development with Pruning and Regeneration for Spiking Neural Networks**|Bing Han et.al.|[2211.12219v1](http://arxiv.org/abs/2211.12219v1)|null|
+|**2023-02-03**|**Adaptive Sparse Structure Development with Pruning and Regeneration for Spiking Neural Networks**|Bing Han et.al.|[2211.12219v2](http://arxiv.org/abs/2211.12219v2)|null|
 |**2022-11-22**|**MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network**|Xiaoshan Wu et.al.|[2211.12156v1](http://arxiv.org/abs/2211.12156v1)|null|
 |**2022-11-21**|**A Low Latency Adaptive Coding Spiking Framework for Deep Reinforcement Learning**|Lang Qin et.al.|[2211.11760v1](http://arxiv.org/abs/2211.11760v1)|null|
 |**2022-11-22**|**HALSIE - Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities**|Shristi Das Biswas et.al.|[2211.10754v2](http://arxiv.org/abs/2211.10754v2)|null|
@@ -128,7 +129,7 @@
 |**2022-11-01**|**Bayesian Continual Learning via Spiking Neural Networks**|Nicolas Skatchkovsky et.al.|[2208.13723v2](http://arxiv.org/abs/2208.13723v2)|**[link](https://github.com/kclip/bayesian-snn)**|
 |**2022-08-28**|**Scalable Nanophotonic-Electronic Spiking Neural Networks**|Luis El Srouji et.al.|[2208.13144v1](http://arxiv.org/abs/2208.13144v1)|null|
 |**2022-09-20**|**Sub-mW Neuromorphic SNN audio processing applications with Rockpool and Xylo**|Hannah Bos et.al.|[2208.12991v3](http://arxiv.org/abs/2208.12991v3)|null|
-|**2022-08-25**|**CMOS-based area-and-power-efficient neuron and synapse circuits for time-domain analog spiking neural networks**|Xiangyu Chen et.al.|[2208.11881v1](http://arxiv.org/abs/2208.11881v1)|null|
+|**2023-02-02**|**CMOS-based area-and-power-efficient neuron and synapse circuits for time-domain analog spiking neural networks**|Xiangyu Chen et.al.|[2208.11881v2](http://arxiv.org/abs/2208.11881v2)|null|
 |**2022-11-26**|**Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks**|Jintang Li et.al.|[2208.10364v2](http://arxiv.org/abs/2208.10364v2)|**[link](https://github.com/edisonleeeee/spikenet)**|
 |**2022-08-17**|**Autocorrelations from emergent bistability in homeostatic spiking neural networks on neuromorphic hardware**|Benjamin Cramer et.al.|[2208.08329v1](http://arxiv.org/abs/2208.08329v1)|null|
 |**2022-08-16**|**Combinatorial optimization solving by coherent Ising machines based on spiking neural networks**|Bo Lu et.al.|[2208.07502v1](http://arxiv.org/abs/2208.07502v1)|null|
@@ -276,5 +277,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230206>back to top</a>)</p>
 
