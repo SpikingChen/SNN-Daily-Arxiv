@@ -1,4 +1,4 @@
-## Updated on 2023.02.07
+## Updated on 2023.02.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-02-04**|**Reducing ANN-SNN Conversion Error through Residual Membrane Potential**|Zecheng Hao et.al.|[2302.02091v1](http://arxiv.org/abs/2302.02091v1)|null|
+|**2023-02-06**|**Dynamic Training of Liquid State Machines**|Pavithra Koralalage et.al.|[2302.03506v1](http://arxiv.org/abs/2302.03506v1)|null|
+|**2023-02-04**|**Reducing ANN-SNN Conversion Error through Residual Membrane Potential**|Zecheng Hao et.al.|[2302.02091v1](http://arxiv.org/abs/2302.02091v1)|**[link](https://github.com/hzc1208/ANN2SNN_SRP)**|
 |**2023-02-03**|**Spiking Synaptic Penalty: Appropriate Penalty Term for Energy-Efficient Spiking Neural Networks**|Kazuma Suetake et.al.|[2302.01500v1](http://arxiv.org/abs/2302.01500v1)|null|
 |**2023-02-02**|**Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition**|Minglun Han et.al.|[2302.01194v1](http://arxiv.org/abs/2302.01194v1)|null|
 |**2023-02-02**|**OpenSpike: An OpenRAM SNN Accelerator**|Farhad Modaresi et.al.|[2302.01015v1](http://arxiv.org/abs/2302.01015v1)|**[link](https://github.com/sfmth/openspike)**|
@@ -278,5 +279,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230207>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230208>back to top</a>)</p>
 
