@@ -1,4 +1,4 @@
-## Updated on 2023.02.08
+## Updated on 2023.02.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-08**|**The Hardware Impact of Quantization and Pruning for Weights in Spiking Neural Networks**|Clemens JS Schaefer et.al.|[2302.04174v1](http://arxiv.org/abs/2302.04174v1)|**[link](https://github.com/intelligent-microsystems-lab/snnquantprune)**|
 |**2023-02-06**|**Dynamic Training of Liquid State Machines**|Pavithra Koralalage et.al.|[2302.03506v1](http://arxiv.org/abs/2302.03506v1)|null|
 |**2023-02-04**|**Reducing ANN-SNN Conversion Error through Residual Membrane Potential**|Zecheng Hao et.al.|[2302.02091v1](http://arxiv.org/abs/2302.02091v1)|**[link](https://github.com/hzc1208/ANN2SNN_SRP)**|
 |**2023-02-03**|**Spiking Synaptic Penalty: Appropriate Penalty Term for Energy-Efficient Spiking Neural Networks**|Kazuma Suetake et.al.|[2302.01500v1](http://arxiv.org/abs/2302.01500v1)|null|
@@ -279,5 +280,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230209>back to top</a>)</p>
 
