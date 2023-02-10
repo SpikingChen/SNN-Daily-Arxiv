@@ -1,4 +1,4 @@
-## Updated on 2023.02.09
+## Updated on 2023.02.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -194,7 +194,7 @@
 |**2023-01-07**|**Mesoscopic modeling of hidden spiking neurons**|Shuqi Wang et.al.|[2205.13493v2](http://arxiv.org/abs/2205.13493v2)|**[link](https://github.com/epfl-lcn/neulvm)**|
 |**2022-05-26**|**2D versus 3D Convolutional Spiking Neural Networks Trained with Unsupervised STDP for Human Action Recognition**|Mireille El-Assal et.al.|[2205.13474v1](http://arxiv.org/abs/2205.13474v1)|null|
 |**2022-05-13**|**The Neuro-Symbolic Brain**|Robert Lizée et.al.|[2205.13440v1](http://arxiv.org/abs/2205.13440v1)|**[link](https://github.com/robertlizee/neuro-symbolic-vm)**|
-|**2022-05-24**|**DPSNN: A Differentially Private Spiking Neural Network**|Jihang Wang et.al.|[2205.12718v1](http://arxiv.org/abs/2205.12718v1)|null|
+|**2023-02-09**|**DPSNN: A Differentially Private Spiking Neural Network**|Jihang Wang et.al.|[2205.12718v2](http://arxiv.org/abs/2205.12718v2)|null|
 |**2022-05-24**|**lpSpikeCon: Enabling Low-Precision Spiking Neural Network Processing for Efficient Unsupervised Continual Learning on Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2205.12295v1](http://arxiv.org/abs/2205.12295v1)|null|
 |**2022-05-23**|**Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity**|Thomas Limbacher et.al.|[2205.11276v1](http://arxiv.org/abs/2205.11276v1)|**[link](https://github.com/igitugraz/memorydependentcomputation)**|
 |**2022-06-22**|**Efficient visual object representation using a biologically plausible spike-latency code and winner-take-all inhibition**|Melani Sanchez-Garcia et.al.|[2205.10338v2](http://arxiv.org/abs/2205.10338v2)|null|
@@ -280,5 +280,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230210>back to top</a>)</p>
 
