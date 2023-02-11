@@ -1,4 +1,4 @@
-## Updated on 2023.02.10
+## Updated on 2023.02.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -166,7 +166,7 @@
 |**2022-06-26**|**Gradient-based Neuromorphic Learning on Dynamical RRAM Arrays**|Peng Zhou et.al.|[2206.12992v1](http://arxiv.org/abs/2206.12992v1)|null|
 |**2022-06-28**|**Learning to learn online with neuromodulated synaptic plasticity in spiking neural networks**|Samuel Schmidgall et.al.|[2206.12520v2](http://arxiv.org/abs/2206.12520v2)|null|
 |**2022-06-21**|**Fluctuation-driven initialization for spiking neural network training**|Julian Rossbroich et.al.|[2206.10226v1](http://arxiv.org/abs/2206.10226v1)|**[link](https://github.com/fmi-basel/stork)**|
-|**2022-06-21**|**TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2206.10177v1](http://arxiv.org/abs/2206.10177v1)|null|
+|**2022-06-21**|**TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2206.10177v1](http://arxiv.org/abs/2206.10177v1)|**[link](https://github.com/ridgerchu/TCJA)**|
 |**2022-06-20**|**Examining the Robustness of Spiking Neural Networks on Non-ideal Memristive Crossbars**|Abhiroop Bhattacharjee et.al.|[2206.09599v1](http://arxiv.org/abs/2206.09599v1)|null|
 |**2022-06-19**|**SNN2ANN: A Fast and Memory-Efficient Training Framework for Spiking Neural Networks**|Jianxiong Tang et.al.|[2206.09449v1](http://arxiv.org/abs/2206.09449v1)|**[link](https://github.com/tjxtt/snn2ann)**|
 |**2022-06-17**|**Effects of Neural Heterogeneity on Spiking Neural Network Dynamics**|Richard Gast et.al.|[2206.08813v1](http://arxiv.org/abs/2206.08813v1)|null|
@@ -280,5 +280,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230211>back to top</a>)</p>
 
