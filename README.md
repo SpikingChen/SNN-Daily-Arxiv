@@ -1,4 +1,4 @@
-## Updated on 2023.02.14
+## Updated on 2023.02.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-13**|**Workload-Balanced Pruning for Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2302.06746v1](http://arxiv.org/abs/2302.06746v1)|null|
 |**2023-02-13**|**Optical Flow estimation with Event-based Cameras and Spiking Neural Networks**|Javier Cuadrado et.al.|[2302.06492v1](http://arxiv.org/abs/2302.06492v1)|**[link](https://github.com/j-cuadrado/of_ev_snn)**|
 |**2023-02-13**|**Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data**|Gorka Abad et.al.|[2302.06279v1](http://arxiv.org/abs/2302.06279v1)|null|
 |**2023-02-08**|**The Hardware Impact of Quantization and Pruning for Weights in Spiking Neural Networks**|Clemens JS Schaefer et.al.|[2302.04174v1](http://arxiv.org/abs/2302.04174v1)|**[link](https://github.com/intelligent-microsystems-lab/snnquantprune)**|
@@ -159,7 +160,7 @@
 |**2022-07-14**|**Efficient spike encoding algorithms for neuromorphic speech recognition**|Sidi Yaya Arnaud Yarga et.al.|[2207.07073v1](http://arxiv.org/abs/2207.07073v1)|null|
 |**2022-07-11**|**Brain-inspired Graph Spiking Neural Networks for Commonsense Knowledge Representation and Reasoning**|Hongjian Fang et.al.|[2207.05561v1](http://arxiv.org/abs/2207.05561v1)|null|
 |**2022-05-31**|**Linear Leaky-Integrate-and-Fire Neuron Model Based Spiking Neural Networks and Its Mapping Relationship to Deep Neural Networks**|Sijia Lu et.al.|[2207.04889v1](http://arxiv.org/abs/2207.04889v1)|null|
-|**2022-06-28**|**Simple and complex spiking neurons: perspectives and analysis in a simple STDP scenario**|Davide Liberato Manna et.al.|[2207.04881v1](http://arxiv.org/abs/2207.04881v1)|null|
+|**2022-06-28**|**Simple and complex spiking neurons: perspectives and analysis in a simple STDP scenario**|Davide Liberato Manna et.al.|[2207.04881v1](http://arxiv.org/abs/2207.04881v1)|**[link](https://github.com/daevem/spyketorch-extended)**|
 |**2022-06-21**|**Structural Stability of Spiking Neural Networks**|G. Zhang et.al.|[2207.04876v1](http://arxiv.org/abs/2207.04876v1)|null|
 |**2022-07-06**|**An Unsupervised Spiking Neural Network Inspired By Biologically Plausible Learning Rules and Connections**|Yiting Dong et.al.|[2207.02727v1](http://arxiv.org/abs/2207.02727v1)|null|
 |**2022-07-06**|**Spike Calibration: Fast and Accurate Conversion of Spiking Neural Network for Object Detection and Segmentation**|Yang Li et.al.|[2207.02702v1](http://arxiv.org/abs/2207.02702v1)|null|
@@ -282,5 +283,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230215>back to top</a>)</p>
 
