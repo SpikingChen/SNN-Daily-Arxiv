@@ -1,4 +1,4 @@
-## Updated on 2023.02.19
+## Updated on 2023.02.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-16**|**Adaptive Axonal Delays in feedforward spiking neural networks for accurate spoken word recognition**|Pengfei Sun et.al.|[2302.08607v1](http://arxiv.org/abs/2302.08607v1)|null|
 |**2023-02-16**|**Solid State Neuroscience: Spiking Neural Networks as Time Matter**|Marcelo J. Rozenberg et.al.|[2302.08458v1](http://arxiv.org/abs/2302.08458v1)|null|
 |**2023-02-15**|**ColibriES: A Milliwatts RISC-V Based Embedded System Leveraging Neuromorphic and Neural Networks Hardware Accelerators for Low-Latency Closed-loop Control Applications**|Georg Rutishauser et.al.|[2302.07957v1](http://arxiv.org/abs/2302.07957v1)|null|
 |**2023-02-15**|**Frameworks for SNNs: a Review of Data Science-oriented Software and an Expansion of SpykeTorch**|Davide Liberato Manna et.al.|[2302.07624v1](http://arxiv.org/abs/2302.07624v1)|**[link](https://github.com/daevem/spyketorch-extended)**|
@@ -63,7 +64,7 @@
 |**2022-11-24**|**PC-SNN: Supervised Learning with Local Hebbian Synaptic Plasticity based on Predictive Coding in Spiking Neural Networks**|Mengting Lan et.al.|[2211.15386v1](http://arxiv.org/abs/2211.15386v1)|null|
 |**2022-11-26**|**Game Theoretic Mixed Experts for Combinational Adversarial Machine Learning**|Ethan Rathbun et.al.|[2211.14669v1](http://arxiv.org/abs/2211.14669v1)|**[link](https://github.com/ethanrath/game-theoretic-mixed-experts)**|
 |**2022-11-30**|**Exploring Temporal Information Dynamics in Spiking Neural Networks**|Youngeun Kim et.al.|[2211.14406v2](http://arxiv.org/abs/2211.14406v2)|**[link](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks)**|
-|**2022-11-24**|**Meta-Learning the Inductive Biases of Simple Neural Circuits**|William Dorrell et.al.|[2211.13544v1](http://arxiv.org/abs/2211.13544v1)|**[link](https://github.com/wilburdoz/meta_learning_inductive_bias)**|
+|**2023-02-17**|**Meta-Learning the Inductive Biases of Simple Neural Circuits**|William Dorrell et.al.|[2211.13544v2](http://arxiv.org/abs/2211.13544v2)|**[link](https://github.com/wilburdoz/meta_learning_inductive_bias)**|
 |**2022-11-23**|**An Adaptive Event-based Data Converter for Always-on Biomedical Applications at the Edge**|Mohammadali Sharifshazileh et.al.|[2211.13102v1](http://arxiv.org/abs/2211.13102v1)|null|
 |**2023-02-06**|**Developmental Plasticity-inspired Adaptive Pruning for Deep Spiking and Artificial Neural Networks**|Bing Han et.al.|[2211.12714v2](http://arxiv.org/abs/2211.12714v2)|null|
 |**2022-11-22**|**Photonic Spiking Neural Networks with Highly Efficient Training Protocols for Ultrafast Neuromorphic Computing Systems**|Dafydd Owen-Newns et.al.|[2211.12239v1](http://arxiv.org/abs/2211.12239v1)|null|
@@ -287,5 +288,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230220>back to top</a>)</p>
 
