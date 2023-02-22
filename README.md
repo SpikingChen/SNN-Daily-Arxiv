@@ -1,4 +1,4 @@
-## Updated on 2023.02.21
+## Updated on 2023.02.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-17**|**A Novel Noise Injection-based Training Scheme for Better Model Robustness**|Zeliang Zhang et.al.|[2302.10802v1](http://arxiv.org/abs/2302.10802v1)|null|
+|**2023-02-21**|**Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes**|Zecheng Hao et.al.|[2302.10685v1](http://arxiv.org/abs/2302.10685v1)|**[link](https://github.com/hzc1208/ann2snn_cos)**|
 |**2023-02-18**|**NU-AIR -- A Neuromorphic Urban Aerial Dataset for Detection and Localization of Pedestrians and Vehicles**|Craig Iaboni et.al.|[2302.09429v1](http://arxiv.org/abs/2302.09429v1)|null|
 |**2023-02-18**|**KLIF: An optimized spiking neuron unit for tuning surrogate gradient slope and membrane potential**|Chunming Jiang et.al.|[2302.09238v1](http://arxiv.org/abs/2302.09238v1)|null|
 |**2023-02-16**|**Adaptive Axonal Delays in feedforward spiking neural networks for accurate spoken word recognition**|Pengfei Sun et.al.|[2302.08607v1](http://arxiv.org/abs/2302.08607v1)|null|
@@ -290,5 +292,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230222>back to top</a>)</p>
 
