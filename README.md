@@ -1,4 +1,4 @@
-## Updated on 2023.02.23
+## Updated on 2023.02.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-22**|**Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles**|Biswadeep Chakraborty et.al.|[2302.11618v1](http://arxiv.org/abs/2302.11618v1)|null|
 |**2023-02-17**|**A Novel Noise Injection-based Training Scheme for Better Model Robustness**|Zeliang Zhang et.al.|[2302.10802v1](http://arxiv.org/abs/2302.10802v1)|null|
 |**2023-02-21**|**Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes**|Zecheng Hao et.al.|[2302.10685v1](http://arxiv.org/abs/2302.10685v1)|**[link](https://github.com/hzc1208/ann2snn_cos)**|
 |**2023-02-18**|**NU-AIR -- A Neuromorphic Urban Aerial Dataset for Detection and Localization of Pedestrians and Vehicles**|Craig Iaboni et.al.|[2302.09429v1](http://arxiv.org/abs/2302.09429v1)|null|
@@ -292,5 +293,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230224>back to top</a>)</p>
 
