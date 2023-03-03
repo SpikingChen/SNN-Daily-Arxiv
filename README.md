@@ -1,4 +1,4 @@
-## Updated on 2023.03.02
+## Updated on 2023.03.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-27**|**Communication Trade-offs in Federated Learning of Spiking Neural Networks**|Soumi Chaki et.al.|[2303.00928v1](http://arxiv.org/abs/2303.00928v1)|null|
 |**2023-02-28**|**Spiking Neural Network Nonlinear Demapping on Neuromorphic Hardware for IM/DD Optical Communication**|Elias Arnold et.al.|[2302.14726v1](http://arxiv.org/abs/2302.14726v1)|null|
 |**2023-02-28**|**Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks**|Qingyan Meng et.al.|[2302.14311v1](http://arxiv.org/abs/2302.14311v1)|null|
 |**2023-02-28**|**SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2302.13939v2](http://arxiv.org/abs/2302.13939v2)|**[link](https://github.com/ridgerchu/spikegpt)**|
@@ -297,5 +298,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230302>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230303>back to top</a>)</p>
 
