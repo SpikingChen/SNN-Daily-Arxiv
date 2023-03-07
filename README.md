@@ -1,4 +1,4 @@
-## Updated on 2023.03.06
+## Updated on 2023.03.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-06**|**Emerging AI Technologies Inspiring the Next Generation of E-textiles**|Frances Cleary et.al.|[2303.03205v1](http://arxiv.org/abs/2303.03205v1)|null|
 |**2023-03-03**|**TopSpark: A Timestep Optimization Methodology for Energy-Efficient Spiking Neural Networks on Autonomous Mobile Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2303.01826v1](http://arxiv.org/abs/2303.01826v1)|null|
 |**2023-02-27**|**Communication Trade-offs in Federated Learning of Spiking Neural Networks**|Soumi Chaki et.al.|[2303.00928v1](http://arxiv.org/abs/2303.00928v1)|null|
 |**2023-02-28**|**Spiking Neural Network Nonlinear Demapping on Neuromorphic Hardware for IM/DD Optical Communication**|Elias Arnold et.al.|[2302.14726v1](http://arxiv.org/abs/2302.14726v1)|null|
@@ -140,7 +141,7 @@
 |**2022-09-21**|**Adaptive-SpikeNet: Event-based Optical Flow Estimation using Spiking Neural Networks with Learnable Neuronal Dynamics**|Adarsh Kumar Kosta et.al.|[2209.11741v1](http://arxiv.org/abs/2209.11741v1)|null|
 |**2022-09-22**|**A Spatial-channel-temporal-fused Attention for Spiking Neural Networks**|Wuque Cai et.al.|[2209.10837v1](http://arxiv.org/abs/2209.10837v1)|null|
 |**2022-09-20**|**A Spiking Neural Network Learning Markov Chain**|Mikhail Kiselev et.al.|[2209.09572v1](http://arxiv.org/abs/2209.09572v1)|null|
-|**2022-09-19**|**Ensembles of Compact, Region-specific & Regularized Spiking Neural Networks for Scalable Place Recognition**|Somayeh Hussaini et.al.|[2209.08723v1](http://arxiv.org/abs/2209.08723v1)|null|
+|**2023-03-06**|**Ensembles of Compact, Region-specific & Regularized Spiking Neural Networks for Scalable Place Recognition**|Somayeh Hussaini et.al.|[2209.08723v2](http://arxiv.org/abs/2209.08723v2)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-01-09**|**Astromorphic Self-Repair of Neuromorphic Hardware Systems**|Zhuangyu Han et.al.|[2209.07428v3](http://arxiv.org/abs/2209.07428v3)|**[link](https://github.com/NeuroCompLab-psu/Astromorphic_Self_Repair)**|
 |**2022-09-13**|**A CMOL-Like Memristor-CMOS Neuromorphic Chip-Core Demonstrating Stochastic Binary STDP**|L. A. Camuñas-Mesa et.al.|[2209.06068v1](http://arxiv.org/abs/2209.06068v1)|null|
 |**2022-12-12**|**Securing the Spike: On the Transferability and Security of Spiking Neural Networks to Adversarial Examples**|Nuo Xu et.al.|[2209.03358v2](http://arxiv.org/abs/2209.03358v2)|null|
@@ -299,5 +300,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230307>back to top</a>)</p>
 
