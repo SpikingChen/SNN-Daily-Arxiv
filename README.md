@@ -1,4 +1,4 @@
-## Updated on 2023.03.07
+## Updated on 2023.03.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,7 +15,7 @@
 |**2023-03-03**|**TopSpark: A Timestep Optimization Methodology for Energy-Efficient Spiking Neural Networks on Autonomous Mobile Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2303.01826v1](http://arxiv.org/abs/2303.01826v1)|null|
 |**2023-02-27**|**Communication Trade-offs in Federated Learning of Spiking Neural Networks**|Soumi Chaki et.al.|[2303.00928v1](http://arxiv.org/abs/2303.00928v1)|null|
 |**2023-02-28**|**Spiking Neural Network Nonlinear Demapping on Neuromorphic Hardware for IM/DD Optical Communication**|Elias Arnold et.al.|[2302.14726v1](http://arxiv.org/abs/2302.14726v1)|null|
-|**2023-02-28**|**Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks**|Qingyan Meng et.al.|[2302.14311v1](http://arxiv.org/abs/2302.14311v1)|null|
+|**2023-03-07**|**Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks**|Qingyan Meng et.al.|[2302.14311v2](http://arxiv.org/abs/2302.14311v2)|null|
 |**2023-02-28**|**SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2302.13939v2](http://arxiv.org/abs/2302.13939v2)|**[link](https://github.com/ridgerchu/spikegpt)**|
 |**2023-02-25**|**A Unified Framework for Soft Threshold Pruning**|Yanqi Chen et.al.|[2302.13019v1](http://arxiv.org/abs/2302.13019v1)|**[link](https://github.com/yanqi-chen/lats)**|
 |**2023-02-22**|**Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles**|Biswadeep Chakraborty et.al.|[2302.11618v1](http://arxiv.org/abs/2302.11618v1)|null|
@@ -300,5 +300,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230307>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230308>back to top</a>)</p>
 
