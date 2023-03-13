@@ -1,4 +1,4 @@
-## Updated on 2023.03.12
+## Updated on 2023.03.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-09**|**Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse**|Liwei Huang et.al.|[2303.06060v1](http://arxiv.org/abs/2303.06060v1)|**[link](https://github.com/grasshlw/snn-neural-similarity)**|
 |**2023-03-09**|**Convergence of redundancy-free spiking neural networks to rate networks**|Valentin Schmutz et.al.|[2303.05174v1](http://arxiv.org/abs/2303.05174v1)|null|
 |**2023-03-08**|**Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks**|Tong Bu et.al.|[2303.04347v1](http://arxiv.org/abs/2303.04347v1)|**[link](https://github.com/putshua/SNN_conversion_QCFS)**|
 |**2023-03-08**|**Effect of Adult Neurogenesis on Sparsely Synchronized Rhythms of The Granule Cells in The Hippocampal Dentate Gyrus**|Sang-Yoon Kim et.al.|[2303.04319v1](http://arxiv.org/abs/2303.04319v1)|null|
@@ -105,7 +106,7 @@
 |**2022-11-03**|**Hardware/Software co-design with ADC-Less In-memory Computing Hardware for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2211.02167v1](http://arxiv.org/abs/2211.02167v1)|null|
 |**2022-10-24**|**Spiking Variational Graph Auto-Encoders for Efficient Graph Representation Learning**|Hanxuan Yang et.al.|[2211.01952v1](http://arxiv.org/abs/2211.01952v1)|null|
 |**2022-10-31**|**A Faster Approach to Spiking Deep Convolutional Neural Networks**|Shahriar Rezghi Shirsavar et.al.|[2210.17442v1](http://arxiv.org/abs/2210.17442v1)|null|
-|**2022-10-18**|**Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation**|Jane H. Lee et.al.|[2210.15415v1](http://arxiv.org/abs/2210.15415v1)|null|
+|**2023-03-10**|**Exact Gradient Computation for Spiking Neural Networks Through Forward Propagation**|Jane H. Lee et.al.|[2210.15415v2](http://arxiv.org/abs/2210.15415v2)|null|
 |**2023-02-13**|**GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Xingting Yao et.al.|[2210.13768v4](http://arxiv.org/abs/2210.13768v4)|**[link](https://github.com/ikarosy/gated-lif)**|
 |**2022-10-24**|**An Analytical Estimation of Spiking Neural Networks Energy Efficiency**|Edgar Lemaire et.al.|[2210.13107v1](http://arxiv.org/abs/2210.13107v1)|null|
 |**2022-10-24**|**SpikeSim: An end-to-end Compute-in-Memory Hardware Evaluation Tool for Benchmarking Spiking Neural Networks**|Abhishek Moitra et.al.|[2210.12899v1](http://arxiv.org/abs/2210.12899v1)|**[link](https://github.com/intelligent-computing-lab-yale/quanitzation-aware-snn-training-and-hardware-evaluation-for-imc-architectures)**|
@@ -303,5 +304,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230313>back to top</a>)</p>
 
