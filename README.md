@@ -1,4 +1,4 @@
-## Updated on 2023.03.26
+## Updated on 2023.03.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,12 +11,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-24**|**A Hybrid ANN-SNN Architecture for Low-Power and Low-Latency Visual Perception**|Asude Aydin et.al.|[2303.14176v1](http://arxiv.org/abs/2303.14176v1)|null|
+|**2023-03-23**|**Skip Connections in Spiking Neural Networks: An Analysis of Their Effect on Network Training**|Hadjer Benmeziane et.al.|[2303.13563v1](http://arxiv.org/abs/2303.13563v1)|null|
 |**2023-03-23**|**MSAT: Biologically Inspired Multi-Stage Adaptive Threshold for Conversion of Spiking Neural Networks**|Xiang He et.al.|[2303.13080v1](http://arxiv.org/abs/2303.13080v1)|null|
 |**2023-03-23**|**Improving the Performance of Spiking Neural Networks on Event-based Datasets with Knowledge Transfer**|Xiang He et.al.|[2303.13077v1](http://arxiv.org/abs/2303.13077v1)|null|
 |**2023-03-10**|**Joint ANN-SNN Co-training for Object Localization and Image Segmentation**|Marc Baltes et.al.|[2303.12738v1](http://arxiv.org/abs/2303.12738v1)|null|
 |**2023-03-21**|**Volatile Memory Motifs: Minimal Spiking Neural Networks**|Fabio Schittler Neves et.al.|[2303.12225v1](http://arxiv.org/abs/2303.12225v1)|null|
 |**2023-03-14**|**Training and Deploying Spiking NN Applications to the Mixed-Signal Neuromorphic Chip Dynap-SE2 with Rockpool**|Uğurcan Çakal et.al.|[2303.12167v1](http://arxiv.org/abs/2303.12167v1)|null|
-|**2023-03-21**|**Online Transformers with Spiking Neurons for Fast Prosthetic Hand Control**|Nathan Leroux et.al.|[2303.11860v1](http://arxiv.org/abs/2303.11860v1)|null|
+|**2023-03-21**|**Online Transformers with Spiking Neurons for Fast Prosthetic Hand Control**|Nathan Leroux et.al.|[2303.11860v1](http://arxiv.org/abs/2303.11860v1)|**[link](https://github.com/nathanleroux-git/onlinetransformerwithspikingneurons)**|
 |**2023-03-20**|**MT-SNN: Enhance Spiking Neural Network with Multiple Thresholds**|Xiaoting Wang et.al.|[2303.11127v1](http://arxiv.org/abs/2303.11127v1)|null|
 |**2023-03-21**|**A Comprehensive Review of Spiking Neural Networks: Interpretation, Optimization, Efficiency, and Best Practices**|Kai Malcolm et.al.|[2303.10780v2](http://arxiv.org/abs/2303.10780v2)|null|
 |**2023-03-21**|**RN-Net: Reservoir Nodes-Enabled Neuromorphic Vision Sensing Network**|Sangmin Yoo et.al.|[2303.10770v2](http://arxiv.org/abs/2303.10770v2)|null|
@@ -319,5 +321,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
 
