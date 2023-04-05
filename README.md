@@ -1,4 +1,4 @@
-## Updated on 2023.04.04
+## Updated on 2023.04.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-02**|**SEENN: Towards Temporal Spiking Early-Exit Neural Networks**|Yuhang Li et.al.|[2304.01230v1](http://arxiv.org/abs/2304.01230v1)|null|
 |**2023-03-28**|**LIPSFUS: A neuromorphic dataset for audio-visual sensory fusion of lip reading**|Antonio Rios-Navarro et.al.|[2304.01080v1](http://arxiv.org/abs/2304.01080v1)|null|
 |**2023-03-31**|**Adaptive structure evolution and biologically plausible synaptic plasticity for recurrent spiking neural networks**|Wenxuan Pan et.al.|[2304.01015v1](http://arxiv.org/abs/2304.01015v1)|null|
 |**2023-03-31**|**Equivalence of Additive and Multiplicative Coupling in Spiking Neural Networks**|Georg Börner et.al.|[2304.00112v1](http://arxiv.org/abs/2304.00112v1)|null|
@@ -325,5 +326,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
 
