@@ -1,4 +1,4 @@
-## Updated on 2023.04.05
+## Updated on 2023.04.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -33,7 +33,7 @@
 |**2023-03-15**|**Fully neuromorphic vision and control for autonomous drone flight**|Federico Paredes-Vallés et.al.|[2303.08778v1](http://arxiv.org/abs/2303.08778v1)|null|
 |**2023-03-14**|**Emergent Bio-Functional Similarities in a Cortical-Spike-Train-Decoding Spiking Neural Network Facilitate Predictions of Neural Computation**|Tengjun Liu et.al.|[2303.07830v1](http://arxiv.org/abs/2303.07830v1)|null|
 |**2023-03-14**|**Training Robust Spiking Neural Networks with ViewPoint Transform and SpatioTemporal Stretching**|Haibo Shen et.al.|[2303.07609v1](http://arxiv.org/abs/2303.07609v1)|null|
-|**2023-03-27**|**Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse**|Liwei Huang et.al.|[2303.06060v2](http://arxiv.org/abs/2303.06060v2)|**[link](https://github.com/grasshlw/snn-neural-similarity)**|
+|**2023-04-05**|**Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse**|Liwei Huang et.al.|[2303.06060v3](http://arxiv.org/abs/2303.06060v3)|**[link](https://github.com/grasshlw/snn-neural-similarity)**|
 |**2023-03-09**|**Convergence of redundancy-free spiking neural networks to rate networks**|Valentin Schmutz et.al.|[2303.05174v1](http://arxiv.org/abs/2303.05174v1)|null|
 |**2023-03-08**|**Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks**|Tong Bu et.al.|[2303.04347v1](http://arxiv.org/abs/2303.04347v1)|**[link](https://github.com/putshua/SNN_conversion_QCFS)**|
 |**2023-03-08**|**Effect of Adult Neurogenesis on Sparsely Synchronized Rhythms of The Granule Cells in The Hippocampal Dentate Gyrus**|Sang-Yoon Kim et.al.|[2303.04319v1](http://arxiv.org/abs/2303.04319v1)|null|
@@ -61,7 +61,7 @@
 |**2023-02-06**|**Dynamic Training of Liquid State Machines**|Pavithra Koralalage et.al.|[2302.03506v1](http://arxiv.org/abs/2302.03506v1)|null|
 |**2023-02-04**|**Reducing ANN-SNN Conversion Error through Residual Membrane Potential**|Zecheng Hao et.al.|[2302.02091v1](http://arxiv.org/abs/2302.02091v1)|**[link](https://github.com/hzc1208/ANN2SNN_SRP)**|
 |**2023-02-03**|**Spiking Synaptic Penalty: Appropriate Penalty Term for Energy-Efficient Spiking Neural Networks**|Kazuma Suetake et.al.|[2302.01500v1](http://arxiv.org/abs/2302.01500v1)|null|
-|**2023-02-02**|**Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition**|Minglun Han et.al.|[2302.01194v1](http://arxiv.org/abs/2302.01194v1)|null|
+|**2023-02-02**|**Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition**|Minglun Han et.al.|[2302.01194v1](http://arxiv.org/abs/2302.01194v1)|**[link](https://github.com/MingLunHan/CIF-PyTorch)**|
 |**2023-02-02**|**OpenSpike: An OpenRAM SNN Accelerator**|Farhad Modaresi et.al.|[2302.01015v1](http://arxiv.org/abs/2302.01015v1)|**[link](https://github.com/sfmth/openspike)**|
 |**2023-02-05**|**Energy Efficient Training of SNN using Local Zeroth Order Method**|Bhaskar Mukhoty et.al.|[2302.00910v2](http://arxiv.org/abs/2302.00910v2)|null|
 |**2023-02-01**|**SPIDE: A Purely Spike-based Method for Training Feedback Spiking Neural Networks**|Mingqing Xiao et.al.|[2302.00232v1](http://arxiv.org/abs/2302.00232v1)|**[link](https://github.com/pkuxmq/spide-fsnn)**|
@@ -326,5 +326,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
 
