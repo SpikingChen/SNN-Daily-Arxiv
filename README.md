@@ -1,4 +1,4 @@
-## Updated on 2023.04.09
+## Updated on 2023.04.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -143,7 +143,7 @@
 |**2022-10-11**|**STSC-SNN: Spatio-Temporal Synaptic Connection with Temporal Convolution and Attention for Spiking Neural Networks**|Chengting Yu et.al.|[2210.05241v1](http://arxiv.org/abs/2210.05241v1)|null|
 |**2022-11-22**|**Energy-Efficient Deployment of Machine Learning Workloads on Neuromorphic Hardware**|Peyton Chandarana et.al.|[2210.05006v2](http://arxiv.org/abs/2210.05006v2)|null|
 |**2022-10-10**|**Training Spiking Neural Networks with Local Tandem Learning**|Qu Yang et.al.|[2210.04532v1](http://arxiv.org/abs/2210.04532v1)|**[link](https://github.com/aries231/local_tandem_learning_rule)**|
-|**2022-12-19**|**Boost Event-Driven Tactile Learning with Location Spiking Neurons**|Peng Kang et.al.|[2210.04277v3](http://arxiv.org/abs/2210.04277v3)|null|
+|**2022-12-19**|**Boost Event-Driven Tactile Learning with Location Spiking Neurons**|Peng Kang et.al.|[2210.04277v3](http://arxiv.org/abs/2210.04277v3)|**[link](https://github.com/pkang2017/tactilelsn)**|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-12-31**|**Online Training Through Time for Spiking Neural Networks**|Mingqing Xiao et.al.|[2210.04195v2](http://arxiv.org/abs/2210.04195v2)|**[link](https://github.com/pkuxmq/ottt-snn)**|
 |**2022-10-11**|**Toward an Over-parameterized Direct-Fit Model of Visual Perception**|Xin Li et.al.|[2210.03850v2](http://arxiv.org/abs/2210.03850v2)|null|
@@ -326,5 +326,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
