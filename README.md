@@ -1,4 +1,4 @@
-## Updated on 2023.04.13
+## Updated on 2023.04.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Temporal Knowledge Sharing enable Spiking Neural Network Learning from Past and Future**|Yiting Dong et.al.|[2304.06540v1](http://arxiv.org/abs/2304.06540v1)|null|
+|**2023-04-13**|**A spintronic Huxley-Hodgkin-analogue neuron implemented with a single magnetic tunnel junction**|Davi R. Rodrigues et.al.|[2304.06343v1](http://arxiv.org/abs/2304.06343v1)|null|
 |**2023-04-12**|**Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation**|Qi Xu et.al.|[2304.05627v1](http://arxiv.org/abs/2304.05627v1)|null|
 |**2023-04-12**|**Distributed Compressed Sparse Row Format for Spiking Neural Network Simulation, Serialization, and Interoperability**|Felix Wang et.al.|[2304.05587v1](http://arxiv.org/abs/2304.05587v1)|null|
 |**2023-04-10**|**Stochastic Domain Wall-Magnetic Tunnel Junction Artificial Neurons for Noise-Resilient Spiking Neural Networks**|Thomas Leonard et.al.|[2304.04794v1](http://arxiv.org/abs/2304.04794v1)|null|
@@ -333,5 +335,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230414>back to top</a>)</p>
 
