@@ -1,4 +1,4 @@
-## Updated on 2023.04.17
+## Updated on 2023.04.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-15**|**EEGSN: Towards Efficient Low-latency Decoding of EEG with Graph Spiking Neural Networks**|Xi Chen et.al.|[2304.07655v1](http://arxiv.org/abs/2304.07655v1)|null|
 |**2023-04-14**|**Neuromorphic Optical Flow and Real-time Implementation with Event Cameras**|Yannick Schnider et.al.|[2304.07139v1](http://arxiv.org/abs/2304.07139v1)|null|
 |**2023-04-14**|**A Bibliometric Review of Neuromorphic Computing and Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2304.06897v1](http://arxiv.org/abs/2304.06897v1)|null|
 |**2023-04-13**|**Temporal Knowledge Sharing enable Spiking Neural Network Learning from Past and Future**|Yiting Dong et.al.|[2304.06540v1](http://arxiv.org/abs/2304.06540v1)|null|
 |**2023-04-13**|**A spintronic Huxley-Hodgkin-analogue neuron implemented with a single magnetic tunnel junction**|Davi R. Rodrigues et.al.|[2304.06343v1](http://arxiv.org/abs/2304.06343v1)|null|
-|**2023-04-12**|**Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation**|Qi Xu et.al.|[2304.05627v1](http://arxiv.org/abs/2304.05627v1)|null|
+|**2023-04-17**|**Constructing Deep Spiking Neural Networks from Artificial Neural Networks with Knowledge Distillation**|Qi Xu et.al.|[2304.05627v2](http://arxiv.org/abs/2304.05627v2)|null|
 |**2023-04-12**|**Distributed Compressed Sparse Row Format for Spiking Neural Network Simulation, Serialization, and Interoperability**|Felix Wang et.al.|[2304.05587v1](http://arxiv.org/abs/2304.05587v1)|null|
 |**2023-04-10**|**Stochastic Domain Wall-Magnetic Tunnel Junction Artificial Neurons for Noise-Resilient Spiking Neural Networks**|Thomas Leonard et.al.|[2304.04794v1](http://arxiv.org/abs/2304.04794v1)|null|
 |**2023-04-10**|**Brain-Inspired Spiking Neural Network for Online Unsupervised Time Series Prediction**|Biswadeep Chakraborty et.al.|[2304.04697v1](http://arxiv.org/abs/2304.04697v1)|null|
@@ -146,7 +147,7 @@
 |**2022-10-23**|**Towards Energy-Efficient, Low-Latency and Accurate Spiking LSTMs**|Gourav Datta et.al.|[2210.12613v1](http://arxiv.org/abs/2210.12613v1)|null|
 |**2022-10-18**|**The Brain-Inspired Cooperative Shared Control for Brain-Machine Interface**|Shengjie Zheng et.al.|[2210.09531v1](http://arxiv.org/abs/2210.09531v1)|null|
 |**2022-10-24**|**Biologically plausible solutions for spiking networks with efficient coding**|Veronika Koren et.al.|[2210.07069v2](http://arxiv.org/abs/2210.07069v2)|null|
-|**2023-01-03**|**SNN-SC: A Spiking Semantic Communication Framework for Classification**|Mengyang Wang et.al.|[2210.06836v2](http://arxiv.org/abs/2210.06836v2)|null|
+|**2023-04-17**|**SNN-SC: A Spiking Semantic Communication Framework for Feature Transmission**|Mengyang Wang et.al.|[2210.06836v3](http://arxiv.org/abs/2210.06836v3)|null|
 |**2022-10-13**|**Real Spike: Learning Real-valued Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2210.06686v1](http://arxiv.org/abs/2210.06686v1)|**[link](https://github.com/yfguo91/Real-Spike)**|
 |**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|**[link](https://github.com/langfengq/mlf-dsresnet)**|
 |**2022-10-07**|**An Energy-Efficient Spiking Neural Network for Finger Velocity Decoding for Implantable Brain-Machine Interface**|Jiawei Liao et.al.|[2210.06287v1](http://arxiv.org/abs/2210.06287v1)|**[link](https://github.com/liaorichard/snn-for-finger-velocity-ibmi)**|
@@ -337,5 +338,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
