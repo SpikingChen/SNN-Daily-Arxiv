@@ -1,4 +1,4 @@
-## Updated on 2023.04.18
+## Updated on 2023.04.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**LaSNN: Layer-wise ANN-to-SNN Distillation for Effective and Efficient Training in Deep Spiking Neural Networks**|Di Hong et.al.|[2304.09101v1](http://arxiv.org/abs/2304.09101v1)|null|
+|**2023-04-18**|**Stochastic spin-orbit-torque device as the STDP synapse for spiking neural networks**|Haotian Li et.al.|[2304.08856v1](http://arxiv.org/abs/2304.08856v1)|null|
+|**2023-04-18**|**Neuromorphic computing for attitude estimation onboard quadrotors**|Stein Stroobants et.al.|[2304.08802v1](http://arxiv.org/abs/2304.08802v1)|null|
+|**2023-04-18**|**LTC-SE: Expanding the Potential of Liquid Time-Constant Neural Networks for Scalable AI and Embedded Systems**|Michael Bidollahkhani et.al.|[2304.08691v1](http://arxiv.org/abs/2304.08691v1)|null|
 |**2023-04-15**|**EEGSN: Towards Efficient Low-latency Decoding of EEG with Graph Spiking Neural Networks**|Xi Chen et.al.|[2304.07655v1](http://arxiv.org/abs/2304.07655v1)|null|
 |**2023-04-14**|**Neuromorphic Optical Flow and Real-time Implementation with Event Cameras**|Yannick Schnider et.al.|[2304.07139v1](http://arxiv.org/abs/2304.07139v1)|null|
 |**2023-04-14**|**A Bibliometric Review of Neuromorphic Computing and Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2304.06897v1](http://arxiv.org/abs/2304.06897v1)|null|
@@ -338,5 +342,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
