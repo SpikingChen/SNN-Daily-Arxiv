@@ -1,4 +1,4 @@
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Pulse shape and voltage-dependent synchronization in spiking neuron networks**|Bastian Pietras et.al.|[2304.09813v1](http://arxiv.org/abs/2304.09813v1)|null|
+|**2023-04-19**|**Biologically inspired structure learning with reverse knowledge distillation for spiking neural networks**|Qi Xu et.al.|[2304.09500v1](http://arxiv.org/abs/2304.09500v1)|null|
 |**2023-04-17**|**LaSNN: Layer-wise ANN-to-SNN Distillation for Effective and Efficient Training in Deep Spiking Neural Networks**|Di Hong et.al.|[2304.09101v1](http://arxiv.org/abs/2304.09101v1)|null|
 |**2023-04-18**|**Stochastic spin-orbit-torque device as the STDP synapse for spiking neural networks**|Haotian Li et.al.|[2304.08856v1](http://arxiv.org/abs/2304.08856v1)|null|
 |**2023-04-18**|**Neuromorphic computing for attitude estimation onboard quadrotors**|Stein Stroobants et.al.|[2304.08802v1](http://arxiv.org/abs/2304.08802v1)|null|
 |**2023-04-18**|**LTC-SE: Expanding the Potential of Liquid Time-Constant Neural Networks for Scalable AI and Embedded Systems**|Michael Bidollahkhani et.al.|[2304.08691v1](http://arxiv.org/abs/2304.08691v1)|null|
-|**2023-04-15**|**EEGSN: Towards Efficient Low-latency Decoding of EEG with Graph Spiking Neural Networks**|Xi Chen et.al.|[2304.07655v1](http://arxiv.org/abs/2304.07655v1)|null|
+|**2023-04-18**|**EEGSN: Towards Efficient Low-latency Decoding of EEG with Graph Spiking Neural Networks**|Xi Chen et.al.|[2304.07655v2](http://arxiv.org/abs/2304.07655v2)|null|
 |**2023-04-14**|**Neuromorphic Optical Flow and Real-time Implementation with Event Cameras**|Yannick Schnider et.al.|[2304.07139v1](http://arxiv.org/abs/2304.07139v1)|null|
 |**2023-04-14**|**A Bibliometric Review of Neuromorphic Computing and Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2304.06897v1](http://arxiv.org/abs/2304.06897v1)|null|
 |**2023-04-13**|**Temporal Knowledge Sharing enable Spiking Neural Network Learning from Past and Future**|Yiting Dong et.al.|[2304.06540v1](http://arxiv.org/abs/2304.06540v1)|null|
@@ -153,7 +155,7 @@
 |**2022-10-24**|**Biologically plausible solutions for spiking networks with efficient coding**|Veronika Koren et.al.|[2210.07069v2](http://arxiv.org/abs/2210.07069v2)|null|
 |**2023-04-17**|**SNN-SC: A Spiking Semantic Communication Framework for Feature Transmission**|Mengyang Wang et.al.|[2210.06836v3](http://arxiv.org/abs/2210.06836v3)|null|
 |**2022-10-13**|**Real Spike: Learning Real-valued Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2210.06686v1](http://arxiv.org/abs/2210.06686v1)|**[link](https://github.com/yfguo91/Real-Spike)**|
-|**2022-10-12**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v1](http://arxiv.org/abs/2210.06386v1)|**[link](https://github.com/langfengq/mlf-dsresnet)**|
+|**2023-04-19**|**Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks**|Lang Feng et.al.|[2210.06386v2](http://arxiv.org/abs/2210.06386v2)|**[link](https://github.com/langfengq/mlf-dsresnet)**|
 |**2022-10-07**|**An Energy-Efficient Spiking Neural Network for Finger Velocity Decoding for Implantable Brain-Machine Interface**|Jiawei Liao et.al.|[2210.06287v1](http://arxiv.org/abs/2210.06287v1)|**[link](https://github.com/liaorichard/snn-for-finger-velocity-ibmi)**|
 |**2022-10-12**|**The computational and learning benefits of Daleian neural networks**|Adam Haber et.al.|[2210.05961v1](http://arxiv.org/abs/2210.05961v1)|**[link](https://github.com/adamhaber/daleian_networks)**|
 |**2022-10-11**|**STSC-SNN: Spatio-Temporal Synaptic Connection with Temporal Convolution and Attention for Spiking Neural Networks**|Chengting Yu et.al.|[2210.05241v1](http://arxiv.org/abs/2210.05241v1)|null|
@@ -342,5 +344,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230420>back to top</a>)</p>
 
