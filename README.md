@@ -1,4 +1,4 @@
-## Updated on 2023.05.01
+## Updated on 2023.05.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -131,7 +131,7 @@
 |**2022-11-29**|**Sequence learning in a spiking neuronal network with memristive synapses**|Younes Bouhadjar et.al.|[2211.16592v1](http://arxiv.org/abs/2211.16592v1)|null|
 |**2022-11-29**|**Timing-Based Backpropagation in Spiking Neural Networks Without Single-Spike Restrictions**|Kakei Yamamoto et.al.|[2211.16113v1](http://arxiv.org/abs/2211.16113v1)|null|
 |**2022-11-24**|**PC-SNN: Supervised Learning with Local Hebbian Synaptic Plasticity based on Predictive Coding in Spiking Neural Networks**|Mengting Lan et.al.|[2211.15386v1](http://arxiv.org/abs/2211.15386v1)|null|
-|**2022-11-26**|**Game Theoretic Mixed Experts for Combinational Adversarial Machine Learning**|Ethan Rathbun et.al.|[2211.14669v1](http://arxiv.org/abs/2211.14669v1)|**[link](https://github.com/ethanrath/game-theoretic-mixed-experts)**|
+|**2023-04-29**|**Game Theoretic Mixed Experts for Combinational Adversarial Machine Learning**|Ethan Rathbun et.al.|[2211.14669v2](http://arxiv.org/abs/2211.14669v2)|**[link](https://github.com/ethanrath/game-theoretic-mixed-experts)**|
 |**2022-11-30**|**Exploring Temporal Information Dynamics in Spiking Neural Networks**|Youngeun Kim et.al.|[2211.14406v2](http://arxiv.org/abs/2211.14406v2)|**[link](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks)**|
 |**2023-02-17**|**Meta-Learning the Inductive Biases of Simple Neural Circuits**|William Dorrell et.al.|[2211.13544v2](http://arxiv.org/abs/2211.13544v2)|**[link](https://github.com/wilburdoz/meta_learning_inductive_bias)**|
 |**2022-11-23**|**An Adaptive Event-based Data Converter for Always-on Biomedical Applications at the Edge**|Mohammadali Sharifshazileh et.al.|[2211.13102v1](http://arxiv.org/abs/2211.13102v1)|null|
@@ -357,5 +357,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
 
