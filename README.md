@@ -1,4 +1,4 @@
-## Updated on 2023.05.03
+## Updated on 2023.05.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**Joint A-SNN: Joint Training of Artificial and Spiking Neural Networks via Self-Distillation and Weight Factorization**|Yufei Guo et.al.|[2305.02099v1](http://arxiv.org/abs/2305.02099v1)|null|
 |**2023-04-27**|**Spiking Neural Network Decision Feedback Equalization for IM/DD Systems**|Alexander von Bank et.al.|[2304.14152v1](http://arxiv.org/abs/2304.14152v1)|**[link](https://github.com/kit-cel/snn-dfe)**|
 |**2023-04-27**|**Neuromorphic Computing with AER using Time-to-Event-Margin Propagation**|Madhuvanthi Srivatsav R et.al.|[2304.13918v1](http://arxiv.org/abs/2304.13918v1)|**[link](https://github.com/neuronics-lab/temp-framework)**|
 |**2023-04-26**|**Membrane Potential Distribution Adjustment and Parametric Surrogate Gradient in Spiking Neural Networks**|Siqi Wang et.al.|[2304.13289v1](http://arxiv.org/abs/2304.13289v1)|null|
@@ -141,7 +142,7 @@
 |**2022-11-22**|**MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network**|Xiaoshan Wu et.al.|[2211.12156v1](http://arxiv.org/abs/2211.12156v1)|null|
 |**2022-11-21**|**A Low Latency Adaptive Coding Spiking Framework for Deep Reinforcement Learning**|Lang Qin et.al.|[2211.11760v1](http://arxiv.org/abs/2211.11760v1)|null|
 |**2023-03-17**|**HALSIE: Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities**|Shristi Das Biswas et.al.|[2211.10754v3](http://arxiv.org/abs/2211.10754v3)|null|
-|**2022-11-19**|**Intelligence Processing Units Accelerate Neuromorphic Learning**|Pao-Sheng Vincent Sun et.al.|[2211.10725v1](http://arxiv.org/abs/2211.10725v1)|null|
+|**2022-11-19**|**Intelligence Processing Units Accelerate Neuromorphic Learning**|Pao-Sheng Vincent Sun et.al.|[2211.10725v1](http://arxiv.org/abs/2211.10725v1)|**[link](https://github.com/vinniesun/snntorch-ipu)**|
 |**2022-11-19**|**Spikeformer: A Novel Architecture for Training High-Performance Low-Latency Spiking Neural Network**|Yudong Li et.al.|[2211.10686v1](http://arxiv.org/abs/2211.10686v1)|null|
 |**2022-11-17**|**SMS: Spiking Marching Scheme for Efficient Long Time Integration of Differential Equations**|Qian Zhang et.al.|[2211.09928v1](http://arxiv.org/abs/2211.09928v1)|null|
 |**2022-10-27**|**Low Latency Conversion of Artificial Neural Network Models to Rate-encoded Spiking Neural Networks**|Zhanglu Yan et.al.|[2211.08410v1](http://arxiv.org/abs/2211.08410v1)|null|
@@ -357,5 +358,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
 
