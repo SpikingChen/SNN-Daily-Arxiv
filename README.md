@@ -1,4 +1,4 @@
-## Updated on 2023.05.04
+## Updated on 2023.05.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing**|Prasanna Date et.al.|[2305.02510v1](http://arxiv.org/abs/2305.02510v1)|null|
 |**2023-05-03**|**Joint A-SNN: Joint Training of Artificial and Spiking Neural Networks via Self-Distillation and Weight Factorization**|Yufei Guo et.al.|[2305.02099v1](http://arxiv.org/abs/2305.02099v1)|null|
 |**2023-04-27**|**Spiking Neural Network Decision Feedback Equalization for IM/DD Systems**|Alexander von Bank et.al.|[2304.14152v1](http://arxiv.org/abs/2304.14152v1)|**[link](https://github.com/kit-cel/snn-dfe)**|
 |**2023-04-27**|**Neuromorphic Computing with AER using Time-to-Event-Margin Propagation**|Madhuvanthi Srivatsav R et.al.|[2304.13918v1](http://arxiv.org/abs/2304.13918v1)|**[link](https://github.com/neuronics-lab/temp-framework)**|
@@ -358,5 +359,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230505>back to top</a>)</p>
 
