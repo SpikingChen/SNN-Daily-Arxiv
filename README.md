@@ -1,4 +1,4 @@
-## Updated on 2023.05.10
+## Updated on 2023.05.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-10**|**Enhancing the Performance of Transformer-based Spiking Neural Networks by Improved Downsampling with Precise Gradient Backpropagation**|Chenlin Zhou et.al.|[2305.05954v1](http://arxiv.org/abs/2305.05954v1)|**[link](https://github.com/zhouchenlin2096/spikingformer-cml)**|
+|**2023-05-09**|**Spiking Neural Networks in the Alexiewicz Topology: A New Perspective on Analysis and Error Bounds**|Bernhard A. Moser et.al.|[2305.05772v1](http://arxiv.org/abs/2305.05772v1)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
 |**2023-05-09**|**DeepFire2: A Convolutional Spiking Neural Network Accelerator on FPGAs**|Myat Thu Linn Aung et.al.|[2305.05187v1](http://arxiv.org/abs/2305.05187v1)|null|
 |**2023-05-05**|**Spiking neural networks with Hebbian plasticity for unsupervised representation learning**|Naresh Ravichandran et.al.|[2305.03866v1](http://arxiv.org/abs/2305.03866v1)|null|
 |**2023-05-04**|**SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing**|Prasanna Date et.al.|[2305.02510v1](http://arxiv.org/abs/2305.02510v1)|null|
@@ -25,7 +27,7 @@
 |**2023-04-24**|**Accurate and Efficient Event-based Semantic Segmentation Using Adaptive Spiking Encoder-Decoder Network**|Rui Zhang et.al.|[2304.11857v1](http://arxiv.org/abs/2304.11857v1)|null|
 |**2023-04-27**|**A Convolutional Spiking Network for Gesture Recognition in Brain-Computer Interfaces**|Yiming Ai et.al.|[2304.11106v2](http://arxiv.org/abs/2304.11106v2)|null|
 |**2023-04-21**|**Electromechanical memcapacitive neurons for energy-efficient spiking neural networks**|Zixi Zhang et.al.|[2304.10899v1](http://arxiv.org/abs/2304.10899v1)|null|
-|**2023-04-21**|**Multi-scale Evolutionary Neural Architecture Search for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2304.10749v1](http://arxiv.org/abs/2304.10749v1)|null|
+|**2023-05-09**|**Emergence of Brain-inspired Small-world Spiking Neural Network through Neuroevolution**|Wenxuan Pan et.al.|[2304.10749v2](http://arxiv.org/abs/2304.10749v2)|null|
 |**2023-04-20**|**Spiking-Fer: Spiking Neural Network for Facial Expression Recognition With Event Cameras**|Sami Barchid et.al.|[2304.10211v1](http://arxiv.org/abs/2304.10211v1)|null|
 |**2023-04-20**|**Efficient Uncertainty Estimation in Spiking Neural Networks via MC-dropout**|Tao Sun et.al.|[2304.10191v1](http://arxiv.org/abs/2304.10191v1)|null|
 |**2023-04-19**|**Pulse shape and voltage-dependent synchronization in spiking neuron networks**|Bastian Pietras et.al.|[2304.09813v1](http://arxiv.org/abs/2304.09813v1)|null|
@@ -361,5 +363,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230511>back to top</a>)</p>
 
