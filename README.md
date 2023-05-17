@@ -1,4 +1,4 @@
-## Updated on 2023.05.16
+## Updated on 2023.05.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-15**|**Training Neural Networks without Backpropagation: A Deeper Dive into the Likelihood Ratio Method**|Jinyang Jiang et.al.|[2305.08960v1](http://arxiv.org/abs/2305.08960v1)|null|
+|**2023-05-13**|**Spiking Network Initialisation and Firing Rate Collapse**|Nicolas Perez-Nieves et.al.|[2305.08879v1](http://arxiv.org/abs/2305.08879v1)|null|
 |**2023-05-13**|**Quantization in Spiking Neural Networks**|Bernhard A. Moser et.al.|[2305.08012v1](http://arxiv.org/abs/2305.08012v1)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
 |**2023-05-12**|**Applications of information geometry to spiking neural network behavior**|Jacob T. Crosser et.al.|[2305.07482v1](http://arxiv.org/abs/2305.07482v1)|null|
-|**2023-05-10**|**Enhancing the Performance of Transformer-based Spiking Neural Networks by Improved Downsampling with Precise Gradient Backpropagation**|Chenlin Zhou et.al.|[2305.05954v1](http://arxiv.org/abs/2305.05954v1)|**[link](https://github.com/zhouchenlin2096/spikingformer-cml)**|
+|**2023-05-16**|**Enhancing the Performance of Transformer-based Spiking Neural Networks by SNN-optimized Downsampling with Precise Gradient Backpropagation**|Chenlin Zhou et.al.|[2305.05954v2](http://arxiv.org/abs/2305.05954v2)|**[link](https://github.com/zhouchenlin2096/spikingformer-cml)**|
 |**2023-05-09**|**Spiking Neural Networks in the Alexiewicz Topology: A New Perspective on Analysis and Error Bounds**|Bernhard A. Moser et.al.|[2305.05772v1](http://arxiv.org/abs/2305.05772v1)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
 |**2023-05-09**|**DeepFire2: A Convolutional Spiking Neural Network Accelerator on FPGAs**|Myat Thu Linn Aung et.al.|[2305.05187v1](http://arxiv.org/abs/2305.05187v1)|null|
 |**2023-05-10**|**Spiking neural networks with Hebbian plasticity for unsupervised representation learning**|Naresh Ravichandran et.al.|[2305.03866v2](http://arxiv.org/abs/2305.03866v2)|null|
@@ -365,5 +367,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230516>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
 
