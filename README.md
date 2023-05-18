@@ -1,4 +1,4 @@
-## Updated on 2023.05.17
+## Updated on 2023.05.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**SGAD: Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246v1](http://arxiv.org/abs/2305.10246v1)|null|
+|**2023-04-30**|**Sparsifying Spiking Networks through Local Rhythms**|Wilkie Olin-Ammentorp et.al.|[2305.10191v1](http://arxiv.org/abs/2305.10191v1)|null|
+|**2023-05-16**|**MINT: Multiplier-less Integer Quantization for Spiking Neural Networks**|Ruokai Yin et.al.|[2305.09850v1](http://arxiv.org/abs/2305.09850v1)|null|
 |**2023-05-15**|**Training Neural Networks without Backpropagation: A Deeper Dive into the Likelihood Ratio Method**|Jinyang Jiang et.al.|[2305.08960v1](http://arxiv.org/abs/2305.08960v1)|null|
 |**2023-05-13**|**Spiking Network Initialisation and Firing Rate Collapse**|Nicolas Perez-Nieves et.al.|[2305.08879v1](http://arxiv.org/abs/2305.08879v1)|null|
 |**2023-05-13**|**Quantization in Spiking Neural Networks**|Bernhard A. Moser et.al.|[2305.08012v1](http://arxiv.org/abs/2305.08012v1)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
@@ -96,7 +99,7 @@
 |**2023-02-15**|**Frameworks for SNNs: a Review of Data Science-oriented Software and an Expansion of SpykeTorch**|Davide Liberato Manna et.al.|[2302.07624v1](http://arxiv.org/abs/2302.07624v1)|**[link](https://github.com/daevem/spyketorch-extended)**|
 |**2023-02-14**|**Hybrid Spiking Neural Network Fine-tuning for Hippocampus Segmentation**|Ye Yue et.al.|[2302.07328v1](http://arxiv.org/abs/2302.07328v1)|null|
 |**2023-02-13**|**Workload-Balanced Pruning for Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2302.06746v1](http://arxiv.org/abs/2302.06746v1)|null|
-|**2023-02-13**|**Optical Flow estimation with Event-based Cameras and Spiking Neural Networks**|Javier Cuadrado et.al.|[2302.06492v1](http://arxiv.org/abs/2302.06492v1)|**[link](https://github.com/j-cuadrado/of_ev_snn)**|
+|**2023-05-17**|**Optical flow estimation from event-based cameras and spiking neural networks**|Javier Cuadrado et.al.|[2302.06492v2](http://arxiv.org/abs/2302.06492v2)|**[link](https://github.com/j-cuadrado/of_ev_snn)**|
 |**2023-02-13**|**Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data**|Gorka Abad et.al.|[2302.06279v1](http://arxiv.org/abs/2302.06279v1)|null|
 |**2023-02-08**|**The Hardware Impact of Quantization and Pruning for Weights in Spiking Neural Networks**|Clemens JS Schaefer et.al.|[2302.04174v1](http://arxiv.org/abs/2302.04174v1)|**[link](https://github.com/intelligent-microsystems-lab/snnquantprune)**|
 |**2023-02-06**|**Dynamic Training of Liquid State Machines**|Pavithra Koralalage et.al.|[2302.03506v1](http://arxiv.org/abs/2302.03506v1)|null|
@@ -206,7 +209,7 @@
 |**2022-09-24**|**Spiking SiamFC++: Deep Spiking Neural Network for Object Tracking**|Shuiying Xiang et.al.|[2209.12010v1](http://arxiv.org/abs/2209.12010v1)|null|
 |**2022-12-20**|**Neuromorphic Integrated Sensing and Communications**|Jiechen Chen et.al.|[2209.11891v2](http://arxiv.org/abs/2209.11891v2)|null|
 |**2023-03-14**|**Adaptive-SpikeNet: Event-based Optical Flow Estimation using Spiking Neural Networks with Learnable Neuronal Dynamics**|Adarsh Kumar Kosta et.al.|[2209.11741v2](http://arxiv.org/abs/2209.11741v2)|null|
-|**2022-09-22**|**A Spatial-channel-temporal-fused Attention for Spiking Neural Networks**|Wuque Cai et.al.|[2209.10837v1](http://arxiv.org/abs/2209.10837v1)|null|
+|**2023-05-17**|**A Spatial-channel-temporal-fused Attention for Spiking Neural Networks**|Wuque Cai et.al.|[2209.10837v2](http://arxiv.org/abs/2209.10837v2)|null|
 |**2022-09-20**|**A Spiking Neural Network Learning Markov Chain**|Mikhail Kiselev et.al.|[2209.09572v1](http://arxiv.org/abs/2209.09572v1)|null|
 |**2023-05-05**|**Ensembles of Compact, Region-specific & Regularized Spiking Neural Networks for Scalable Place Recognition**|Somayeh Hussaini et.al.|[2209.08723v3](http://arxiv.org/abs/2209.08723v3)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-03-08**|**Astromorphic Self-Repair of Neuromorphic Hardware Systems**|Zhuangyu Han et.al.|[2209.07428v4](http://arxiv.org/abs/2209.07428v4)|**[link](https://github.com/NeuroCompLab-psu/Astromorphic_Self_Repair)**|
@@ -367,5 +370,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
 
