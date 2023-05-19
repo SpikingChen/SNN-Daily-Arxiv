@@ -1,4 +1,4 @@
-## Updated on 2023.05.18
+## Updated on 2023.05.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-05-17**|**SGAD: Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246v1](http://arxiv.org/abs/2305.10246v1)|null|
+|**2023-05-18**|**Neuromorphic Bayesian Optimization in Lava**|Shay Snyder et.al.|[2305.11060v1](http://arxiv.org/abs/2305.11060v1)|null|
+|**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|**[link](https://github.com/henriquejsb/spenser)**|
+|**2023-05-18**|**Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246v2](http://arxiv.org/abs/2305.10246v2)|null|
 |**2023-04-30**|**Sparsifying Spiking Networks through Local Rhythms**|Wilkie Olin-Ammentorp et.al.|[2305.10191v1](http://arxiv.org/abs/2305.10191v1)|null|
 |**2023-05-16**|**MINT: Multiplier-less Integer Quantization for Spiking Neural Networks**|Ruokai Yin et.al.|[2305.09850v1](http://arxiv.org/abs/2305.09850v1)|null|
 |**2023-05-15**|**Training Neural Networks without Backpropagation: A Deeper Dive into the Likelihood Ratio Method**|Jinyang Jiang et.al.|[2305.08960v1](http://arxiv.org/abs/2305.08960v1)|null|
@@ -130,7 +132,7 @@
 |**2022-11-22**|**Fast Exploration of the Impact of Precision Reduction on Spiking Neural Networks**|Sepide Saeedi et.al.|[2212.11782v1](http://arxiv.org/abs/2212.11782v1)|null|
 |**2022-12-21**|**In-Sensor & Neuromorphic Computing are all you need for Energy Efficient Computer Vision**|Gourav Datta et.al.|[2212.10881v1](http://arxiv.org/abs/2212.10881v1)|null|
 |**2022-12-20**|**Hoyer regularizer is all you need for ultra low-latency spiking neural networks**|Gourav Datta et.al.|[2212.10170v1](http://arxiv.org/abs/2212.10170v1)|null|
-|**2022-12-15**|**Exact Error Backpropagation Through Spikes for Precise Training of Spiking Neural Networks**|Florian Bacho et.al.|[2212.09500v1](http://arxiv.org/abs/2212.09500v1)|**[link](https://github.com/florian-bacho/bats)**|
+|**2023-05-18**|**Exploring Tradeoffs in Spiking Neural Networks**|Florian Bacho et.al.|[2212.09500v2](http://arxiv.org/abs/2212.09500v2)|**[link](https://github.com/florian-bacho/bats)**|
 |**2022-12-16**|**Emergent communication enhances foraging behaviour in evolved swarms controlled by Spiking Neural Networks**|Cristian Jimenez Romero et.al.|[2212.08484v1](http://arxiv.org/abs/2212.08484v1)|null|
 |**2022-12-08**|**Models Developed for Spiking Neural Networks**|Shahriar Rezghi Shirsavar et.al.|[2212.04377v1](http://arxiv.org/abs/2212.04377v1)|null|
 |**2022-11-13**|**Review of medical data analysis based on spiking neural networks**|X. Li et.al.|[2212.02234v1](http://arxiv.org/abs/2212.02234v1)|null|
@@ -370,5 +372,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230519>back to top</a>)</p>
 
