@@ -1,4 +1,4 @@
-## Updated on 2023.05.22
+## Updated on 2023.05.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,13 +11,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Bio-inspired spike-based Hippocampus and Posterior Parietal Cortex models for robot navigation and environment pseudo-mapping**|Daniel Casanueva-Morato et.al.|[2305.12892v1](http://arxiv.org/abs/2305.12892v1)|**[link](https://github.com/dancasmor/bio-inspired-spike-based-hippocampus-and-posterior-parietal-cortex-robotic-system-for-pseudo-mapping)**|
+|**2023-05-20**|**An Asynchronous Wireless Network for Capturing Event-Driven Data from Large Populations of Autonomous Sensors**|Jihun Lee et.al.|[2305.12293v1](http://arxiv.org/abs/2305.12293v1)|null|
+|**2023-05-20**|**Probabilistic Modeling: Proving the Lottery Ticket Hypothesis in Spiking Neural Network**|Man Yao et.al.|[2305.12148v1](http://arxiv.org/abs/2305.12148v1)|null|
+|**2023-05-15**|**Neural information coding for efficient spike-based image denoising**|Andrea Castagnetti et.al.|[2305.11898v1](http://arxiv.org/abs/2305.11898v1)|null|
 |**2023-05-19**|**Dive into the Power of Neuronal Heterogeneity**|Guobin Shen et.al.|[2305.11484v1](http://arxiv.org/abs/2305.11484v1)|null|
 |**2023-05-18**|**SpikeCP: Delay-Adaptive Reliable Spiking Neural Networks via Conformal Prediction**|Jiechen Chen et.al.|[2305.11322v1](http://arxiv.org/abs/2305.11322v1)|null|
 |**2023-05-18**|**Neuromorphic Bayesian Optimization in Lava**|Shay Snyder et.al.|[2305.11060v1](http://arxiv.org/abs/2305.11060v1)|null|
 |**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|**[link](https://github.com/henriquejsb/spenser)**|
 |**2023-05-19**|**Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246v3](http://arxiv.org/abs/2305.10246v3)|null|
 |**2023-04-30**|**Sparsifying Spiking Networks through Local Rhythms**|Wilkie Olin-Ammentorp et.al.|[2305.10191v1](http://arxiv.org/abs/2305.10191v1)|null|
-|**2023-05-16**|**MINT: Multiplier-less Integer Quantization for Spiking Neural Networks**|Ruokai Yin et.al.|[2305.09850v1](http://arxiv.org/abs/2305.09850v1)|null|
+|**2023-05-20**|**MINT: Multiplier-less Integer Quantization for Spiking Neural Networks**|Ruokai Yin et.al.|[2305.09850v2](http://arxiv.org/abs/2305.09850v2)|null|
 |**2023-05-15**|**Training Neural Networks without Backpropagation: A Deeper Dive into the Likelihood Ratio Method**|Jinyang Jiang et.al.|[2305.08960v1](http://arxiv.org/abs/2305.08960v1)|null|
 |**2023-05-13**|**Spiking Network Initialisation and Firing Rate Collapse**|Nicolas Perez-Nieves et.al.|[2305.08879v1](http://arxiv.org/abs/2305.08879v1)|null|
 |**2023-05-13**|**Quantization in Spiking Neural Networks**|Bernhard A. Moser et.al.|[2305.08012v1](http://arxiv.org/abs/2305.08012v1)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
@@ -81,7 +85,7 @@
 |**2023-03-15**|**Fully neuromorphic vision and control for autonomous drone flight**|Federico Paredes-Vallés et.al.|[2303.08778v1](http://arxiv.org/abs/2303.08778v1)|null|
 |**2023-03-14**|**Emergent Bio-Functional Similarities in a Cortical-Spike-Train-Decoding Spiking Neural Network Facilitate Predictions of Neural Computation**|Tengjun Liu et.al.|[2303.07830v1](http://arxiv.org/abs/2303.07830v1)|null|
 |**2023-03-14**|**Training Robust Spiking Neural Networks with ViewPoint Transform and SpatioTemporal Stretching**|Haibo Shen et.al.|[2303.07609v1](http://arxiv.org/abs/2303.07609v1)|null|
-|**2023-05-12**|**Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse**|Liwei Huang et.al.|[2303.06060v4](http://arxiv.org/abs/2303.06060v4)|**[link](https://github.com/grasshlw/snn-neural-similarity)**|
+|**2023-05-22**|**Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse**|Liwei Huang et.al.|[2303.06060v5](http://arxiv.org/abs/2303.06060v5)|**[link](https://github.com/grasshlw/snn-neural-similarity)**|
 |**2023-03-09**|**Convergence of redundancy-free spiking neural networks to rate networks**|Valentin Schmutz et.al.|[2303.05174v1](http://arxiv.org/abs/2303.05174v1)|null|
 |**2023-03-08**|**Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks**|Tong Bu et.al.|[2303.04347v1](http://arxiv.org/abs/2303.04347v1)|**[link](https://github.com/putshua/SNN_conversion_QCFS)**|
 |**2023-03-08**|**Effect of Adult Neurogenesis on Sparsely Synchronized Rhythms of The Granule Cells in The Hippocampal Dentate Gyrus**|Sang-Yoon Kim et.al.|[2303.04319v1](http://arxiv.org/abs/2303.04319v1)|null|
@@ -374,5 +378,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
 
