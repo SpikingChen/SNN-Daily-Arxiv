@@ -1,4 +1,4 @@
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Unsupervised Spiking Neural Network Model of Prefrontal Cortex to study Task Switching with Synaptic deficiency**|Ashwin Viswanathan Kannan et.al.|[2305.14394v1](http://arxiv.org/abs/2305.14394v1)|null|
 |**2023-05-23**|**Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency**|Dongcheng Zhao et.al.|[2305.14174v1](http://arxiv.org/abs/2305.14174v1)|null|
-|**2023-05-23**|**Toward spike-based stochastic neural computing**|Yang Qi et.al.|[2305.13982v1](http://arxiv.org/abs/2305.13982v1)|null|
+|**2023-05-23**|**Toward spike-based stochastic neural computing**|Yang Qi et.al.|[2305.13982v1](http://arxiv.org/abs/2305.13982v1)|**[link](https://github.com/brainsoupfactory/moment-neural-network)**|
 |**2023-05-23**|**Temporal Contrastive Learning for Spiking Neural Networks**|Haonan Qiu et.al.|[2305.13909v1](http://arxiv.org/abs/2305.13909v1)|null|
 |**2023-05-22**|**Bio-inspired spike-based Hippocampus and Posterior Parietal Cortex models for robot navigation and environment pseudo-mapping**|Daniel Casanueva-Morato et.al.|[2305.12892v1](http://arxiv.org/abs/2305.12892v1)|**[link](https://github.com/dancasmor/bio-inspired-spike-based-hippocampus-and-posterior-parietal-cortex-robotic-system-for-pseudo-mapping)**|
 |**2023-05-20**|**An Asynchronous Wireless Network for Capturing Event-Driven Data from Large Populations of Autonomous Sensors**|Jihun Lee et.al.|[2305.12293v1](http://arxiv.org/abs/2305.12293v1)|null|
@@ -39,7 +40,7 @@
 |**2023-04-27**|**Neuromorphic Computing with AER using Time-to-Event-Margin Propagation**|Madhuvanthi Srivatsav R et.al.|[2304.13918v1](http://arxiv.org/abs/2304.13918v1)|**[link](https://github.com/neuronics-lab/temp-framework)**|
 |**2023-04-26**|**Membrane Potential Distribution Adjustment and Parametric Surrogate Gradient in Spiking Neural Networks**|Siqi Wang et.al.|[2304.13289v1](http://arxiv.org/abs/2304.13289v1)|null|
 |**2023-04-25**|**Uncovering the Representation of Spiking Neural Networks Trained with Surrogate Gradient**|Yuhang Li et.al.|[2304.13098v1](http://arxiv.org/abs/2304.13098v1)|**[link](https://github.com/intelligent-computing-lab-yale/snncka)**|
-|**2023-04-25**|**Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability**|Wei Fang et.al.|[2304.12760v1](http://arxiv.org/abs/2304.12760v1)|**[link](https://github.com/fangwei123456/parallel-spiking-neuron)**|
+|**2023-05-24**|**Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies**|Wei Fang et.al.|[2304.12760v2](http://arxiv.org/abs/2304.12760v2)|**[link](https://github.com/fangwei123456/parallel-spiking-neuron)**|
 |**2023-04-24**|**Neurogenesis Dynamics-inspired Spiking Neural Network Training Acceleration**|Shaoyi Huang et.al.|[2304.12214v1](http://arxiv.org/abs/2304.12214v1)|null|
 |**2023-05-19**|**Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network**|Chenlin Zhou et.al.|[2304.11954v3](http://arxiv.org/abs/2304.11954v3)|**[link](https://github.com/zhouchenlin2096/spikingformer)**|
 |**2023-04-24**|**Accurate and Efficient Event-based Semantic Segmentation Using Adaptive Spiking Encoder-Decoder Network**|Rui Zhang et.al.|[2304.11857v1](http://arxiv.org/abs/2304.11857v1)|null|
@@ -381,5 +382,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230524>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
 
