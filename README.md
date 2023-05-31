@@ -1,4 +1,4 @@
-## Updated on 2023.05.30
+## Updated on 2023.05.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-27**|**ColibriUAV: An Ultra-Fast, Energy-Efficient Neuromorphic Edge Processing UAV-Platform with Event-Based and Frame-Based Cameras**|Sizhen Bian et.al.|[2305.18371v1](http://arxiv.org/abs/2305.18371v1)|null|
+|**2023-05-26**|**Sharing Leaky-Integrate-and-Fire Neurons for Memory-Efficient Spiking Neural Networks**|Youngeun Kim et.al.|[2305.18360v1](http://arxiv.org/abs/2305.18360v1)|null|
 |**2023-05-28**|**Evolving Connectivity for Recurrent Spiking Neural Networks**|Guan Wang et.al.|[2305.17650v1](http://arxiv.org/abs/2305.17650v1)|null|
 |**2023-05-27**|**Input-Aware Dynamic Timestep Spiking Neural Networks for Efficient In-Memory Computing**|Yuhang Li et.al.|[2305.17346v1](http://arxiv.org/abs/2305.17346v1)|null|
 |**2023-05-26**|**A Hybrid Neural Coding Approach for Pattern Recognition with Spiking Neural Networks**|Xinyi Chen et.al.|[2305.16594v1](http://arxiv.org/abs/2305.16594v1)|null|
@@ -87,7 +89,7 @@
 |**2023-03-21**|**Online Transformers with Spiking Neurons for Fast Prosthetic Hand Control**|Nathan Leroux et.al.|[2303.11860v1](http://arxiv.org/abs/2303.11860v1)|**[link](https://github.com/nathanleroux-git/onlinetransformerwithspikingneurons)**|
 |**2023-03-20**|**MT-SNN: Enhance Spiking Neural Network with Multiple Thresholds**|Xiaoting Wang et.al.|[2303.11127v1](http://arxiv.org/abs/2303.11127v1)|null|
 |**2023-03-21**|**A Comprehensive Review of Spiking Neural Networks: Interpretation, Optimization, Efficiency, and Best Practices**|Kai Malcolm et.al.|[2303.10780v2](http://arxiv.org/abs/2303.10780v2)|null|
-|**2023-03-21**|**RN-Net: Reservoir Nodes-Enabled Neuromorphic Vision Sensing Network**|Sangmin Yoo et.al.|[2303.10770v2](http://arxiv.org/abs/2303.10770v2)|null|
+|**2023-05-29**|**RN-Net: Reservoir Nodes-Enabled Neuromorphic Vision Sensing Network**|Sangmin Yoo et.al.|[2303.10770v3](http://arxiv.org/abs/2303.10770v3)|null|
 |**2023-03-19**|**Training a spiking neural network on an event-based label-free flow cytometry dataset**|Muhammed Gouda et.al.|[2303.10632v1](http://arxiv.org/abs/2303.10632v1)|null|
 |**2023-03-26**|**Unleashing the Potential of Spiking Neural Networks by Dynamic Confidence**|Chen Li et.al.|[2303.10276v2](http://arxiv.org/abs/2303.10276v2)|**[link](https://github.com/chenlicodebank/dynamic-confidence-in-spiking-neural-networks)**|
 |**2023-05-10**|**Event-based Human Pose Tracking by Spiking Spatiotemporal Transformer**|Shihao Zou et.al.|[2303.09681v3](http://arxiv.org/abs/2303.09681v3)|**[link](https://github.com/jimmyzou/humanposetracking_snn)**|
@@ -387,5 +389,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
 
