@@ -1,4 +1,4 @@
-## Updated on 2023.05.31
+## Updated on 2023.06.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN**|Yangfan Hu et.al.|[2305.19868v1](http://arxiv.org/abs/2305.19868v1)|**[link](https://github.com/yangfan-hu/fast-snn)**|
+|**2023-05-31**|**Direct Learning-Based Deep Spiking Neural Networks: A Review**|Yufei Guo et.al.|[2305.19725v1](http://arxiv.org/abs/2305.19725v1)|null|
+|**2023-05-31**|**Efficient Implementation of a Multi-Layer Gradient-Free Online-Trainable Spiking Neural Network on FPGA**|Ali Mehrabi et.al.|[2305.19468v1](http://arxiv.org/abs/2305.19468v1)|null|
+|**2023-05-30**|**A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks**|Jintang Li et.al.|[2305.19306v1](http://arxiv.org/abs/2305.19306v1)|**[link](https://github.com/edisonleeeee/spikegcl)**|
+|**2023-05-30**|**Low Precision Quantization-aware Training in Spiking Neural Networks with Differentiable Quantization Function**|Ayan Shymyrbay et.al.|[2305.19295v1](http://arxiv.org/abs/2305.19295v1)|null|
 |**2023-05-27**|**ColibriUAV: An Ultra-Fast, Energy-Efficient Neuromorphic Edge Processing UAV-Platform with Event-Based and Frame-Based Cameras**|Sizhen Bian et.al.|[2305.18371v1](http://arxiv.org/abs/2305.18371v1)|null|
 |**2023-05-26**|**Sharing Leaky-Integrate-and-Fire Neurons for Memory-Efficient Spiking Neural Networks**|Youngeun Kim et.al.|[2305.18360v1](http://arxiv.org/abs/2305.18360v1)|null|
 |**2023-05-28**|**Evolving Connectivity for Recurrent Spiking Neural Networks**|Guan Wang et.al.|[2305.17650v1](http://arxiv.org/abs/2305.17650v1)|null|
@@ -389,5 +394,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230531>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230601>back to top</a>)</p>
 
