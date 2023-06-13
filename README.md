@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-11**|**An Efficient and Accurate Memristive Memory for Array-based Spiking Neural Networks**|Hritom Das et.al.|[2306.06551v1](http://arxiv.org/abs/2306.06551v1)|null|
+|**2023-06-09**|**Beyond Weights: Deep learning in Spiking Neural Networks with pure synaptic-delay training**|Edoardo W. Grappolini et.al.|[2306.06237v1](http://arxiv.org/abs/2306.06237v1)|null|
 |**2023-06-09**|**Spike timing reshapes robustness against attacks in spiking neural networks**|Jianhao Ding et.al.|[2306.05654v1](http://arxiv.org/abs/2306.05654v1)|null|
 |**2023-06-07**|**Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP**|Arsham Gholamzadeh Khoee et.al.|[2306.04410v1](http://arxiv.org/abs/2306.04410v1)|null|
 |**2023-06-06**|**ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks**|Jiangrong Shen et.al.|[2306.03693v1](http://arxiv.org/abs/2306.03693v1)|null|
