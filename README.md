@@ -1,4 +1,4 @@
-## Updated on 2023.06.14
+## Updated on 2023.06.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -93,7 +93,7 @@
 |**2023-04-08**|**EnforceSNN: Enabling Resilient and Energy-Efficient Spiking Neural Network Inference considering Approximate DRAMs for Embedded Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2304.04039v1](http://arxiv.org/abs/2304.04039v1)|null|
 |**2023-04-08**|**Spiking Neural Networks for Detecting Satellite-Based Internet-of-Things Signals**|Kosta Dakic et.al.|[2304.03896v1](http://arxiv.org/abs/2304.03896v1)|null|
 |**2023-04-02**|**SEENN: Towards Temporal Spiking Early-Exit Neural Networks**|Yuhang Li et.al.|[2304.01230v1](http://arxiv.org/abs/2304.01230v1)|null|
-|**2023-03-28**|**LIPSFUS: A neuromorphic dataset for audio-visual sensory fusion of lip reading**|Antonio Rios-Navarro et.al.|[2304.01080v1](http://arxiv.org/abs/2304.01080v1)|null|
+|**2023-03-28**|**LIPSFUS: A neuromorphic dataset for audio-visual sensory fusion of lip reading**|Antonio Rios-Navarro et.al.|[2304.01080v1](http://arxiv.org/abs/2304.01080v1)|**[link](https://github.com/rtc-research-group/lipsfus-event-driven-dataset)**|
 |**2023-03-31**|**Adaptive structure evolution and biologically plausible synaptic plasticity for recurrent spiking neural networks**|Wenxuan Pan et.al.|[2304.01015v1](http://arxiv.org/abs/2304.01015v1)|null|
 |**2023-04-11**|**Equivalence of Additive and Multiplicative Coupling in Spiking Neural Networks**|Georg Börner et.al.|[2304.00112v2](http://arxiv.org/abs/2304.00112v2)|null|
 |**2023-03-27**|**Open the box of digital neuromorphic processor: Towards effective algorithm-hardware co-design**|Guangzhi Tang et.al.|[2303.15224v1](http://arxiv.org/abs/2303.15224v1)|null|
@@ -407,5 +407,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
 
