@@ -1,4 +1,4 @@
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**S-TLLR: STDP-inspired Temporal Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2306.15220v1](http://arxiv.org/abs/2306.15220v1)|null|
 |**2023-06-26**|**CIMulator: A Comprehensive Simulation Platform for Computing-In-Memory Circuit Macros with Low Bit-Width and Real Memory Materials**|Hoang-Hiep Le et.al.|[2306.14649v1](http://arxiv.org/abs/2306.14649v1)|null|
 |**2023-06-23**|**Spiking Two-Stream Methods with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2306.13783v1](http://arxiv.org/abs/2306.13783v1)|null|
 |**2023-06-23**|**Enhanced Read Resolution in Reconfigurable Memristive Synapses for Spiking Neural Networks**|Hritom Das et.al.|[2306.13721v1](http://arxiv.org/abs/2306.13721v1)|null|
@@ -18,7 +19,7 @@
 |**2023-06-22**|**Accelerating SNN Training with Stochastic Parallelizable Spiking Neurons**|Sidi Yaya Arnaud Yarga et.al.|[2306.12666v1](http://arxiv.org/abs/2306.12666v1)|**[link](https://github.com/necotis/stochastic-parallelizable-spiking-neuron-spsn)**|
 |**2023-06-21**|**Efficient Deep Spiking Multi-Layer Perceptrons with Multiplication-Free Inference**|Boyan Li et.al.|[2306.12465v1](http://arxiv.org/abs/2306.12465v1)|null|
 |**2023-06-21**|**NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN**|Yufei Guo et.al.|[2306.12073v1](http://arxiv.org/abs/2306.12073v1)|**[link](https://github.com/yfguo91/neuroclip)**|
-|**2023-06-21**|**Spiking Neural Network for Ultra-low-latency and High-accurate Object Detection**|Jinye Qu et.al.|[2306.12010v1](http://arxiv.org/abs/2306.12010v1)|null|
+|**2023-06-27**|**Spiking Neural Network for Ultra-low-latency and High-accurate Object Detection**|Jinye Qu et.al.|[2306.12010v2](http://arxiv.org/abs/2306.12010v2)|null|
 |**2023-06-14**|**Are training trajectories of deep single-spike and deep ReLU network equivalent?**|Ana Stanojevic et.al.|[2306.08744v1](http://arxiv.org/abs/2306.08744v1)|null|
 |**2023-06-13**|**Multiple-Step Quantized Triplet STDP Implemented with Memristive Synapse**|Y. Liu et.al.|[2306.07712v1](http://arxiv.org/abs/2306.07712v1)|null|
 |**2023-06-11**|**An Efficient and Accurate Memristive Memory for Array-based Spiking Neural Networks**|Hritom Das et.al.|[2306.06551v1](http://arxiv.org/abs/2306.06551v1)|null|
@@ -132,7 +133,7 @@
 |**2023-02-27**|**Communication Trade-offs in Federated Learning of Spiking Neural Networks**|Soumi Chaki et.al.|[2303.00928v1](http://arxiv.org/abs/2303.00928v1)|null|
 |**2023-02-28**|**Spiking Neural Network Nonlinear Demapping on Neuromorphic Hardware for IM/DD Optical Communication**|Elias Arnold et.al.|[2302.14726v1](http://arxiv.org/abs/2302.14726v1)|null|
 |**2023-03-07**|**Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks**|Qingyan Meng et.al.|[2302.14311v2](http://arxiv.org/abs/2302.14311v2)|null|
-|**2023-06-26**|**SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2302.13939v3](http://arxiv.org/abs/2302.13939v3)|**[link](https://github.com/ridgerchu/spikegpt)**|
+|**2023-06-27**|**SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2302.13939v4](http://arxiv.org/abs/2302.13939v4)|**[link](https://github.com/ridgerchu/spikegpt)**|
 |**2023-02-25**|**A Unified Framework for Soft Threshold Pruning**|Yanqi Chen et.al.|[2302.13019v1](http://arxiv.org/abs/2302.13019v1)|**[link](https://github.com/yanqi-chen/lats)**|
 |**2023-02-22**|**Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles**|Biswadeep Chakraborty et.al.|[2302.11618v1](http://arxiv.org/abs/2302.11618v1)|null|
 |**2023-05-29**|**A Novel Noise Injection-based Training Scheme for Better Model Robustness**|Zeliang Zhang et.al.|[2302.10802v2](http://arxiv.org/abs/2302.10802v2)|null|
@@ -416,5 +417,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230627>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
 
