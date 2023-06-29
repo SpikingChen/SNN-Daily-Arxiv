@@ -1,4 +1,4 @@
-## Updated on 2023.06.28
+## Updated on 2023.06.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749v1](http://arxiv.org/abs/2306.15749v1)|null|
 |**2023-06-27**|**S-TLLR: STDP-inspired Temporal Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2306.15220v1](http://arxiv.org/abs/2306.15220v1)|null|
 |**2023-06-26**|**CIMulator: A Comprehensive Simulation Platform for Computing-In-Memory Circuit Macros with Low Bit-Width and Real Memory Materials**|Hoang-Hiep Le et.al.|[2306.14649v1](http://arxiv.org/abs/2306.14649v1)|null|
 |**2023-06-23**|**Spiking Two-Stream Methods with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2306.13783v1](http://arxiv.org/abs/2306.13783v1)|null|
@@ -417,5 +418,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230629>back to top</a>)</p>
 
