@@ -1,4 +1,4 @@
-## Updated on 2023.07.03
+## Updated on 2023.07.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -152,7 +152,7 @@
 |**2023-02-14**|**Hybrid Spiking Neural Network Fine-tuning for Hippocampus Segmentation**|Ye Yue et.al.|[2302.07328v1](http://arxiv.org/abs/2302.07328v1)|null|
 |**2023-02-13**|**Workload-Balanced Pruning for Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2302.06746v1](http://arxiv.org/abs/2302.06746v1)|null|
 |**2023-05-17**|**Optical flow estimation from event-based cameras and spiking neural networks**|Javier Cuadrado et.al.|[2302.06492v2](http://arxiv.org/abs/2302.06492v2)|**[link](https://github.com/j-cuadrado/of_ev_snn)**|
-|**2023-02-13**|**Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data**|Gorka Abad et.al.|[2302.06279v1](http://arxiv.org/abs/2302.06279v1)|null|
+|**2023-07-03**|**Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data**|Gorka Abad et.al.|[2302.06279v2](http://arxiv.org/abs/2302.06279v2)|null|
 |**2023-02-08**|**The Hardware Impact of Quantization and Pruning for Weights in Spiking Neural Networks**|Clemens JS Schaefer et.al.|[2302.04174v1](http://arxiv.org/abs/2302.04174v1)|**[link](https://github.com/intelligent-microsystems-lab/snnquantprune)**|
 |**2023-02-06**|**Dynamic Training of Liquid State Machines**|Pavithra Koralalage et.al.|[2302.03506v1](http://arxiv.org/abs/2302.03506v1)|null|
 |**2023-02-04**|**Reducing ANN-SNN Conversion Error through Residual Membrane Potential**|Zecheng Hao et.al.|[2302.02091v1](http://arxiv.org/abs/2302.02091v1)|**[link](https://github.com/hzc1208/ANN2SNN_SRP)**|
@@ -422,5 +422,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230704>back to top</a>)</p>
 
