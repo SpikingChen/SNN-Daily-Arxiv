@@ -1,4 +1,4 @@
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**A Neuromorphic Architecture for Reinforcement Learning from Real-Valued Observations**|Sergio F. Chevtchenko et.al.|[2307.02947v1](http://arxiv.org/abs/2307.02947v1)|null|
+|**2023-07-05**|**Modelling Spontaneous Firing Activity of the Motor Cortex in a Spiking Neural Network with Random and Local Connectivity**|Lysea Haggie et.al.|[2307.02659v1](http://arxiv.org/abs/2307.02659v1)|**[link](https://github.com/munozatabi/motorcortex)**|
 |**2023-07-04**|**Spike-driven Transformer**|Man Yao et.al.|[2307.01694v1](http://arxiv.org/abs/2307.01694v1)|**[link](https://github.com/biclab/spike-driven-transformer)**|
 |**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771v1](http://arxiv.org/abs/2307.00771v1)|null|
 |**2023-07-01**|**AutoST: Training-free Neural Architecture Search for Spiking Transformers**|Ziqing Wang et.al.|[2307.00293v1](http://arxiv.org/abs/2307.00293v1)|null|
@@ -31,7 +33,7 @@
 |**2023-06-14**|**Are training trajectories of deep single-spike and deep ReLU network equivalent?**|Ana Stanojevic et.al.|[2306.08744v1](http://arxiv.org/abs/2306.08744v1)|null|
 |**2023-06-13**|**Multiple-Step Quantized Triplet STDP Implemented with Memristive Synapse**|Y. Liu et.al.|[2306.07712v1](http://arxiv.org/abs/2306.07712v1)|null|
 |**2023-06-11**|**An Efficient and Accurate Memristive Memory for Array-based Spiking Neural Networks**|Hritom Das et.al.|[2306.06551v1](http://arxiv.org/abs/2306.06551v1)|null|
-|**2023-06-23**|**Beyond Weights: Deep learning in Spiking Neural Networks with pure synaptic-delay training**|Edoardo W. Grappolini et.al.|[2306.06237v2](http://arxiv.org/abs/2306.06237v2)|null|
+|**2023-07-05**|**Beyond Weights: Deep learning in Spiking Neural Networks with pure synaptic-delay training**|Edoardo W. Grappolini et.al.|[2306.06237v3](http://arxiv.org/abs/2306.06237v3)|null|
 |**2023-06-09**|**Spike timing reshapes robustness against attacks in spiking neural networks**|Jianhao Ding et.al.|[2306.05654v1](http://arxiv.org/abs/2306.05654v1)|null|
 |**2023-06-07**|**Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP**|Arsham Gholamzadeh Khoee et.al.|[2306.04410v1](http://arxiv.org/abs/2306.04410v1)|null|
 |**2023-06-06**|**ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks**|Jiangrong Shen et.al.|[2306.03693v1](http://arxiv.org/abs/2306.03693v1)|null|
@@ -425,5 +427,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
