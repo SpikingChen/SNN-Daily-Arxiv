@@ -1,4 +1,4 @@
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks**|Arianna Rubino et.al.|[2307.06084v1](http://arxiv.org/abs/2307.06084v1)|null|
 |**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225v1](http://arxiv.org/abs/2307.05225v1)|null|
 |**2023-07-10**|**Reducing Information Loss for Spiking Neural Networks**|Yufei Guo et.al.|[2307.04356v1](http://arxiv.org/abs/2307.04356v1)|null|
 |**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054v1](http://arxiv.org/abs/2307.04054v1)|null|
@@ -106,7 +107,7 @@
 |**2023-04-18**|**Neuromorphic computing for attitude estimation onboard quadrotors**|Stein Stroobants et.al.|[2304.08802v1](http://arxiv.org/abs/2304.08802v1)|null|
 |**2023-04-18**|**LTC-SE: Expanding the Potential of Liquid Time-Constant Neural Networks for Scalable AI and Embedded Systems**|Michael Bidollahkhani et.al.|[2304.08691v1](http://arxiv.org/abs/2304.08691v1)|null|
 |**2023-04-18**|**EEGSN: Towards Efficient Low-latency Decoding of EEG with Graph Spiking Neural Networks**|Xi Chen et.al.|[2304.07655v2](http://arxiv.org/abs/2304.07655v2)|null|
-|**2023-04-14**|**Neuromorphic Optical Flow and Real-time Implementation with Event Cameras**|Yannick Schnider et.al.|[2304.07139v1](http://arxiv.org/abs/2304.07139v1)|null|
+|**2023-07-12**|**Neuromorphic Optical Flow and Real-time Implementation with Event Cameras**|Yannick Schnider et.al.|[2304.07139v2](http://arxiv.org/abs/2304.07139v2)|null|
 |**2023-04-14**|**A Bibliometric Review of Neuromorphic Computing and Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2304.06897v1](http://arxiv.org/abs/2304.06897v1)|null|
 |**2023-04-13**|**Temporal Knowledge Sharing enable Spiking Neural Network Learning from Past and Future**|Yiting Dong et.al.|[2304.06540v1](http://arxiv.org/abs/2304.06540v1)|null|
 |**2023-04-13**|**A spintronic Huxley-Hodgkin-analogue neuron implemented with a single magnetic tunnel junction**|Davi R. Rodrigues et.al.|[2304.06343v1](http://arxiv.org/abs/2304.06343v1)|null|
@@ -432,5 +433,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
