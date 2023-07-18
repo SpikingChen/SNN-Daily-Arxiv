@@ -1,4 +1,4 @@
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Corticomorphic Hybrid CNN-SNN Architecture for EEG-based Low-footprint Low-latency Auditory Attention Detection**|Richard Gall et.al.|[2307.08501v1](http://arxiv.org/abs/2307.08501v1)|null|
+|**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116v1](http://arxiv.org/abs/2307.08116v1)|null|
+|**2023-07-16**|**Enhancing Energy Efficiency and Reliability in Autonomous Systems Estimation using Neuromorphic Approach**|Reza Ahmadvand et.al.|[2307.07963v1](http://arxiv.org/abs/2307.07963v1)|null|
+|**2023-07-15**|**Custom DNN using Reward Modulated Inverted STDP Learning for Temporal Pattern Recognition**|Vijay Shankaran Vivekanand et.al.|[2307.07869v1](http://arxiv.org/abs/2307.07869v1)|null|
 |**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231v1](http://arxiv.org/abs/2307.07231v1)|null|
 |**2023-07-14**|**SLSSNN: High energy efficiency spike-train level spiking neural networks with spatio-temporal conversion**|Changqing Xu et.al.|[2307.07136v1](http://arxiv.org/abs/2307.07136v1)|null|
 |**2023-07-12**|**Neuromorphic analog circuits for robust on-chip always-on learning in spiking neural networks**|Arianna Rubino et.al.|[2307.06084v1](http://arxiv.org/abs/2307.06084v1)|null|
@@ -188,7 +192,7 @@
 |**2023-01-12**|**Security-Aware Approximate Spiking Neural Networks**|Syed Tihaam Ahmad et.al.|[2301.05264v1](http://arxiv.org/abs/2301.05264v1)|null|
 |**2023-06-06**|**FireFly: A High-Throughput Hardware Accelerator for Spiking Neural Networks with Efficient DSP and Memory Optimization**|Jindong Li et.al.|[2301.01905v5](http://arxiv.org/abs/2301.01905v5)|null|
 |**2022-12-25**|**Sitting Posture Recognition Using a Spiking Neural Network**|Jianquan Wang et.al.|[2212.12908v1](http://arxiv.org/abs/2212.12908v1)|null|
-|**2022-12-25**|**Closed-form control with spike coding networks**|Filip S. Slijkhuis et.al.|[2212.12887v1](http://arxiv.org/abs/2212.12887v1)|**[link](https://github.com/fsslijkhuis/scn_estimation_and_control)**|
+|**2023-07-17**|**Closed-form control with spike coding networks**|Filip S. Slijkhuis et.al.|[2212.12887v2](http://arxiv.org/abs/2212.12887v2)|**[link](https://github.com/fsslijkhuis/scn_estimation_and_control)**|
 |**2022-12-24**|**Mantis: Enabling Energy-Efficient Autonomous Mobile Agents with Spiking Neural Networks**|Rachmad Vidya Wicaksana Putra et.al.|[2212.12620v1](http://arxiv.org/abs/2212.12620v1)|null|
 |**2022-12-23**|**An Exact Mapping From ReLU Networks to Spiking Neural Networks**|Ana Stanojevic et.al.|[2212.12522v1](http://arxiv.org/abs/2212.12522v1)|null|
 |**2022-12-23**|**hxtorch.snn: Machine-learning-inspired Spiking Neural Network Modeling on BrainScaleS-2**|Philipp Spilger et.al.|[2212.12210v1](http://arxiv.org/abs/2212.12210v1)|null|
@@ -435,5 +439,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
