@@ -1,4 +1,4 @@
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -67,7 +67,7 @@
 |**2023-05-27**|**Input-Aware Dynamic Timestep Spiking Neural Networks for Efficient In-Memory Computing**|Yuhang Li et.al.|[2305.17346v1](http://arxiv.org/abs/2305.17346v1)|null|
 |**2023-05-26**|**A Hybrid Neural Coding Approach for Pattern Recognition with Spiking Neural Networks**|Xinyi Chen et.al.|[2305.16594v1](http://arxiv.org/abs/2305.16594v1)|null|
 |**2023-05-25**|**Optimizations for a Current-Controlled Memristor-based Neuromorphic Synapse Design**|Hritom Das et.al.|[2305.16418v1](http://arxiv.org/abs/2305.16418v1)|null|
-|**2023-07-10**|**Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks**|Gehua Ma et.al.|[2305.16044v4](http://arxiv.org/abs/2305.16044v4)|**[link](https://github.com/genema/Noisy-Spiking-Neuron-Nets)**|
+|**2023-07-18**|**Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks**|Gehua Ma et.al.|[2305.16044v5](http://arxiv.org/abs/2305.16044v5)|**[link](https://github.com/genema/Noisy-Spiking-Neuron-Nets)**|
 |**2023-05-23**|**Unsupervised Spiking Neural Network Model of Prefrontal Cortex to study Task Switching with Synaptic deficiency**|Ashwin Viswanathan Kannan et.al.|[2305.14394v1](http://arxiv.org/abs/2305.14394v1)|null|
 |**2023-05-23**|**Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency**|Dongcheng Zhao et.al.|[2305.14174v1](http://arxiv.org/abs/2305.14174v1)|null|
 |**2023-05-23**|**Toward spike-based stochastic neural computing**|Yang Qi et.al.|[2305.13982v1](http://arxiv.org/abs/2305.13982v1)|**[link](https://github.com/brainsoupfactory/moment-neural-network)**|
@@ -439,5 +439,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
