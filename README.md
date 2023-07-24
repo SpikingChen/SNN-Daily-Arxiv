@@ -1,4 +1,4 @@
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411v1](http://arxiv.org/abs/2307.11411v1)|null|
+|**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v1](http://arxiv.org/abs/2307.11349v1)|null|
+|**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314v1](http://arxiv.org/abs/2307.11314v1)|null|
+|**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242v1](http://arxiv.org/abs/2307.11242v1)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974v1](http://arxiv.org/abs/2307.10974v1)|**[link](https://github.com/snnresearch/spiking-unet)**|
 |**2023-07-13**|**Corticomorphic Hybrid CNN-SNN Architecture for EEG-based Low-footprint Low-latency Auditory Attention Detection**|Richard Gall et.al.|[2307.08501v1](http://arxiv.org/abs/2307.08501v1)|null|
 |**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116v1](http://arxiv.org/abs/2307.08116v1)|null|
@@ -440,5 +444,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230724>back to top</a>)</p>
 
