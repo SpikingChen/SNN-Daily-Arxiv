@@ -1,4 +1,4 @@
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-30**|**Synaptic Plasticity Models and Bio-Inspired Unsupervised Deep Learning: A Survey**|Gabriele Lagani et.al.|[2307.16236v1](http://arxiv.org/abs/2307.16236v1)|null|
+|**2023-07-30**|**Spiking Neural Networks and Bio-Inspired Supervised Deep Learning: A Survey**|Gabriele Lagani et.al.|[2307.16235v1](http://arxiv.org/abs/2307.16235v1)|null|
 |**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464v1](http://arxiv.org/abs/2307.14464v1)|null|
 |**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077v1](http://arxiv.org/abs/2307.14077v1)|**[link](https://github.com/spikeai/2023_grimaldiperrinet_heterogeneousdelaysnn)**|
 |**2023-07-24**|**Sparse-firing regularization methods for spiking neural networks with time-to-first spike coding**|Yusuke Sakemi et.al.|[2307.13007v1](http://arxiv.org/abs/2307.13007v1)|null|
 |**2023-07-24**|**Automotive Object Detection via Learning Sparse Events by Temporal Dynamics of Spiking Neurons**|Hu Zhang et.al.|[2307.12900v1](http://arxiv.org/abs/2307.12900v1)|null|
-|**2023-07-21**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844v1](http://arxiv.org/abs/2307.11844v1)|null|
+|**2023-07-28**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844v2](http://arxiv.org/abs/2307.11844v2)|null|
 |**2023-07-27**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411v3](http://arxiv.org/abs/2307.11411v3)|**[link](https://github.com/BICLab/EMS-YOLO)**|
 |**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v1](http://arxiv.org/abs/2307.11349v1)|null|
 |**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314v1](http://arxiv.org/abs/2307.11314v1)|null|
@@ -161,7 +163,7 @@
 |**2023-03-08**|**Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks**|Tong Bu et.al.|[2303.04347v1](http://arxiv.org/abs/2303.04347v1)|**[link](https://github.com/putshua/SNN_conversion_QCFS)**|
 |**2023-03-08**|**Effect of Adult Neurogenesis on Sparsely Synchronized Rhythms of The Granule Cells in The Hippocampal Dentate Gyrus**|Sang-Yoon Kim et.al.|[2303.04319v1](http://arxiv.org/abs/2303.04319v1)|null|
 |**2023-03-06**|**Emerging AI Technologies Inspiring the Next Generation of E-textiles**|Frances Cleary et.al.|[2303.03205v1](http://arxiv.org/abs/2303.03205v1)|null|
-|**2023-03-03**|**TopSpark: A Timestep Optimization Methodology for Energy-Efficient Spiking Neural Networks on Autonomous Mobile Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2303.01826v1](http://arxiv.org/abs/2303.01826v1)|null|
+|**2023-07-29**|**TopSpark: A Timestep Optimization Methodology for Energy-Efficient Spiking Neural Networks on Autonomous Mobile Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2303.01826v2](http://arxiv.org/abs/2303.01826v2)|null|
 |**2023-02-27**|**Communication Trade-offs in Federated Learning of Spiking Neural Networks**|Soumi Chaki et.al.|[2303.00928v1](http://arxiv.org/abs/2303.00928v1)|null|
 |**2023-02-28**|**Spiking Neural Network Nonlinear Demapping on Neuromorphic Hardware for IM/DD Optical Communication**|Elias Arnold et.al.|[2302.14726v1](http://arxiv.org/abs/2302.14726v1)|null|
 |**2023-03-07**|**Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks**|Qingyan Meng et.al.|[2302.14311v2](http://arxiv.org/abs/2302.14311v2)|null|
@@ -449,5 +451,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230801>back to top</a>)</p>
 
