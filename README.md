@@ -1,4 +1,4 @@
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|**[link](https://github.com/event-ahu/sstformer)**|
+|**2023-08-08**|**Core interface optimization for multi-core neuromorphic processors**|Zhe Su et.al.|[2308.04171v1](http://arxiv.org/abs/2308.04171v1)|null|
 |**2023-08-02**|**Attention-free Spikformer: Mixing Spike Sequences with Simple Linear Transforms**|Qingyu Wang et.al.|[2308.02557v1](http://arxiv.org/abs/2308.02557v1)|null|
 |**2023-08-04**|**Paired Competing Neurons Improving STDP Supervised Local Learning In Spiking Neural Networks**|Gaspard Goupy et.al.|[2308.02194v1](http://arxiv.org/abs/2308.02194v1)|null|
 |**2023-08-01**|**Evaluating Spiking Neural Network On Neuromorphic Platform For Human Activity Recognition**|Sizhen Bian et.al.|[2308.00787v1](http://arxiv.org/abs/2308.00787v1)|null|
@@ -38,7 +40,7 @@
 |**2023-07-10**|**Reducing Information Loss for Spiking Neural Networks**|Yufei Guo et.al.|[2307.04356v1](http://arxiv.org/abs/2307.04356v1)|null|
 |**2023-07-08**|**Deep Unsupervised Learning Using Spike-Timing-Dependent Plasticity**|Sen Lu et.al.|[2307.04054v1](http://arxiv.org/abs/2307.04054v1)|null|
 |**2023-07-08**|**A Survey of Spiking Neural Network Accelerator on FPGA**|Murat Isik et.al.|[2307.03910v1](http://arxiv.org/abs/2307.03910v1)|null|
-|**2023-07-06**|**A Neuromorphic Architecture for Reinforcement Learning from Real-Valued Observations**|Sergio F. Chevtchenko et.al.|[2307.02947v1](http://arxiv.org/abs/2307.02947v1)|null|
+|**2023-08-08**|**A Neuromorphic Architecture for Reinforcement Learning from Real-Valued Observations**|Sergio F. Chevtchenko et.al.|[2307.02947v2](http://arxiv.org/abs/2307.02947v2)|null|
 |**2023-07-05**|**Modelling Spontaneous Firing Activity of the Motor Cortex in a Spiking Neural Network with Random and Local Connectivity**|Lysea Haggie et.al.|[2307.02659v1](http://arxiv.org/abs/2307.02659v1)|**[link](https://github.com/munozatabi/motorcortex)**|
 |**2023-07-04**|**Spike-driven Transformer**|Man Yao et.al.|[2307.01694v1](http://arxiv.org/abs/2307.01694v1)|**[link](https://github.com/biclab/spike-driven-transformer)**|
 |**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771v1](http://arxiv.org/abs/2307.00771v1)|null|
@@ -455,5 +457,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
 
