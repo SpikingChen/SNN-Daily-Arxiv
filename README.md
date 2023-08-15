@@ -1,4 +1,4 @@
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-13**|**RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks**|Yufei Guo et.al.|[2308.06787v1](http://arxiv.org/abs/2308.06787v1)|null|
+|**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582v1](http://arxiv.org/abs/2308.06582v1)|null|
 |**2023-08-10**|**A Homomorphic Encryption Framework for Privacy-Preserving Spiking Neural Networks**|Farzad Nikfam et.al.|[2308.05636v1](http://arxiv.org/abs/2308.05636v1)|null|
 |**2023-08-09**|**Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks**|Bing Han et.al.|[2308.04749v1](http://arxiv.org/abs/2308.04749v1)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2023-08-09**|**Resource Constrained Model Compression via Minimax Optimization for Spiking Neural Networks**|Jue Chen et.al.|[2308.04672v1](http://arxiv.org/abs/2308.04672v1)|**[link](https://github.com/chenjallen/resource-constrained-compression-on-snn)**|
@@ -207,7 +209,7 @@
 |**2023-01-24**|**A Comparison of Temporal Encoders for Neuromorphic Keyword Spotting with Few Neurons**|Mattias Nilsson et.al.|[2301.09962v1](http://arxiv.org/abs/2301.09962v1)|null|
 |**2023-08-01**|**Optimising Event-Driven Spiking Neural Network with Regularisation and Cutoff**|Dengyu Wu et.al.|[2301.09522v2](http://arxiv.org/abs/2301.09522v2)|null|
 |**2023-01-24**|**ETLP: Event-based Three-factor Local Plasticity for online learning with neuromorphic hardware**|Fernando M. Quintana et.al.|[2301.08281v2](http://arxiv.org/abs/2301.08281v2)|**[link](https://github.com/ferqui/etlp)**|
-|**2023-01-18**|**Multi-compartment Neuron and Population Encoding improved Spiking Neural Network for Deep Distributional Reinforcement Learning**|Yinqian Sun et.al.|[2301.07275v1](http://arxiv.org/abs/2301.07275v1)|**[link](https://github.com/braincog-x/brain-cog)**|
+|**2023-01-18**|**Multi-compartment Neuron and Population Encoding improved Spiking Neural Network for Deep Distributional Reinforcement Learning**|Yinqian Sun et.al.|[2301.07275v1](http://arxiv.org/abs/2301.07275v1)|null|
 |**2023-01-13**|**Effect of Adult-Born Immature Granule Cells on Pattern Separation in The Hippocampal Dentate Gyrus**|Sang-Yoon Kim et.al.|[2301.05387v1](http://arxiv.org/abs/2301.05387v1)|null|
 |**2023-01-12**|**Improving Reliability of Spiking Neural Networks through Fault Aware Threshold Voltage Optimization**|Ayesha Siddique et.al.|[2301.05266v1](http://arxiv.org/abs/2301.05266v1)|null|
 |**2023-01-12**|**Security-Aware Approximate Spiking Neural Networks**|Syed Tihaam Ahmad et.al.|[2301.05264v1](http://arxiv.org/abs/2301.05264v1)|null|
@@ -460,5 +462,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
 
