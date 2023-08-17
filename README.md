@@ -1,4 +1,4 @@
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Membrane Potential Batch Normalization for Spiking Neural Networks**|Yufei Guo et.al.|[2308.08359v1](http://arxiv.org/abs/2308.08359v1)|**[link](https://github.com/yfguo91/mpbn)**|
+|**2023-08-16**|**Inherent Redundancy in Spiking Neural Networks**|Man Yao et.al.|[2308.08227v1](http://arxiv.org/abs/2308.08227v1)|**[link](https://github.com/biclab/asa-snn)**|
+|**2023-08-16**|**HyperSNN: A new efficient and robust deep learning model for resource constrained control applications**|Zhanglu Yan et.al.|[2308.08222v1](http://arxiv.org/abs/2308.08222v1)|null|
+|**2023-08-16**|**Expressivity of Spiking Neural Networks**|Manjot Singh et.al.|[2308.08218v1](http://arxiv.org/abs/2308.08218v1)|null|
 |**2023-08-13**|**RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks**|Yufei Guo et.al.|[2308.06787v1](http://arxiv.org/abs/2308.06787v1)|null|
 |**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582v1](http://arxiv.org/abs/2308.06582v1)|null|
 |**2023-08-10**|**A Homomorphic Encryption Framework for Privacy-Preserving Spiking Neural Networks**|Farzad Nikfam et.al.|[2308.05636v1](http://arxiv.org/abs/2308.05636v1)|null|
@@ -462,5 +466,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
 
