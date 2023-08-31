@@ -1,4 +1,4 @@
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**A Deep Dive into the Design Space of a Dynamically Reconfigurable Cryogenic Spiking Neuron**|Md Mazharul Islam et.al.|[2308.15754v1](http://arxiv.org/abs/2308.15754v1)|null|
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390v1](http://arxiv.org/abs/2308.15390v1)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-29**|**Unleashing the Potential of Spiking Neural Networks for Sequential Modeling with Contextual Embedding**|Xinyi Chen et.al.|[2308.15150v1](http://arxiv.org/abs/2308.15150v1)|null|
-|**2023-08-29**|**SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT**|Changze Lv et.al.|[2308.15122v1](http://arxiv.org/abs/2308.15122v1)|null|
+|**2023-08-30**|**SpikeBERT: A Language Spikformer Trained with Two-Stage Knowledge Distillation from BERT**|Changze Lv et.al.|[2308.15122v2](http://arxiv.org/abs/2308.15122v2)|null|
 |**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250v1](http://arxiv.org/abs/2308.13250v1)|null|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529v1](http://arxiv.org/abs/2308.12529v1)|null|
 |**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063v1](http://arxiv.org/abs/2308.12063v1)|null|
@@ -86,7 +87,7 @@
 |**2023-06-14**|**Are training trajectories of deep single-spike and deep ReLU network equivalent?**|Ana Stanojevic et.al.|[2306.08744v1](http://arxiv.org/abs/2306.08744v1)|null|
 |**2023-08-28**|**Multiple-Step Quantized Triplet STDP Implemented with Memristive Synapse**|Y. Liu et.al.|[2306.07712v2](http://arxiv.org/abs/2306.07712v2)|null|
 |**2023-08-10**|**An Efficient and Accurate Memristive Memory for Array-based Spiking Neural Networks**|Hritom Das et.al.|[2306.06551v2](http://arxiv.org/abs/2306.06551v2)|null|
-|**2023-07-07**|**Beyond Weights: Deep learning in Spiking Neural Networks with pure synaptic-delay training**|Edoardo W. Grappolini et.al.|[2306.06237v4](http://arxiv.org/abs/2306.06237v4)|**[link](https://github.com/Efficient-Scalable-Machine-Learning/beyond-weights)**|
+|**2023-08-29**|**Beyond Weights: Deep learning in Spiking Neural Networks with pure synaptic-delay training**|Edoardo W. Grappolini et.al.|[2306.06237v5](http://arxiv.org/abs/2306.06237v5)|**[link](https://github.com/Efficient-Scalable-Machine-Learning/beyond-weights)**|
 |**2023-06-09**|**Spike timing reshapes robustness against attacks in spiking neural networks**|Jianhao Ding et.al.|[2306.05654v1](http://arxiv.org/abs/2306.05654v1)|null|
 |**2023-06-07**|**Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP**|Arsham Gholamzadeh Khoee et.al.|[2306.04410v1](http://arxiv.org/abs/2306.04410v1)|null|
 |**2023-06-06**|**ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks**|Jiangrong Shen et.al.|[2306.03693v1](http://arxiv.org/abs/2306.03693v1)|null|
@@ -480,5 +481,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
