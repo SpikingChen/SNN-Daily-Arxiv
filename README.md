@@ -1,4 +1,4 @@
-## Updated on 2023.09.05
+## Updated on 2023.09.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**HW/SW Codesign for Robust and Efficient Binarized SNNs by Capacitor Minimization**|Mikail Yayla et.al.|[2309.02111v1](http://arxiv.org/abs/2309.02111v1)|null|
 |**2023-09-01**|**Spiking based Cellular Learning Automata (SCLA) algorithm for mobile robot motion formulation**|Vahid Pashaei Rad et.al.|[2309.00241v1](http://arxiv.org/abs/2309.00241v1)|null|
 |**2023-08-31**|**Artificial to Spiking Neural Networks Conversion for Scientific Machine Learning**|Qian Zhang et.al.|[2308.16372v1](http://arxiv.org/abs/2308.16372v1)|null|
 |**2023-08-30**|**A Deep Dive into the Design Space of a Dynamically Reconfigurable Cryogenic Spiking Neuron**|Md Mazharul Islam et.al.|[2308.15754v1](http://arxiv.org/abs/2308.15754v1)|null|
@@ -24,7 +25,7 @@
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152v1](http://arxiv.org/abs/2308.11152v1)|null|
 |**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873v1](http://arxiv.org/abs/2308.10873v1)|null|
 |**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373v1](http://arxiv.org/abs/2308.10373v1)|null|
-|**2023-08-26**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v2](http://arxiv.org/abs/2308.10187v2)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
+|**2023-09-04**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v3](http://arxiv.org/abs/2308.10187v3)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455v1](http://arxiv.org/abs/2308.09455v1)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049v1](http://arxiv.org/abs/2308.09049v1)|null|
 |**2023-08-16**|**Towards Zero Memory Footprint Spiking Neural Network Training**|Bin Lei et.al.|[2308.08649v1](http://arxiv.org/abs/2308.08649v1)|null|
@@ -126,7 +127,7 @@
 |**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|**[link](https://github.com/henriquejsb/spenser)**|
 |**2023-05-19**|**Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246v3](http://arxiv.org/abs/2305.10246v3)|null|
 |**2023-04-30**|**Sparsifying Spiking Networks through Local Rhythms**|Wilkie Olin-Ammentorp et.al.|[2305.10191v1](http://arxiv.org/abs/2305.10191v1)|null|
-|**2023-05-20**|**MINT: Multiplier-less Integer Quantization for Spiking Neural Networks**|Ruokai Yin et.al.|[2305.09850v2](http://arxiv.org/abs/2305.09850v2)|null|
+|**2023-09-05**|**MINT: Multiplier-less Integer Quantization for Spiking Neural Networks**|Ruokai Yin et.al.|[2305.09850v3](http://arxiv.org/abs/2305.09850v3)|null|
 |**2023-05-15**|**Training Neural Networks without Backpropagation: A Deeper Dive into the Likelihood Ratio Method**|Jinyang Jiang et.al.|[2305.08960v1](http://arxiv.org/abs/2305.08960v1)|null|
 |**2023-05-13**|**Spiking Network Initialisation and Firing Rate Collapse**|Nicolas Perez-Nieves et.al.|[2305.08879v1](http://arxiv.org/abs/2305.08879v1)|null|
 |**2023-05-13**|**Quantization in Spiking Neural Networks**|Bernhard A. Moser et.al.|[2305.08012v1](http://arxiv.org/abs/2305.08012v1)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
@@ -483,5 +484,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230905>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230906>back to top</a>)</p>
 
