@@ -1,4 +1,4 @@
-## Updated on 2023.09.10
+## Updated on 2023.09.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Advanced Computing and Related Applications Leveraging Brain-inspired Spiking Neural Networks**|Lyuyang Sima et.al.|[2309.04426v1](http://arxiv.org/abs/2309.04426v1)|null|
 |**2023-09-07**|**Spiking Structured State Space Model for Monaural Speech Enhancement**|Yu Du et.al.|[2309.03641v1](http://arxiv.org/abs/2309.03641v1)|null|
 |**2023-09-06**|**Are SNNs Truly Energy-efficient? $-$ A Hardware Perspective**|Abhiroop Bhattacharjee et.al.|[2309.03388v1](http://arxiv.org/abs/2309.03388v1)|null|
 |**2023-08-31**|**SPAIC: A sub-$μ$W/Channel, 16-Channel General-Purpose Event-Based Analog Front-End with Dual-Mode Encoders**|Shyam Narayanan et.al.|[2309.03221v1](http://arxiv.org/abs/2309.03221v1)|null|
@@ -52,7 +53,7 @@
 |**2023-07-26**|**Single Channel Speech Enhancement Using U-Net Spiking Neural Networks**|Abir Riahi et.al.|[2307.14464v1](http://arxiv.org/abs/2307.14464v1)|null|
 |**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077v1](http://arxiv.org/abs/2307.14077v1)|**[link](https://github.com/spikeai/2023_grimaldiperrinet_heterogeneousdelaysnn)**|
 |**2023-07-24**|**Sparse-firing regularization methods for spiking neural networks with time-to-first spike coding**|Yusuke Sakemi et.al.|[2307.13007v1](http://arxiv.org/abs/2307.13007v1)|null|
-|**2023-09-07**|**Automotive Object Detection via Learning Sparse Events by Spiking Neurons**|Hu Zhang et.al.|[2307.12900v2](http://arxiv.org/abs/2307.12900v2)|null|
+|**2023-09-08**|**Automotive Object Detection via Learning Sparse Events by Spiking Neurons**|Hu Zhang et.al.|[2307.12900v3](http://arxiv.org/abs/2307.12900v3)|null|
 |**2023-07-28**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844v2](http://arxiv.org/abs/2307.11844v2)|null|
 |**2023-07-27**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411v3](http://arxiv.org/abs/2307.11411v3)|**[link](https://github.com/BICLab/EMS-YOLO)**|
 |**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v1](http://arxiv.org/abs/2307.11349v1)|null|
@@ -114,7 +115,7 @@
 |**2023-05-28**|**Evolving Connectivity for Recurrent Spiking Neural Networks**|Guan Wang et.al.|[2305.17650v1](http://arxiv.org/abs/2305.17650v1)|null|
 |**2023-05-27**|**Input-Aware Dynamic Timestep Spiking Neural Networks for Efficient In-Memory Computing**|Yuhang Li et.al.|[2305.17346v1](http://arxiv.org/abs/2305.17346v1)|null|
 |**2023-05-26**|**A Hybrid Neural Coding Approach for Pattern Recognition with Spiking Neural Networks**|Xinyi Chen et.al.|[2305.16594v1](http://arxiv.org/abs/2305.16594v1)|null|
-|**2023-05-25**|**Optimizations for a Current-Controlled Memristor-based Neuromorphic Synapse Design**|Hritom Das et.al.|[2305.16418v1](http://arxiv.org/abs/2305.16418v1)|null|
+|**2023-09-07**|**Optimizations for a Current-Controlled Memristor-based Neuromorphic Synapse Design**|Hritom Das et.al.|[2305.16418v2](http://arxiv.org/abs/2305.16418v2)|null|
 |**2023-07-18**|**Exploiting Noise as a Resource for Computation and Learning in Spiking Neural Networks**|Gehua Ma et.al.|[2305.16044v5](http://arxiv.org/abs/2305.16044v5)|**[link](https://github.com/genema/Noisy-Spiking-Neuron-Nets)**|
 |**2023-05-23**|**Unsupervised Spiking Neural Network Model of Prefrontal Cortex to study Task Switching with Synaptic deficiency**|Ashwin Viswanathan Kannan et.al.|[2305.14394v1](http://arxiv.org/abs/2305.14394v1)|null|
 |**2023-05-23**|**Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency**|Dongcheng Zhao et.al.|[2305.14174v1](http://arxiv.org/abs/2305.14174v1)|null|
@@ -487,5 +488,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
