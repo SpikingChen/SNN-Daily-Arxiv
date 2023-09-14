@@ -1,4 +1,4 @@
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Event-Driven Imaging in Turbid Media: A Confluence of Optoelectronics and Neuromorphic Computation**|Ning Zhang et.al.|[2309.06652v1](http://arxiv.org/abs/2309.06652v1)|null|
 |**2023-09-11**|**Neuromorphic Auditory Perception by Neural Spiketrum**|Huajin Tang et.al.|[2309.05430v1](http://arxiv.org/abs/2309.05430v1)|null|
 |**2023-09-11**|**Empirical study on the efficiency of Spiking Neural Networks with axonal delays, and algorithm-hardware benchmarking**|Alberto Patiño-Saucedo et.al.|[2309.05345v1](http://arxiv.org/abs/2309.05345v1)|null|
 |**2023-09-11**|**Brain-inspired Evolutionary Architectures for Spiking Neural Networks**|Wenxuan Pan et.al.|[2309.05263v1](http://arxiv.org/abs/2309.05263v1)|null|
@@ -19,7 +20,7 @@
 |**2023-09-07**|**Spiking Structured State Space Model for Monaural Speech Enhancement**|Yu Du et.al.|[2309.03641v1](http://arxiv.org/abs/2309.03641v1)|null|
 |**2023-09-06**|**Are SNNs Truly Energy-efficient? $-$ A Hardware Perspective**|Abhiroop Bhattacharjee et.al.|[2309.03388v1](http://arxiv.org/abs/2309.03388v1)|null|
 |**2023-08-31**|**SPAIC: A sub-$μ$W/Channel, 16-Channel General-Purpose Event-Based Analog Front-End with Dual-Mode Encoders**|Shyam Narayanan et.al.|[2309.03221v1](http://arxiv.org/abs/2309.03221v1)|null|
-|**2023-09-05**|**HW/SW Codesign for Robust and Efficient Binarized SNNs by Capacitor Minimization**|Mikail Yayla et.al.|[2309.02111v1](http://arxiv.org/abs/2309.02111v1)|null|
+|**2023-09-05**|**HW/SW Codesign for Robust and Efficient Binarized SNNs by Capacitor Minimization**|Mikail Yayla et.al.|[2309.02111v1](http://arxiv.org/abs/2309.02111v1)|**[link](https://github.com/myay/SPICE-Torch)**|
 |**2023-09-01**|**Spiking based Cellular Learning Automata (SCLA) algorithm for mobile robot motion formulation**|Vahid Pashaei Rad et.al.|[2309.00241v1](http://arxiv.org/abs/2309.00241v1)|null|
 |**2023-08-31**|**Artificial to Spiking Neural Networks Conversion for Scientific Machine Learning**|Qian Zhang et.al.|[2308.16372v1](http://arxiv.org/abs/2308.16372v1)|null|
 |**2023-08-30**|**A Deep Dive into the Design Space of a Dynamically Reconfigurable Cryogenic Spiking Neuron**|Md Mazharul Islam et.al.|[2308.15754v1](http://arxiv.org/abs/2308.15754v1)|null|
@@ -492,5 +493,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
 
