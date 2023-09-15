@@ -1,4 +1,4 @@
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Spiking Dynamics in Dual Free Layer Perpendicular Magnetic Tunnel Junctions**|Louis Farcis et.al.|[2309.07535v1](http://arxiv.org/abs/2309.07535v1)|null|
 |**2023-09-13**|**Event-Driven Imaging in Turbid Media: A Confluence of Optoelectronics and Neuromorphic Computation**|Ning Zhang et.al.|[2309.06652v1](http://arxiv.org/abs/2309.06652v1)|null|
 |**2023-09-11**|**Neuromorphic Auditory Perception by Neural Spiketrum**|Huajin Tang et.al.|[2309.05430v1](http://arxiv.org/abs/2309.05430v1)|null|
 |**2023-09-11**|**Empirical study on the efficiency of Spiking Neural Networks with axonal delays, and algorithm-hardware benchmarking**|Alberto Patiño-Saucedo et.al.|[2309.05345v1](http://arxiv.org/abs/2309.05345v1)|null|
@@ -131,7 +132,7 @@
 |**2023-05-20**|**Probabilistic Modeling: Proving the Lottery Ticket Hypothesis in Spiking Neural Network**|Man Yao et.al.|[2305.12148v1](http://arxiv.org/abs/2305.12148v1)|null|
 |**2023-05-15**|**Neural information coding for efficient spike-based image denoising**|Andrea Castagnetti et.al.|[2305.11898v1](http://arxiv.org/abs/2305.11898v1)|null|
 |**2023-05-19**|**Dive into the Power of Neuronal Heterogeneity**|Guobin Shen et.al.|[2305.11484v1](http://arxiv.org/abs/2305.11484v1)|null|
-|**2023-08-02**|**Knowing When to Stop: Delay-Adaptive Spiking Neural Network Classifiers with Reliability Guarantees**|Jiechen Chen et.al.|[2305.11322v2](http://arxiv.org/abs/2305.11322v2)|null|
+|**2023-09-14**|**SpikeCP: Delay-Adaptive Reliable Spiking Neural Networks via Conformal Prediction**|Jiechen Chen et.al.|[2305.11322v3](http://arxiv.org/abs/2305.11322v3)|null|
 |**2023-05-18**|**Neuromorphic Bayesian Optimization in Lava**|Shay Snyder et.al.|[2305.11060v1](http://arxiv.org/abs/2305.11060v1)|null|
 |**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|**[link](https://github.com/henriquejsb/spenser)**|
 |**2023-05-19**|**Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246v3](http://arxiv.org/abs/2305.10246v3)|null|
@@ -493,5 +494,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230915>back to top</a>)</p>
 
