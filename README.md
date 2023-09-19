@@ -1,4 +1,4 @@
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Adaptive Reorganization of Neural Pathways for Continual Learning with Hybrid Spiking Neural Networks**|Bing Han et.al.|[2309.09550v1](http://arxiv.org/abs/2309.09550v1)|null|
+|**2023-09-18**|**Spiking-LEAF: A Learnable Auditory front-end for Spiking Neural Networks**|Zeyang Song et.al.|[2309.09469v1](http://arxiv.org/abs/2309.09469v1)|null|
+|**2023-09-17**|**Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera**|Jiahang Cao et.al.|[2309.09297v1](http://arxiv.org/abs/2309.09297v1)|null|
+|**2023-09-16**|**Efficient Privacy-Preserving Convolutional Spiking Neural Networks with FHE**|Pengbo Li et.al.|[2309.09025v1](http://arxiv.org/abs/2309.09025v1)|null|
 |**2023-09-15**|**A Spiking Binary Neuron -- Detector of Causal Links**|Mikhail Kiselev et.al.|[2309.08476v1](http://arxiv.org/abs/2309.08476v1)|null|
 |**2023-09-15**|**Astrocyte-Integrated Dynamic Function Exchange in Spiking Neural Networks**|Murat Isik et.al.|[2309.08232v1](http://arxiv.org/abs/2309.08232v1)|null|
 |**2023-09-14**|**Spiking Dynamics in Dual Free Layer Perpendicular Magnetic Tunnel Junctions**|Louis Farcis et.al.|[2309.07535v1](http://arxiv.org/abs/2309.07535v1)|null|
@@ -496,5 +500,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
