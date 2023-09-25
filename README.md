@@ -1,4 +1,4 @@
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Evolving Spiking Neural Networks to Mimic PID Control for Autonomous Blimps**|Tim Burgers et.al.|[2309.12937v1](http://arxiv.org/abs/2309.12937v1)|null|
+|**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761v1](http://arxiv.org/abs/2309.12761v1)|null|
+|**2023-09-21**|**Ying-Yang Competitive Harmony between Direct and Indirect Pathways in A Spiking Neural Network of The Basal Ganglia**|Sang-Yoon Kim et.al.|[2309.12540v1](http://arxiv.org/abs/2309.12540v1)|null|
 |**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225v1](http://arxiv.org/abs/2309.10225v1)|**[link](https://github.com/QVPR/VPRTempo)**|
 |**2023-09-18**|**Adaptive Reorganization of Neural Pathways for Continual Learning with Hybrid Spiking Neural Networks**|Bing Han et.al.|[2309.09550v1](http://arxiv.org/abs/2309.09550v1)|null|
 |**2023-09-18**|**Spiking-LEAF: A Learnable Auditory front-end for Spiking Neural Networks**|Zeyang Song et.al.|[2309.09469v1](http://arxiv.org/abs/2309.09469v1)|null|
@@ -42,7 +45,7 @@
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152v1](http://arxiv.org/abs/2308.11152v1)|null|
 |**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873v1](http://arxiv.org/abs/2308.10873v1)|null|
 |**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373v1](http://arxiv.org/abs/2308.10373v1)|null|
-|**2023-09-04**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v3](http://arxiv.org/abs/2308.10187v3)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
+|**2023-09-22**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v4](http://arxiv.org/abs/2308.10187v4)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455v1](http://arxiv.org/abs/2308.09455v1)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049v1](http://arxiv.org/abs/2308.09049v1)|null|
 |**2023-08-16**|**Towards Zero Memory Footprint Spiking Neural Network Training**|Bin Lei et.al.|[2308.08649v1](http://arxiv.org/abs/2308.08649v1)|null|
@@ -501,5 +504,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
