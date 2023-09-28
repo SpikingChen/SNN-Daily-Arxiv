@@ -1,4 +1,4 @@
-## Updated on 2023.09.27
+## Updated on 2023.09.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Low Latency of object detection for spikng neural network**|Nemin Qiu et.al.|[2309.15555v1](http://arxiv.org/abs/2309.15555v1)|null|
 |**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523v1](http://arxiv.org/abs/2309.14523v1)|null|
 |**2023-09-23**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302v1](http://arxiv.org/abs/2309.13302v1)|null|
 |**2023-09-22**|**Evolving Spiking Neural Networks to Mimic PID Control for Autonomous Blimps**|Tim Burgers et.al.|[2309.12937v1](http://arxiv.org/abs/2309.12937v1)|null|
@@ -507,5 +508,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
