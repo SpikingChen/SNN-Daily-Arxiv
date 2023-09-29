@@ -1,4 +1,4 @@
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Feed-forward and recurrent inhibition for compressing and classifying high dynamic range biosignals in spiking neural network architectures**|Rachel Sava et.al.|[2309.16425v1](http://arxiv.org/abs/2309.16425v1)|null|
+|**2023-09-28**|**FireFly v2: Advancing Hardware Support for High-Performance Spiking Neural Network with a Spatiotemporal FPGA Accelerator**|Jindong Li et.al.|[2309.16158v1](http://arxiv.org/abs/2309.16158v1)|null|
+|**2023-09-27**|**Highly Efficient SNNs for High-speed Object Detection**|Nemin Qiu et.al.|[2309.15883v1](http://arxiv.org/abs/2309.15883v1)|null|
 |**2023-09-27**|**Low Latency of object detection for spikng neural network**|Nemin Qiu et.al.|[2309.15555v1](http://arxiv.org/abs/2309.15555v1)|null|
 |**2023-09-25**|**Smooth Exact Gradient Descent Learning in Spiking Neural Networks**|Christian Klos et.al.|[2309.14523v1](http://arxiv.org/abs/2309.14523v1)|null|
-|**2023-09-23**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302v1](http://arxiv.org/abs/2309.13302v1)|null|
+|**2023-09-28**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302v2](http://arxiv.org/abs/2309.13302v2)|null|
 |**2023-09-22**|**Evolving Spiking Neural Networks to Mimic PID Control for Autonomous Blimps**|Tim Burgers et.al.|[2309.12937v1](http://arxiv.org/abs/2309.12937v1)|null|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761v1](http://arxiv.org/abs/2309.12761v1)|null|
 |**2023-09-21**|**Ying-Yang Competitive Harmony between Direct and Indirect Pathways in A Spiking Neural Network of The Basal Ganglia**|Sang-Yoon Kim et.al.|[2309.12540v1](http://arxiv.org/abs/2309.12540v1)|null|
@@ -172,7 +175,7 @@
 |**2023-07-09**|**Accurate and Efficient Event-based Semantic Segmentation Using Adaptive Spiking Encoder-Decoder Network**|Rui Zhang et.al.|[2304.11857v2](http://arxiv.org/abs/2304.11857v2)|null|
 |**2023-04-27**|**A Convolutional Spiking Network for Gesture Recognition in Brain-Computer Interfaces**|Yiming Ai et.al.|[2304.11106v2](http://arxiv.org/abs/2304.11106v2)|null|
 |**2023-04-21**|**Electromechanical memcapacitive neurons for energy-efficient spiking neural networks**|Zixi Zhang et.al.|[2304.10899v1](http://arxiv.org/abs/2304.10899v1)|null|
-|**2023-09-11**|**Multi-scale Evolutionary Neural Architecture Search for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2304.10749v3](http://arxiv.org/abs/2304.10749v3)|null|
+|**2023-09-26**|**Emergence of Brain-inspired Small-world Spiking Neural Network through Neuroevolution**|Wenxuan Pan et.al.|[2304.10749v4](http://arxiv.org/abs/2304.10749v4)|null|
 |**2023-04-20**|**Spiking-Fer: Spiking Neural Network for Facial Expression Recognition With Event Cameras**|Sami Barchid et.al.|[2304.10211v1](http://arxiv.org/abs/2304.10211v1)|null|
 |**2023-04-20**|**Efficient Uncertainty Estimation in Spiking Neural Networks via MC-dropout**|Tao Sun et.al.|[2304.10191v1](http://arxiv.org/abs/2304.10191v1)|null|
 |**2023-04-19**|**Pulse shape and voltage-dependent synchronization in spiking neuron networks**|Bastian Pietras et.al.|[2304.09813v1](http://arxiv.org/abs/2304.09813v1)|null|
@@ -508,5 +511,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230929>back to top</a>)</p>
 
