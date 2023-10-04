@@ -1,4 +1,4 @@
-## Updated on 2023.10.03
+## Updated on 2023.10.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055v1](http://arxiv.org/abs/2310.02055v1)|null|
+|**2023-10-01**|**DYNAP-SE2: a scalable multi-core dynamic neuromorphic asynchronous spiking neural network processor**|Ole Richter et.al.|[2310.00564v1](http://arxiv.org/abs/2310.00564v1)|null|
 |**2023-09-29**|**SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**|Song Wang et.al.|[2309.16987v1](http://arxiv.org/abs/2309.16987v1)|null|
 |**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795v1](http://arxiv.org/abs/2309.16795v1)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-09-28**|**Feed-forward and recurrent inhibition for compressing and classifying high dynamic range biosignals in spiking neural network architectures**|Rachel Sava et.al.|[2309.16425v1](http://arxiv.org/abs/2309.16425v1)|null|
@@ -513,5 +515,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231003>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
 
