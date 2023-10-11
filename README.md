@@ -1,4 +1,4 @@
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Energy-Efficient Visual Search by Eye Movement and Low-Latency Spiking Neural Network**|Yunhui Zhou et.al.|[2310.06578v1](http://arxiv.org/abs/2310.06578v1)|null|
+|**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488v1](http://arxiv.org/abs/2310.06488v1)|null|
+|**2023-10-10**|**Spiking PointNet: Spiking Neural Networks for Point Clouds**|Dayong Ren et.al.|[2310.06232v1](http://arxiv.org/abs/2310.06232v1)|**[link](https://github.com/dayongren/spiking-pointnet)**|
 |**2023-10-09**|**Bio-inspired computational memory model of the Hippocampus: an approach to a neuromorphic spike-based Content-Addressable Memory**|Daniel Casanueva-Morato et.al.|[2310.05868v1](http://arxiv.org/abs/2310.05868v1)|null|
 |**2023-10-09**|**Investigating Continuous Learning in Spiking Neural Networks**|C. Tanner Fredieu et.al.|[2310.05343v1](http://arxiv.org/abs/2310.05343v1)|null|
 |**2023-10-08**|**Fully Spiking Neural Network for Legged Robots**|Xiaoyang Jiang et.al.|[2310.05022v1](http://arxiv.org/abs/2310.05022v1)|null|
@@ -524,5 +527,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
