@@ -1,4 +1,4 @@
-## Updated on 2023.10.11
+## Updated on 2023.10.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189v1](http://arxiv.org/abs/2310.07189v1)|null|
+|**2023-08-23**|**Computational models of object motion detectors accelerated using FPGA technology**|Pedro Machado et.al.|[2310.06842v1](http://arxiv.org/abs/2310.06842v1)|null|
 |**2023-10-10**|**Energy-Efficient Visual Search by Eye Movement and Low-Latency Spiking Neural Network**|Yunhui Zhou et.al.|[2310.06578v1](http://arxiv.org/abs/2310.06578v1)|null|
 |**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488v1](http://arxiv.org/abs/2310.06488v1)|null|
 |**2023-10-10**|**Spiking PointNet: Spiking Neural Networks for Point Clouds**|Dayong Ren et.al.|[2310.06232v1](http://arxiv.org/abs/2310.06232v1)|**[link](https://github.com/dayongren/spiking-pointnet)**|
@@ -35,7 +37,7 @@
 |**2023-09-28**|**Gaining the Sparse Rewards by Exploring Binary Lottery Tickets in Spiking Neural Network**|Hao Cheng et.al.|[2309.13302v2](http://arxiv.org/abs/2309.13302v2)|null|
 |**2023-09-22**|**Evolving Spiking Neural Networks to Mimic PID Control for Autonomous Blimps**|Tim Burgers et.al.|[2309.12937v1](http://arxiv.org/abs/2309.12937v1)|null|
 |**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761v1](http://arxiv.org/abs/2309.12761v1)|null|
-|**2023-09-21**|**Ying-Yang Competitive Harmony between Direct and Indirect Pathways in A Spiking Neural Network of The Basal Ganglia**|Sang-Yoon Kim et.al.|[2309.12540v1](http://arxiv.org/abs/2309.12540v1)|null|
+|**2023-10-11**|**Ying-Yang Competitive Harmony between Direct and Indirect Pathways in A Spiking Neural Network of The Basal Ganglia**|Sang-Yoon Kim et.al.|[2309.12540v2](http://arxiv.org/abs/2309.12540v2)|null|
 |**2023-09-19**|**VPRTempo: A Fast Temporally Encoded Spiking Neural Network for Visual Place Recognition**|Adam D. Hines et.al.|[2309.10225v1](http://arxiv.org/abs/2309.10225v1)|**[link](https://github.com/QVPR/VPRTempo)**|
 |**2023-10-08**|**Adaptive Reorganization of Neural Pathways for Continual Learning with Spiking Neural Networks**|Bing Han et.al.|[2309.09550v2](http://arxiv.org/abs/2309.09550v2)|null|
 |**2023-09-18**|**Spiking-LEAF: A Learnable Auditory front-end for Spiking Neural Networks**|Zeyang Song et.al.|[2309.09469v1](http://arxiv.org/abs/2309.09469v1)|null|
@@ -527,5 +529,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
 
