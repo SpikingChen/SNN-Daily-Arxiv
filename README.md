@@ -1,4 +1,4 @@
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,10 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**An On-Chip Trainable Neuron Circuit for SFQ-Based Spiking Neural Networks**|Beyza Zeynep Ucpinar et.al.|[2310.07824v1](http://arxiv.org/abs/2310.07824v1)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189v1](http://arxiv.org/abs/2310.07189v1)|null|
 |**2023-08-23**|**Computational models of object motion detectors accelerated using FPGA technology**|Pedro Machado et.al.|[2310.06842v1](http://arxiv.org/abs/2310.06842v1)|null|
 |**2023-10-10**|**Energy-Efficient Visual Search by Eye Movement and Low-Latency Spiking Neural Network**|Yunhui Zhou et.al.|[2310.06578v1](http://arxiv.org/abs/2310.06578v1)|null|
-|**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488v1](http://arxiv.org/abs/2310.06488v1)|null|
+|**2023-10-12**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488v2](http://arxiv.org/abs/2310.06488v2)|null|
 |**2023-10-10**|**Spiking PointNet: Spiking Neural Networks for Point Clouds**|Dayong Ren et.al.|[2310.06232v1](http://arxiv.org/abs/2310.06232v1)|**[link](https://github.com/dayongren/spiking-pointnet)**|
 |**2023-10-09**|**Bio-inspired computational memory model of the Hippocampus: an approach to a neuromorphic spike-based Content-Addressable Memory**|Daniel Casanueva-Morato et.al.|[2310.05868v1](http://arxiv.org/abs/2310.05868v1)|null|
 |**2023-10-09**|**Investigating Continuous Learning in Spiking Neural Networks**|C. Tanner Fredieu et.al.|[2310.05343v1](http://arxiv.org/abs/2310.05343v1)|null|
@@ -22,7 +23,7 @@
 |**2023-10-06**|**In the Blink of an Eye: Event-based Emotion Recognition**|Haiwei Zhang et.al.|[2310.04043v1](http://arxiv.org/abs/2310.04043v1)|**[link](https://github.com/zhanghaiwei1234/single-eye-emotion-recognition)**|
 |**2023-10-05**|**Unsupervised SFQ-Based Spiking Neural Network**|Mustafa Altay Karamuftuoglu et.al.|[2310.03918v1](http://arxiv.org/abs/2310.03918v1)|null|
 |**2023-10-05**|**Neuromorphic Robust Framework for Concurrent Estimation and Control in Dynamical Systems using Spiking Neural Networks**|Reza Ahmadvand et.al.|[2310.03873v1](http://arxiv.org/abs/2310.03873v1)|null|
-|**2023-10-04**|**Spike Accumulation Forwarding for Effective Training of Spiking Neural Networks**|Ryuji Saiin et.al.|[2310.02772v1](http://arxiv.org/abs/2310.02772v1)|null|
+|**2023-10-12**|**Spike Accumulation Forwarding for Effective Training of Spiking Neural Networks**|Ryuji Saiin et.al.|[2310.02772v2](http://arxiv.org/abs/2310.02772v2)|null|
 |**2023-10-03**|**Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems**|Samuel Liu et.al.|[2310.02364v1](http://arxiv.org/abs/2310.02364v1)|null|
 |**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361v1](http://arxiv.org/abs/2310.02361v1)|null|
 |**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055v1](http://arxiv.org/abs/2310.02055v1)|null|
@@ -79,7 +80,7 @@
 |**2023-08-16**|**Expressivity of Spiking Neural Networks**|Manjot Singh et.al.|[2308.08218v1](http://arxiv.org/abs/2308.08218v1)|null|
 |**2023-08-13**|**RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks**|Yufei Guo et.al.|[2308.06787v1](http://arxiv.org/abs/2308.06787v1)|null|
 |**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582v1](http://arxiv.org/abs/2308.06582v1)|null|
-|**2023-08-10**|**A Homomorphic Encryption Framework for Privacy-Preserving Spiking Neural Networks**|Farzad Nikfam et.al.|[2308.05636v1](http://arxiv.org/abs/2308.05636v1)|null|
+|**2023-10-12**|**A Homomorphic Encryption Framework for Privacy-Preserving Spiking Neural Networks**|Farzad Nikfam et.al.|[2308.05636v2](http://arxiv.org/abs/2308.05636v2)|null|
 |**2023-08-09**|**Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks**|Bing Han et.al.|[2308.04749v1](http://arxiv.org/abs/2308.04749v1)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2023-08-09**|**Resource Constrained Model Compression via Minimax Optimization for Spiking Neural Networks**|Jue Chen et.al.|[2308.04672v1](http://arxiv.org/abs/2308.04672v1)|**[link](https://github.com/chenjallen/resource-constrained-compression-on-snn)**|
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|**[link](https://github.com/event-ahu/sstformer)**|
@@ -119,7 +120,7 @@
 |**2023-07-01**|**AutoST: Training-free Neural Architecture Search for Spiking Transformers**|Ziqing Wang et.al.|[2307.00293v1](http://arxiv.org/abs/2307.00293v1)|null|
 |**2023-08-31**|**Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings**|Ilyass Hammouamri et.al.|[2306.17670v2](http://arxiv.org/abs/2306.17670v2)|**[link](https://github.com/thvnvtos/snn-delays)**|
 |**2023-06-30**|**Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings**|Yuan Zhang et.al.|[2306.17597v1](http://arxiv.org/abs/2306.17597v1)|null|
-|**2023-06-29**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046v1](http://arxiv.org/abs/2306.17046v1)|null|
+|**2023-10-12**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046v2](http://arxiv.org/abs/2306.17046v2)|null|
 |**2023-06-29**|**Decomposing spiking neural networks with Graphical Neural Activity Threads**|Bradley H. Theilman et.al.|[2306.16684v1](http://arxiv.org/abs/2306.16684v1)|null|
 |**2023-10-09**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749v3](http://arxiv.org/abs/2306.15749v3)|**[link](https://github.com/fabrizio-ottati/awesome-neuromorphic-hw)**|
 |**2023-06-27**|**S-TLLR: STDP-inspired Temporal Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2306.15220v1](http://arxiv.org/abs/2306.15220v1)|null|
@@ -529,5 +530,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
 
