@@ -1,4 +1,4 @@
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Stochastic spin-orbit-torque synapse and its application in uncertainty quantification**|Cen Wang et.al.|[2310.10317v1](http://arxiv.org/abs/2310.10317v1)|null|
 |**2023-10-13**|**Spiking Semantic Communication for Feature Transmission with HARQ**|Mengyang Wang et.al.|[2310.08804v1](http://arxiv.org/abs/2310.08804v1)|null|
 |**2023-10-11**|**An On-Chip Trainable Neuron Circuit for SFQ-Based Spiking Neural Networks**|Beyza Zeynep Ucpinar et.al.|[2310.07824v1](http://arxiv.org/abs/2310.07824v1)|null|
 |**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189v1](http://arxiv.org/abs/2310.07189v1)|null|
@@ -24,7 +25,7 @@
 |**2023-10-06**|**In the Blink of an Eye: Event-based Emotion Recognition**|Haiwei Zhang et.al.|[2310.04043v1](http://arxiv.org/abs/2310.04043v1)|**[link](https://github.com/zhanghaiwei1234/single-eye-emotion-recognition)**|
 |**2023-10-05**|**Unsupervised SFQ-Based Spiking Neural Network**|Mustafa Altay Karamuftuoglu et.al.|[2310.03918v1](http://arxiv.org/abs/2310.03918v1)|null|
 |**2023-10-05**|**Neuromorphic Robust Framework for Concurrent Estimation and Control in Dynamical Systems using Spiking Neural Networks**|Reza Ahmadvand et.al.|[2310.03873v1](http://arxiv.org/abs/2310.03873v1)|null|
-|**2023-10-12**|**Spike Accumulation Forwarding for Effective Training of Spiking Neural Networks**|Ryuji Saiin et.al.|[2310.02772v2](http://arxiv.org/abs/2310.02772v2)|null|
+|**2023-10-16**|**Spike Accumulation Forwarding for Effective Training of Spiking Neural Networks**|Ryuji Saiin et.al.|[2310.02772v3](http://arxiv.org/abs/2310.02772v3)|null|
 |**2023-10-03**|**Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems**|Samuel Liu et.al.|[2310.02364v1](http://arxiv.org/abs/2310.02364v1)|null|
 |**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361v1](http://arxiv.org/abs/2310.02361v1)|null|
 |**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055v1](http://arxiv.org/abs/2310.02055v1)|null|
@@ -531,5 +532,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
