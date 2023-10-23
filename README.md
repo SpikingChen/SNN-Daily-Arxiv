@@ -1,4 +1,4 @@
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Enabling energy-Efficient object detection with surrogate gradient descent in spiking neural networks**|Jilong Luo et.al.|[2310.12985v1](http://arxiv.org/abs/2310.12985v1)|null|
 |**2023-10-16**|**Stochastic spin-orbit-torque synapse and its application in uncertainty quantification**|Cen Wang et.al.|[2310.10317v1](http://arxiv.org/abs/2310.10317v1)|null|
 |**2023-10-13**|**Spiking Semantic Communication for Feature Transmission with HARQ**|Mengyang Wang et.al.|[2310.08804v1](http://arxiv.org/abs/2310.08804v1)|null|
 |**2023-10-11**|**An On-Chip Trainable Neuron Circuit for SFQ-Based Spiking Neural Networks**|Beyza Zeynep Ucpinar et.al.|[2310.07824v1](http://arxiv.org/abs/2310.07824v1)|null|
@@ -532,5 +533,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
 
