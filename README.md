@@ -1,4 +1,4 @@
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978v1](http://arxiv.org/abs/2310.14978v1)|null|
+|**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839v1](http://arxiv.org/abs/2310.14839v1)|**[link](https://github.com/qgzhan/esvae)**|
+|**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621v1](http://arxiv.org/abs/2310.14621v1)|null|
+|**2023-10-23**|**Tensor Decomposition Based Attention Module for Spiking Neural Networks**|Haoyu Deng et.al.|[2310.14576v1](http://arxiv.org/abs/2310.14576v1)|null|
+|**2023-10-20**|**Multi-level, Forming Free, Bulk Switching Trilayer RRAM for Neuromorphic Computing at the Edge**|Jaeseoung Park et.al.|[2310.13844v1](http://arxiv.org/abs/2310.13844v1)|null|
 |**2023-09-07**|**Enabling energy-Efficient object detection with surrogate gradient descent in spiking neural networks**|Jilong Luo et.al.|[2310.12985v1](http://arxiv.org/abs/2310.12985v1)|null|
 |**2023-10-16**|**Stochastic spin-orbit-torque synapse and its application in uncertainty quantification**|Cen Wang et.al.|[2310.10317v1](http://arxiv.org/abs/2310.10317v1)|null|
 |**2023-10-13**|**Spiking Semantic Communication for Feature Transmission with HARQ**|Mengyang Wang et.al.|[2310.08804v1](http://arxiv.org/abs/2310.08804v1)|null|
@@ -72,7 +77,7 @@
 |**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053v1](http://arxiv.org/abs/2308.12053v1)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152v1](http://arxiv.org/abs/2308.11152v1)|null|
 |**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873v1](http://arxiv.org/abs/2308.10873v1)|null|
-|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373v1](http://arxiv.org/abs/2308.10373v1)|null|
+|**2023-10-22**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373v2](http://arxiv.org/abs/2308.10373v2)|null|
 |**2023-09-22**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v4](http://arxiv.org/abs/2308.10187v4)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455v1](http://arxiv.org/abs/2308.09455v1)|null|
 |**2023-08-17**|**Development of an interface for digital neuromorphic hardware based on an FPGA**|René Harmann et.al.|[2308.09049v1](http://arxiv.org/abs/2308.09049v1)|null|
@@ -126,7 +131,7 @@
 |**2023-10-12**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046v2](http://arxiv.org/abs/2306.17046v2)|null|
 |**2023-06-29**|**Decomposing spiking neural networks with Graphical Neural Activity Threads**|Bradley H. Theilman et.al.|[2306.16684v1](http://arxiv.org/abs/2306.16684v1)|null|
 |**2023-10-09**|**To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration**|Fabrizio Ottati et.al.|[2306.15749v3](http://arxiv.org/abs/2306.15749v3)|**[link](https://github.com/fabrizio-ottati/awesome-neuromorphic-hw)**|
-|**2023-06-27**|**S-TLLR: STDP-inspired Temporal Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2306.15220v1](http://arxiv.org/abs/2306.15220v1)|null|
+|**2023-10-23**|**S-TLLR: STDP-inspired Temporal Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2306.15220v2](http://arxiv.org/abs/2306.15220v2)|null|
 |**2023-06-26**|**CIMulator: A Comprehensive Simulation Platform for Computing-In-Memory Circuit Macros with Low Bit-Width and Real Memory Materials**|Hoang-Hiep Le et.al.|[2306.14649v1](http://arxiv.org/abs/2306.14649v1)|null|
 |**2023-06-23**|**Spiking Two-Stream Methods with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2306.13783v1](http://arxiv.org/abs/2306.13783v1)|null|
 |**2023-06-23**|**Enhanced Read Resolution in Reconfigurable Memristive Synapses for Spiking Neural Networks**|Hritom Das et.al.|[2306.13721v1](http://arxiv.org/abs/2306.13721v1)|null|
@@ -533,5 +538,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
 
