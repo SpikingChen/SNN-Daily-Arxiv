@@ -1,4 +1,4 @@
-## Updated on 2023.10.27
+## Updated on 2023.10.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745v1](http://arxiv.org/abs/2310.16745v1)|null|
+|**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745v1](http://arxiv.org/abs/2310.16745v1)|**[link](https://github.com/githubofaliyev/snn-dse)**|
 |**2023-10-25**|**Agreeing to Stop: Reliable Latency-Adaptive Decision Making via Ensembles of Spiking Neural Networks**|Jiechen Chen et.al.|[2310.16675v1](http://arxiv.org/abs/2310.16675v1)|null|
 |**2023-10-25**|**SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence**|Wei Fang et.al.|[2310.16620v1](http://arxiv.org/abs/2310.16620v1)|**[link](https://github.com/fangwei123456/spikingjelly)**|
 |**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978v1](http://arxiv.org/abs/2310.14978v1)|null|
@@ -541,5 +541,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
