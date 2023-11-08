@@ -1,4 +1,4 @@
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -188,7 +188,7 @@
 |**2023-05-18**|**SPENSER: Towards a NeuroEvolutionary Approach for Convolutional Spiking Neural Networks**|Henrique Branquinho et.al.|[2305.10987v1](http://arxiv.org/abs/2305.10987v1)|**[link](https://github.com/henriquejsb/spenser)**|
 |**2023-05-19**|**Spiking Generative Adversarial Network with Attention Scoring Decoding**|Linghao Feng et.al.|[2305.10246v3](http://arxiv.org/abs/2305.10246v3)|null|
 |**2023-04-30**|**Sparsifying Spiking Networks through Local Rhythms**|Wilkie Olin-Ammentorp et.al.|[2305.10191v1](http://arxiv.org/abs/2305.10191v1)|null|
-|**2023-09-05**|**MINT: Multiplier-less Integer Quantization for Spiking Neural Networks**|Ruokai Yin et.al.|[2305.09850v3](http://arxiv.org/abs/2305.09850v3)|null|
+|**2023-11-07**|**MINT: Multiplier-less INTeger Quantization for Energy Efficient Spiking Neural Networks**|Ruokai Yin et.al.|[2305.09850v4](http://arxiv.org/abs/2305.09850v4)|**[link](https://github.com/intelligent-computing-lab-yale/mint-quantization)**|
 |**2023-05-15**|**Training Neural Networks without Backpropagation: A Deeper Dive into the Likelihood Ratio Method**|Jinyang Jiang et.al.|[2305.08960v1](http://arxiv.org/abs/2305.08960v1)|null|
 |**2023-05-13**|**Spiking Network Initialisation and Firing Rate Collapse**|Nicolas Perez-Nieves et.al.|[2305.08879v1](http://arxiv.org/abs/2305.08879v1)|null|
 |**2023-05-13**|**Quantization in Spiking Neural Networks**|Bernhard A. Moser et.al.|[2305.08012v1](http://arxiv.org/abs/2305.08012v1)|**[link](https://github.com/lunglmayrmoser/alexsnn)**|
@@ -209,7 +209,7 @@
 |**2023-07-09**|**Accurate and Efficient Event-based Semantic Segmentation Using Adaptive Spiking Encoder-Decoder Network**|Rui Zhang et.al.|[2304.11857v2](http://arxiv.org/abs/2304.11857v2)|null|
 |**2023-04-27**|**A Convolutional Spiking Network for Gesture Recognition in Brain-Computer Interfaces**|Yiming Ai et.al.|[2304.11106v2](http://arxiv.org/abs/2304.11106v2)|null|
 |**2023-04-21**|**Electromechanical memcapacitive neurons for energy-efficient spiking neural networks**|Zixi Zhang et.al.|[2304.10899v1](http://arxiv.org/abs/2304.10899v1)|null|
-|**2023-09-26**|**Emergence of Brain-inspired Small-world Spiking Neural Network through Neuroevolution**|Wenxuan Pan et.al.|[2304.10749v4](http://arxiv.org/abs/2304.10749v4)|null|
+|**2023-11-07**|**Multi-scale Evolutionary Neural Architecture Search for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2304.10749v5](http://arxiv.org/abs/2304.10749v5)|null|
 |**2023-04-20**|**Spiking-Fer: Spiking Neural Network for Facial Expression Recognition With Event Cameras**|Sami Barchid et.al.|[2304.10211v1](http://arxiv.org/abs/2304.10211v1)|null|
 |**2023-04-20**|**Efficient Uncertainty Estimation in Spiking Neural Networks via MC-dropout**|Tao Sun et.al.|[2304.10191v1](http://arxiv.org/abs/2304.10191v1)|null|
 |**2023-04-19**|**Pulse shape and voltage-dependent synchronization in spiking neuron networks**|Bastian Pietras et.al.|[2304.09813v1](http://arxiv.org/abs/2304.09813v1)|null|
@@ -545,5 +545,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
