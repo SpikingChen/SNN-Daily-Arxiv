@@ -1,4 +1,4 @@
-## Updated on 2023.11.09
+## Updated on 2023.11.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210v1](http://arxiv.org/abs/2311.05210v1)|null|
+|**2023-11-09**|**Rethinking Residual Connection in Training Large-Scale Spiking Neural Networks**|Yudong Li et.al.|[2311.05171v1](http://arxiv.org/abs/2311.05171v1)|null|
 |**2023-11-08**|**Free-Space Optical Spiking Neural Network**|Reyhane Ahmadi et.al.|[2311.04558v1](http://arxiv.org/abs/2311.04558v1)|null|
 |**2023-11-07**|**Harnessing Manycore Processors with Distributed Memory for Accelerated Training of Sparse and Recurrent Models**|Jan Finkbeiner et.al.|[2311.04386v1](http://arxiv.org/abs/2311.04386v1)|null|
 |**2023-11-02**|**Feature Attribution Explanations for Spiking Neural Networks**|Elisa Nguyen et.al.|[2311.02110v1](http://arxiv.org/abs/2311.02110v1)|**[link](https://github.com/elisanguyen/tsa-explanations)**|
@@ -547,5 +549,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231110>back to top</a>)</p>
 
