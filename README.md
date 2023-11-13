@@ -1,4 +1,4 @@
-## Updated on 2023.11.12
+## Updated on 2023.11.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -45,7 +45,7 @@
 |**2023-10-03**|**Graphene-Based Artificial Dendrites for Bio-Inspired Learning in Spiking Neuromorphic Systems**|Samuel Liu et.al.|[2310.02364v1](http://arxiv.org/abs/2310.02364v1)|null|
 |**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361v1](http://arxiv.org/abs/2310.02361v1)|null|
 |**2023-10-03**|**Integrate-and-fire circuit for converting analog signals to spikes using phase encoding**|Javier Lopez-Randulfe et.al.|[2310.02055v1](http://arxiv.org/abs/2310.02055v1)|null|
-|**2023-10-01**|**DYNAP-SE2: a scalable multi-core dynamic neuromorphic asynchronous spiking neural network processor**|Ole Richter et.al.|[2310.00564v1](http://arxiv.org/abs/2310.00564v1)|null|
+|**2023-11-10**|**DYNAP-SE2: a scalable multi-core dynamic neuromorphic asynchronous spiking neural network processor**|Ole Richter et.al.|[2310.00564v2](http://arxiv.org/abs/2310.00564v2)|null|
 |**2023-09-29**|**SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features**|Song Wang et.al.|[2309.16987v1](http://arxiv.org/abs/2309.16987v1)|null|
 |**2023-09-28**|**Ultra-low-power Image Classification on Neuromorphic Hardware**|Gregor Lenz et.al.|[2309.16795v1](http://arxiv.org/abs/2309.16795v1)|**[link](https://github.com/biphasic/quartz-on-loihi)**|
 |**2023-09-28**|**Feed-forward and recurrent inhibition for compressing and classifying high dynamic range biosignals in spiking neural network architectures**|Rachel Sava et.al.|[2309.16425v1](http://arxiv.org/abs/2309.16425v1)|null|
@@ -117,7 +117,7 @@
 |**2023-07-28**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844v2](http://arxiv.org/abs/2307.11844v2)|null|
 |**2023-09-25**|**Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network**|Laurent U Perrinet et.al.|[2307.11555v2](http://arxiv.org/abs/2307.11555v2)|null|
 |**2023-07-27**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411v3](http://arxiv.org/abs/2307.11411v3)|**[link](https://github.com/BICLab/EMS-YOLO)**|
-|**2023-07-21**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v1](http://arxiv.org/abs/2307.11349v1)|null|
+|**2023-11-10**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v2](http://arxiv.org/abs/2307.11349v2)|null|
 |**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314v1](http://arxiv.org/abs/2307.11314v1)|null|
 |**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242v1](http://arxiv.org/abs/2307.11242v1)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974v1](http://arxiv.org/abs/2307.10974v1)|**[link](https://github.com/snnresearch/spiking-unet)**|
@@ -549,5 +549,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231113>back to top</a>)</p>
 
