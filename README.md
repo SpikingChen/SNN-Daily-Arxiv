@@ -1,4 +1,4 @@
-## Updated on 2023.11.22
+## Updated on 2023.11.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,13 +11,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186v1](http://arxiv.org/abs/2311.13186v1)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-21**|**HPCNeuroNet: Advancing Neuromorphic Audio Signal Processing with Transformer-Enhanced Spiking Neural Networks**|Murat Isik et.al.|[2311.12449v1](http://arxiv.org/abs/2311.12449v1)|null|
 |**2023-11-18**|**Pursing the Sparse Limitation of Spiking Deep Learning Structures**|Hao Cheng et.al.|[2311.12060v1](http://arxiv.org/abs/2311.12060v1)|null|
 |**2023-11-20**|**Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision**|Sanket Kachole et.al.|[2311.11853v1](http://arxiv.org/abs/2311.11853v1)|null|
 |**2023-11-17**|**Is Conventional SNN Really Efficient? A Perspective from Network Quantization**|Guobin Shen et.al.|[2311.10802v1](http://arxiv.org/abs/2311.10802v1)|null|
 |**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376v1](http://arxiv.org/abs/2311.09376v1)|null|
 |**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266v1](http://arxiv.org/abs/2311.09266v1)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
-|**2023-09-27**|**Autonomous Driving using Spiking Neural Networks on Dynamic Vision Sensor Data: A Case Study of Traffic Light Change Detection**|Xuelei Chen et.al.|[2311.09225v1](http://arxiv.org/abs/2311.09225v1)|null|
+|**2023-09-27**|**Autonomous Driving using Spiking Neural Networks on Dynamic Vision Sensor Data: A Case Study of Traffic Light Change Detection**|Xuelei Chen et.al.|[2311.09225v1](http://arxiv.org/abs/2311.09225v1)|**[link](https://github.com/xueleichen/snn-dvs-carla)**|
 |**2023-11-15**|**SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer**|Yue Liu et.al.|[2311.08806v1](http://arxiv.org/abs/2311.08806v1)|null|
 |**2023-11-13**|**Hybrid Synaptic Structure for Spiking Neural Network Realization**|Sasan Razmkhah et.al.|[2311.07787v1](http://arxiv.org/abs/2311.07787v1)|null|
 |**2023-11-13**|**Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference**|Rishav Mukherji et.al.|[2311.07625v1](http://arxiv.org/abs/2311.07625v1)|null|
@@ -560,5 +561,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231123>back to top</a>)</p>
 
