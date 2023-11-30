@@ -1,4 +1,4 @@
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,7 +12,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-28**|**Spiking Neural Networks with Dynamic Time Steps for Vision Transformers**|Gourav Datta et.al.|[2311.16456v1](http://arxiv.org/abs/2311.16456v1)|null|
-|**2023-11-07**|**Estimating Post-Synaptic Effects for Online Training of Feed-Forward SNNs**|Thomas Summe et.al.|[2311.16151v1](http://arxiv.org/abs/2311.16151v1)|null|
+|**2023-11-07**|**Estimating Post-Synaptic Effects for Online Training of Feed-Forward SNNs**|Thomas Summe et.al.|[2311.16151v1](http://arxiv.org/abs/2311.16151v1)|**[link](https://github.com/intelligent-microsystems-lab/otpe)**|
 |**2023-11-05**|**Brain-Inspired Efficient Pruning: Exploiting Criticality in Spiking Neural Networks**|Shuo Chen et.al.|[2311.16141v1](http://arxiv.org/abs/2311.16141v1)|null|
 |**2023-09-12**|**Co-learning synaptic delays, weights and adaptation in spiking neural networks**|Lucas Deckers et.al.|[2311.16112v1](http://arxiv.org/abs/2311.16112v1)|null|
 |**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474v1](http://arxiv.org/abs/2311.15474v1)|null|
@@ -571,5 +571,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
 
