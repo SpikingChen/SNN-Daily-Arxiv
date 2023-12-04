@@ -1,4 +1,4 @@
-## Updated on 2023.12.03
+## Updated on 2023.12.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -162,7 +162,7 @@
 |**2023-07-04**|**Spike-driven Transformer**|Man Yao et.al.|[2307.01694v1](http://arxiv.org/abs/2307.01694v1)|**[link](https://github.com/biclab/spike-driven-transformer)**|
 |**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771v1](http://arxiv.org/abs/2307.00771v1)|null|
 |**2023-07-01**|**AutoST: Training-free Neural Architecture Search for Spiking Transformers**|Ziqing Wang et.al.|[2307.00293v1](http://arxiv.org/abs/2307.00293v1)|null|
-|**2023-08-31**|**Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings**|Ilyass Hammouamri et.al.|[2306.17670v2](http://arxiv.org/abs/2306.17670v2)|**[link](https://github.com/thvnvtos/snn-delays)**|
+|**2023-12-01**|**Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings**|Ilyass Hammouamri et.al.|[2306.17670v3](http://arxiv.org/abs/2306.17670v3)|**[link](https://github.com/thvnvtos/snn-delays)**|
 |**2023-06-30**|**Razor SNN: Efficient Spiking Neural Network with Temporal Embeddings**|Yuan Zhang et.al.|[2306.17597v1](http://arxiv.org/abs/2306.17597v1)|null|
 |**2023-10-30**|**Spiking Denoising Diffusion Probabilistic Models**|Jiahang Cao et.al.|[2306.17046v3](http://arxiv.org/abs/2306.17046v3)|**[link](https://github.com/andycao1125/sddpm)**|
 |**2023-06-29**|**Decomposing spiking neural networks with Graphical Neural Activity Threads**|Bradley H. Theilman et.al.|[2306.16684v1](http://arxiv.org/abs/2306.16684v1)|null|
@@ -185,7 +185,7 @@
 |**2023-06-07**|**Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP**|Arsham Gholamzadeh Khoee et.al.|[2306.04410v1](http://arxiv.org/abs/2306.04410v1)|null|
 |**2023-06-06**|**ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks**|Jiangrong Shen et.al.|[2306.03693v1](http://arxiv.org/abs/2306.03693v1)|null|
 |**2023-06-06**|**Spike-based computation using classical recurrent neural networks**|Florent De Geeter et.al.|[2306.03623v1](http://arxiv.org/abs/2306.03623v1)|null|
-|**2023-06-06**|**Trial matching: capturing variability with data-constrained spiking neural networks**|Christos Sourmpis et.al.|[2306.03603v1](http://arxiv.org/abs/2306.03603v1)|null|
+|**2023-12-01**|**Trial matching: capturing variability with data-constrained spiking neural networks**|Christos Sourmpis et.al.|[2306.03603v2](http://arxiv.org/abs/2306.03603v2)|null|
 |**2023-06-05**|**Best of Both Worlds: Hybrid SNN-ANN Architecture for Event-based Optical Flow Estimation**|Shubham Negi et.al.|[2306.02960v1](http://arxiv.org/abs/2306.02960v1)|null|
 |**2023-06-05**|**Photonic Integrated Neuro-Synaptic Core for Convolutional Spiking Neural Network**|Shuiying Xiang et.al.|[2306.02724v1](http://arxiv.org/abs/2306.02724v1)|null|
 |**2023-06-02**|**Synaptic motor adaptation: A three-factor learning rule for adaptive robotic control in spiking neural networks**|Samuel Schmidgall et.al.|[2306.01906v1](http://arxiv.org/abs/2306.01906v1)|null|
@@ -574,5 +574,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
 
