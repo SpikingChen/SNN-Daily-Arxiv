@@ -1,4 +1,4 @@
-## Updated on 2023.12.07
+## Updated on 2023.12.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -38,7 +38,7 @@
 |**2023-09-27**|**Autonomous Driving using Spiking Neural Networks on Dynamic Vision Sensor Data: A Case Study of Traffic Light Change Detection**|Xuelei Chen et.al.|[2311.09225v1](http://arxiv.org/abs/2311.09225v1)|**[link](https://github.com/xueleichen/snn-dvs-carla)**|
 |**2023-11-15**|**SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer**|Yue Liu et.al.|[2311.08806v1](http://arxiv.org/abs/2311.08806v1)|null|
 |**2023-11-13**|**Hybrid Synaptic Structure for Spiking Neural Network Realization**|Sasan Razmkhah et.al.|[2311.07787v1](http://arxiv.org/abs/2311.07787v1)|null|
-|**2023-11-13**|**Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference**|Rishav Mukherji et.al.|[2311.07625v1](http://arxiv.org/abs/2311.07625v1)|null|
+|**2023-12-07**|**Activity Sparsity Complements Weight Sparsity for Efficient RNN Inference**|Rishav Mukherji et.al.|[2311.07625v2](http://arxiv.org/abs/2311.07625v2)|null|
 |**2023-11-11**|**OR Residual Connection Achieving Comparable Accuracy to ADD Residual Connection in Deep Residual Spiking Neural Networks**|Yimeng Shan et.al.|[2311.06570v1](http://arxiv.org/abs/2311.06570v1)|**[link](https://github.com/ym-shan/orrc-syna-natural-pruning)**|
 |**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210v1](http://arxiv.org/abs/2311.05210v1)|null|
 |**2023-11-09**|**Rethinking Residual Connection in Training Large-Scale Spiking Neural Networks**|Yudong Li et.al.|[2311.05171v1](http://arxiv.org/abs/2311.05171v1)|null|
@@ -578,5 +578,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231207>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231208>back to top</a>)</p>
 
