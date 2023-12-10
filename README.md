@@ -1,4 +1,4 @@
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -127,7 +127,7 @@
 |**2023-08-17**|**HyperSNN: A new efficient and robust deep learning model for resource constrained control applications**|Zhanglu Yan et.al.|[2308.08222v2](http://arxiv.org/abs/2308.08222v2)|null|
 |**2023-08-16**|**Expressivity of Spiking Neural Networks**|Manjot Singh et.al.|[2308.08218v1](http://arxiv.org/abs/2308.08218v1)|null|
 |**2023-08-13**|**RMP-Loss: Regularizing Membrane Potential Distribution for Spiking Neural Networks**|Yufei Guo et.al.|[2308.06787v1](http://arxiv.org/abs/2308.06787v1)|null|
-|**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582v1](http://arxiv.org/abs/2308.06582v1)|null|
+|**2023-08-12**|**Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks**|Xuerui Qiu et.al.|[2308.06582v1](http://arxiv.org/abs/2308.06582v1)|**[link](https://github.com/bollossom/GAC)**|
 |**2023-10-12**|**A Homomorphic Encryption Framework for Privacy-Preserving Spiking Neural Networks**|Farzad Nikfam et.al.|[2308.05636v2](http://arxiv.org/abs/2308.05636v2)|null|
 |**2023-08-09**|**Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks**|Bing Han et.al.|[2308.04749v1](http://arxiv.org/abs/2308.04749v1)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2023-08-09**|**Resource Constrained Model Compression via Minimax Optimization for Spiking Neural Networks**|Jue Chen et.al.|[2308.04672v1](http://arxiv.org/abs/2308.04672v1)|**[link](https://github.com/chenjallen/resource-constrained-compression-on-snn)**|
@@ -578,5 +578,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231210>back to top</a>)</p>
 
