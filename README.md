@@ -1,4 +1,4 @@
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372v1](http://arxiv.org/abs/2312.06372v1)|**[link](https://github.com/yfguo91/ternary-spike)**|
+|**2023-12-09**|**NiSNN-A: Non-iterative Spiking Neural Networks with Attention with Application to Motor Imagery EEG Classification**|Chuhan Zhang et.al.|[2312.05643v1](http://arxiv.org/abs/2312.05643v1)|null|
+|**2023-12-08**|**Noise Adaptor in Spiking Neural Networks**|Chen Li et.al.|[2312.05290v1](http://arxiv.org/abs/2312.05290v1)|null|
 |**2023-12-08**|**Analysis on Effects of Fault Elements in Memristive Neuromorphic Systems**|Hyun-Jong Lee et.al.|[2312.04840v1](http://arxiv.org/abs/2312.04840v1)|null|
 |**2023-12-05**|**Supervised learning of spatial features with STDP and homeostasis using Spiking Neural Networks on SpiNNaker**|Sergio Davies et.al.|[2312.02659v1](http://arxiv.org/abs/2312.02659v1)|null|
 |**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742v1](http://arxiv.org/abs/2312.01742v1)|null|
@@ -579,5 +582,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231212>back to top</a>)</p>
 
