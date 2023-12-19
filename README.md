@@ -1,4 +1,4 @@
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 |**2023-12-12**|**Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling**|Guobin Shen et.al.|[2312.07625v1](http://arxiv.org/abs/2312.07625v1)|null|
 |**2023-12-12**|**Efficient Object Detection in Autonomous Driving using Spiking Neural Networks: Performance, Energy Consumption Analysis, and Insights into Open-set Object Discovery**|Aitor Martinez Seras et.al.|[2312.07466v1](http://arxiv.org/abs/2312.07466v1)|**[link](https://github.com/aitor-martinez-seras/snn-automotive-object-detection)**|
 |**2023-12-12**|**When Bio-Inspired Computing meets Deep Learning: Low-Latency, Accurate, & Energy-Efficient Spiking Neural Networks from Artificial Neural Networks**|Gourav Datta et.al.|[2312.06900v1](http://arxiv.org/abs/2312.06900v1)|null|
-|**2023-12-11**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372v1](http://arxiv.org/abs/2312.06372v1)|**[link](https://github.com/yfguo91/ternary-spike)**|
+|**2023-12-17**|**Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks**|Yufei Guo et.al.|[2312.06372v2](http://arxiv.org/abs/2312.06372v2)|**[link](https://github.com/yfguo91/ternary-spike)**|
 |**2023-12-09**|**NiSNN-A: Non-iterative Spiking Neural Networks with Attention with Application to Motor Imagery EEG Classification**|Chuhan Zhang et.al.|[2312.05643v1](http://arxiv.org/abs/2312.05643v1)|null|
 |**2023-12-08**|**Noise Adaptor in Spiking Neural Networks**|Chen Li et.al.|[2312.05290v1](http://arxiv.org/abs/2312.05290v1)|null|
 |**2023-12-08**|**Analysis on Effects of Fault Elements in Memristive Neuromorphic Systems**|Hyun-Jong Lee et.al.|[2312.04840v1](http://arxiv.org/abs/2312.04840v1)|null|
@@ -59,7 +59,7 @@
 |**2023-10-29**|**Expanding memory in recurrent spiking networks**|Ismael Balafrej et.al.|[2310.19067v1](http://arxiv.org/abs/2310.19067v1)|null|
 |**2023-11-25**|**A multi-modal table tennis robot system**|Andreas Ziegler et.al.|[2310.19062v2](http://arxiv.org/abs/2310.19062v2)|null|
 |**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745v1](http://arxiv.org/abs/2310.16745v1)|**[link](https://github.com/githubofaliyev/snn-dse)**|
-|**2023-10-25**|**Agreeing to Stop: Reliable Latency-Adaptive Decision Making via Ensembles of Spiking Neural Networks**|Jiechen Chen et.al.|[2310.16675v1](http://arxiv.org/abs/2310.16675v1)|null|
+|**2023-12-16**|**Agreeing to Stop: Reliable Latency-Adaptive Decision Making via Ensembles of Spiking Neural Networks**|Jiechen Chen et.al.|[2310.16675v2](http://arxiv.org/abs/2310.16675v2)|null|
 |**2023-10-25**|**SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence**|Wei Fang et.al.|[2310.16620v1](http://arxiv.org/abs/2310.16620v1)|**[link](https://github.com/fangwei123456/spikingjelly)**|
 |**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978v1](http://arxiv.org/abs/2310.14978v1)|null|
 |**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839v1](http://arxiv.org/abs/2310.14839v1)|**[link](https://github.com/qgzhan/esvae)**|
@@ -122,7 +122,7 @@
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390v1](http://arxiv.org/abs/2308.15390v1)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-29**|**Unleashing the Potential of Spiking Neural Networks for Sequential Modeling with Contextual Embedding**|Xinyi Chen et.al.|[2308.15150v1](http://arxiv.org/abs/2308.15150v1)|null|
 |**2023-10-07**|**SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation**|Changze Lv et.al.|[2308.15122v3](http://arxiv.org/abs/2308.15122v3)|**[link](https://github.com/Lvchangze/SpikeBERT)**|
-|**2023-08-25**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250v1](http://arxiv.org/abs/2308.13250v1)|null|
+|**2023-12-18**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250v2](http://arxiv.org/abs/2308.13250v2)|null|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529v1](http://arxiv.org/abs/2308.12529v1)|null|
 |**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063v1](http://arxiv.org/abs/2308.12063v1)|null|
 |**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053v1](http://arxiv.org/abs/2308.12053v1)|null|
@@ -589,5 +589,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231219>back to top</a>)</p>
 
