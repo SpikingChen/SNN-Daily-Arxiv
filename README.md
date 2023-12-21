@@ -1,4 +1,4 @@
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Energy-efficient Spiking Neural Network Equalization for IM/DD Systems with Optimized Neural Encoding**|Alexander von Bank et.al.|[2312.12909v1](http://arxiv.org/abs/2312.12909v1)|**[link](https://github.com/kit-cel/optispike)**|
 |**2023-12-14**|**Language Modeling on a SpiNNaker 2 Neuromorphic Chip**|Khaleelulla Khan Nazeer et.al.|[2312.09084v1](http://arxiv.org/abs/2312.09084v1)|null|
 |**2023-12-14**|**DenRAM: Neuromorphic Dendritic Architecture with RRAM for Efficient Temporal Processing with Delays**|Simone DAgostino et.al.|[2312.08960v1](http://arxiv.org/abs/2312.08960v1)|null|
 |**2023-12-13**|**Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems**|Andrew C. Freeman et.al.|[2312.08213v1](http://arxiv.org/abs/2312.08213v1)|null|
@@ -122,7 +123,7 @@
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390v1](http://arxiv.org/abs/2308.15390v1)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-29**|**Unleashing the Potential of Spiking Neural Networks for Sequential Modeling with Contextual Embedding**|Xinyi Chen et.al.|[2308.15150v1](http://arxiv.org/abs/2308.15150v1)|null|
 |**2023-10-07**|**SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation**|Changze Lv et.al.|[2308.15122v3](http://arxiv.org/abs/2308.15122v3)|**[link](https://github.com/Lvchangze/SpikeBERT)**|
-|**2023-12-18**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250v2](http://arxiv.org/abs/2308.13250v2)|null|
+|**2023-12-18**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250v2](http://arxiv.org/abs/2308.13250v2)|**[link](https://github.com/zhangshimin1/tc-lif)**|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529v1](http://arxiv.org/abs/2308.12529v1)|null|
 |**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063v1](http://arxiv.org/abs/2308.12063v1)|null|
 |**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053v1](http://arxiv.org/abs/2308.12053v1)|null|
@@ -589,5 +590,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
 
