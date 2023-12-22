@@ -1,4 +1,4 @@
-## Updated on 2023.12.21
+## Updated on 2023.12.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -163,7 +163,7 @@
 |**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242v1](http://arxiv.org/abs/2307.11242v1)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974v1](http://arxiv.org/abs/2307.10974v1)|**[link](https://github.com/snnresearch/spiking-unet)**|
 |**2023-07-13**|**Corticomorphic Hybrid CNN-SNN Architecture for EEG-based Low-footprint Low-latency Auditory Attention Detection**|Richard Gall et.al.|[2307.08501v1](http://arxiv.org/abs/2307.08501v1)|null|
-|**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116v1](http://arxiv.org/abs/2307.08116v1)|null|
+|**2023-12-21**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116v2](http://arxiv.org/abs/2307.08116v2)|null|
 |**2023-07-16**|**Enhancing Energy Efficiency and Reliability in Autonomous Systems Estimation using Neuromorphic Approach**|Reza Ahmadvand et.al.|[2307.07963v1](http://arxiv.org/abs/2307.07963v1)|null|
 |**2023-07-15**|**Custom DNN using Reward Modulated Inverted STDP Learning for Temporal Pattern Recognition**|Vijay Shankaran Vivekanand et.al.|[2307.07869v1](http://arxiv.org/abs/2307.07869v1)|null|
 |**2023-07-14**|**Long Short-term Memory with Two-Compartment Spiking Neuron**|Shimin Zhang et.al.|[2307.07231v1](http://arxiv.org/abs/2307.07231v1)|null|
@@ -590,5 +590,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231222>back to top</a>)</p>
 
