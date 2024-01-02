@@ -1,4 +1,4 @@
-## Updated on 2024.01.01
+## Updated on 2024.01.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning**|De Ma et.al.|[2312.17582v1](http://arxiv.org/abs/2312.17582v1)|null|
 |**2023-12-28**|**SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**|Rainer Engelken et.al.|[2312.17216v1](http://arxiv.org/abs/2312.17216v1)|**[link](https://github.com/rainerengelken/sparseprop)**|
 |**2023-12-26**|**Event-based Shape from Polarization with Spiking Neural Networks**|Peng Kang et.al.|[2312.16071v1](http://arxiv.org/abs/2312.16071v1)|null|
 |**2023-12-25**|**Astrocyte Regulated Neuromorphic CPG Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805v1](http://arxiv.org/abs/2312.15805v1)|null|
@@ -164,7 +165,7 @@
 |**2023-07-28**|**Bio-realistic Neural Network Implementation on Loihi 2 with Izhikevich Neurons**|Recep Buğra Uludağ et.al.|[2307.11844v2](http://arxiv.org/abs/2307.11844v2)|null|
 |**2023-09-25**|**Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network**|Laurent U Perrinet et.al.|[2307.11555v2](http://arxiv.org/abs/2307.11555v2)|null|
 |**2023-07-27**|**Deep Directly-Trained Spiking Neural Networks for Object Detection**|Qiaoyi Su et.al.|[2307.11411v3](http://arxiv.org/abs/2307.11411v3)|**[link](https://github.com/BICLab/EMS-YOLO)**|
-|**2023-12-26**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v3](http://arxiv.org/abs/2307.11349v3)|**[link](https://github.com/souravsanyal06/ev-planner)**|
+|**2023-12-30**|**EV-Planner: Energy-Efficient Robot Navigation via Event-Based Physics-Guided Neuromorphic Planner**|Sourav Sanyal et.al.|[2307.11349v4](http://arxiv.org/abs/2307.11349v4)|**[link](https://github.com/souravsanyal06/ev-planner)**|
 |**2023-07-21**|**Neuromorphic Online Learning for Spatiotemporal Patterns with a Forward-only Timeline**|Zhenhang Zhang et.al.|[2307.11314v1](http://arxiv.org/abs/2307.11314v1)|null|
 |**2023-07-20**|**On-Sensor Data Filtering using Neuromorphic Computing for High Energy Physics Experiments**|Shruti R. Kulkarni et.al.|[2307.11242v1](http://arxiv.org/abs/2307.11242v1)|null|
 |**2023-07-20**|**Deep Spiking-UNet for Image Processing**|Hebei Li et.al.|[2307.10974v1](http://arxiv.org/abs/2307.10974v1)|**[link](https://github.com/snnresearch/spiking-unet)**|
@@ -196,7 +197,7 @@
 |**2023-06-22**|**To Spike or Not to Spike? A Quantitative Comparison of SNN and CNN FPGA Implementations**|Patrick Plagwitz et.al.|[2306.12742v1](http://arxiv.org/abs/2306.12742v1)|null|
 |**2023-06-22**|**Accelerating SNN Training with Stochastic Parallelizable Spiking Neurons**|Sidi Yaya Arnaud Yarga et.al.|[2306.12666v1](http://arxiv.org/abs/2306.12666v1)|**[link](https://github.com/necotis/stochastic-parallelizable-spiking-neuron-spsn)**|
 |**2023-06-21**|**Efficient Deep Spiking Multi-Layer Perceptrons with Multiplication-Free Inference**|Boyan Li et.al.|[2306.12465v1](http://arxiv.org/abs/2306.12465v1)|null|
-|**2023-06-21**|**NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN**|Yufei Guo et.al.|[2306.12073v1](http://arxiv.org/abs/2306.12073v1)|**[link](https://github.com/yfguo91/neuroclip)**|
+|**2023-12-29**|**NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN**|Yufei Guo et.al.|[2306.12073v2](http://arxiv.org/abs/2306.12073v2)|**[link](https://github.com/yfguo91/neuroclip)**|
 |**2023-07-11**|**Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes**|Gehua Ma et.al.|[2306.12045v2](http://arxiv.org/abs/2306.12045v2)|null|
 |**2023-06-27**|**Spiking Neural Network for Ultra-low-latency and High-accurate Object Detection**|Jinye Qu et.al.|[2306.12010v2](http://arxiv.org/abs/2306.12010v2)|null|
 |**2023-11-20**|**High-performance deep spiking neural networks with 0.3 spikes per neuron**|Ana Stanojevic et.al.|[2306.08744v2](http://arxiv.org/abs/2306.08744v2)|null|
@@ -596,5 +597,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240101>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240102>back to top</a>)</p>
 
