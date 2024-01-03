@@ -1,4 +1,4 @@
-## Updated on 2024.01.02
+## Updated on 2024.01.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Spiker+: a framework for the generation of efficient Spiking Neural Networks FPGA accelerators for inference at the edge**|Alessio Carpegna et.al.|[2401.01141v1](http://arxiv.org/abs/2401.01141v1)|null|
+|**2023-12-14**|**Learning Long Sequences in Spiking Neural Networks**|Matei Ioan Stan et.al.|[2401.00955v1](http://arxiv.org/abs/2401.00955v1)|null|
+|**2024-01-01**|**Learn to integrate parts for whole through correlated neural variability**|Zhichao Zhu et.al.|[2401.00746v1](http://arxiv.org/abs/2401.00746v1)|null|
+|**2023-12-31**|**Analysis of biologically plausible neuron models for regression with spiking neural networks**|Mario De Florio et.al.|[2401.00369v1](http://arxiv.org/abs/2401.00369v1)|null|
 |**2023-12-29**|**Darwin3: A large-scale neuromorphic chip with a Novel ISA and On-Chip Learning**|De Ma et.al.|[2312.17582v1](http://arxiv.org/abs/2312.17582v1)|null|
 |**2023-12-28**|**SparseProp: Efficient Event-Based Simulation and Training of Sparse Recurrent Spiking Neural Networks**|Rainer Engelken et.al.|[2312.17216v1](http://arxiv.org/abs/2312.17216v1)|**[link](https://github.com/rainerengelken/sparseprop)**|
 |**2023-12-26**|**Event-based Shape from Polarization with Spiking Neural Networks**|Peng Kang et.al.|[2312.16071v1](http://arxiv.org/abs/2312.16071v1)|null|
@@ -597,5 +601,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
 
