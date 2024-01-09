@@ -1,4 +1,4 @@
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks**|Qi Xu et.al.|[2401.03719v1](http://arxiv.org/abs/2401.03719v1)|null|
 |**2023-11-13**|**Brain-Inspired Spiking Neural Networks for Industrial Fault Diagnosis: A Survey, Challenges, and Opportunities**|Huan Wang et.al.|[2401.02429v1](http://arxiv.org/abs/2401.02429v1)|null|
 |**2024-01-04**|**Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket**|Zhaokun Zhou et.al.|[2401.02020v1](http://arxiv.org/abs/2401.02020v1)|**[link](https://github.com/zk-zhou/spikformer)**|
 |**2024-01-02**|**Shrinking Your TimeStep: Towards Low-Latency Neuromorphic Object Recognition with Spiking Neural Network**|Yongqi Ding et.al.|[2401.01912v1](http://arxiv.org/abs/2401.01912v1)|null|
@@ -604,5 +605,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
 
