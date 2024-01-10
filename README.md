@@ -1,4 +1,4 @@
-## Updated on 2024.01.09
+## Updated on 2024.01.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Multi-Neuron Representations of Hierarchical Concepts in Spiking Neural Networks**|Nancy A. Lynch et.al.|[2401.04628v1](http://arxiv.org/abs/2401.04628v1)|null|
+|**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491v1](http://arxiv.org/abs/2401.04491v1)|**[link](https://gitlab.com/tud-hpsn/public)**|
+|**2024-01-09**|**Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks**|Yufei Guo et.al.|[2401.04486v1](http://arxiv.org/abs/2401.04486v1)|null|
+|**2024-01-07**|**Web Neural Network with Complete DiGraphs**|Frank Li et.al.|[2401.04134v1](http://arxiv.org/abs/2401.04134v1)|null|
 |**2024-01-08**|**Enhancing Adaptive History Reserving by Spiking Convolutional Block Attention Module in Recurrent Neural Networks**|Qi Xu et.al.|[2401.03719v1](http://arxiv.org/abs/2401.03719v1)|null|
 |**2023-11-13**|**Brain-Inspired Spiking Neural Networks for Industrial Fault Diagnosis: A Survey, Challenges, and Opportunities**|Huan Wang et.al.|[2401.02429v1](http://arxiv.org/abs/2401.02429v1)|null|
 |**2024-01-04**|**Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket**|Zhaokun Zhou et.al.|[2401.02020v1](http://arxiv.org/abs/2401.02020v1)|**[link](https://github.com/zk-zhou/spikformer)**|
@@ -605,5 +609,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240110>back to top</a>)</p>
 
