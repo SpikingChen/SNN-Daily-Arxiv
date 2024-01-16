@@ -49,7 +49,7 @@
 |**2023-12-05**|**Supervised learning of spatial features with STDP and homeostasis using Spiking Neural Networks on SpiNNaker**|Sergio Davies et.al.|[2312.02659v1](http://arxiv.org/abs/2312.02659v1)|null|
 |**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742v1](http://arxiv.org/abs/2312.01742v1)|null|
 |**2023-12-02**|**Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural networks: from Algorithms to Technology**|Souvik Kundu et.al.|[2312.01213v1](http://arxiv.org/abs/2312.01213v1)|null|
-|**2023-12-01**|**A Low-Power Neuromorphic Approach for Efcient Eye-Tracking**|Pietro Bonazzi et.al.|[2312.00425](https://arxiv.org/pdf/2312.00425.pdf)|**[link](https://github.com/pbonazzi/retina)**|
+|**2023-12-01**|**A Low-Power Neuromorphic Approach for Efficient Eye-Tracking**|Pietro Bonazzi et.al.|[2312.00425](https://arxiv.org/pdf/2312.00425.pdf)|**[link](https://github.com/pbonazzi/retina)**|
 |**2023-12-01**|**Rethinking Skip Connections in Spiking Neural Networks with Time-To-First-Spike Coding**|Youngeun Kim et.al.|[2312.00919v1](http://arxiv.org/abs/2312.00919v1)|null|
 |**2023-11-30**|**Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons**|Jay Sonawane et.al.|[2311.18577v1](http://arxiv.org/abs/2311.18577v1)|null|
 |**2023-11-30**|**Neuromorphic Incremental on-chip Learning with Hebbian Weight Consolidation**|Zifan Ning et.al.|[2311.18340v1](http://arxiv.org/abs/2311.18340v1)|null|
