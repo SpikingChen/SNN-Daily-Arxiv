@@ -1,4 +1,4 @@
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-24**|**Deep Pulse-Coupled Neural Networks**|Zexiang Yi et.al.|[2401.08649v1](http://arxiv.org/abs/2401.08649v1)|null|
 |**2024-01-15**|**TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training**|Donghyun Lee et.al.|[2401.08001v1](http://arxiv.org/abs/2401.08001v1)|null|
 |**2024-01-12**|**Performance Evaluation of Neuromorphic Hardware for Onboard Satellite Communication Applications**|Eva Lagunas et.al.|[2401.06911v1](http://arxiv.org/abs/2401.06911v1)|null|
 |**2024-01-10**|**Grounded learning for compositional vector semantics**|Martha Lewis et.al.|[2401.06808v1](http://arxiv.org/abs/2401.06808v1)|null|
@@ -39,7 +40,7 @@
 |**2023-12-21**|**Low-power event-based face detection with asynchronous neuromorphic hardware**|Caterina Caccavella et.al.|[2312.14261v1](http://arxiv.org/abs/2312.14261v1)|null|
 |**2023-12-20**|**Energy-efficient Spiking Neural Network Equalization for IM/DD Systems with Optimized Neural Encoding**|Alexander von Bank et.al.|[2312.12909v1](http://arxiv.org/abs/2312.12909v1)|**[link](https://github.com/kit-cel/optispike)**|
 |**2023-12-14**|**Exploiting Symmetric Temporally Sparse BPTT for Efficient RNN Training**|Xi Chen et.al.|[2312.09391v1](http://arxiv.org/abs/2312.09391v1)|null|
-|**2023-12-14**|**Language Modeling on a SpiNNaker 2 Neuromorphic Chip**|Khaleelulla Khan Nazeer et.al.|[2312.09084v1](http://arxiv.org/abs/2312.09084v1)|null|
+|**2024-01-17**|**Language Modeling on a SpiNNaker 2 Neuromorphic Chip**|Khaleelulla Khan Nazeer et.al.|[2312.09084v2](http://arxiv.org/abs/2312.09084v2)|null|
 |**2023-12-14**|**DenRAM: Neuromorphic Dendritic Architecture with RRAM for Efficient Temporal Processing with Delays**|Simone DAgostino et.al.|[2312.08960v1](http://arxiv.org/abs/2312.08960v1)|null|
 |**2023-12-13**|**Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems**|Andrew C. Freeman et.al.|[2312.08213v1](http://arxiv.org/abs/2312.08213v1)|null|
 |**2023-12-13**|**Memory-Efficient Reversible Spiking Neural Networks**|Hong Zhang et.al.|[2312.07922v1](http://arxiv.org/abs/2312.07922v1)|**[link](https://github.com/mi804/revsnn)**|
@@ -633,5 +634,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
 
