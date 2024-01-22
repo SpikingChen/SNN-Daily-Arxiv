@@ -1,4 +1,4 @@
-## Updated on 2024.01.21
+## Updated on 2024.01.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-06**|**Neural Population Decoding and Imbalanced Multi-Omic Datasets For Cancer Subtype Diagnosis**|Charles Theodore Kent et.al.|[2401.10844v1](http://arxiv.org/abs/2401.10844v1)|null|
+|**2024-01-05**|**Training a General Spiking Neural Network with Improved Efficiency and Minimum Latency**|Yunpeng Yao et.al.|[2401.10843v1](http://arxiv.org/abs/2401.10843v1)|null|
+|**2024-01-19**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793v1](http://arxiv.org/abs/2401.10793v1)|null|
+|**2023-12-28**|**Fast gradient-free activation maximization for neurons in spiking neural networks**|Nikita Pospelov et.al.|[2401.10748v1](http://arxiv.org/abs/2401.10748v1)|**[link](https://github.com/iabs-neuro/mango)**|
+|**2023-12-26**|**Curriculum Design Helps Spiking Neural Networks to Classify Time Series**|Chenxi Sun et.al.|[2401.10257v1](http://arxiv.org/abs/2401.10257v1)|null|
 |**2023-12-24**|**Deep Pulse-Coupled Neural Networks**|Zexiang Yi et.al.|[2401.08649v1](http://arxiv.org/abs/2401.08649v1)|null|
 |**2024-01-15**|**TT-SNN: Tensor Train Decomposition for Efficient Spiking Neural Network Training**|Donghyun Lee et.al.|[2401.08001v1](http://arxiv.org/abs/2401.08001v1)|null|
 |**2024-01-12**|**Performance Evaluation of Neuromorphic Hardware for Onboard Satellite Communication Applications**|Eva Lagunas et.al.|[2401.06911v1](http://arxiv.org/abs/2401.06911v1)|null|
@@ -634,5 +639,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240122>back to top</a>)</p>
 
