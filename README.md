@@ -1,4 +1,4 @@
-## Updated on 2024.01.22
+## Updated on 2024.01.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687v1](http://arxiv.org/abs/2401.11687v1)|null|
+|**2024-01-03**|**A Review of Findings from Neuroscience and Cognitive Psychology as Possible Inspiration for the Path to Artificial General Intelligence**|Florin Leon et.al.|[2401.10904v1](http://arxiv.org/abs/2401.10904v1)|null|
 |**2024-01-06**|**Neural Population Decoding and Imbalanced Multi-Omic Datasets For Cancer Subtype Diagnosis**|Charles Theodore Kent et.al.|[2401.10844v1](http://arxiv.org/abs/2401.10844v1)|null|
-|**2024-01-05**|**Training a General Spiking Neural Network with Improved Efficiency and Minimum Latency**|Yunpeng Yao et.al.|[2401.10843v1](http://arxiv.org/abs/2401.10843v1)|null|
+|**2024-01-05**|**Training a General Spiking Neural Network with Improved Efficiency and Minimum Latency**|Yunpeng Yao et.al.|[2401.10843v1](http://arxiv.org/abs/2401.10843v1)|**[link](https://github.com/iverss1/ecml_snn)**|
 |**2024-01-19**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793v1](http://arxiv.org/abs/2401.10793v1)|null|
 |**2023-12-28**|**Fast gradient-free activation maximization for neurons in spiking neural networks**|Nikita Pospelov et.al.|[2401.10748v1](http://arxiv.org/abs/2401.10748v1)|**[link](https://github.com/iabs-neuro/mango)**|
 |**2023-12-26**|**Curriculum Design Helps Spiking Neural Networks to Classify Time Series**|Chenxi Sun et.al.|[2401.10257v1](http://arxiv.org/abs/2401.10257v1)|null|
@@ -67,7 +69,7 @@
 |**2023-11-29**|**Dynamical manifold dimensionality as characterization measure of chimera states in bursting neuronal networks**|Olesia Dogonasheva et.al.|[2311.17383v1](http://arxiv.org/abs/2311.17383v1)|null|
 |**2023-11-28**|**Spiking Neural Networks with Dynamic Time Steps for Vision Transformers**|Gourav Datta et.al.|[2311.16456v1](http://arxiv.org/abs/2311.16456v1)|null|
 |**2023-11-07**|**Estimating Post-Synaptic Effects for Online Training of Feed-Forward SNNs**|Thomas Summe et.al.|[2311.16151v1](http://arxiv.org/abs/2311.16151v1)|**[link](https://github.com/intelligent-microsystems-lab/otpe)**|
-|**2023-11-05**|**Brain-Inspired Efficient Pruning: Exploiting Criticality in Spiking Neural Networks**|Shuo Chen et.al.|[2311.16141v1](http://arxiv.org/abs/2311.16141v1)|null|
+|**2024-01-20**|**Criticality-Guided Efficient Pruning in Spiking Neural Networks Inspired by Critical Brain Hypothesis**|Shuo Chen et.al.|[2311.16141v2](http://arxiv.org/abs/2311.16141v2)|null|
 |**2023-09-12**|**Co-learning synaptic delays, weights and adaptation in spiking neural networks**|Lucas Deckers et.al.|[2311.16112v1](http://arxiv.org/abs/2311.16112v1)|null|
 |**2023-11-27**|**Demonstration of Programmable Brain-Inspired Optoelectronic Neuron in Photonic Spiking Neural Network with Neural Heterogeneity**|Yun-Jhu Lee et.al.|[2311.15474v1](http://arxiv.org/abs/2311.15474v1)|null|
 |**2023-11-15**|**Neuroscience inspired scientific machine learning (Part-2): Variable spiking wavelet neural operator**|Shailesh Garg et.al.|[2311.14710v1](http://arxiv.org/abs/2311.14710v1)|null|
@@ -639,5 +641,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
 
