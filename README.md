@@ -1,4 +1,4 @@
-## Updated on 2024.01.23
+## Updated on 2024.01.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-22**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687v1](http://arxiv.org/abs/2401.11687v1)|null|
+|**2024-01-23**|**A robust balancing mechanism for spiking neural networks**|Antonio Politi et.al.|[2401.12559v1](http://arxiv.org/abs/2401.12559v1)|null|
+|**2024-01-23**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687v2](http://arxiv.org/abs/2401.11687v2)|null|
 |**2024-01-03**|**A Review of Findings from Neuroscience and Cognitive Psychology as Possible Inspiration for the Path to Artificial General Intelligence**|Florin Leon et.al.|[2401.10904v1](http://arxiv.org/abs/2401.10904v1)|null|
 |**2024-01-06**|**Neural Population Decoding and Imbalanced Multi-Omic Datasets For Cancer Subtype Diagnosis**|Charles Theodore Kent et.al.|[2401.10844v1](http://arxiv.org/abs/2401.10844v1)|null|
 |**2024-01-05**|**Training a General Spiking Neural Network with Improved Efficiency and Minimum Latency**|Yunpeng Yao et.al.|[2401.10843v1](http://arxiv.org/abs/2401.10843v1)|**[link](https://github.com/iverss1/ecml_snn)**|
@@ -118,7 +119,7 @@
 |**2023-10-16**|**Stochastic spin-orbit-torque synapse and its application in uncertainty quantification**|Cen Wang et.al.|[2310.10317v1](http://arxiv.org/abs/2310.10317v1)|null|
 |**2023-10-13**|**Spiking Semantic Communication for Feature Transmission with HARQ**|Mengyang Wang et.al.|[2310.08804v1](http://arxiv.org/abs/2310.08804v1)|null|
 |**2023-10-11**|**An On-Chip Trainable Neuron Circuit for SFQ-Based Spiking Neural Networks**|Beyza Zeynep Ucpinar et.al.|[2310.07824v1](http://arxiv.org/abs/2310.07824v1)|null|
-|**2023-10-11**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189v1](http://arxiv.org/abs/2310.07189v1)|null|
+|**2024-01-23**|**SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition**|Hongwei Ren et.al.|[2310.07189v2](http://arxiv.org/abs/2310.07189v2)|null|
 |**2023-08-23**|**Computational models of object motion detectors accelerated using FPGA technology**|Pedro Machado et.al.|[2310.06842v1](http://arxiv.org/abs/2310.06842v1)|null|
 |**2023-10-10**|**Energy-Efficient Visual Search by Eye Movement and Low-Latency Spiking Neural Network**|Yunhui Zhou et.al.|[2310.06578v1](http://arxiv.org/abs/2310.06578v1)|null|
 |**2023-10-12**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488v2](http://arxiv.org/abs/2310.06488v2)|null|
@@ -641,5 +642,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240124>back to top</a>)</p>
 
