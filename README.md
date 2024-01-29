@@ -1,4 +1,4 @@
-## Updated on 2024.01.28
+## Updated on 2024.01.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization**|Qianhui Liu et.al.|[2401.14652v1](http://arxiv.org/abs/2401.14652v1)|null|
 |**2024-01-23**|**A robust balancing mechanism for spiking neural networks**|Antonio Politi et.al.|[2401.12559v1](http://arxiv.org/abs/2401.12559v1)|null|
 |**2024-01-23**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687v2](http://arxiv.org/abs/2401.11687v2)|null|
 |**2024-01-03**|**A Review of Findings from Neuroscience and Cognitive Psychology as Possible Inspiration for the Path to Artificial General Intelligence**|Florin Leon et.al.|[2401.10904v1](http://arxiv.org/abs/2401.10904v1)|null|
@@ -642,5 +643,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
 
