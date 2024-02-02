@@ -1,4 +1,4 @@
-## Updated on 2024.02.01
+## Updated on 2024.02.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911v1](http://arxiv.org/abs/2401.17911v1)|null|
+|**2024-02-01**|**Efficient Training Spiking Neural Networks with Parallel Spiking Unit**|Yang Li et.al.|[2402.00449v1](http://arxiv.org/abs/2402.00449v1)|null|
+|**2024-02-01**|**LM-HT SNN: Enhancing the Performance of SNN to ANN Counterpart through Learnable Multi-hierarchical Threshold Model**|Zecheng Hao et.al.|[2402.00411v1](http://arxiv.org/abs/2402.00411v1)|null|
+|**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911v1](http://arxiv.org/abs/2401.17911v1)|**[link](https://github.com/alexknipper/snnlp)**|
 |**2024-01-30**|**Picosecond transfer from short-term to long-term memory in analog antiferromagnetic memory device**|M. Surynek et.al.|[2401.17370v1](http://arxiv.org/abs/2401.17370v1)|null|
 |**2024-01-30**|**jaxsnn: Event-driven Gradient Estimation for Analog Neuromorphic Hardware**|Eric Müller et.al.|[2401.16841v1](http://arxiv.org/abs/2401.16841v1)|null|
 |**2024-01-30**|**Towards Large-scale Network Emulation on Analog Neuromorphic Hardware**|Elias Arnold et.al.|[2401.16840v1](http://arxiv.org/abs/2401.16840v1)|null|
@@ -184,7 +186,7 @@
 |**2023-10-07**|**SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation**|Changze Lv et.al.|[2308.15122v3](http://arxiv.org/abs/2308.15122v3)|**[link](https://github.com/Lvchangze/SpikeBERT)**|
 |**2023-12-18**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250v2](http://arxiv.org/abs/2308.13250v2)|**[link](https://github.com/zhangshimin1/tc-lif)**|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529v1](http://arxiv.org/abs/2308.12529v1)|null|
-|**2023-08-23**|**Metaplasticity: Unifying Learning and Homeostatic Plasticity in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063v1](http://arxiv.org/abs/2308.12063v1)|null|
+|**2024-02-01**|**Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063v2](http://arxiv.org/abs/2308.12063v2)|null|
 |**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053v1](http://arxiv.org/abs/2308.12053v1)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152v1](http://arxiv.org/abs/2308.11152v1)|null|
 |**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873v1](http://arxiv.org/abs/2308.10873v1)|null|
@@ -650,5 +652,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240202>back to top</a>)</p>
 
