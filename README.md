@@ -1,4 +1,4 @@
-## Updated on 2024.02.08
+## Updated on 2024.02.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Spiking Neural Network Enhanced Hand Gesture Recognition Using Low-Cost Single-photon Avalanche Diode Array**|Zhenya Zang et.al.|[2402.05441v1](http://arxiv.org/abs/2402.05441v1)|**[link](https://github.com/zzy666666zzy/tinylidar_net_snn)**|
+|**2024-02-08**|**MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network**|Chengzhi Liu et.al.|[2402.05423v1](http://arxiv.org/abs/2402.05423v1)|**[link](https://github.com/chenngzz/mtsa-snn)**|
 |**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798v1](http://arxiv.org/abs/2402.04798v1)|null|
-|**2024-02-07**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663v1](http://arxiv.org/abs/2402.04663v1)|null|
+|**2024-02-08**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663v2](http://arxiv.org/abs/2402.04663v2)|null|
 |**2024-02-07**|**Towards Improved Imbalance Robustness in Continual Multi-Label Learning with Dual Output Spiking Architecture (DOSA)**|Sourav Mishra et.al.|[2402.04596v1](http://arxiv.org/abs/2402.04596v1)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767v1](http://arxiv.org/abs/2402.03767v1)|null|
 |**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886v1](http://arxiv.org/abs/2402.02886v1)|null|
@@ -69,7 +71,7 @@
 |**2023-12-14**|**Exploiting Symmetric Temporally Sparse BPTT for Efficient RNN Training**|Xi Chen et.al.|[2312.09391v1](http://arxiv.org/abs/2312.09391v1)|null|
 |**2024-01-24**|**Language Modeling on a SpiNNaker 2 Neuromorphic Chip**|Khaleelulla Khan Nazeer et.al.|[2312.09084v3](http://arxiv.org/abs/2312.09084v3)|null|
 |**2023-12-14**|**DenRAM: Neuromorphic Dendritic Architecture with RRAM for Efficient Temporal Processing with Delays**|Simone DAgostino et.al.|[2312.08960v1](http://arxiv.org/abs/2312.08960v1)|null|
-|**2023-12-13**|**Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems**|Andrew C. Freeman et.al.|[2312.08213v1](http://arxiv.org/abs/2312.08213v1)|null|
+|**2024-02-08**|**Accelerated Event-Based Feature Detection and Compression for Surveillance Video Systems**|Andrew C. Freeman et.al.|[2312.08213v2](http://arxiv.org/abs/2312.08213v2)|null|
 |**2023-12-13**|**Memory-Efficient Reversible Spiking Neural Networks**|Hong Zhang et.al.|[2312.07922v1](http://arxiv.org/abs/2312.07922v1)|**[link](https://github.com/mi804/revsnn)**|
 |**2023-12-26**|**Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling**|Guobin Shen et.al.|[2312.07625v2](http://arxiv.org/abs/2312.07625v2)|null|
 |**2023-12-12**|**Efficient Object Detection in Autonomous Driving using Spiking Neural Networks: Performance, Energy Consumption Analysis, and Insights into Open-set Object Discovery**|Aitor Martinez Seras et.al.|[2312.07466v1](http://arxiv.org/abs/2312.07466v1)|**[link](https://github.com/aitor-martinez-seras/snn-automotive-object-detection)**|
@@ -79,7 +81,7 @@
 |**2023-12-08**|**Noise Adaptor in Spiking Neural Networks**|Chen Li et.al.|[2312.05290v1](http://arxiv.org/abs/2312.05290v1)|null|
 |**2023-12-08**|**Analysis on Effects of Fault Elements in Memristive Neuromorphic Systems**|Hyun-Jong Lee et.al.|[2312.04840v1](http://arxiv.org/abs/2312.04840v1)|null|
 |**2023-12-05**|**Supervised learning of spatial features with STDP and homeostasis using Spiking Neural Networks on SpiNNaker**|Sergio Davies et.al.|[2312.02659v1](http://arxiv.org/abs/2312.02659v1)|null|
-|**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742v1](http://arxiv.org/abs/2312.01742v1)|null|
+|**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742v1](http://arxiv.org/abs/2312.01742v1)|**[link](https://github.com/mil-tokyo/FSDDIM)**|
 |**2023-12-02**|**Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural networks: from Algorithms to Technology**|Souvik Kundu et.al.|[2312.01213v1](http://arxiv.org/abs/2312.01213v1)|null|
 |**2023-12-01**|**Rethinking Skip Connections in Spiking Neural Networks with Time-To-First-Spike Coding**|Youngeun Kim et.al.|[2312.00919v1](http://arxiv.org/abs/2312.00919v1)|null|
 |**2023-12-01**|**A Low-Power Neuromorphic Approach for Efficient Eye-Tracking**|Pietro Bonazzi et.al.|[2312.00425v1](http://arxiv.org/abs/2312.00425v1)|**[link](https://github.com/pbonazzi/retina)**|
@@ -661,5 +663,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
 
