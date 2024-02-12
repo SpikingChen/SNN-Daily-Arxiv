@@ -1,4 +1,4 @@
-## Updated on 2024.02.11
+## Updated on 2024.02.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Towards Chip-in-the-loop Spiking Neural Network Training via Metropolis-Hastings Sampling**|Ali Safa et.al.|[2402.06284v1](http://arxiv.org/abs/2402.06284v1)|null|
+|**2024-02-09**|**Fine-Tuning Surrogate Gradient Learning for Optimal Hardware Performance in Spiking Neural Networks**|Ilkin Aliyev et.al.|[2402.06211v1](http://arxiv.org/abs/2402.06211v1)|null|
+|**2024-02-09**|**PULSE: Parametric Hardware Units for Low-power Sparsity-Aware Convolution Engine**|Ilkin Aliyev et.al.|[2402.06210v1](http://arxiv.org/abs/2402.06210v1)|null|
 |**2024-02-08**|**Spiking Neural Network Enhanced Hand Gesture Recognition Using Low-Cost Single-photon Avalanche Diode Array**|Zhenya Zang et.al.|[2402.05441v1](http://arxiv.org/abs/2402.05441v1)|**[link](https://github.com/zzy666666zzy/tinylidar_net_snn)**|
 |**2024-02-08**|**MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network**|Chengzhi Liu et.al.|[2402.05423v1](http://arxiv.org/abs/2402.05423v1)|**[link](https://github.com/chenngzz/mtsa-snn)**|
-|**2024-02-07**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxaun Liu et.al.|[2402.04798v1](http://arxiv.org/abs/2402.04798v1)|null|
+|**2024-02-09**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxuan Liu et.al.|[2402.04798v2](http://arxiv.org/abs/2402.04798v2)|null|
 |**2024-02-08**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663v2](http://arxiv.org/abs/2402.04663v2)|null|
 |**2024-02-07**|**Towards Improved Imbalance Robustness in Continual Multi-Label Learning with Dual Output Spiking Architecture (DOSA)**|Sourav Mishra et.al.|[2402.04596v1](http://arxiv.org/abs/2402.04596v1)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767v1](http://arxiv.org/abs/2402.03767v1)|null|
@@ -200,7 +203,7 @@
 |**2024-02-01**|**Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063v2](http://arxiv.org/abs/2308.12063v2)|null|
 |**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053v1](http://arxiv.org/abs/2308.12053v1)|null|
 |**2023-08-22**|**Energy-Efficient On-Board Radio Resource Management for Satellite Communications via Neuromorphic Computing**|Flor Ortiz et.al.|[2308.11152v1](http://arxiv.org/abs/2308.11152v1)|null|
-|**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873v1](http://arxiv.org/abs/2308.10873v1)|null|
+|**2024-02-09**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873v2](http://arxiv.org/abs/2308.10873v2)|**[link](https://github.com/neurocomplab-psu/spikingbert)**|
 |**2023-10-22**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373v2](http://arxiv.org/abs/2308.10373v2)|null|
 |**2023-09-22**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187v4](http://arxiv.org/abs/2308.10187v4)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
 |**2023-08-18**|**Artificial-Spiking Hierarchical Networks for Vision-Language Representation Learning**|Yeming Chen et.al.|[2308.09455v1](http://arxiv.org/abs/2308.09455v1)|null|
@@ -663,5 +666,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240212>back to top</a>)</p>
 
