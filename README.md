@@ -1,4 +1,4 @@
-## Updated on 2024.02.12
+## Updated on 2024.02.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -40,7 +40,7 @@
 |**2024-01-03**|**A Review of Findings from Neuroscience and Cognitive Psychology as Possible Inspiration for the Path to Artificial General Intelligence**|Florin Leon et.al.|[2401.10904v1](http://arxiv.org/abs/2401.10904v1)|null|
 |**2024-01-06**|**Neural Population Decoding and Imbalanced Multi-Omic Datasets For Cancer Subtype Diagnosis**|Charles Theodore Kent et.al.|[2401.10844v1](http://arxiv.org/abs/2401.10844v1)|null|
 |**2024-01-05**|**Training a General Spiking Neural Network with Improved Efficiency and Minimum Latency**|Yunpeng Yao et.al.|[2401.10843v1](http://arxiv.org/abs/2401.10843v1)|**[link](https://github.com/iverss1/ecml_snn)**|
-|**2024-01-19**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793v1](http://arxiv.org/abs/2401.10793v1)|null|
+|**2024-02-12**|**TDC-less Direct Time-of-Flight Imaging Using Spiking Neural Networks**|Jack MacLean et.al.|[2401.10793v2](http://arxiv.org/abs/2401.10793v2)|null|
 |**2023-12-28**|**Fast gradient-free activation maximization for neurons in spiking neural networks**|Nikita Pospelov et.al.|[2401.10748v1](http://arxiv.org/abs/2401.10748v1)|**[link](https://github.com/iabs-neuro/mango)**|
 |**2023-12-26**|**Curriculum Design Helps Spiking Neural Networks to Classify Time Series**|Chenxi Sun et.al.|[2401.10257v1](http://arxiv.org/abs/2401.10257v1)|null|
 |**2023-12-24**|**Deep Pulse-Coupled Neural Networks**|Zexiang Yi et.al.|[2401.08649v1](http://arxiv.org/abs/2401.08649v1)|null|
@@ -666,5 +666,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240213>back to top</a>)</p>
 
