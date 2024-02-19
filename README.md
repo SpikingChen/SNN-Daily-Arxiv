@@ -1,4 +1,4 @@
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Astrocyte control bursting mode of spiking neuron network with memristor-implemented plasticity**|Sergey V. Stasenko et.al.|[2402.10214v1](http://arxiv.org/abs/2402.10214v1)|null|
 |**2024-01-28**|**EventF2S: Asynchronous and Sparse Spiking AER Framework using Neuromorphic-Friendly Algorithm**|Lakshmi Annamalai et.al.|[2402.10078v1](http://arxiv.org/abs/2402.10078v1)|null|
 |**2024-01-25**|**Learning fast changing slow in spiking neural networks**|Cristiano Capone et.al.|[2402.10069v1](http://arxiv.org/abs/2402.10069v1)|null|
 |**2024-01-21**|**Epilepsy Seizure Detection and Prediction using an Approximate Spiking Convolutional Transformer**|Qinyu Chen et.al.|[2402.09424v1](http://arxiv.org/abs/2402.09424v1)|null|
@@ -670,5 +671,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
