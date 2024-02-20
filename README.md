@@ -1,4 +1,4 @@
-## Updated on 2024.02.19
+## Updated on 2024.02.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks**|Mingqing Xiao et.al.|[2402.11984v1](http://arxiv.org/abs/2402.11984v1)|**[link](https://github.com/pkuxmq/hlop-snn)**|
+|**2024-02-19**|**Low-power SNN-based audio source localisation using a Hilbert Transform spike encoding scheme**|Saeid Haghighatshoar et.al.|[2402.11748v1](http://arxiv.org/abs/2402.11748v1)|null|
+|**2024-02-18**|**TDE-3: An improved prior for optical flow computation in spiking neural networks**|Matthew Yedutenko et.al.|[2402.11662v1](http://arxiv.org/abs/2402.11662v1)|null|
+|**2024-02-18**|**Impact of the La2NiO4+δ oxygen content on the synaptic properties of the TiN/La2NiO4+δ/Pt memristive devices**|Aleksandra Koroleva et.al.|[2402.11612v1](http://arxiv.org/abs/2402.11612v1)|null|
+|**2024-02-18**|**SDiT: Spiking Diffusion Model with Transformer**|Shu Yang et.al.|[2402.11588v1](http://arxiv.org/abs/2402.11588v1)|null|
+|**2024-02-17**|**SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2402.11322v1](http://arxiv.org/abs/2402.11322v1)|null|
+|**2024-01-25**|**Designing Silicon Brains using LLM: Leveraging ChatGPT for Automated Description of a Spiking Neuron Array**|Michael Tomlinson et.al.|[2402.10920v1](http://arxiv.org/abs/2402.10920v1)|null|
 |**2023-11-30**|**Astrocyte control bursting mode of spiking neuron network with memristor-implemented plasticity**|Sergey V. Stasenko et.al.|[2402.10214v1](http://arxiv.org/abs/2402.10214v1)|null|
 |**2024-01-28**|**EventF2S: Asynchronous and Sparse Spiking AER Framework using Neuromorphic-Friendly Algorithm**|Lakshmi Annamalai et.al.|[2402.10078v1](http://arxiv.org/abs/2402.10078v1)|null|
 |**2024-01-25**|**Learning fast changing slow in spiking neural networks**|Cristiano Capone et.al.|[2402.10069v1](http://arxiv.org/abs/2402.10069v1)|null|
@@ -203,7 +210,7 @@
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390v1](http://arxiv.org/abs/2308.15390v1)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-29**|**Unleashing the Potential of Spiking Neural Networks for Sequential Modeling with Contextual Embedding**|Xinyi Chen et.al.|[2308.15150v1](http://arxiv.org/abs/2308.15150v1)|null|
 |**2023-10-07**|**SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation**|Changze Lv et.al.|[2308.15122v3](http://arxiv.org/abs/2308.15122v3)|**[link](https://github.com/Lvchangze/SpikeBERT)**|
-|**2023-12-18**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250v2](http://arxiv.org/abs/2308.13250v2)|**[link](https://github.com/zhangshimin1/tc-lif)**|
+|**2024-02-17**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250v3](http://arxiv.org/abs/2308.13250v3)|**[link](https://github.com/zhangshimin1/tc-lif)**|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529v1](http://arxiv.org/abs/2308.12529v1)|null|
 |**2024-02-01**|**Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063v2](http://arxiv.org/abs/2308.12063v2)|null|
 |**2023-08-23**|**Layer-wise Feedback Propagation**|Leander Weber et.al.|[2308.12053v1](http://arxiv.org/abs/2308.12053v1)|null|
@@ -671,5 +678,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240220>back to top</a>)</p>
 
