@@ -1,4 +1,4 @@
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -209,7 +209,7 @@
 |**2023-08-30**|**A Deep Dive into the Design Space of a Dynamically Reconfigurable Cryogenic Spiking Neuron**|Md Mazharul Islam et.al.|[2308.15754v1](http://arxiv.org/abs/2308.15754v1)|null|
 |**2023-08-29**|**Bayesian Integration of Information Using Top-Down Modulated WTA Networks**|Otto van der Himst et.al.|[2308.15390v1](http://arxiv.org/abs/2308.15390v1)|**[link](https://github.com/grottoh/wta-network)**|
 |**2023-08-29**|**Unleashing the Potential of Spiking Neural Networks for Sequential Modeling with Contextual Embedding**|Xinyi Chen et.al.|[2308.15150v1](http://arxiv.org/abs/2308.15150v1)|null|
-|**2023-10-07**|**SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation**|Changze Lv et.al.|[2308.15122v3](http://arxiv.org/abs/2308.15122v3)|**[link](https://github.com/Lvchangze/SpikeBERT)**|
+|**2024-02-21**|**SpikeBERT: A Language Spikformer Learned from BERT with Knowledge Distillation**|Changze Lv et.al.|[2308.15122v4](http://arxiv.org/abs/2308.15122v4)|**[link](https://github.com/Lvchangze/SpikeBERT)**|
 |**2024-02-17**|**TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling**|Shimin Zhang et.al.|[2308.13250v3](http://arxiv.org/abs/2308.13250v3)|**[link](https://github.com/zhangshimin1/tc-lif)**|
 |**2023-08-24**|**Privacy-Preserving Discretized Spiking Neural Networks**|Pengbo Li et.al.|[2308.12529v1](http://arxiv.org/abs/2308.12529v1)|null|
 |**2024-02-01**|**Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks**|Guobin Shen et.al.|[2308.12063v2](http://arxiv.org/abs/2308.12063v2)|null|
@@ -678,5 +678,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
 
