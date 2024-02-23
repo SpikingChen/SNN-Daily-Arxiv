@@ -1,4 +1,4 @@
-## Updated on 2024.02.22
+## Updated on 2024.02.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Balanced Resonate-and-Fire Neurons**|Saya Higuchi et.al.|[2402.14603v1](http://arxiv.org/abs/2402.14603v1)|null|
 |**2024-02-19**|**Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks**|Mingqing Xiao et.al.|[2402.11984v1](http://arxiv.org/abs/2402.11984v1)|**[link](https://github.com/pkuxmq/hlop-snn)**|
 |**2024-02-19**|**Low-power SNN-based audio source localisation using a Hilbert Transform spike encoding scheme**|Saeid Haghighatshoar et.al.|[2402.11748v1](http://arxiv.org/abs/2402.11748v1)|null|
 |**2024-02-18**|**TDE-3: An improved prior for optical flow computation in spiking neural networks**|Matthew Yedutenko et.al.|[2402.11662v1](http://arxiv.org/abs/2402.11662v1)|null|
@@ -26,7 +27,7 @@
 |**2024-02-09**|**Towards Chip-in-the-loop Spiking Neural Network Training via Metropolis-Hastings Sampling**|Ali Safa et.al.|[2402.06284v1](http://arxiv.org/abs/2402.06284v1)|null|
 |**2024-02-09**|**Fine-Tuning Surrogate Gradient Learning for Optimal Hardware Performance in Spiking Neural Networks**|Ilkin Aliyev et.al.|[2402.06211v1](http://arxiv.org/abs/2402.06211v1)|null|
 |**2024-02-09**|**PULSE: Parametric Hardware Units for Low-power Sparsity-Aware Convolution Engine**|Ilkin Aliyev et.al.|[2402.06210v1](http://arxiv.org/abs/2402.06210v1)|null|
-|**2024-02-08**|**Spiking Neural Network Enhanced Hand Gesture Recognition Using Low-Cost Single-photon Avalanche Diode Array**|Zhenya Zang et.al.|[2402.05441v1](http://arxiv.org/abs/2402.05441v1)|**[link](https://github.com/zzy666666zzy/tinylidar_net_snn)**|
+|**2024-02-08**|**Spiking Neural Network Enhanced Hand Gesture Recognition Using Low-Cost Single-photon Avalanche Diode Array**|Zhenya Zang et.al.|[2402.05441v1](http://arxiv.org/abs/2402.05441v1)|null|
 |**2024-02-08**|**MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network**|Chengzhi Liu et.al.|[2402.05423v1](http://arxiv.org/abs/2402.05423v1)|**[link](https://github.com/chenngzz/mtsa-snn)**|
 |**2024-02-09**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxuan Liu et.al.|[2402.04798v2](http://arxiv.org/abs/2402.04798v2)|null|
 |**2024-02-08**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663v2](http://arxiv.org/abs/2402.04663v2)|null|
@@ -678,5 +679,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
 
