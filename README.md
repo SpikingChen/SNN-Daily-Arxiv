@@ -1,4 +1,4 @@
-## Updated on 2024.02.23
+## Updated on 2024.02.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 |**2024-02-02**|**Balanced Resonate-and-Fire Neurons**|Saya Higuchi et.al.|[2402.14603v1](http://arxiv.org/abs/2402.14603v1)|null|
 |**2024-02-19**|**Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks**|Mingqing Xiao et.al.|[2402.11984v1](http://arxiv.org/abs/2402.11984v1)|**[link](https://github.com/pkuxmq/hlop-snn)**|
-|**2024-02-19**|**Low-power SNN-based audio source localisation using a Hilbert Transform spike encoding scheme**|Saeid Haghighatshoar et.al.|[2402.11748v1](http://arxiv.org/abs/2402.11748v1)|null|
+|**2024-02-19**|**Low-power SNN-based audio source localisation using a Hilbert Transform spike encoding scheme**|Saeid Haghighatshoar et.al.|[2402.11748v1](http://arxiv.org/abs/2402.11748v1)|**[link](https://github.com/synsense/haghighatshoarmuir2024)**|
 |**2024-02-18**|**TDE-3: An improved prior for optical flow computation in spiking neural networks**|Matthew Yedutenko et.al.|[2402.11662v1](http://arxiv.org/abs/2402.11662v1)|null|
 |**2024-02-18**|**Impact of the La2NiO4+δ oxygen content on the synaptic properties of the TiN/La2NiO4+δ/Pt memristive devices**|Aleksandra Koroleva et.al.|[2402.11612v1](http://arxiv.org/abs/2402.11612v1)|null|
 |**2024-02-18**|**SDiT: Spiking Diffusion Model with Transformer**|Shu Yang et.al.|[2402.11588v1](http://arxiv.org/abs/2402.11588v1)|null|
@@ -679,5 +679,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240224>back to top</a>)</p>
 
