@@ -1,4 +1,4 @@
-## Updated on 2024.02.29
+## Updated on 2024.03.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**A Unified Evaluation Framework for Spiking Neural Network Hardware Accelerators Based on Emerging Non-Volatile Memory Devices**|Debasis Das et.al.|[2402.19139v1](http://arxiv.org/abs/2402.19139v1)|null|
+|**2024-02-29**|**Optimal ANN-SNN Conversion with Group Neurons**|Liuzhenghao Lv et.al.|[2402.19061v1](http://arxiv.org/abs/2402.19061v1)|**[link](https://github.com/lyu6poshao/ann2snn_gn)**|
+|**2024-02-29**|**Spyx: A Library for Just-In-Time Compiled Optimization of Spiking Neural Networks**|Kade M. Heckel et.al.|[2402.18994v1](http://arxiv.org/abs/2402.18994v1)|**[link](https://github.com/kmheckel/spyx)**|
 |**2024-02-28**|**Neuromorphic Event-Driven Semantic Communication in Microgrids**|Xiaoguang Diao et.al.|[2402.18390v1](http://arxiv.org/abs/2402.18390v1)|null|
 |**2024-02-27**|**Scalable Superconductor Neuron with Ternary Synaptic Connections for Ultra-Fast SNN Hardware**|Mustafa Altay Karamuftuoglu et.al.|[2402.16384v2](http://arxiv.org/abs/2402.16384v2)|null|
 |**2024-02-25**|**Efficient Online Learning for Networks of Two-Compartment Spiking Neurons**|Yujia Yin et.al.|[2402.15969v1](http://arxiv.org/abs/2402.15969v1)|null|
@@ -682,5 +685,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240301>back to top</a>)</p>
 
