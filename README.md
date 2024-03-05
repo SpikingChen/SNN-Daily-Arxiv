@@ -1,4 +1,4 @@
-## Updated on 2024.03.04
+## Updated on 2024.03.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Structuring Concept Space with the Musical Circle of Fifths by Utilizing Music Grammar Based Activations**|Tofara Moyo et.al.|[2403.00790v1](http://arxiv.org/abs/2403.00790v1)|null|
+|**2024-03-01**|**Parallel Hyperparameter Optimization Of Spiking Neural Network**|Thomas Firmin et.al.|[2403.00450v1](http://arxiv.org/abs/2403.00450v1)|**[link](https://github.com/thomasfirmin/hpo_snn)**|
+|**2024-03-01**|**Event-Driven Learning for Spiking Neural Networks**|Wenjie Wei et.al.|[2403.00270v1](http://arxiv.org/abs/2403.00270v1)|null|
 |**2024-02-29**|**A Unified Evaluation Framework for Spiking Neural Network Hardware Accelerators Based on Emerging Non-Volatile Memory Devices**|Debasis Das et.al.|[2402.19139v1](http://arxiv.org/abs/2402.19139v1)|null|
 |**2024-02-29**|**Optimal ANN-SNN Conversion with Group Neurons**|Liuzhenghao Lv et.al.|[2402.19061v1](http://arxiv.org/abs/2402.19061v1)|**[link](https://github.com/lyu6poshao/ann2snn_gn)**|
 |**2024-02-29**|**Spyx: A Library for Just-In-Time Compiled Optimization of Spiking Neural Networks**|Kade M. Heckel et.al.|[2402.18994v1](http://arxiv.org/abs/2402.18994v1)|**[link](https://github.com/kmheckel/spyx)**|
@@ -34,7 +37,7 @@
 |**2024-02-09**|**Fine-Tuning Surrogate Gradient Learning for Optimal Hardware Performance in Spiking Neural Networks**|Ilkin Aliyev et.al.|[2402.06211v1](http://arxiv.org/abs/2402.06211v1)|null|
 |**2024-02-09**|**PULSE: Parametric Hardware Units for Low-power Sparsity-Aware Convolution Engine**|Ilkin Aliyev et.al.|[2402.06210v1](http://arxiv.org/abs/2402.06210v1)|null|
 |**2024-02-08**|**Spiking Neural Network Enhanced Hand Gesture Recognition Using Low-Cost Single-photon Avalanche Diode Array**|Zhenya Zang et.al.|[2402.05441v1](http://arxiv.org/abs/2402.05441v1)|null|
-|**2024-02-08**|**MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network**|Chengzhi Liu et.al.|[2402.05423v1](http://arxiv.org/abs/2402.05423v1)|**[link](https://github.com/chenngzz/mtsa-snn)**|
+|**2024-03-04**|**MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network**|Chengzhi Liu et.al.|[2402.05423v2](http://arxiv.org/abs/2402.05423v2)|**[link](https://github.com/chenngzz/mtsa-snn)**|
 |**2024-02-09**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxuan Liu et.al.|[2402.04798v2](http://arxiv.org/abs/2402.04798v2)|null|
 |**2024-02-08**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663v2](http://arxiv.org/abs/2402.04663v2)|null|
 |**2024-02-07**|**Towards Improved Imbalance Robustness in Continual Multi-Label Learning with Dual Output Spiking Architecture (DOSA)**|Sourav Mishra et.al.|[2402.04596v1](http://arxiv.org/abs/2402.04596v1)|null|
@@ -685,5 +688,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240305>back to top</a>)</p>
 
