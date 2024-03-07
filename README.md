@@ -1,4 +1,4 @@
-## Updated on 2024.03.06
+## Updated on 2024.03.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Photonic-electronic spiking neuron with multi-modal and multi-wavelength excitatory and inhibitory operation for high-speed neuromorphic sensing and computing**|Weikang Zhang et.al.|[2403.03775v1](http://arxiv.org/abs/2403.03775v1)|null|
+|**2024-03-06**|**Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN**|Biswadeep Chakraborty et.al.|[2403.03409v1](http://arxiv.org/abs/2403.03409v1)|null|
 |**2024-02-22**|**Structuring Concept Space with the Musical Circle of Fifths by Utilizing Music Grammar Based Activations**|Tofara Moyo et.al.|[2403.00790v1](http://arxiv.org/abs/2403.00790v1)|null|
 |**2024-03-01**|**Parallel Hyperparameter Optimization Of Spiking Neural Network**|Thomas Firmin et.al.|[2403.00450v1](http://arxiv.org/abs/2403.00450v1)|**[link](https://github.com/thomasfirmin/hpo_snn)**|
 |**2024-03-01**|**Event-Driven Learning for Spiking Neural Networks**|Wenjie Wei et.al.|[2403.00270v1](http://arxiv.org/abs/2403.00270v1)|null|
@@ -688,5 +690,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240307>back to top</a>)</p>
 
