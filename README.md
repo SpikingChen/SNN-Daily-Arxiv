@@ -1,4 +1,4 @@
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**EventRPG: Event Data Augmentation with Relevance Propagation Guidance**|Mingyuan Sun et.al.|[2403.09274v1](http://arxiv.org/abs/2403.09274v1)|**[link](https://github.com/myuansun/eventrpg)**|
+|**2024-03-13**|**Neuromorphic force-control in an industrial task: validating energy and latency benefits**|Camilo Amaya et.al.|[2403.08928v1](http://arxiv.org/abs/2403.08928v1)|null|
+|**2024-02-06**|**Forward Direct Feedback Alignment for Online Gradient Estimates of Spiking Neural Networks**|Florian Bacho et.al.|[2403.08804v1](http://arxiv.org/abs/2403.08804v1)|null|
+|**2024-01-30**|**One-Spike SNN: Single-Spike Phase Coding with Base Manipulation for ANN-to-SNN Conversion Loss Minimization**|Sangwoo Hwang et.al.|[2403.08786v1](http://arxiv.org/abs/2403.08786v1)|null|
 |**2024-03-13**|**High-speed Low-consumption sEMG-based Transient-state micro-Gesture Recognition**|Youfang Han et.al.|[2403.06998v2](http://arxiv.org/abs/2403.06998v2)|null|
 |**2024-03-10**|**Finding Visual Saliency in Continuous Spike Stream**|Lin Zhu et.al.|[2403.06233v1](http://arxiv.org/abs/2403.06233v1)|**[link](https://github.com/bit-vision/svs)**|
 |**2024-03-09**|**sVAD: A Robust, Low-Power, and Light-Weight Voice Activity Detection with Spiking Neural Networks**|Qu Yang et.al.|[2403.05772v1](http://arxiv.org/abs/2403.05772v1)|null|
@@ -694,5 +698,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
 
