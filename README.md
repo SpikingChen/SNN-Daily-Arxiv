@@ -1,4 +1,4 @@
-## Updated on 2024.03.17
+## Updated on 2024.03.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173v1](http://arxiv.org/abs/2403.10173v1)|null|
+|**2024-03-12**|**Texture Recognition Using a Biologically Plausible Spiking Phase-Locked Loop Model for Spike Train Frequency Decomposition**|Michele Mastella et.al.|[2403.09723v1](http://arxiv.org/abs/2403.09723v1)|null|
+|**2024-02-07**|**A Quasi-Stationary Approach to Metastability in a System of Spiking Neurons with Synaptic Plasticity**|Christophe Pouzat et.al.|[2403.09678v1](http://arxiv.org/abs/2403.09678v1)|null|
 |**2024-03-14**|**EventRPG: Event Data Augmentation with Relevance Propagation Guidance**|Mingyuan Sun et.al.|[2403.09274v1](http://arxiv.org/abs/2403.09274v1)|**[link](https://github.com/myuansun/eventrpg)**|
 |**2024-03-13**|**Neuromorphic force-control in an industrial task: validating energy and latency benefits**|Camilo Amaya et.al.|[2403.08928v1](http://arxiv.org/abs/2403.08928v1)|null|
 |**2024-02-06**|**Forward Direct Feedback Alignment for Online Gradient Estimates of Spiking Neural Networks**|Florian Bacho et.al.|[2403.08804v1](http://arxiv.org/abs/2403.08804v1)|null|
@@ -698,5 +701,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240318>back to top</a>)</p>
 
