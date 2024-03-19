@@ -1,4 +1,4 @@
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-17**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138v1](http://arxiv.org/abs/2403.11138v1)|null|
+|**2024-03-15**|**Spiking Neural Networks for Fast-Moving Object Detection on Neuromorphic Hardware Devices Using an Event-Based Camera**|Andreas Ziegler et.al.|[2403.10677v1](http://arxiv.org/abs/2403.10677v1)|null|
 |**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173v1](http://arxiv.org/abs/2403.10173v1)|null|
 |**2024-03-12**|**Texture Recognition Using a Biologically Plausible Spiking Phase-Locked Loop Model for Spike Train Frequency Decomposition**|Michele Mastella et.al.|[2403.09723v1](http://arxiv.org/abs/2403.09723v1)|null|
 |**2024-02-07**|**A Quasi-Stationary Approach to Metastability in a System of Spiking Neurons with Synaptic Plasticity**|Christophe Pouzat et.al.|[2403.09678v1](http://arxiv.org/abs/2403.09678v1)|null|
@@ -136,7 +138,7 @@
 |**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641v1](http://arxiv.org/abs/2311.14641v1)|**[link](https://github.com/neuromorphs/nir)**|
 |**2023-11-24**|**SNN Architecture for Differential Time Encoding Using Decoupled Processing Time**|Daniel Windhager et.al.|[2311.14447v1](http://arxiv.org/abs/2311.14447v1)|null|
 |**2023-11-24**|**RFI Detection with Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2311.14303v1](http://arxiv.org/abs/2311.14303v1)|**[link](https://github.com/pritchardn/tabascal-dataset)**|
-|**2023-11-24**|**Bursting Spikes: Efficient and High-performance SNNs for Event-based Vision**|Ziqing Wang et.al.|[2311.14265v1](http://arxiv.org/abs/2311.14265v1)|**[link](https://github.com/bic-l/burst-ann2snn)**|
+|**2024-03-16**|**Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks**|Ziqing Wang et.al.|[2311.14265v2](http://arxiv.org/abs/2311.14265v2)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186v1](http://arxiv.org/abs/2311.13186v1)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-21**|**HPCNeuroNet: Advancing Neuromorphic Audio Signal Processing with Transformer-Enhanced Spiking Neural Networks**|Murat Isik et.al.|[2311.12449v1](http://arxiv.org/abs/2311.12449v1)|null|
 |**2023-11-18**|**Pursing the Sparse Limitation of Spiking Deep Learning Structures**|Hao Cheng et.al.|[2311.12060v1](http://arxiv.org/abs/2311.12060v1)|null|
@@ -701,5 +703,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240319>back to top</a>)</p>
 
