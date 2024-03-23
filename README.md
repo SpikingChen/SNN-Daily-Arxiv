@@ -1,4 +1,4 @@
-## Updated on 2024.03.22
+## Updated on 2024.03.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,14 +11,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-21**|**SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks**|Xinyu Shi et.al.|[2403.14302v1](http://arxiv.org/abs/2403.14302v1)|null|
+|**2024-03-21**|**SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks**|Xinyu Shi et.al.|[2403.14302v1](http://arxiv.org/abs/2403.14302v1)|**[link](https://github.com/xyshi2000/spikingresformer)**|
 |**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574v1](http://arxiv.org/abs/2403.12574v1)|null|
 |**2024-03-19**|**Topological Representations of Heterogeneous Learning Dynamics of Recurrent Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2403.12462v1](http://arxiv.org/abs/2403.12462v1)|null|
 |**2024-03-17**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138v1](http://arxiv.org/abs/2403.11138v1)|null|
 |**2024-03-15**|**Spiking Neural Networks for Fast-Moving Object Detection on Neuromorphic Hardware Devices Using an Event-Based Camera**|Andreas Ziegler et.al.|[2403.10677v1](http://arxiv.org/abs/2403.10677v1)|null|
 |**2024-03-15**|**A Hybrid SNN-ANN Network for Event-based Object Detection with Spatial and Temporal Attention**|Soikat Hasan Ahmed et.al.|[2403.10173v1](http://arxiv.org/abs/2403.10173v1)|null|
 |**2024-03-12**|**Texture Recognition Using a Biologically Plausible Spiking Phase-Locked Loop Model for Spike Train Frequency Decomposition**|Michele Mastella et.al.|[2403.09723v1](http://arxiv.org/abs/2403.09723v1)|null|
-|**2024-02-07**|**A Quasi-Stationary Approach to Metastability in a System of Spiking Neurons with Synaptic Plasticity**|Christophe Pouzat et.al.|[2403.09678v1](http://arxiv.org/abs/2403.09678v1)|null|
+|**2024-02-07**|**A Quasi-Stationary Approach to Metastability in a System of Spiking Neurons with Synaptic Plasticity**|Christophe Pouzat et.al.|[2403.09678v1](http://arxiv.org/abs/2403.09678v1)|**[link](https://gitlab.com/c_pouzat/metastability-in-a-system-of-spiking-neurons-with-synaptic-plasticity)**|
 |**2024-03-14**|**EventRPG: Event Data Augmentation with Relevance Propagation Guidance**|Mingyuan Sun et.al.|[2403.09274v1](http://arxiv.org/abs/2403.09274v1)|**[link](https://github.com/myuansun/eventrpg)**|
 |**2024-03-13**|**Neuromorphic force-control in an industrial task: validating energy and latency benefits**|Camilo Amaya et.al.|[2403.08928v1](http://arxiv.org/abs/2403.08928v1)|null|
 |**2024-02-06**|**Forward Direct Feedback Alignment for Online Gradient Estimates of Spiking Neural Networks**|Florian Bacho et.al.|[2403.08804v1](http://arxiv.org/abs/2403.08804v1)|null|
@@ -706,5 +706,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240323>back to top</a>)</p>
 
