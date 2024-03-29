@@ -1,4 +1,4 @@
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,7 +23,7 @@
 |**2024-03-23**|**Ev-Edge: Efficient Execution of Event-based Vision Algorithms on Commodity Edge Platforms**|Shrihari Sridharan et.al.|[2403.15717v1](http://arxiv.org/abs/2403.15717v1)|null|
 |**2024-03-21**|**SpikeGraphormer: A High-Performance Graph Transformer with Spiking Graph Attention**|Yundong Sun et.al.|[2403.15480v1](http://arxiv.org/abs/2403.15480v1)|**[link](https://github.com/phd-lanyu/spikegraphormer)**|
 |**2024-03-22**|**SFOD: Spiking Fusion Object Detector**|Yimeng Fan et.al.|[2403.15192v1](http://arxiv.org/abs/2403.15192v1)|**[link](https://github.com/yimeng-fan/SFOD)**|
-|**2024-03-21**|**SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks**|Xinyu Shi et.al.|[2403.14302v1](http://arxiv.org/abs/2403.14302v1)|**[link](https://github.com/xyshi2000/spikingresformer)**|
+|**2024-03-28**|**SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks**|Xinyu Shi et.al.|[2403.14302v2](http://arxiv.org/abs/2403.14302v2)|**[link](https://github.com/xyshi2000/spikingresformer)**|
 |**2024-03-19**|**EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks**|Ziming Wang et.al.|[2403.12574v1](http://arxiv.org/abs/2403.12574v1)|null|
 |**2024-03-19**|**Topological Representations of Heterogeneous Learning Dynamics of Recurrent Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2403.12462v1](http://arxiv.org/abs/2403.12462v1)|null|
 |**2024-03-26**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138v3](http://arxiv.org/abs/2403.11138v3)|null|
@@ -718,5 +718,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
