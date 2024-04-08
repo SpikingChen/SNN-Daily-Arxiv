@@ -1,4 +1,4 @@
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v1](http://arxiv.org/abs/2404.03493v1)|null|
+|**2024-04-04**|**SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA**|Dario Padovano et.al.|[2404.03714v1](http://arxiv.org/abs/2404.03714v1)|null|
+|**2024-02-15**|**Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips**|Man Yao et.al.|[2404.03663v1](http://arxiv.org/abs/2404.03663v1)|null|
+|**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v2](http://arxiv.org/abs/2404.03493v2)|null|
 |**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325v1](http://arxiv.org/abs/2404.03325v1)|null|
 |**2024-04-02**|**A Fully-Configurable Open-Source Software-Defined Digital Quantized Spiking Neural Core Architecture**|Shadi Matinizadeh et.al.|[2404.02248v1](http://arxiv.org/abs/2404.02248v1)|null|
 |**2024-04-02**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897v1](http://arxiv.org/abs/2404.01897v1)|null|
@@ -65,7 +67,7 @@
 |**2024-02-18**|**TDE-3: An improved prior for optical flow computation in spiking neural networks**|Matthew Yedutenko et.al.|[2402.11662v1](http://arxiv.org/abs/2402.11662v1)|null|
 |**2024-02-18**|**Impact of the La2NiO4+δ oxygen content on the synaptic properties of the TiN/La2NiO4+δ/Pt memristive devices**|Aleksandra Koroleva et.al.|[2402.11612v1](http://arxiv.org/abs/2402.11612v1)|null|
 |**2024-02-24**|**SDiT: Spiking Diffusion Model with Transformer**|Shu Yang et.al.|[2402.11588v2](http://arxiv.org/abs/2402.11588v2)|null|
-|**2024-04-04**|**SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network-based Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2402.11322v2](http://arxiv.org/abs/2402.11322v2)|null|
+|**2024-04-05**|**SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network-based Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2402.11322v3](http://arxiv.org/abs/2402.11322v3)|null|
 |**2024-01-25**|**Designing Silicon Brains using LLM: Leveraging ChatGPT for Automated Description of a Spiking Neuron Array**|Michael Tomlinson et.al.|[2402.10920v1](http://arxiv.org/abs/2402.10920v1)|null|
 |**2023-11-30**|**Astrocyte control bursting mode of spiking neuron network with memristor-implemented plasticity**|Sergey V. Stasenko et.al.|[2402.10214v1](http://arxiv.org/abs/2402.10214v1)|null|
 |**2024-01-28**|**EventF2S: Asynchronous and Sparse Spiking AER Framework using Neuromorphic-Friendly Algorithm**|Lakshmi Annamalai et.al.|[2402.10078v1](http://arxiv.org/abs/2402.10078v1)|null|
@@ -161,7 +163,7 @@
 |**2023-11-15**|**Neuroscience inspired scientific machine learning (Part-2): Variable spiking wavelet neural operator**|Shailesh Garg et.al.|[2311.14710v1](http://arxiv.org/abs/2311.14710v1)|null|
 |**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641v1](http://arxiv.org/abs/2311.14641v1)|**[link](https://github.com/neuromorphs/nir)**|
 |**2023-11-24**|**SNN Architecture for Differential Time Encoding Using Decoupled Processing Time**|Daniel Windhager et.al.|[2311.14447v1](http://arxiv.org/abs/2311.14447v1)|null|
-|**2024-03-22**|**RFI Detection with Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2311.14303v2](http://arxiv.org/abs/2311.14303v2)|**[link](https://github.com/pritchardn/tabascal-dataset)**|
+|**2024-03-22**|**RFI Detection with Spiking Neural Networks**|Nicholas J. Pritchard et.al.|[2311.14303v2](http://arxiv.org/abs/2311.14303v2)|**[link](https://github.com/pritchardn/snn-nln)**|
 |**2024-03-16**|**Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks**|Ziqing Wang et.al.|[2311.14265v2](http://arxiv.org/abs/2311.14265v2)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186v1](http://arxiv.org/abs/2311.13186v1)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-21**|**HPCNeuroNet: Advancing Neuromorphic Audio Signal Processing with Transformer-Enhanced Spiking Neural Networks**|Murat Isik et.al.|[2311.12449v1](http://arxiv.org/abs/2311.12449v1)|null|
@@ -727,5 +729,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
 
