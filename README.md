@@ -1,4 +1,4 @@
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-06**|**Efficient Learning Using Spiking Neural Networks Equipped With Affine Encoders and Decoders**|A. Martina Neuman et.al.|[2404.04549v1](http://arxiv.org/abs/2404.04549v1)|null|
 |**2024-04-04**|**SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA**|Dario Padovano et.al.|[2404.03714v1](http://arxiv.org/abs/2404.03714v1)|null|
-|**2024-02-15**|**Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips**|Man Yao et.al.|[2404.03663v1](http://arxiv.org/abs/2404.03663v1)|null|
+|**2024-02-15**|**Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips**|Man Yao et.al.|[2404.03663v1](http://arxiv.org/abs/2404.03663v1)|**[link](https://github.com/biclab/spike-driven-transformer-v2)**|
 |**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[2404.03493v2](http://arxiv.org/abs/2404.03493v2)|null|
 |**2024-04-04**|**Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack**|Rachmad Vidya Wicaksana Putra et.al.|[2404.03325v1](http://arxiv.org/abs/2404.03325v1)|null|
 |**2024-04-02**|**A Fully-Configurable Open-Source Software-Defined Digital Quantized Spiking Neural Core Architecture**|Shadi Matinizadeh et.al.|[2404.02248v1](http://arxiv.org/abs/2404.02248v1)|null|
@@ -729,5 +730,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240409>back to top</a>)</p>
 
