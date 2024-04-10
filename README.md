@@ -1,4 +1,4 @@
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469v1](http://arxiv.org/abs/2404.06469v1)|null|
+|**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858v1](http://arxiv.org/abs/2404.05858v1)|null|
+|**2024-04-08**|**Slax: A Composable JAX Library for Rapid and Flexible Prototyping of Spiking Neural Networks**|Thomas M. Summe et.al.|[2404.05807v1](http://arxiv.org/abs/2404.05807v1)|null|
 |**2024-04-06**|**Efficient Learning Using Spiking Neural Networks Equipped With Affine Encoders and Decoders**|A. Martina Neuman et.al.|[2404.04549v1](http://arxiv.org/abs/2404.04549v1)|null|
 |**2024-04-04**|**SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA**|Dario Padovano et.al.|[2404.03714v1](http://arxiv.org/abs/2404.03714v1)|null|
 |**2024-02-15**|**Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips**|Man Yao et.al.|[2404.03663v1](http://arxiv.org/abs/2404.03663v1)|**[link](https://github.com/biclab/spike-driven-transformer-v2)**|
@@ -72,7 +75,7 @@
 |**2024-01-25**|**Designing Silicon Brains using LLM: Leveraging ChatGPT for Automated Description of a Spiking Neuron Array**|Michael Tomlinson et.al.|[2402.10920v1](http://arxiv.org/abs/2402.10920v1)|null|
 |**2023-11-30**|**Astrocyte control bursting mode of spiking neuron network with memristor-implemented plasticity**|Sergey V. Stasenko et.al.|[2402.10214v1](http://arxiv.org/abs/2402.10214v1)|null|
 |**2024-01-28**|**EventF2S: Asynchronous and Sparse Spiking AER Framework using Neuromorphic-Friendly Algorithm**|Lakshmi Annamalai et.al.|[2402.10078v1](http://arxiv.org/abs/2402.10078v1)|null|
-|**2024-01-25**|**Learning fast changing slow in spiking neural networks**|Cristiano Capone et.al.|[2402.10069v1](http://arxiv.org/abs/2402.10069v1)|null|
+|**2024-04-09**|**Learning fast changing slow in spiking neural networks**|Cristiano Capone et.al.|[2402.10069v2](http://arxiv.org/abs/2402.10069v2)|null|
 |**2024-01-21**|**Epilepsy Seizure Detection and Prediction using an Approximate Spiking Convolutional Transformer**|Qinyu Chen et.al.|[2402.09424v1](http://arxiv.org/abs/2402.09424v1)|null|
 |**2024-02-14**|**Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks**|Zihang Song et.al.|[2402.09109v1](http://arxiv.org/abs/2402.09109v1)|null|
 |**2024-02-09**|**Towards Chip-in-the-loop Spiking Neural Network Training via Metropolis-Hastings Sampling**|Ali Safa et.al.|[2402.06284v1](http://arxiv.org/abs/2402.06284v1)|null|
@@ -730,5 +733,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240410>back to top</a>)</p>
 
