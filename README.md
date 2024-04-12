@@ -1,4 +1,4 @@
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**SiGNN: A Spike-induced Graph Neural Network for Dynamic Graph Representation Learning**|Dong Chen et.al.|[2404.07941v1](http://arxiv.org/abs/2404.07941v1)|null|
 |**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469v1](http://arxiv.org/abs/2404.06469v1)|null|
 |**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858v1](http://arxiv.org/abs/2404.05858v1)|null|
 |**2024-04-08**|**Slax: A Composable JAX Library for Rapid and Flexible Prototyping of Spiking Neural Networks**|Thomas M. Summe et.al.|[2404.05807v1](http://arxiv.org/abs/2404.05807v1)|null|
@@ -118,7 +119,7 @@
 |**2024-01-12**|**A Brain-inspired Computational Model for Human-like Concept Learning**|Yuwei Wang et.al.|[2401.06471v1](http://arxiv.org/abs/2401.06471v1)|null|
 |**2024-01-09**|**Fully Spiking Actor Network with Intra-layer Connections for Reinforcement Learning**|Ding Chen et.al.|[2401.05444v1](http://arxiv.org/abs/2401.05444v1)|null|
 |**2023-12-15**|**Dynamic Spiking Graph Neural Networks**|Nan Yin et.al.|[2401.05373v1](http://arxiv.org/abs/2401.05373v1)|null|
-|**2024-01-09**|**Multi-Neuron Representations of Hierarchical Concepts in Spiking Neural Networks**|Nancy A. Lynch et.al.|[2401.04628v1](http://arxiv.org/abs/2401.04628v1)|null|
+|**2024-04-11**|**Multi-Neuron Representations of Hierarchical Concepts in Spiking Neural Networks**|Nancy A. Lynch et.al.|[2401.04628v2](http://arxiv.org/abs/2401.04628v2)|null|
 |**2024-01-09**|**SpiNNaker2: A Large-Scale Neuromorphic System for Event-Based and Asynchronous Machine Learning**|Hector A. Gonzalez et.al.|[2401.04491v1](http://arxiv.org/abs/2401.04491v1)|null|
 |**2024-01-09**|**Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks**|Yufei Guo et.al.|[2401.04486v1](http://arxiv.org/abs/2401.04486v1)|null|
 |**2024-01-07**|**Web Neural Network with Complete DiGraphs**|Frank Li et.al.|[2401.04134v1](http://arxiv.org/abs/2401.04134v1)|null|
@@ -204,7 +205,7 @@
 |**2023-10-23**|**LC-TTFS: Towards Lossless Network Conversion for Spiking Neural Networks with TTFS Coding**|Qu Yang et.al.|[2310.14978v1](http://arxiv.org/abs/2310.14978v1)|null|
 |**2023-10-23**|**ESVAE: An Efficient Spiking Variational Autoencoder with Reparameterizable Poisson Spiking Sampling**|Qiugang Zhan et.al.|[2310.14839v1](http://arxiv.org/abs/2310.14839v1)|**[link](https://github.com/qgzhan/esvae)**|
 |**2023-10-23**|**Spiking mode-based neural networks**|Zhanghan Lin et.al.|[2310.14621v1](http://arxiv.org/abs/2310.14621v1)|**[link](https://github.com/linzhanghan/smnn)**|
-|**2023-10-23**|**Tensor Decomposition Based Attention Module for Spiking Neural Networks**|Haoyu Deng et.al.|[2310.14576v1](http://arxiv.org/abs/2310.14576v1)|null|
+|**2024-04-11**|**Tensor Decomposition Based Attention Module for Spiking Neural Networks**|Haoyu Deng et.al.|[2310.14576v2](http://arxiv.org/abs/2310.14576v2)|**[link](https://github.com/risingentropy/pfa)**|
 |**2023-10-20**|**Multi-level, Forming Free, Bulk Switching Trilayer RRAM for Neuromorphic Computing at the Edge**|Jaeseoung Park et.al.|[2310.13844v1](http://arxiv.org/abs/2310.13844v1)|null|
 |**2023-09-07**|**Enabling energy-Efficient object detection with surrogate gradient descent in spiking neural networks**|Jilong Luo et.al.|[2310.12985v1](http://arxiv.org/abs/2310.12985v1)|null|
 |**2023-10-16**|**Stochastic spin-orbit-torque synapse and its application in uncertainty quantification**|Cen Wang et.al.|[2310.10317v1](http://arxiv.org/abs/2310.10317v1)|null|
@@ -733,5 +734,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240412>back to top</a>)</p>
 
