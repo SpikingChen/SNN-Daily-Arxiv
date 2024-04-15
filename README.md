@@ -1,4 +1,4 @@
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -179,7 +179,7 @@
 |**2023-11-17**|**On exploiting the synaptic interaction properties to obtain frequency-specific neurons**|Guillaume Marthe et.al.|[2311.10411v1](http://arxiv.org/abs/2311.10411v1)|null|
 |**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376v1](http://arxiv.org/abs/2311.09376v1)|null|
 |**2023-11-15**|**Neuroscience inspired scientific machine learning (Part-1): Variable spiking neuron for regression**|Shailesh Garg et.al.|[2311.09267v1](http://arxiv.org/abs/2311.09267v1)|null|
-|**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266v1](http://arxiv.org/abs/2311.09266v1)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
+|**2024-04-12**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266v2](http://arxiv.org/abs/2311.09266v2)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
 |**2023-09-27**|**Autonomous Driving using Spiking Neural Networks on Dynamic Vision Sensor Data: A Case Study of Traffic Light Change Detection**|Xuelei Chen et.al.|[2311.09225v1](http://arxiv.org/abs/2311.09225v1)|**[link](https://github.com/xueleichen/snn-dvs-carla)**|
 |**2024-01-04**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077v2](http://arxiv.org/abs/2311.09077v2)|**[link](https://github.com/liaozhanfeng/spiking-nerf)**|
 |**2023-11-15**|**SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer**|Yue Liu et.al.|[2311.08806v1](http://arxiv.org/abs/2311.08806v1)|null|
@@ -734,5 +734,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
