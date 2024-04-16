@@ -1,4 +1,4 @@
-## Updated on 2024.04.15
+## Updated on 2024.04.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-14**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331v1](http://arxiv.org/abs/2404.09331v1)|null|
+|**2024-04-13**|**Phase-Amplitude Description of Stochastic Oscillators: A Parameterization Method Approach**|Alberto Pérez-Cervera et.al.|[2404.09046v1](http://arxiv.org/abs/2404.09046v1)|null|
+|**2024-04-12**|**An Integrated Toolbox for Creating Neuromorphic Edge Applications**|Lars Niedermeier et.al.|[2404.08726v1](http://arxiv.org/abs/2404.08726v1)|null|
 |**2024-03-11**|**SiGNN: A Spike-induced Graph Neural Network for Dynamic Graph Representation Learning**|Dong Chen et.al.|[2404.07941v1](http://arxiv.org/abs/2404.07941v1)|null|
 |**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469v1](http://arxiv.org/abs/2404.06469v1)|null|
 |**2024-04-08**|**A Neuromorphic Approach to Obstacle Avoidance in Robot Manipulation**|Ahmed Faisal Abdelrahman et.al.|[2404.05858v1](http://arxiv.org/abs/2404.05858v1)|null|
@@ -734,5 +737,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
 
