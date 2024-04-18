@@ -1,4 +1,4 @@
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -161,7 +161,7 @@
 |**2023-12-04**|**Fully Spiking Denoising Diffusion Implicit Models**|Ryo Watanabe et.al.|[2312.01742v1](http://arxiv.org/abs/2312.01742v1)|**[link](https://github.com/mil-tokyo/FSDDIM)**|
 |**2023-12-02**|**Recent Advances in Scalable Energy-Efficient and Trustworthy Spiking Neural networks: from Algorithms to Technology**|Souvik Kundu et.al.|[2312.01213v1](http://arxiv.org/abs/2312.01213v1)|null|
 |**2023-12-01**|**Rethinking Skip Connections in Spiking Neural Networks with Time-To-First-Spike Coding**|Youngeun Kim et.al.|[2312.00919v1](http://arxiv.org/abs/2312.00919v1)|null|
-|**2023-12-01**|**A Low-Power Neuromorphic Approach for Efficient Eye-Tracking**|Pietro Bonazzi et.al.|[2312.00425v1](http://arxiv.org/abs/2312.00425v1)|**[link](https://github.com/pbonazzi/retina)**|
+|**2024-04-17**|**Retina : Low-Power Eye Tracking with Event Camera and Spiking Hardware**|Pietro Bonazzi et.al.|[2312.00425v2](http://arxiv.org/abs/2312.00425v2)|**[link](https://github.com/pbonazzi/retina)**|
 |**2023-11-30**|**Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons**|Jay Sonawane et.al.|[2311.18577v1](http://arxiv.org/abs/2311.18577v1)|null|
 |**2023-11-30**|**Neuromorphic Incremental on-chip Learning with Hebbian Weight Consolidation**|Zifan Ning et.al.|[2311.18340v1](http://arxiv.org/abs/2311.18340v1)|null|
 |**2023-11-29**|**A computational model of behavioral adaptation to solve the credit assignment problem**|Roy E. Clymer et.al.|[2311.18134v1](http://arxiv.org/abs/2311.18134v1)|null|
@@ -740,5 +740,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
 
