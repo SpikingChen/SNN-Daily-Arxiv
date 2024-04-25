@@ -1,4 +1,4 @@
-## Updated on 2024.04.24
+## Updated on 2024.04.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-23**|**Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks**|Julia Gygax et.al.|[2404.14964v1](http://arxiv.org/abs/2404.14964v1)|null|
+|**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627v1](http://arxiv.org/abs/2404.15627v1)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597v1](http://arxiv.org/abs/2404.15597v1)|null|
+|**2024-04-23**|**A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots**|Harrison Espino et.al.|[2404.15524v1](http://arxiv.org/abs/2404.15524v1)|null|
+|**2024-04-23**|**Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks**|Julia Gygax et.al.|[2404.14964v1](http://arxiv.org/abs/2404.14964v1)|**[link](https://github.com/fmi-basel/surrogate-gradient-theory)**|
 |**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024v1](http://arxiv.org/abs/2404.14024v1)|null|
 |**2024-04-22**|**Quantitative Analysis of Roles of Direct and Indirect Pathways for Action Selection in The Basal Ganglia**|Sang-Yoon Kim et.al.|[2404.13888v1](http://arxiv.org/abs/2404.13888v1)|null|
 |**2024-04-19**|**Phase-space analysis of a two-section InP laser as an all-optical spiking neuron: dependency on control and design parameters**|Lukas Puts et.al.|[2404.12771v1](http://arxiv.org/abs/2404.12771v1)|null|
@@ -744,5 +747,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
 
