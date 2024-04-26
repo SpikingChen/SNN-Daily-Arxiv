@@ -1,4 +1,4 @@
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664v1](http://arxiv.org/abs/2404.16664v1)|null|
+|**2024-04-25**|**Directional intermodular coupling enriches functional complexity in biological neuronal networks**|Nobuaki Monma et.al.|[2404.16582v1](http://arxiv.org/abs/2404.16582v1)|null|
+|**2024-04-24**|**GPU-RANC: A CUDA Accelerated Simulation Framework for Neuromorphic Architectures**|Sahil Hassan et.al.|[2404.16208v1](http://arxiv.org/abs/2404.16208v1)|null|
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627v1](http://arxiv.org/abs/2404.15627v1)|null|
 |**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597v1](http://arxiv.org/abs/2404.15597v1)|null|
 |**2024-04-23**|**A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots**|Harrison Espino et.al.|[2404.15524v1](http://arxiv.org/abs/2404.15524v1)|null|
@@ -747,5 +750,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240426>back to top</a>)</p>
 
