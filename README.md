@@ -1,4 +1,4 @@
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**SQUAT: Stateful Quantization-Aware Training in Recurrent Spiking Neural Networks**|Sreyes Venkatesh et.al.|[2404.19668v1](http://arxiv.org/abs/2404.19668v1)|**[link](https://github.com/jeshraghian/snntorch)**|
+|**2024-04-30**|**Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks**|Lorenzo Pes et.al.|[2404.19419v1](http://arxiv.org/abs/2404.19419v1)|null|
+|**2024-04-30**|**DelGrad: Exact gradients in spiking networks for learning transmission delays and weights**|Julian Göltz et.al.|[2404.19165v1](http://arxiv.org/abs/2404.19165v1)|null|
 |**2024-04-28**|**Quantized Context Based LIF Neurons for Recurrent Spiking Neural Networks in 45nm**|Sai Sukruth Bezugam et.al.|[2404.18066v1](http://arxiv.org/abs/2404.18066v1)|null|
 |**2024-04-26**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719v1](http://arxiv.org/abs/2404.17719v1)|null|
 |**2024-04-26**|**Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs**|Zhipeng Huang et.al.|[2404.17456v1](http://arxiv.org/abs/2404.17456v1)|null|
@@ -18,7 +21,7 @@
 |**2024-04-26**|**Synchronized Stepwise Control of Firing and Learning Thresholds in a Spiking Randomly Connected Neural Network toward Hardware Implementation**|Kumiko Nomura et.al.|[2404.17241v1](http://arxiv.org/abs/2404.17241v1)|null|
 |**2024-04-26**|**Defending Spiking Neural Networks against Adversarial Attacks through Image Purification**|Weiran Chen et.al.|[2404.17092v1](http://arxiv.org/abs/2404.17092v1)|null|
 |**2024-04-25**|**Transductive Spiking Graph Neural Networks for Loihi**|Shay Snyder et.al.|[2404.17048v1](http://arxiv.org/abs/2404.17048v1)|null|
-|**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664v1](http://arxiv.org/abs/2404.16664v1)|null|
+|**2024-04-25**|**Lu.i -- A low-cost electronic neuron for education and outreach**|Yannik Stradmann et.al.|[2404.16664v1](http://arxiv.org/abs/2404.16664v1)|**[link](https://github.com/giant-axon/lu.i-neuron-pcb)**|
 |**2024-04-25**|**Directional intermodular coupling enriches functional complexity in biological neuronal networks**|Nobuaki Monma et.al.|[2404.16582v1](http://arxiv.org/abs/2404.16582v1)|null|
 |**2024-04-24**|**GPU-RANC: A CUDA Accelerated Simulation Framework for Neuromorphic Architectures**|Sahil Hassan et.al.|[2404.16208v1](http://arxiv.org/abs/2404.16208v1)|null|
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627v1](http://arxiv.org/abs/2404.15627v1)|null|
@@ -757,5 +760,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240501>back to top</a>)</p>
 
