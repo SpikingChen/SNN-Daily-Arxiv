@@ -1,4 +1,4 @@
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419v1](http://arxiv.org/abs/2405.01419v1)|null|
+|**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305v1](http://arxiv.org/abs/2405.01305v1)|null|
+|**2024-04-16**|**Oxygen vacancies modulated VO2 for neurons and Spiking Neural Network construction**|Liang Li et.al.|[2405.00700v1](http://arxiv.org/abs/2405.00700v1)|null|
+|**2024-04-15**|**Direct Training Needs Regularisation: Anytime Optimal Inference Spiking Neural Network**|Dengyu Wu et.al.|[2405.00699v1](http://arxiv.org/abs/2405.00699v1)|null|
 |**2024-05-01**|**Koopman-based Deep Learning for Nonlinear System Estimation**|Zexin Sun et.al.|[2405.00627v1](http://arxiv.org/abs/2405.00627v1)|null|
 |**2024-05-01**|**Weight Sparsity Complements Activity Sparsity in Neuromorphic Language Models**|Rishav Mukherji et.al.|[2405.00433v1](http://arxiv.org/abs/2405.00433v1)|null|
 |**2024-04-15**|**SQUAT: Stateful Quantization-Aware Training in Recurrent Spiking Neural Networks**|Sreyes Venkatesh et.al.|[2404.19668v1](http://arxiv.org/abs/2404.19668v1)|**[link](https://github.com/jeshraghian/snntorch)**|
@@ -762,5 +766,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240503>back to top</a>)</p>
 
