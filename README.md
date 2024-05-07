@@ -1,4 +1,4 @@
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-04**|**Scaling SNNs Trained Using Equilibrium Propagation to Convolutional Architectures**|Jiaqi Lin et.al.|[2405.02546v1](http://arxiv.org/abs/2405.02546v1)|null|
+|**2024-04-12**|**A Cloud-Edge Framework for Energy-Efficient Event-Driven Control: An Integration of Online Supervised Learning, Spiking Neural Networks and Local Plasticity Rules**|Reza Ahmadvand et.al.|[2405.02316v1](http://arxiv.org/abs/2405.02316v1)|null|
 |**2024-05-03**|**A Spiking Neural Network Decoder for Implantable Brain Machine Interfaces and its Sparsity-aware Deployment on RISC-V Microcontrollers**|Jiawei Liao et.al.|[2405.02146v1](http://arxiv.org/abs/2405.02146v1)|null|
 |**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019v1](http://arxiv.org/abs/2405.02019v1)|null|
 |**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419v1](http://arxiv.org/abs/2405.01419v1)|null|
@@ -768,5 +770,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
 
