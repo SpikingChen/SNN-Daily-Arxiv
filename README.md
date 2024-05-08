@@ -1,4 +1,4 @@
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods**|Chenlin Zhou et.al.|[2405.04289v1](http://arxiv.org/abs/2405.04289v1)|**[link](https://github.com/zhouchenlin2096/awesome-spiking-neural-networks)**|
+|**2024-05-07**|**Watermarking Neuromorphic Brains: Intellectual Property Protection in Spiking Neural Networks**|Hamed Poursiami et.al.|[2405.04049v1](http://arxiv.org/abs/2405.04049v1)|null|
 |**2024-05-04**|**Scaling SNNs Trained Using Equilibrium Propagation to Convolutional Architectures**|Jiaqi Lin et.al.|[2405.02546v1](http://arxiv.org/abs/2405.02546v1)|null|
 |**2024-04-12**|**A Cloud-Edge Framework for Energy-Efficient Event-Driven Control: An Integration of Online Supervised Learning, Spiking Neural Networks and Local Plasticity Rules**|Reza Ahmadvand et.al.|[2405.02316v1](http://arxiv.org/abs/2405.02316v1)|null|
 |**2024-05-03**|**A Spiking Neural Network Decoder for Implantable Brain Machine Interfaces and its Sparsity-aware Deployment on RISC-V Microcontrollers**|Jiawei Liao et.al.|[2405.02146v1](http://arxiv.org/abs/2405.02146v1)|null|
@@ -128,7 +130,7 @@
 |**2024-02-01**|**Benchmarking Spiking Neural Network Learning Methods with Varying Locality**|Jiaqi Lin et.al.|[2402.01782v1](http://arxiv.org/abs/2402.01782v1)|null|
 |**2024-02-02**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533v1](http://arxiv.org/abs/2402.01533v1)|null|
 |**2024-02-02**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287v1](http://arxiv.org/abs/2402.01287v1)|null|
-|**2024-02-01**|**BrainLeaks: On the Privacy-Preserving Properties of Neuromorphic Architectures against Model Inversion Attacks**|Hamed Poursiami et.al.|[2402.00906v1](http://arxiv.org/abs/2402.00906v1)|null|
+|**2024-05-07**|**BrainLeaks: On the Privacy-Preserving Properties of Neuromorphic Architectures against Model Inversion Attacks**|Hamed Poursiami et.al.|[2402.00906v2](http://arxiv.org/abs/2402.00906v2)|null|
 |**2024-02-02**|**Efficient Training Spiking Neural Networks with Parallel Spiking Unit**|Yang Li et.al.|[2402.00449v2](http://arxiv.org/abs/2402.00449v2)|null|
 |**2024-02-01**|**LM-HT SNN: Enhancing the Performance of SNN to ANN Counterpart through Learnable Multi-hierarchical Threshold Model**|Zecheng Hao et.al.|[2402.00411v1](http://arxiv.org/abs/2402.00411v1)|null|
 |**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911v1](http://arxiv.org/abs/2401.17911v1)|**[link](https://github.com/alexknipper/snnlp)**|
@@ -770,5 +772,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240508>back to top</a>)</p>
 
