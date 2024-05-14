@@ -1,4 +1,4 @@
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -114,7 +114,7 @@
 |**2024-02-18**|**Impact of the La2NiO4+δ oxygen content on the synaptic properties of the TiN/La2NiO4+δ/Pt memristive devices**|Aleksandra Koroleva et.al.|[2402.11612v1](http://arxiv.org/abs/2402.11612v1)|null|
 |**2024-02-24**|**SDiT: Spiking Diffusion Model with Transformer**|Shu Yang et.al.|[2402.11588v2](http://arxiv.org/abs/2402.11588v2)|null|
 |**2024-04-05**|**SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network-based Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2402.11322v3](http://arxiv.org/abs/2402.11322v3)|null|
-|**2024-01-25**|**Designing Silicon Brains using LLM: Leveraging ChatGPT for Automated Description of a Spiking Neuron Array**|Michael Tomlinson et.al.|[2402.10920v1](http://arxiv.org/abs/2402.10920v1)|null|
+|**2024-01-25**|**Designing Silicon Brains using LLM: Leveraging ChatGPT for Automated Description of a Spiking Neuron Array**|Michael Tomlinson et.al.|[2402.10920v1](http://arxiv.org/abs/2402.10920v1)|**[link](https://github.com/Andreou-JHULabOrg/tinytapeout_05_chatgpt_snn)**|
 |**2023-11-30**|**Astrocyte control bursting mode of spiking neuron network with memristor-implemented plasticity**|Sergey V. Stasenko et.al.|[2402.10214v1](http://arxiv.org/abs/2402.10214v1)|null|
 |**2024-01-28**|**EventF2S: Asynchronous and Sparse Spiking AER Framework using Neuromorphic-Friendly Algorithm**|Lakshmi Annamalai et.al.|[2402.10078v1](http://arxiv.org/abs/2402.10078v1)|null|
 |**2024-04-09**|**Learning fast changing slow in spiking neural networks**|Cristiano Capone et.al.|[2402.10069v2](http://arxiv.org/abs/2402.10069v2)|null|
@@ -143,7 +143,7 @@
 |**2024-01-29**|**Learned Spike Encoding of the Channel Response for Low-Power Environment Sensing**|Eleonora Cicciarella et.al.|[2401.16159v1](http://arxiv.org/abs/2401.16159v1)|null|
 |**2024-01-27**|**Bayesian Inference Accelerator for Spiking Neural Networks**|Prabodh Katti et.al.|[2401.15453v1](http://arxiv.org/abs/2401.15453v1)|null|
 |**2024-01-26**|**Speed-based Filtration and DBSCAN of Event-based Camera Data with Neuromorphic Computing**|Charles P. Rizzo et.al.|[2401.15212v1](http://arxiv.org/abs/2401.15212v1)|null|
-|**2024-01-26**|**LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization**|Qianhui Liu et.al.|[2401.14652v1](http://arxiv.org/abs/2401.14652v1)|null|
+|**2024-05-13**|**LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization**|Qianhui Liu et.al.|[2401.14652v2](http://arxiv.org/abs/2401.14652v2)|null|
 |**2024-01-23**|**A robust balancing mechanism for spiking neural networks**|Antonio Politi et.al.|[2401.12559v1](http://arxiv.org/abs/2401.12559v1)|null|
 |**2024-05-09**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687v3](http://arxiv.org/abs/2401.11687v3)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2024-01-03**|**A Review of Findings from Neuroscience and Cognitive Psychology as Possible Inspiration for the Path to Artificial General Intelligence**|Florin Leon et.al.|[2401.10904v1](http://arxiv.org/abs/2401.10904v1)|null|
@@ -775,5 +775,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
 
