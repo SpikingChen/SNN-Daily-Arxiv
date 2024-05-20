@@ -1,4 +1,4 @@
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**General oracle inequalities for a penalized log-likelihood criterion based on non-stationary data**|Julien Aubert et.al.|[2405.10582v1](http://arxiv.org/abs/2405.10582v1)|null|
 |**2024-05-14**|**Neuromorphic Robust Estimation of Nonlinear Dynamical Systems Applied to Satellite Rendezvous**|Reza Ahmadvand et.al.|[2405.08392v1](http://arxiv.org/abs/2405.08392v1)|null|
 |**2024-05-10**|**Learning A Spiking Neural Network for Efficient Image Deraining**|Tianyu Song et.al.|[2405.06277v1](http://arxiv.org/abs/2405.06277v1)|**[link](https://github.com/mingtian99/esdnet)**|
 |**2024-04-22**|**Learning-to-learn enables rapid learning with phase-change memory-based in-memory computing**|Thomas Ortner et.al.|[2405.05141v1](http://arxiv.org/abs/2405.05141v1)|null|
@@ -776,5 +777,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 
