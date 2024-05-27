@@ -1,4 +1,4 @@
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**Neuromorphic dreaming: A pathway to efficient learning in artificial agents**|Ingo Blakowski et.al.|[2405.15616v1](http://arxiv.org/abs/2405.15616v1)|null|
+|**2024-05-24**|**A generalized neural tangent kernel for surrogate gradient learning**|Luke Eilers et.al.|[2405.15539v1](http://arxiv.org/abs/2405.15539v1)|null|
 |**2024-05-23**|**Domain Wall Magnetic Tunnel Junction Reliable Integrate and Fire Neuron**|Can Cui1 et.al.|[2405.14851v1](http://arxiv.org/abs/2405.14851v1)|null|
 |**2024-05-23**|**Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation**|Linghao Feng et.al.|[2405.14474v1](http://arxiv.org/abs/2405.14474v1)|null|
 |**2024-05-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al.|[2405.14398v1](http://arxiv.org/abs/2405.14398v1)|null|
@@ -786,5 +788,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240527>back to top</a>)</p>
 
