@@ -1,4 +1,4 @@
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**CHANI: Correlation-based Hawkes Aggregation of Neurons with bio-Inspiration**|Sophie Jaffard et.al.|[2405.18828v1](http://arxiv.org/abs/2405.18828v1)|null|
+|**2024-05-28**|**Emergence and long-term maintenance of modularity in spiking neural networks with plasticity**|Raphäel Bergoin et.al.|[2405.18587v1](http://arxiv.org/abs/2405.18587v1)|null|
 |**2024-05-28**|**Mutual Information Analysis of Neuromorphic Coding for Distributed Wireless Spiking Neural Networks**|Pietro Savazzi et.al.|[2405.18019v1](http://arxiv.org/abs/2405.18019v1)|null|
 |**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903v1](http://arxiv.org/abs/2405.17903v1)|null|
 |**2024-05-27**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851v1](http://arxiv.org/abs/2405.16851v1)|null|
@@ -149,7 +151,7 @@
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767v1](http://arxiv.org/abs/2402.03767v1)|null|
 |**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886v1](http://arxiv.org/abs/2402.02886v1)|null|
 |**2024-02-01**|**Benchmarking Spiking Neural Network Learning Methods with Varying Locality**|Jiaqi Lin et.al.|[2402.01782v1](http://arxiv.org/abs/2402.01782v1)|null|
-|**2024-02-02**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533v1](http://arxiv.org/abs/2402.01533v1)|null|
+|**2024-05-29**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533v2](http://arxiv.org/abs/2402.01533v2)|null|
 |**2024-02-02**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287v1](http://arxiv.org/abs/2402.01287v1)|null|
 |**2024-05-07**|**BrainLeaks: On the Privacy-Preserving Properties of Neuromorphic Architectures against Model Inversion Attacks**|Hamed Poursiami et.al.|[2402.00906v2](http://arxiv.org/abs/2402.00906v2)|null|
 |**2024-02-02**|**Efficient Training Spiking Neural Networks with Parallel Spiking Unit**|Yang Li et.al.|[2402.00449v2](http://arxiv.org/abs/2402.00449v2)|null|
@@ -793,5 +795,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
