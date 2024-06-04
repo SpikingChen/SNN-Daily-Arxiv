@@ -1,4 +1,4 @@
-## Updated on 2024.06.03
+## Updated on 2024.06.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -31,7 +31,7 @@
 |**2024-05-26**|**EchoSpike Predictive Plasticity: An Online Local Learning Rule for Spiking Neural Networks**|Lars Graf et.al.|[2405.13976v2](http://arxiv.org/abs/2405.13976v2)|null|
 |**2024-05-27**|**Advancing Spiking Neural Networks towards Multiscale Spatiotemporal Interaction Learning**|Yimeng Shan et.al.|[2405.13672v2](http://arxiv.org/abs/2405.13672v2)|**[link](https://github.com/Ym-Shan/Spiking_Multiscale_Attention_Arxiv)**|
 |**2024-05-22**|**Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals**|Christian Holberg et.al.|[2405.13587v1](http://arxiv.org/abs/2405.13587v1)|null|
-|**2024-05-21**|**Training and inference in the ReckON RSNN architecture implemented on a MPSoC**|Alejandro Linares-Barranco et.al.|[2405.12849v1](http://arxiv.org/abs/2405.12849v1)|null|
+|**2024-06-02**|**Adaptive Robotic Arm Control with a Spiking Recurrent Neural Network on a Digital Accelerator**|Alejandro Linares-Barranco et.al.|[2405.12849v2](http://arxiv.org/abs/2405.12849v2)|null|
 |**2024-05-17**|**General oracle inequalities for a penalized log-likelihood criterion based on non-stationary data**|Julien Aubert et.al.|[2405.10582v1](http://arxiv.org/abs/2405.10582v1)|null|
 |**2024-05-14**|**Neuromorphic Robust Estimation of Nonlinear Dynamical Systems Applied to Satellite Rendezvous**|Reza Ahmadvand et.al.|[2405.08392v1](http://arxiv.org/abs/2405.08392v1)|null|
 |**2024-05-10**|**Learning A Spiking Neural Network for Efficient Image Deraining**|Tianyu Song et.al.|[2405.06277v1](http://arxiv.org/abs/2405.06277v1)|**[link](https://github.com/mingtian99/esdnet)**|
@@ -799,5 +799,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240603>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
 
