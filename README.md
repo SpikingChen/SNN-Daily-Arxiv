@@ -1,4 +1,4 @@
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349v1](http://arxiv.org/abs/2406.02349v1)|**[link](https://github.com/tank-jiang/cade4snn)**|
+|**2024-06-04**|**Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity**|Jiangrong Shen et.al.|[2406.01883v1](http://arxiv.org/abs/2406.01883v1)|null|
+|**2024-05-17**|**NeuroAssist: Enhancing Cognitive-Computer Synergy with Adaptive AI and Advanced Neural Decoding for Efficient EEG Signal Classification**|Eeshan G. Dandamudi et.al.|[2406.01600v1](http://arxiv.org/abs/2406.01600v1)|null|
+|**2024-06-03**|**Pattern Formation in a Spiking Neural-Field of Renewal Neurons**|Gregory Dumont et.al.|[2406.01167v1](http://arxiv.org/abs/2406.01167v1)|null|
+|**2024-06-03**|**Towards Efficient Deep Spiking Neural Networks Construction with Spiking Activity based Pruning**|Yaxin Li et.al.|[2406.01072v1](http://arxiv.org/abs/2406.01072v1)|null|
+|**2024-06-01**|**Pedestrian intention prediction in Adverse Weather Conditions with Spiking Neural Networks and Dynamic Vision Sensors**|Mustafa Sakhai et.al.|[2406.00473v1](http://arxiv.org/abs/2406.00473v1)|null|
+|**2024-06-01**|**Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks**|Lihao Wang et.al.|[2406.00405v1](http://arxiv.org/abs/2406.00405v1)|null|
+|**2024-06-01**|**Understanding the Convergence in Balanced Resonate-and-Fire Neurons**|Saya Higuchi et.al.|[2406.00389v1](http://arxiv.org/abs/2406.00389v1)|null|
+|**2024-06-01**|**A Review of Pulse-Coupled Neural Network Applications in Computer Vision and Image Processing**|Nurul Rafi et.al.|[2406.00239v1](http://arxiv.org/abs/2406.00239v1)|null|
+|**2024-05-31**|**Flexible and Efficient Surrogate Gradient Modeling with Forward Gradient Injection**|Sebastian Otte et.al.|[2406.00177v1](http://arxiv.org/abs/2406.00177v1)|null|
 |**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694v1](http://arxiv.org/abs/2405.20694v1)|null|
 |**2024-05-30**|**Enhancing Adversarial Robustness in SNNs with Sparse Gradients**|Yujia Liu et.al.|[2405.20355v1](http://arxiv.org/abs/2405.20355v1)|null|
 |**2024-05-31**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687v2](http://arxiv.org/abs/2405.19687v2)|**[link](https://github.com/ridgerchu/sad)**|
@@ -799,5 +809,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240604>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240605>back to top</a>)</p>
 
