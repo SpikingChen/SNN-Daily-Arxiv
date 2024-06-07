@@ -1,4 +1,4 @@
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762v1](http://arxiv.org/abs/2406.03762v1)|null|
 |**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470v1](http://arxiv.org/abs/2406.03470v1)|null|
 |**2024-06-05**|**SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms**|Xingrun Xing et.al.|[2406.03287v1](http://arxiv.org/abs/2406.03287v1)|**[link](https://github.com/xingrun-xing/spikelm)**|
 |**2024-06-05**|**Spiking representation learning for associative memories**|Naresh Ravichandran et.al.|[2406.03054v1](http://arxiv.org/abs/2406.03054v1)|null|
@@ -80,7 +81,7 @@
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627v1](http://arxiv.org/abs/2404.15627v1)|null|
 |**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597v1](http://arxiv.org/abs/2404.15597v1)|null|
 |**2024-04-23**|**A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots**|Harrison Espino et.al.|[2404.15524v1](http://arxiv.org/abs/2404.15524v1)|null|
-|**2024-04-23**|**Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks**|Julia Gygax et.al.|[2404.14964v1](http://arxiv.org/abs/2404.14964v1)|**[link](https://github.com/fmi-basel/surrogate-gradient-theory)**|
+|**2024-06-06**|**Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks**|Julia Gygax et.al.|[2404.14964v2](http://arxiv.org/abs/2404.14964v2)|**[link](https://github.com/fmi-basel/surrogate-gradient-theory)**|
 |**2024-05-21**|**Adapting to time: why nature evolved a diverse set of neurons**|Karim G. Habashy et.al.|[2404.14325v2](http://arxiv.org/abs/2404.14325v2)|null|
 |**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024v1](http://arxiv.org/abs/2404.14024v1)|null|
 |**2024-04-22**|**Quantitative Analysis of Roles of Direct and Indirect Pathways for Action Selection in The Basal Ganglia**|Sang-Yoon Kim et.al.|[2404.13888v1](http://arxiv.org/abs/2404.13888v1)|null|
@@ -171,7 +172,7 @@
 |**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886v1](http://arxiv.org/abs/2402.02886v1)|null|
 |**2024-02-01**|**Benchmarking Spiking Neural Network Learning Methods with Varying Locality**|Jiaqi Lin et.al.|[2402.01782v1](http://arxiv.org/abs/2402.01782v1)|null|
 |**2024-05-29**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533v2](http://arxiv.org/abs/2402.01533v2)|null|
-|**2024-02-02**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287v1](http://arxiv.org/abs/2402.01287v1)|null|
+|**2024-06-06**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287v2](http://arxiv.org/abs/2402.01287v2)|null|
 |**2024-05-07**|**BrainLeaks: On the Privacy-Preserving Properties of Neuromorphic Architectures against Model Inversion Attacks**|Hamed Poursiami et.al.|[2402.00906v2](http://arxiv.org/abs/2402.00906v2)|null|
 |**2024-02-02**|**Efficient Training Spiking Neural Networks with Parallel Spiking Unit**|Yang Li et.al.|[2402.00449v2](http://arxiv.org/abs/2402.00449v2)|null|
 |**2024-02-01**|**LM-HT SNN: Enhancing the Performance of SNN to ANN Counterpart through Learnable Multi-hierarchical Threshold Model**|Zecheng Hao et.al.|[2402.00411v1](http://arxiv.org/abs/2402.00411v1)|null|
@@ -814,5 +815,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240606>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240607>back to top</a>)</p>
 
