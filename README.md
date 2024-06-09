@@ -1,4 +1,4 @@
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,7 +12,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762v1](http://arxiv.org/abs/2406.03762v1)|null|
-|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470v1](http://arxiv.org/abs/2406.03470v1)|null|
+|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470v1](http://arxiv.org/abs/2406.03470v1)|**[link](https://github.com/intelligent-computing-research-group/spikezip_transformer)**|
 |**2024-06-05**|**SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms**|Xingrun Xing et.al.|[2406.03287v1](http://arxiv.org/abs/2406.03287v1)|**[link](https://github.com/xingrun-xing/spikelm)**|
 |**2024-06-05**|**Spiking representation learning for associative memories**|Naresh Ravichandran et.al.|[2406.03054v1](http://arxiv.org/abs/2406.03054v1)|null|
 |**2024-06-05**|**When Spiking neural networks meet temporal attention image decoding and adaptive spiking neuron**|Xuerui Qiu et.al.|[2406.03046v1](http://arxiv.org/abs/2406.03046v1)|**[link](https://github.com/bollossom/iclr_tiny_snn)**|
@@ -815,5 +815,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
 
