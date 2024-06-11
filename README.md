@@ -1,4 +1,4 @@
-## Updated on 2024.06.10
+## Updated on 2024.06.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**NeuroMoCo: A Neuromorphic Momentum Contrast Learning Method for Spiking Neural Networks**|Yuqi Ma et.al.|[2406.06305v1](http://arxiv.org/abs/2406.06305v1)|null|
+|**2024-06-10**|**Supervised Radio Frequency Interference Detection with SNNs**|Nicholas J. Pritchard et.al.|[2406.06075v1](http://arxiv.org/abs/2406.06075v1)|null|
+|**2024-06-08**|**Spiking Neural Networks with Consistent Mapping Relations Allow High-Accuracy Inference**|Yang Li et.al.|[2406.05371v1](http://arxiv.org/abs/2406.05371v1)|null|
 |**2024-06-06**|**CORTEX: Large-Scale Brain Simulator Utilizing Indegree Sub-Graph Decomposition on Fugaku Supercomputer**|Tianxiang Lyu et.al.|[2406.03762v1](http://arxiv.org/abs/2406.03762v1)|null|
-|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470v1](http://arxiv.org/abs/2406.03470v1)|**[link](https://github.com/intelligent-computing-research-group/spikezip_transformer)**|
+|**2024-06-05**|**SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN**|Kang You et.al.|[2406.03470v1](http://arxiv.org/abs/2406.03470v1)|**[link](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF)**|
 |**2024-06-05**|**SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms**|Xingrun Xing et.al.|[2406.03287v1](http://arxiv.org/abs/2406.03287v1)|**[link](https://github.com/xingrun-xing/spikelm)**|
 |**2024-06-05**|**Spiking representation learning for associative memories**|Naresh Ravichandran et.al.|[2406.03054v1](http://arxiv.org/abs/2406.03054v1)|null|
 |**2024-06-05**|**When Spiking neural networks meet temporal attention image decoding and adaptive spiking neuron**|Xuerui Qiu et.al.|[2406.03046v1](http://arxiv.org/abs/2406.03046v1)|**[link](https://github.com/bollossom/iclr_tiny_snn)**|
@@ -174,7 +177,7 @@
 |**2024-05-29**|**Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**|Changze Lv et.al.|[2402.01533v2](http://arxiv.org/abs/2402.01533v2)|null|
 |**2024-06-06**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287v2](http://arxiv.org/abs/2402.01287v2)|null|
 |**2024-05-07**|**BrainLeaks: On the Privacy-Preserving Properties of Neuromorphic Architectures against Model Inversion Attacks**|Hamed Poursiami et.al.|[2402.00906v2](http://arxiv.org/abs/2402.00906v2)|null|
-|**2024-02-02**|**Efficient Training Spiking Neural Networks with Parallel Spiking Unit**|Yang Li et.al.|[2402.00449v2](http://arxiv.org/abs/2402.00449v2)|null|
+|**2024-06-08**|**Parallel Spiking Unit for Efficient Training of Spiking Neural Networks**|Yang Li et.al.|[2402.00449v3](http://arxiv.org/abs/2402.00449v3)|null|
 |**2024-02-01**|**LM-HT SNN: Enhancing the Performance of SNN to ANN Counterpart through Learnable Multi-hierarchical Threshold Model**|Zecheng Hao et.al.|[2402.00411v1](http://arxiv.org/abs/2402.00411v1)|null|
 |**2024-01-31**|**SNNLP: Energy-Efficient Natural Language Processing Using Spiking Neural Networks**|R. Alexander Knipper et.al.|[2401.17911v1](http://arxiv.org/abs/2401.17911v1)|**[link](https://github.com/alexknipper/snnlp)**|
 |**2024-01-30**|**Picosecond transfer from short-term to long-term memory in analog antiferromagnetic memory device**|M. Surynek et.al.|[2401.17370v1](http://arxiv.org/abs/2401.17370v1)|null|
@@ -815,5 +818,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240611>back to top</a>)</p>
 
