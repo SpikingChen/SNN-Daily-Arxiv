@@ -1,4 +1,4 @@
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**SpikePipe: Accelerated Training of Spiking Neural Networks via Inter-Layer Pipelining and Multiprocessor Scheduling**|Sai Sanjeet et.al.|[2406.06879v1](http://arxiv.org/abs/2406.06879v1)|null|
+|**2024-05-06**|**SparrowSNN: A Hardware/software Co-design for Energy Efficient ECG Classification**|Zhanglu Yan et.al.|[2406.06543v1](http://arxiv.org/abs/2406.06543v1)|null|
 |**2024-06-10**|**NeuroMoCo: A Neuromorphic Momentum Contrast Learning Method for Spiking Neural Networks**|Yuqi Ma et.al.|[2406.06305v1](http://arxiv.org/abs/2406.06305v1)|null|
 |**2024-06-10**|**Supervised Radio Frequency Interference Detection with SNNs**|Nicholas J. Pritchard et.al.|[2406.06075v1](http://arxiv.org/abs/2406.06075v1)|null|
 |**2024-06-08**|**Spiking Neural Networks with Consistent Mapping Relations Allow High-Accuracy Inference**|Yang Li et.al.|[2406.05371v1](http://arxiv.org/abs/2406.05371v1)|null|
@@ -69,7 +71,7 @@
 |**2024-05-01**|**Koopman-based Deep Learning for Nonlinear System Estimation**|Zexin Sun et.al.|[2405.00627v1](http://arxiv.org/abs/2405.00627v1)|null|
 |**2024-05-01**|**Weight Sparsity Complements Activity Sparsity in Neuromorphic Language Models**|Rishav Mukherji et.al.|[2405.00433v1](http://arxiv.org/abs/2405.00433v1)|null|
 |**2024-04-15**|**SQUAT: Stateful Quantization-Aware Training in Recurrent Spiking Neural Networks**|Sreyes Venkatesh et.al.|[2404.19668v1](http://arxiv.org/abs/2404.19668v1)|**[link](https://github.com/jeshraghian/snntorch)**|
-|**2024-04-30**|**Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks**|Lorenzo Pes et.al.|[2404.19419v1](http://arxiv.org/abs/2404.19419v1)|null|
+|**2024-06-11**|**Active Dendrites Enable Efficient Continual Learning in Time-To-First-Spike Neural Networks**|Lorenzo Pes et.al.|[2404.19419v2](http://arxiv.org/abs/2404.19419v2)|null|
 |**2024-04-30**|**DelGrad: Exact gradients in spiking networks for learning transmission delays and weights**|Julian Göltz et.al.|[2404.19165v1](http://arxiv.org/abs/2404.19165v1)|null|
 |**2024-04-28**|**Quantized Context Based LIF Neurons for Recurrent Spiking Neural Networks in 45nm**|Sai Sukruth Bezugam et.al.|[2404.18066v1](http://arxiv.org/abs/2404.18066v1)|null|
 |**2024-05-28**|**Stochastic Spiking Neural Networks with First-to-Spike Coding**|Yi Jiang et.al.|[2404.17719v2](http://arxiv.org/abs/2404.17719v2)|null|
@@ -818,5 +820,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240612>back to top</a>)</p>
 
