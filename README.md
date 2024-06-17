@@ -1,4 +1,4 @@
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Exemplar LCA-Decoder: A Scalable Framework for On-Chip Learning**|Sanaz Mahmoodi Takaghaj et.al.|[2406.10066v1](http://arxiv.org/abs/2406.10066v1)|null|
+|**2024-06-14**|**Heterogeneous Federated Learning with Convolutional and Spiking Neural Networks**|Yingchao Yu et.al.|[2406.09680v1](http://arxiv.org/abs/2406.09680v1)|null|
 |**2024-06-12**|**ExoSpikeNet: A Light Curve Analysis Based Spiking Neural Network for Exoplanet Detection**|Maneet Chatterjee et.al.|[2406.07927v1](http://arxiv.org/abs/2406.07927v1)|null|
 |**2024-06-12**|**Self-Distillation Learning Based on Temporal-Spatial Consistency for Spiking Neural Networks**|Lin Zuo et.al.|[2406.07862v1](http://arxiv.org/abs/2406.07862v1)|null|
 |**2024-06-11**|**SpikePipe: Accelerated Training of Spiking Neural Networks via Inter-Layer Pipelining and Multiprocessor Scheduling**|Sai Sanjeet et.al.|[2406.06879v1](http://arxiv.org/abs/2406.06879v1)|null|
@@ -822,5 +824,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
 
