@@ -1,4 +1,4 @@
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting**|Zeyang Song et.al.|[2406.12726v1](http://arxiv.org/abs/2406.12726v1)|null|
+|**2024-06-18**|**Evolutionary Spiking Neural Networks: A Survey**|Shuaijie Shen et.al.|[2406.12552v1](http://arxiv.org/abs/2406.12552v1)|null|
+|**2024-06-18**|**SFedCA: Credit Assignment-Based Active Client Selection Strategy for Spiking Federated Learning**|Qiugang Zhan et.al.|[2406.12200v1](http://arxiv.org/abs/2406.12200v1)|null|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778v1](http://arxiv.org/abs/2406.11778v1)|null|
 |**2024-06-14**|**Exemplar LCA-Decoder: A Scalable Framework for On-Chip Learning**|Sanaz Mahmoodi Takaghaj et.al.|[2406.10066v1](http://arxiv.org/abs/2406.10066v1)|null|
 |**2024-06-14**|**Heterogeneous Federated Learning with Convolutional and Spiking Neural Networks**|Yingchao Yu et.al.|[2406.09680v1](http://arxiv.org/abs/2406.09680v1)|null|
@@ -99,7 +102,7 @@
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599v1](http://arxiv.org/abs/2404.10599v1)|null|
 |**2024-04-16**|**Hardware-aware training of models with synaptic delays for digital event-driven neuromorphic processors**|Alberto Patino-Saucedo et.al.|[2404.10597v1](http://arxiv.org/abs/2404.10597v1)|null|
 |**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210v1](http://arxiv.org/abs/2404.10210v1)|null|
-|**2024-04-14**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331v1](http://arxiv.org/abs/2404.09331v1)|null|
+|**2024-06-18**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331v2](http://arxiv.org/abs/2404.09331v2)|**[link](https://github.com/rachmadvwp/snn4agents)**|
 |**2024-04-13**|**Phase-Amplitude Description of Stochastic Oscillators: A Parameterization Method Approach**|Alberto Pérez-Cervera et.al.|[2404.09046v1](http://arxiv.org/abs/2404.09046v1)|null|
 |**2024-04-12**|**An Integrated Toolbox for Creating Neuromorphic Edge Applications**|Lars Niedermeier et.al.|[2404.08726v1](http://arxiv.org/abs/2404.08726v1)|null|
 |**2024-03-11**|**SiGNN: A Spike-induced Graph Neural Network for Dynamic Graph Representation Learning**|Dong Chen et.al.|[2404.07941v1](http://arxiv.org/abs/2404.07941v1)|null|
@@ -825,5 +828,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
