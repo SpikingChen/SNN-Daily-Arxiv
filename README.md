@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**RTFormer: Re-parameter TSBN Spiking Transformer**|Hongzhi Wang et.al.|[2406.14180v1](http://arxiv.org/abs/2406.14180v1)|null|
+|**2024-06-20**|**EvSegSNN: Neuromorphic Semantic Segmentation for Event Data**|Dalia Hareb et.al.|[2406.14178v1](http://arxiv.org/abs/2406.14178v1)|null|
+|**2024-06-19**|**Q-SNNs: Quantized Spiking Neural Networks**|Wenjie Wei et.al.|[2406.13672v1](http://arxiv.org/abs/2406.13672v1)|null|
+|**2024-06-19**|**Trapezoidal Gradient Descent for Effective Reinforcement Learning in Spiking Networks**|Yuhao Pan et.al.|[2406.13568v1](http://arxiv.org/abs/2406.13568v1)|null|
+|**2024-06-19**|**Global-Local Convolution with Spiking Neural Networks for Energy-efficient Keyword Spotting**|Shuai Wang et.al.|[2406.13179v1](http://arxiv.org/abs/2406.13179v1)|null|
 |**2024-06-14**|**ED-sKWS: Early-Decision Spiking Neural Networks for Rapid,and Energy-Efficient Keyword Spotting**|Zeyang Song et.al.|[2406.12726v1](http://arxiv.org/abs/2406.12726v1)|null|
 |**2024-06-18**|**Evolutionary Spiking Neural Networks: A Survey**|Shuaijie Shen et.al.|[2406.12552v1](http://arxiv.org/abs/2406.12552v1)|null|
 |**2024-06-18**|**SFedCA: Credit Assignment-Based Active Client Selection Strategy for Spiking Federated Learning**|Qiugang Zhan et.al.|[2406.12200v1](http://arxiv.org/abs/2406.12200v1)|null|
