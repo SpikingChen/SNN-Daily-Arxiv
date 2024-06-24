@@ -1,4 +1,4 @@
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Micro-power spoken keyword spotting on Xylo Audio 2**|Hannah Bos et.al.|[2406.15112v1](http://arxiv.org/abs/2406.15112v1)|null|
+|**2024-06-21**|**SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**|Liutao Yu et.al.|[2406.15034v1](http://arxiv.org/abs/2406.15034v1)|null|
+|**2024-06-21**|**Model Predictive Control of the Neural Manifold**|Christof Fehrman et.al.|[2406.14801v1](http://arxiv.org/abs/2406.14801v1)|null|
 |**2024-06-20**|**RTFormer: Re-parameter TSBN Spiking Transformer**|Hongzhi Wang et.al.|[2406.14180v1](http://arxiv.org/abs/2406.14180v1)|null|
 |**2024-06-20**|**EvSegSNN: Neuromorphic Semantic Segmentation for Event Data**|Dalia Hareb et.al.|[2406.14178v1](http://arxiv.org/abs/2406.14178v1)|null|
 |**2024-06-19**|**Q-SNNs: Quantized Spiking Neural Networks**|Wenjie Wei et.al.|[2406.13672v1](http://arxiv.org/abs/2406.13672v1)|null|
@@ -833,5 +836,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240623>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
 
