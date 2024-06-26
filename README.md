@@ -1,4 +1,4 @@
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617v1](http://arxiv.org/abs/2406.17617v1)|null|
+|**2024-06-25**|**EON-1: A Brain-Inspired Processor for Near-Sensor Extreme Edge Online Feature Extraction**|Alexandra Dobrita et.al.|[2406.17285v1](http://arxiv.org/abs/2406.17285v1)|null|
+|**2024-06-24**|**Fast Switching Serial and Parallel Paradigms of SNN Inference on Multi-core Heterogeneous Neuromorphic Platform SpiNNaker2**|Jiaxin Huang et.al.|[2406.17049v1](http://arxiv.org/abs/2406.17049v1)|null|
 |**2024-06-24**|**Emerging NeoHebbian Dynamics in Forward-Forward Learning: Implications for Neuromorphic Computing**|Erik B. Terres-Escudero et.al.|[2406.16479v1](http://arxiv.org/abs/2406.16479v1)|**[link](https://github.com/erikberter/hebbian_ffa)**|
 |**2024-06-21**|**Micro-power spoken keyword spotting on Xylo Audio 2**|Hannah Bos et.al.|[2406.15112v1](http://arxiv.org/abs/2406.15112v1)|null|
 |**2024-06-21**|**SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition**|Liutao Yu et.al.|[2406.15034v1](http://arxiv.org/abs/2406.15034v1)|null|
@@ -837,5 +840,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
 
