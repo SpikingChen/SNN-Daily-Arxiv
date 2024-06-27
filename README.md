@@ -1,4 +1,4 @@
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**On Reducing Activity with Distillation and Regularization for Energy Efficient Spiking Neural Networks**|Thomas Louis et.al.|[2406.18350v1](http://arxiv.org/abs/2406.18350v1)|null|
 |**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617v1](http://arxiv.org/abs/2406.17617v1)|null|
 |**2024-06-25**|**EON-1: A Brain-Inspired Processor for Near-Sensor Extreme Edge Online Feature Extraction**|Alexandra Dobrita et.al.|[2406.17285v1](http://arxiv.org/abs/2406.17285v1)|null|
 |**2024-06-24**|**Fast Switching Serial and Parallel Paradigms of SNN Inference on Multi-core Heterogeneous Neuromorphic Platform SpiNNaker2**|Jiaxin Huang et.al.|[2406.17049v1](http://arxiv.org/abs/2406.17049v1)|null|
@@ -191,7 +192,7 @@
 |**2024-02-08**|**Spiking Neural Network Enhanced Hand Gesture Recognition Using Low-Cost Single-photon Avalanche Diode Array**|Zhenya Zang et.al.|[2402.05441v1](http://arxiv.org/abs/2402.05441v1)|null|
 |**2024-03-04**|**MTSA-SNN: A Multi-modal Time Series Analysis Model Based on Spiking Neural Network**|Chengzhi Liu et.al.|[2402.05423v2](http://arxiv.org/abs/2402.05423v2)|**[link](https://github.com/chenngzz/mtsa-snn)**|
 |**2024-02-09**|**Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer**|Mingxuan Liu et.al.|[2402.04798v2](http://arxiv.org/abs/2402.04798v2)|null|
-|**2024-02-08**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663v2](http://arxiv.org/abs/2402.04663v2)|null|
+|**2024-06-26**|**CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks**|Yulong Huang et.al.|[2402.04663v3](http://arxiv.org/abs/2402.04663v3)|**[link](https://github.com/huuyulong/complementary-lif)**|
 |**2024-02-07**|**Towards Improved Imbalance Robustness in Continual Multi-Label Learning with Dual Output Spiking Architecture (DOSA)**|Sourav Mishra et.al.|[2402.04596v1](http://arxiv.org/abs/2402.04596v1)|null|
 |**2024-02-06**|**Magnetic Field Gated and Current Controlled Spintronic Mem-transistor Neuron -based Spiking Neural Networks**|Aijaz H. Lone et.al.|[2402.03767v1](http://arxiv.org/abs/2402.03767v1)|null|
 |**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886v1](http://arxiv.org/abs/2402.02886v1)|null|
@@ -840,5 +841,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240627>back to top</a>)</p>
 
