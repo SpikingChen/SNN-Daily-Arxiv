@@ -1,4 +1,4 @@
-## Updated on 2024.06.28
+## Updated on 2024.06.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -61,7 +61,7 @@
 |**2024-05-29**|**CHANI: Correlation-based Hawkes Aggregation of Neurons with bio-Inspiration**|Sophie Jaffard et.al.|[2405.18828v1](http://arxiv.org/abs/2405.18828v1)|**[link](https://github.com/SophieJaffard/CHANI)**|
 |**2024-05-28**|**Emergence and long-term maintenance of modularity in spiking neural networks with plasticity**|Raphäel Bergoin et.al.|[2405.18587v1](http://arxiv.org/abs/2405.18587v1)|null|
 |**2024-05-28**|**Mutual Information Analysis of Neuromorphic Coding for Distributed Wireless Spiking Neural Networks**|Pietro Savazzi et.al.|[2405.18019v1](http://arxiv.org/abs/2405.18019v1)|null|
-|**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903v1](http://arxiv.org/abs/2405.17903v1)|null|
+|**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903v1](http://arxiv.org/abs/2405.17903v1)|**[link](https://github.com/GuoLab-UESTC/MMHT)**|
 |**2024-05-27**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851v1](http://arxiv.org/abs/2405.16851v1)|**[link](https://github.com/pkuxmq/grsnn)**|
 |**2024-05-26**|**High-Performance Temporal Reversible Spiking Neural Networks with $O(L)$ Training Memory and $O(1)$ Inference Cost**|JiaKui Hu et.al.|[2405.16466v1](http://arxiv.org/abs/2405.16466v1)|null|
 |**2024-05-25**|**Spiking Neural Network Phase Encoding for Cognitive Computing**|Lei Zhang et.al.|[2405.16023v1](http://arxiv.org/abs/2405.16023v1)|null|
@@ -842,5 +842,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240629>back to top</a>)</p>
 
