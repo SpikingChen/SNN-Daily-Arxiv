@@ -1,4 +1,4 @@
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-01**|**Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network**|Hyunseok Oh et.al.|[2407.01645v1](http://arxiv.org/abs/2407.01645v1)|**[link](https://github.com/snuhcs/snn_signgd)**|
+|**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931v1](http://arxiv.org/abs/2407.00931v1)|null|
+|**2024-06-30**|**HASNAS: A Hardware-Aware Spiking Neural Architecture Search Framework for Neuromorphic Compute-in-Memory Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641v1](http://arxiv.org/abs/2407.00641v1)|null|
 |**2024-07-01**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708v2](http://arxiv.org/abs/2406.19708v2)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-28**|**Directly Training Temporal Spiking Neural Network with Sparse Surrogate Gradient**|Yang Li et.al.|[2406.19645v1](http://arxiv.org/abs/2406.19645v1)|null|
 |**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230v1](http://arxiv.org/abs/2406.19230v1)|**[link](https://github.com/Lvchangze/snn)**|
@@ -844,5 +847,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
 
