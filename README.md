@@ -1,4 +1,4 @@
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704v1](http://arxiv.org/abs/2407.08704v1)|null|
+|**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362v1](http://arxiv.org/abs/2407.08362v1)|null|
+|**2024-07-11**|**Event-based vision on FPGAs -- a survey**|Tomasz Kryjak et.al.|[2407.08356v1](http://arxiv.org/abs/2407.08356v1)|null|
+|**2024-07-11**|**Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2407.08130v1](http://arxiv.org/abs/2407.08130v1)|null|
 |**2024-07-09**|**Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**|Haicheng Liao et.al.|[2407.07020v1](http://arxiv.org/abs/2407.07020v1)|null|
-|**2024-07-09**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014v1](http://arxiv.org/abs/2407.07014v1)|null|
+|**2024-07-11**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014v2](http://arxiv.org/abs/2407.07014v2)|null|
 |**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452v1](http://arxiv.org/abs/2407.06452v1)|null|
 |**2024-07-08**|**Multi-Bit Mechanism: A Novel Information Transmission Paradigm for Spiking Neural Networks**|Yongjun Xiao et.al.|[2407.05739v1](http://arxiv.org/abs/2407.05739v1)|null|
 |**2024-07-07**|**Ternary Spike-based Neuromorphic Signal Processing System**|Shuai Wang et.al.|[2407.05310v1](http://arxiv.org/abs/2407.05310v1)|null|
@@ -97,7 +101,7 @@
 |**2024-05-10**|**Learning A Spiking Neural Network for Efficient Image Deraining**|Tianyu Song et.al.|[2405.06277v1](http://arxiv.org/abs/2405.06277v1)|**[link](https://github.com/mingtian99/esdnet)**|
 |**2024-04-22**|**Learning-to-learn enables rapid learning with phase-change memory-based in-memory computing**|Thomas Ortner et.al.|[2405.05141v1](http://arxiv.org/abs/2405.05141v1)|null|
 |**2024-05-04**|**Consciousness Driven Spike Timing Dependent Plasticity**|Sushant Yadav et.al.|[2405.04546v1](http://arxiv.org/abs/2405.04546v1)|null|
-|**2024-05-06**|**Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods**|Chenlin Zhou et.al.|[2405.04289v1](http://arxiv.org/abs/2405.04289v1)|**[link](https://github.com/zhouchenlin2096/awesome-spiking-neural-networks)**|
+|**2024-07-10**|**Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods**|Chenlin Zhou et.al.|[2405.04289v2](http://arxiv.org/abs/2405.04289v2)|**[link](https://github.com/zhouchenlin2096/awesome-spiking-neural-networks)**|
 |**2024-05-07**|**Watermarking Neuromorphic Brains: Intellectual Property Protection in Spiking Neural Networks**|Hamed Poursiami et.al.|[2405.04049v1](http://arxiv.org/abs/2405.04049v1)|null|
 |**2024-07-02**|**Scaling SNNs Trained Using Equilibrium Propagation to Convolutional Architectures**|Jiaqi Lin et.al.|[2405.02546v3](http://arxiv.org/abs/2405.02546v3)|null|
 |**2024-04-12**|**A Cloud-Edge Framework for Energy-Efficient Event-Driven Control: An Integration of Online Supervised Learning, Spiking Neural Networks and Local Plasticity Rules**|Reza Ahmadvand et.al.|[2405.02316v1](http://arxiv.org/abs/2405.02316v1)|null|
@@ -859,5 +863,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
 
