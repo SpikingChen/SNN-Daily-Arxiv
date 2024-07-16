@@ -1,4 +1,4 @@
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,12 +11,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-13**|**Time-Integrated Spike-Timing-Dependent-Plasticity**|William Gebhardt et.al.|[2407.10028v1](http://arxiv.org/abs/2407.10028v1)|null|
+|**2024-06-20**|**Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition**|Yang Wang et.al.|[2407.09521v1](http://arxiv.org/abs/2407.09521v1)|null|
+|**2024-05-17**|**Manifold Learning via Memory and Context**|Xin Li et.al.|[2407.09488v1](http://arxiv.org/abs/2407.09488v1)|null|
 |**2024-07-12**|**Evaluation of Encoding Schemes on Ubiquitous Sensor Signal for Spiking Neural Network**|Sizhen Bian et.al.|[2407.09260v1](http://arxiv.org/abs/2407.09260v1)|null|
-|**2024-07-12**|**BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation**|Zekai Xu et.al.|[2407.09083v1](http://arxiv.org/abs/2407.09083v1)|null|
+|**2024-07-15**|**BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation**|Zekai Xu et.al.|[2407.09083v2](http://arxiv.org/abs/2407.09083v2)|**[link](https://github.com/intelligent-computing-research-group/bkdsnn)**|
 |**2024-06-03**|**Iteration over event space in time-to-first-spike spiking neural networks for Twitter bot classification**|Mateusz Pabian et.al.|[2407.08746v1](http://arxiv.org/abs/2407.08746v1)|null|
 |**2024-06-03**|**Toward Efficient Deep Spiking Neuron Networks:A Survey On Compression**|Hui Xie et.al.|[2407.08744v1](http://arxiv.org/abs/2407.08744v1)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704v1](http://arxiv.org/abs/2407.08704v1)|null|
-|**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362v1](http://arxiv.org/abs/2407.08362v1)|null|
+|**2024-07-11**|**STAL: Spike Threshold Adaptive Learning Encoder for Classification of Pain-Related Biosignal Data**|Freek Hens et.al.|[2407.08362v1](http://arxiv.org/abs/2407.08362v1)|**[link](https://github.com/freek1/emopain-stl)**|
 |**2024-07-11**|**Event-based vision on FPGAs -- a survey**|Tomasz Kryjak et.al.|[2407.08356v1](http://arxiv.org/abs/2407.08356v1)|null|
 |**2024-07-11**|**Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2407.08130v1](http://arxiv.org/abs/2407.08130v1)|null|
 |**2024-07-09**|**Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**|Haicheng Liao et.al.|[2407.07020v1](http://arxiv.org/abs/2407.07020v1)|null|
@@ -84,7 +87,7 @@
 |**2024-05-31**|**Autonomous Driving with Spiking Neural Networks**|Rui-Jie Zhu et.al.|[2405.19687v2](http://arxiv.org/abs/2405.19687v2)|**[link](https://github.com/ridgerchu/sad)**|
 |**2024-05-22**|**Resonate-and-Fire Spiking Neurons for Target Detection and Hand Gesture Recognition: A Hybrid Approach**|Ahmed Shaaban et.al.|[2405.19351v1](http://arxiv.org/abs/2405.19351v1)|null|
 |**2024-05-29**|**CHANI: Correlation-based Hawkes Aggregation of Neurons with bio-Inspiration**|Sophie Jaffard et.al.|[2405.18828v1](http://arxiv.org/abs/2405.18828v1)|**[link](https://github.com/SophieJaffard/CHANI)**|
-|**2024-05-28**|**Emergence and long-term maintenance of modularity in spiking neural networks with plasticity**|Raphäel Bergoin et.al.|[2405.18587v1](http://arxiv.org/abs/2405.18587v1)|null|
+|**2024-07-13**|**Emergence and long-term maintenance of modularity in plastic networks of spiking neurons**|Raphaël Bergoin et.al.|[2405.18587v2](http://arxiv.org/abs/2405.18587v2)|null|
 |**2024-05-28**|**Mutual Information Analysis of Neuromorphic Coding for Distributed Wireless Spiking Neural Networks**|Pietro Savazzi et.al.|[2405.18019v1](http://arxiv.org/abs/2405.18019v1)|null|
 |**2024-05-28**|**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**|Hongze Sun et.al.|[2405.17903v1](http://arxiv.org/abs/2405.17903v1)|**[link](https://github.com/GuoLab-UESTC/MMHT)**|
 |**2024-05-27**|**Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning**|Mingqing Xiao et.al.|[2405.16851v1](http://arxiv.org/abs/2405.16851v1)|**[link](https://github.com/pkuxmq/grsnn)**|
@@ -867,5 +870,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240716>back to top</a>)</p>
 
