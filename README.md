@@ -1,4 +1,4 @@
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks**|Mingqing Xiao et.al.|[2407.12516v1](http://arxiv.org/abs/2407.12516v1)|null|
+|**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v1](http://arxiv.org/abs/2407.12261v1)|null|
 |**2024-07-13**|**Time-Integrated Spike-Timing-Dependent-Plasticity**|William Gebhardt et.al.|[2407.10028v1](http://arxiv.org/abs/2407.10028v1)|null|
 |**2024-06-20**|**Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition**|Yang Wang et.al.|[2407.09521v1](http://arxiv.org/abs/2407.09521v1)|null|
 |**2024-05-17**|**Manifold Learning via Memory and Context**|Xin Li et.al.|[2407.09488v1](http://arxiv.org/abs/2407.09488v1)|null|
@@ -870,5 +872,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
 
