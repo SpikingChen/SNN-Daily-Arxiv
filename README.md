@@ -1,4 +1,4 @@
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097v1](http://arxiv.org/abs/2407.14097v1)|null|
+|**2024-07-19**|**LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073v1](http://arxiv.org/abs/2407.14073v1)|null|
 |**2024-07-18**|**Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons**|Gauthier Boeshertz et.al.|[2407.13534v1](http://arxiv.org/abs/2407.13534v1)|null|
 |**2024-07-17**|**Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks**|Mingqing Xiao et.al.|[2407.12516v1](http://arxiv.org/abs/2407.12516v1)|null|
 |**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v1](http://arxiv.org/abs/2407.12261v1)|null|
@@ -873,5 +875,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240722>back to top</a>)</p>
 
