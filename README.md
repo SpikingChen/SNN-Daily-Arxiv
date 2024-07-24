@@ -1,4 +1,4 @@
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398v1](http://arxiv.org/abs/2407.16398v1)|null|
 |**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152v1](http://arxiv.org/abs/2407.15152v1)|null|
 |**2024-07-20**|**Inferring Ingrained Remote Information in AC Power Flows Using Neuromorphic Modality Regime**|Xiaoguang Diao et.al.|[2407.14883v1](http://arxiv.org/abs/2407.14883v1)|null|
 |**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097v1](http://arxiv.org/abs/2407.14097v1)|null|
@@ -36,7 +37,7 @@
 |**2024-07-07**|**Ternary Spike-based Neuromorphic Signal Processing System**|Shuai Wang et.al.|[2407.05310v1](http://arxiv.org/abs/2407.05310v1)|null|
 |**2024-07-07**|**FastSpiker: Enabling Fast Training for Spiking Neural Networks on Event-based Data through Learning Rate Enhancements for Autonomous Embedded Systems**|Iqra Bano et.al.|[2407.05262v1](http://arxiv.org/abs/2407.05262v1)|null|
 |**2024-07-05**|**SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking**|Xingrun Xing et.al.|[2407.04752v1](http://arxiv.org/abs/2407.04752v1)|null|
-|**2024-06-14**|**Event-Based Simulation of Stochastic Memristive Devices for Neuromorphic Computing**|Waleed El-Geresy et.al.|[2407.04718v1](http://arxiv.org/abs/2407.04718v1)|null|
+|**2024-07-23**|**Event-Based Simulation of Stochastic Memristive Devices for Neuromorphic Computing**|Waleed El-Geresy et.al.|[2407.04718v2](http://arxiv.org/abs/2407.04718v2)|null|
 |**2024-06-05**|**Efficient Hybrid Neuromorphic-Bayesian Model for Olfaction Sensing: Detection and Classification**|Rizwana Kausar et.al.|[2407.04714v1](http://arxiv.org/abs/2407.04714v1)|null|
 |**2024-07-05**|**Enhancing learning in artificial neural networks through cellular heterogeneity and neuromodulatory signaling**|Alejandro Rodriguez-Garcia et.al.|[2407.04525v1](http://arxiv.org/abs/2407.04525v1)|null|
 |**2024-07-04**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076v1](http://arxiv.org/abs/2407.04076v1)|null|
@@ -877,5 +878,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
 
