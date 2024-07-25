@@ -1,4 +1,4 @@
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,10 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398v1](http://arxiv.org/abs/2407.16398v1)|null|
+|**2024-07-24**|**Continual Learning in Bio-plausible Spiking Neural Networks with Hebbian and Spike Timing Dependent Plasticity: A Survey and Perspective**|Ali Safa et.al.|[2407.17305v1](http://arxiv.org/abs/2407.17305v1)|null|
+|**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398v1](http://arxiv.org/abs/2407.16398v1)|**[link](https://github.com/deanbrand/QSNN)**|
 |**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152v1](http://arxiv.org/abs/2407.15152v1)|null|
 |**2024-07-20**|**Inferring Ingrained Remote Information in AC Power Flows Using Neuromorphic Modality Regime**|Xiaoguang Diao et.al.|[2407.14883v1](http://arxiv.org/abs/2407.14883v1)|null|
-|**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097v1](http://arxiv.org/abs/2407.14097v1)|null|
+|**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097v1](http://arxiv.org/abs/2407.14097v1)|**[link](https://github.com/AnonymousSquirrel316/FFA_OOD)**|
 |**2024-07-19**|**LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073v1](http://arxiv.org/abs/2407.14073v1)|null|
 |**2024-07-18**|**Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons**|Gauthier Boeshertz et.al.|[2407.13534v1](http://arxiv.org/abs/2407.13534v1)|null|
 |**2024-07-17**|**Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks**|Mingqing Xiao et.al.|[2407.12516v1](http://arxiv.org/abs/2407.12516v1)|null|
@@ -40,7 +41,7 @@
 |**2024-07-23**|**Event-Based Simulation of Stochastic Memristive Devices for Neuromorphic Computing**|Waleed El-Geresy et.al.|[2407.04718v2](http://arxiv.org/abs/2407.04718v2)|null|
 |**2024-06-05**|**Efficient Hybrid Neuromorphic-Bayesian Model for Olfaction Sensing: Detection and Classification**|Rizwana Kausar et.al.|[2407.04714v1](http://arxiv.org/abs/2407.04714v1)|null|
 |**2024-07-05**|**Enhancing learning in artificial neural networks through cellular heterogeneity and neuromodulatory signaling**|Alejandro Rodriguez-Garcia et.al.|[2407.04525v1](http://arxiv.org/abs/2407.04525v1)|null|
-|**2024-07-04**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076v1](http://arxiv.org/abs/2407.04076v1)|null|
+|**2024-07-24**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076v2](http://arxiv.org/abs/2407.04076v2)|null|
 |**2024-07-04**|**Compressed Latent Replays for Lightweight Continual Learning on Spiking Neural Networks**|Alberto Dequino et.al.|[2407.03111v2](http://arxiv.org/abs/2407.03111v2)|**[link](https://github.com/dequino/spiking-compressed-continual-learning)**|
 |**2024-07-01**|**Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network**|Hyunseok Oh et.al.|[2407.01645v1](http://arxiv.org/abs/2407.01645v1)|**[link](https://github.com/snuhcs/snn_signgd)**|
 |**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931v1](http://arxiv.org/abs/2407.00931v1)|**[link](https://github.com/amoghj98/neuronav)**|
@@ -878,5 +879,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240725>back to top</a>)</p>
 
