@@ -1,4 +1,4 @@
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099v1](http://arxiv.org/abs/2407.20099v1)|**[link](https://github.com/KemingWu/RSC-SNN)**|
+|**2024-07-28**|**Rouser: Robust SNN training using adaptive threshold learning**|Sanaz Mahmoodi Takaghaj et.al.|[2407.19566v1](http://arxiv.org/abs/2407.19566v1)|null|
+|**2024-07-07**|**Spatio-temporal Structure of Excitation and Inhibition Emerges in Spiking Neural Networks with and without Biologically Plausible Constraints**|Balázs Mészáros et.al.|[2407.18917v1](http://arxiv.org/abs/2407.18917v1)|null|
 |**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838v1](http://arxiv.org/abs/2407.18838v1)|null|
 |**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625v1](http://arxiv.org/abs/2407.18625v1)|null|
 |**2024-07-24**|**Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs**|Maryam Abbasihafshejani et.al.|[2407.17672v1](http://arxiv.org/abs/2407.17672v1)|null|
@@ -882,5 +885,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
