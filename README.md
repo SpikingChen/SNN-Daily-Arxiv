@@ -1,4 +1,4 @@
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**An Asynchronous Multi-core Accelerator for SNN inference**|Zhuo Chen et.al.|[2407.20947v1](http://arxiv.org/abs/2407.20947v1)|null|
+|**2024-07-30**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708v1](http://arxiv.org/abs/2407.20708v1)|**[link](https://github.com/biclab/spikeyolo)**|
+|**2024-07-30**|**Spiking-DD: Neuromorphic Event Camera based Driver Distraction Detection with Spiking Neural Network**|Waseem Shariff et.al.|[2407.20633v1](http://arxiv.org/abs/2407.20633v1)|null|
+|**2024-07-30**|**Neuromorphic on-chip reservoir computing with spiking neural network architectures**|Samip Karki et.al.|[2407.20547v1](http://arxiv.org/abs/2407.20547v1)|null|
+|**2024-07-30**|**Unveiling the Potential of Spiking Dynamics in Graph Representation Learning through Spatial-Temporal Normalization and Coding Strategies**|Mingkun Xu et.al.|[2407.20508v1](http://arxiv.org/abs/2407.20508v1)|null|
+|**2024-07-29**|**Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification**|Yingfu Xu et.al.|[2407.20421v1](http://arxiv.org/abs/2407.20421v1)|null|
 |**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099v1](http://arxiv.org/abs/2407.20099v1)|**[link](https://github.com/KemingWu/RSC-SNN)**|
 |**2024-07-28**|**Rouser: Robust SNN training using adaptive threshold learning**|Sanaz Mahmoodi Takaghaj et.al.|[2407.19566v1](http://arxiv.org/abs/2407.19566v1)|null|
 |**2024-07-07**|**Spatio-temporal Structure of Excitation and Inhibition Emerges in Spiking Neural Networks with and without Biologically Plausible Constraints**|Balázs Mészáros et.al.|[2407.18917v1](http://arxiv.org/abs/2407.18917v1)|null|
@@ -885,5 +891,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240731>back to top</a>)</p>
 
