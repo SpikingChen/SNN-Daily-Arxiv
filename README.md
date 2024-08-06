@@ -1,4 +1,4 @@
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,13 +11,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-04**|**Abstraction in Neural Networks**|Nancy Lynch et.al.|[2408.02125v1](http://arxiv.org/abs/2408.02125v1)|null|
+|**2024-08-04**|**Configuring Safe Spiking Neural Controllers for Cyber-Physical Systems through Formal Verification**|Arkaprava Gupta et.al.|[2408.01996v1](http://arxiv.org/abs/2408.01996v1)|null|
+|**2024-08-03**|**Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics**|Naichuan Zheng et.al.|[2408.01701v1](http://arxiv.org/abs/2408.01701v1)|null|
 |**2024-07-18**|**CCSRP: Robust Pruning of Spiking Neural Networks through Cooperative Coevolution**|Zichen Song et.al.|[2408.00794v1](http://arxiv.org/abs/2408.00794v1)|null|
 |**2024-07-17**|**SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network**|Kexin Wang et.al.|[2408.00788v1](http://arxiv.org/abs/2408.00788v1)|null|
 |**2024-08-01**|**Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS**|Ria Patel et.al.|[2408.00611v1](http://arxiv.org/abs/2408.00611v1)|null|
 |**2024-08-01**|**Low-Power Vibration-Based Predictive Maintenance for Industry 4.0 using Neural Networks: A Survey**|Alexandru Vasilache et.al.|[2408.00516v1](http://arxiv.org/abs/2408.00516v1)|null|
 |**2024-08-01**|**Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion**|Yanchen Li et.al.|[2408.00280v1](http://arxiv.org/abs/2408.00280v1)|null|
 |**2024-07-30**|**An Asynchronous Multi-core Accelerator for SNN inference**|Zhuo Chen et.al.|[2407.20947v1](http://arxiv.org/abs/2407.20947v1)|null|
-|**2024-07-31**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708v2](http://arxiv.org/abs/2407.20708v2)|**[link](https://github.com/biclab/spikeyolo)**|
+|**2024-08-05**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708v3](http://arxiv.org/abs/2407.20708v3)|**[link](https://github.com/biclab/spikeyolo)**|
 |**2024-07-30**|**Spiking-DD: Neuromorphic Event Camera based Driver Distraction Detection with Spiking Neural Network**|Waseem Shariff et.al.|[2407.20633v1](http://arxiv.org/abs/2407.20633v1)|null|
 |**2024-07-30**|**Neuromorphic on-chip reservoir computing with spiking neural network architectures**|Samip Karki et.al.|[2407.20547v1](http://arxiv.org/abs/2407.20547v1)|null|
 |**2024-07-30**|**Unveiling the Potential of Spiking Dynamics in Graph Representation Learning through Spatial-Temporal Normalization and Coding Strategies**|Mingkun Xu et.al.|[2407.20508v1](http://arxiv.org/abs/2407.20508v1)|null|
@@ -169,7 +172,7 @@
 |**2024-04-19**|**Phase-space analysis of a two-section InP laser as an all-optical spiking neuron: dependency on control and design parameters**|Lukas Puts et.al.|[2404.12771v1](http://arxiv.org/abs/2404.12771v1)|null|
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599v1](http://arxiv.org/abs/2404.10599v1)|null|
 |**2024-04-16**|**Hardware-aware training of models with synaptic delays for digital event-driven neuromorphic processors**|Alberto Patino-Saucedo et.al.|[2404.10597v1](http://arxiv.org/abs/2404.10597v1)|null|
-|**2024-04-16**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210v1](http://arxiv.org/abs/2404.10210v1)|null|
+|**2024-08-03**|**MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition**|Naichuan Zheng et.al.|[2404.10210v2](http://arxiv.org/abs/2404.10210v2)|null|
 |**2024-06-18**|**SNN4Agents: A Framework for Developing Energy-Efficient Embodied Spiking Neural Networks for Autonomous Agents**|Rachmad Vidya Wicaksana Putra et.al.|[2404.09331v2](http://arxiv.org/abs/2404.09331v2)|**[link](https://github.com/rachmadvwp/snn4agents)**|
 |**2024-04-13**|**Phase-Amplitude Description of Stochastic Oscillators: A Parameterization Method Approach**|Alberto Pérez-Cervera et.al.|[2404.09046v1](http://arxiv.org/abs/2404.09046v1)|null|
 |**2024-04-12**|**An Integrated Toolbox for Creating Neuromorphic Edge Applications**|Lars Niedermeier et.al.|[2404.08726v1](http://arxiv.org/abs/2404.08726v1)|null|
@@ -896,5 +899,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240806>back to top</a>)</p>
 
