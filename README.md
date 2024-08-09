@@ -1,4 +1,4 @@
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Harmonic fractal transformation, 4R-regeneration and noise shaping for ultra wide-band reception in FitzHugh-Nagumo neuronal model**|Mariia Sorokina et.al.|[2408.03951v1](http://arxiv.org/abs/2408.03951v1)|null|
 |**2024-07-21**|**Few-Shot Transfer Learning for Individualized Braking Intent Detection on Neuromorphic Hardware**|Nathan Lutes et.al.|[2408.03336v1](http://arxiv.org/abs/2408.03336v1)|null|
 |**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961v1](http://arxiv.org/abs/2408.02961v1)|null|
 |**2024-08-04**|**Abstraction in Neural Networks**|Nancy Lynch et.al.|[2408.02125v1](http://arxiv.org/abs/2408.02125v1)|null|
@@ -901,5 +902,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240809>back to top</a>)</p>
 
