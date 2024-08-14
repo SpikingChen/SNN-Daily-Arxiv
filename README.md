@@ -1,4 +1,4 @@
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968v1](http://arxiv.org/abs/2408.06968v1)|null|
+|**2024-08-10**|**Dilated Convolution with Learnable Spacings**|Ismail Khalfaoui-Hassani et.al.|[2408.06383v1](http://arxiv.org/abs/2408.06383v1)|null|
 |**2024-08-11**|**On the Solvability of the {XOR} Problem by Spiking Neural Networks**|Bernhard A. Moser et.al.|[2408.05845v1](http://arxiv.org/abs/2408.05845v1)|null|
 |**2024-07-25**|**On Noise Resiliency of Neuromorphic Inferential Communication in Microgrids**|Yubo Song et.al.|[2408.05360v1](http://arxiv.org/abs/2408.05360v1)|null|
 |**2024-08-09**|**Neuromorphic Keyword Spotting with Pulse Density Modulation MEMS Microphones**|Sidi Yaya Arnaud Yarga et.al.|[2408.05156v1](http://arxiv.org/abs/2408.05156v1)|**[link](https://github.com/NECOTIS/Keyword-Spotting-with-PDM)**|
@@ -906,5 +908,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240814>back to top</a>)</p>
 
