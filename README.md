@@ -1,4 +1,4 @@
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517v1](http://arxiv.org/abs/2408.07517v1)|null|
+|**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388v1](http://arxiv.org/abs/2408.07388v1)|null|
+|**2024-08-13**|**The Potential of Combined Learning Strategies to Enhance Energy Efficiency of Spiking Neuromorphic Systems**|Ali Shiri Sichani et.al.|[2408.07150v1](http://arxiv.org/abs/2408.07150v1)|null|
 |**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968v1](http://arxiv.org/abs/2408.06968v1)|null|
 |**2024-08-10**|**Dilated Convolution with Learnable Spacings**|Ismail Khalfaoui-Hassani et.al.|[2408.06383v1](http://arxiv.org/abs/2408.06383v1)|null|
 |**2024-08-11**|**On the Solvability of the {XOR} Problem by Spiking Neural Networks**|Bernhard A. Moser et.al.|[2408.05845v1](http://arxiv.org/abs/2408.05845v1)|null|
@@ -39,7 +42,7 @@
 |**2024-07-07**|**Spatio-temporal Structure of Excitation and Inhibition Emerges in Spiking Neural Networks with and without Biologically Plausible Constraints**|Balázs Mészáros et.al.|[2407.18917v1](http://arxiv.org/abs/2407.18917v1)|null|
 |**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838v1](http://arxiv.org/abs/2407.18838v1)|null|
 |**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625v1](http://arxiv.org/abs/2407.18625v1)|null|
-|**2024-07-24**|**Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs**|Maryam Abbasihafshejani et.al.|[2407.17672v1](http://arxiv.org/abs/2407.17672v1)|null|
+|**2024-08-13**|**Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs**|Maryam Abbasihafshejani et.al.|[2407.17672v2](http://arxiv.org/abs/2407.17672v2)|null|
 |**2024-07-24**|**Continual Learning in Bio-plausible Spiking Neural Networks with Hebbian and Spike Timing Dependent Plasticity: A Survey and Perspective**|Ali Safa et.al.|[2407.17305v1](http://arxiv.org/abs/2407.17305v1)|null|
 |**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398v1](http://arxiv.org/abs/2407.16398v1)|**[link](https://github.com/deanbrand/QSNN)**|
 |**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152v1](http://arxiv.org/abs/2407.15152v1)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
@@ -152,7 +155,7 @@
 |**2024-04-12**|**A Cloud-Edge Framework for Energy-Efficient Event-Driven Control: An Integration of Online Supervised Learning, Spiking Neural Networks and Local Plasticity Rules**|Reza Ahmadvand et.al.|[2405.02316v1](http://arxiv.org/abs/2405.02316v1)|null|
 |**2024-05-03**|**A Spiking Neural Network Decoder for Implantable Brain Machine Interfaces and its Sparsity-aware Deployment on RISC-V Microcontrollers**|Jiawei Liao et.al.|[2405.02146v1](http://arxiv.org/abs/2405.02146v1)|null|
 |**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019v1](http://arxiv.org/abs/2405.02019v1)|null|
-|**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419v1](http://arxiv.org/abs/2405.01419v1)|null|
+|**2024-08-14**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419v2](http://arxiv.org/abs/2405.01419v2)|null|
 |**2024-07-16**|**Distributed Representations Enable Robust Multi-Timescale Symbolic Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305v2](http://arxiv.org/abs/2405.01305v2)|null|
 |**2024-04-16**|**Oxygen vacancies modulated VO2 for neurons and Spiking Neural Network construction**|Liang Li et.al.|[2405.00700v1](http://arxiv.org/abs/2405.00700v1)|null|
 |**2024-04-15**|**Direct Training Needs Regularisation: Anytime Optimal Inference Spiking Neural Network**|Dengyu Wu et.al.|[2405.00699v1](http://arxiv.org/abs/2405.00699v1)|**[link](https://github.com/dengyu-wu/aoi-snn-regularisation)**|
@@ -908,5 +911,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240815>back to top</a>)</p>
 
