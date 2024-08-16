@@ -1,4 +1,4 @@
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517v1](http://arxiv.org/abs/2408.07517v1)|null|
+|**2024-08-14**|**Analog Spiking Neuron in CMOS 28 nm Towards Large-Scale Neuromorphic Processors**|Marwan Besrour et.al.|[2408.07734v1](http://arxiv.org/abs/2408.07734v1)|null|
+|**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517v1](http://arxiv.org/abs/2408.07517v1)|**[link](https://github.com/IGITUGraz/SE-adlif)**|
 |**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388v1](http://arxiv.org/abs/2408.07388v1)|null|
 |**2024-08-13**|**The Potential of Combined Learning Strategies to Enhance Energy Efficiency of Spiking Neuromorphic Systems**|Ali Shiri Sichani et.al.|[2408.07150v1](http://arxiv.org/abs/2408.07150v1)|null|
 |**2024-08-13**|**Event-Stream Super Resolution using Sigma-Delta Neural Network**|Waseem Shariff et.al.|[2408.06968v1](http://arxiv.org/abs/2408.06968v1)|null|
@@ -48,7 +49,7 @@
 |**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152v1](http://arxiv.org/abs/2407.15152v1)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
 |**2024-08-09**|**Inferring Ingrained Remote Information in AC Power Flows Using Neuromorphic Modality Regime**|Xiaoguang Diao et.al.|[2407.14883v2](http://arxiv.org/abs/2407.14883v2)|null|
 |**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097v1](http://arxiv.org/abs/2407.14097v1)|**[link](https://github.com/AnonymousSquirrel316/FFA_OOD)**|
-|**2024-07-19**|**LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073v1](http://arxiv.org/abs/2407.14073v1)|null|
+|**2024-08-14**|**LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073v2](http://arxiv.org/abs/2407.14073v2)|**[link](https://github.com/ruokaiyin/loas)**|
 |**2024-07-18**|**Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons**|Gauthier Boeshertz et.al.|[2407.13534v1](http://arxiv.org/abs/2407.13534v1)|null|
 |**2024-07-17**|**Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks**|Mingqing Xiao et.al.|[2407.12516v1](http://arxiv.org/abs/2407.12516v1)|null|
 |**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v1](http://arxiv.org/abs/2407.12261v1)|null|
@@ -911,5 +912,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
 
