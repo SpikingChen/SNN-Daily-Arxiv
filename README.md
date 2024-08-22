@@ -1,4 +1,4 @@
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-17**|**Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks**|Yongqi Ding et.al.|[2408.11067v1](http://arxiv.org/abs/2408.11067v1)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900v1](http://arxiv.org/abs/2408.10900v1)|null|
 |**2024-08-18**|**Obtaining Optimal Spiking Neural Network in Sequence Learning via CRNN-SNN Conversion**|Jiahao Su et.al.|[2408.09403v1](http://arxiv.org/abs/2408.09403v1)|null|
 |**2024-08-17**|**Temporal Reversed Training for Spiking Neural Networks with Generalized Spatio-Temporal Representation**|Lin Zuo et.al.|[2408.09108v1](http://arxiv.org/abs/2408.09108v1)|null|
@@ -916,5 +917,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
 
