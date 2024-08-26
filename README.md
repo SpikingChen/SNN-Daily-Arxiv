@@ -1,4 +1,4 @@
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Robust Iterative Value Conversion: Deep Reinforcement Learning for Neurochip-driven Edge Robots**|Yuki Kadokawa et.al.|[2408.13018v1](http://arxiv.org/abs/2408.13018v1)|null|
+|**2024-08-22**|**When In-memory Computing Meets Spiking Neural Networks -- A Perspective on Device-Circuit-System-and-Algorithm Co-design**|Abhishek Moitra et.al.|[2408.12767v1](http://arxiv.org/abs/2408.12767v1)|null|
+|**2024-08-08**|**A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data**|Sai Deepesh Pokala et.al.|[2408.12608v1](http://arxiv.org/abs/2408.12608v1)|null|
 |**2024-08-22**|**Adaptive Spiking Neural Networks with Hybrid Coding**|Huaxu He et.al.|[2408.12407v1](http://arxiv.org/abs/2408.12407v1)|**[link](https://github.com/hhx0320/asnn)**|
 |**2024-08-22**|**AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network**|Donghwa Kang et.al.|[2408.12293v1](http://arxiv.org/abs/2408.12293v1)|null|
 |**2024-08-04**|**Mamba-Spike: Enhancing the Mamba Architecture with a Spiking Front-End for Efficient Temporal Data Processing**|Jiahao Qin et.al.|[2408.11823v1](http://arxiv.org/abs/2408.11823v1)|**[link](https://github.com/ecnu-cross-innovation-lab/mamba-spike)**|
@@ -920,5 +923,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
 
