@@ -1,4 +1,4 @@
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview**|Ilkin Aliyev et.al.|[2408.14437v1](http://arxiv.org/abs/2408.14437v1)|null|
+|**2024-08-26**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996v1](http://arxiv.org/abs/2408.13996v1)|null|
+|**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[2408.13379v1](http://arxiv.org/abs/2408.13379v1)|null|
 |**2024-08-23**|**Robust Iterative Value Conversion: Deep Reinforcement Learning for Neurochip-driven Edge Robots**|Yuki Kadokawa et.al.|[2408.13018v1](http://arxiv.org/abs/2408.13018v1)|null|
 |**2024-08-22**|**When In-memory Computing Meets Spiking Neural Networks -- A Perspective on Device-Circuit-System-and-Algorithm Co-design**|Abhishek Moitra et.al.|[2408.12767v1](http://arxiv.org/abs/2408.12767v1)|null|
 |**2024-08-08**|**A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data**|Sai Deepesh Pokala et.al.|[2408.12608v1](http://arxiv.org/abs/2408.12608v1)|null|
@@ -19,7 +22,7 @@
 |**2024-08-04**|**Mamba-Spike: Enhancing the Mamba Architecture with a Spiking Front-End for Efficient Temporal Data Processing**|Jiahao Qin et.al.|[2408.11823v1](http://arxiv.org/abs/2408.11823v1)|**[link](https://github.com/ecnu-cross-innovation-lab/mamba-spike)**|
 |**2024-08-17**|**Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks**|Yongqi Ding et.al.|[2408.11067v1](http://arxiv.org/abs/2408.11067v1)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900v1](http://arxiv.org/abs/2408.10900v1)|null|
-|**2024-08-18**|**Obtaining Optimal Spiking Neural Network in Sequence Learning via CRNN-SNN Conversion**|Jiahao Su et.al.|[2408.09403v1](http://arxiv.org/abs/2408.09403v1)|null|
+|**2024-08-26**|**Obtaining Optimal Spiking Neural Network in Sequence Learning via CRNN-SNN Conversion**|Jiahao Su et.al.|[2408.09403v2](http://arxiv.org/abs/2408.09403v2)|null|
 |**2024-08-17**|**Temporal Reversed Training for Spiking Neural Networks with Generalized Spatio-Temporal Representation**|Lin Zuo et.al.|[2408.09108v1](http://arxiv.org/abs/2408.09108v1)|null|
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794v1](http://arxiv.org/abs/2408.08794v1)|null|
 |**2024-08-14**|**Analog Spiking Neuron in CMOS 28 nm Towards Large-Scale Neuromorphic Processors**|Marwan Besrour et.al.|[2408.07734v1](http://arxiv.org/abs/2408.07734v1)|null|
@@ -57,7 +60,7 @@
 |**2024-08-13**|**Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs**|Maryam Abbasihafshejani et.al.|[2407.17672v2](http://arxiv.org/abs/2407.17672v2)|null|
 |**2024-07-24**|**Continual Learning in Bio-plausible Spiking Neural Networks with Hebbian and Spike Timing Dependent Plasticity: A Survey and Perspective**|Ali Safa et.al.|[2407.17305v1](http://arxiv.org/abs/2407.17305v1)|null|
 |**2024-07-23**|**A Quantum Leaky Integrate-and-Fire Spiking Neuron and Network**|Dean Brand et.al.|[2407.16398v1](http://arxiv.org/abs/2407.16398v1)|**[link](https://github.com/deanbrand/QSNN)**|
-|**2024-07-21**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152v1](http://arxiv.org/abs/2407.15152v1)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
+|**2024-08-26**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152v2](http://arxiv.org/abs/2407.15152v2)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
 |**2024-08-09**|**Inferring Ingrained Remote Information in AC Power Flows Using Neuromorphic Modality Regime**|Xiaoguang Diao et.al.|[2407.14883v2](http://arxiv.org/abs/2407.14883v2)|null|
 |**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097v1](http://arxiv.org/abs/2407.14097v1)|**[link](https://github.com/AnonymousSquirrel316/FFA_OOD)**|
 |**2024-08-14**|**LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073v2](http://arxiv.org/abs/2407.14073v2)|**[link](https://github.com/ruokaiyin/loas)**|
@@ -923,5 +926,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240827>back to top</a>)</p>
 
