@@ -1,4 +1,4 @@
-## Updated on 2024.09.03
+## Updated on 2024.09.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -72,7 +72,7 @@
 |**2024-08-26**|**SNNGX: Securing Spiking Neural Networks with Genetic XOR Encryption on RRAM-based Neuromorphic Accelerator**|Kwunhang Wong et.al.|[2407.15152v2](http://arxiv.org/abs/2407.15152v2)|**[link](https://github.com/u3556440/SNNGX_qSNN_encryption)**|
 |**2024-08-09**|**Inferring Ingrained Remote Information in AC Power Flows Using Neuromorphic Modality Regime**|Xiaoguang Diao et.al.|[2407.14883v2](http://arxiv.org/abs/2407.14883v2)|null|
 |**2024-07-19**|**On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms**|Erik B. Terres-Escudero et.al.|[2407.14097v1](http://arxiv.org/abs/2407.14097v1)|**[link](https://github.com/AnonymousSquirrel316/FFA_OOD)**|
-|**2024-08-14**|**LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073v2](http://arxiv.org/abs/2407.14073v2)|**[link](https://github.com/ruokaiyin/loas)**|
+|**2024-09-01**|**LoAS: Fully Temporal-Parallel Dataflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073v3](http://arxiv.org/abs/2407.14073v3)|**[link](https://github.com/ruokaiyin/loas)**|
 |**2024-07-18**|**Accurate Mapping of RNNs on Neuromorphic Hardware with Adaptive Spiking Neurons**|Gauthier Boeshertz et.al.|[2407.13534v1](http://arxiv.org/abs/2407.13534v1)|null|
 |**2024-07-17**|**Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks**|Mingqing Xiao et.al.|[2407.12516v1](http://arxiv.org/abs/2407.12516v1)|null|
 |**2024-07-17**|**Voltage-Controlled Magnetoelectric Devices for Neuromorphic Diffusion Process**|Yang Cheng et.al.|[2407.12261v1](http://arxiv.org/abs/2407.12261v1)|null|
@@ -203,7 +203,7 @@
 |**2024-04-23**|**A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots**|Harrison Espino et.al.|[2404.15524v1](http://arxiv.org/abs/2404.15524v1)|null|
 |**2024-06-06**|**Elucidating the theoretical underpinnings of surrogate gradient learning in spiking neural networks**|Julia Gygax et.al.|[2404.14964v2](http://arxiv.org/abs/2404.14964v2)|**[link](https://github.com/fmi-basel/surrogate-gradient-theory)**|
 |**2024-05-21**|**Adapting to time: why nature evolved a diverse set of neurons**|Karim G. Habashy et.al.|[2404.14325v2](http://arxiv.org/abs/2404.14325v2)|null|
-|**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024v1](http://arxiv.org/abs/2404.14024v1)|null|
+|**2024-09-02**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024v2](http://arxiv.org/abs/2404.14024v2)|null|
 |**2024-07-03**|**Functions of Direct and Indirect Pathways for Action Selection Are Quantitatively Analyzed in A Spiking Neural Network of The Basal Ganglia**|Sang-Yoon Kim et.al.|[2404.13888v2](http://arxiv.org/abs/2404.13888v2)|null|
 |**2024-04-19**|**Phase-space analysis of a two-section InP laser as an all-optical spiking neuron: dependency on control and design parameters**|Lukas Puts et.al.|[2404.12771v1](http://arxiv.org/abs/2404.12771v1)|null|
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599v1](http://arxiv.org/abs/2404.10599v1)|null|
@@ -935,5 +935,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
 
