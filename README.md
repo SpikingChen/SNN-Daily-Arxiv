@@ -1,4 +1,4 @@
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428v1](http://arxiv.org/abs/2409.04428v1)|null|
+|**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082v1](http://arxiv.org/abs/2409.04082v1)|**[link](https://github.com/yitian97/SDformerFlow)**|
 |**2024-09-05**|**Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines**|Jindong Li et.al.|[2409.03508v1](http://arxiv.org/abs/2409.03508v1)|null|
 |**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368v1](http://arxiv.org/abs/2409.03368v1)|null|
 |**2024-09-04**|**SNNAX -- Spiking Neural Networks in JAX**|Jamie Lohoff et.al.|[2409.02842v1](http://arxiv.org/abs/2409.02842v1)|null|
@@ -948,5 +950,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240909>back to top</a>)</p>
 
