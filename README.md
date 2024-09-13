@@ -1,4 +1,4 @@
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example**|Mikhail Kiselev et.al.|[2409.07833v1](http://arxiv.org/abs/2409.07833v1)|null|
+|**2024-09-12**|**Training Spiking Neural Networks via Augmented Direct Feedback Alignment**|Yongbo Zhang et.al.|[2409.07776v1](http://arxiv.org/abs/2409.07776v1)|null|
 |**2024-09-09**|**Optical Spiking Neurons Enable High-Speed and Energy-Efficient Optical Neural Networks**|Bo Xu et.al.|[2409.05726v1](http://arxiv.org/abs/2409.05726v1)|null|
 |**2024-09-09**|**SpikingRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2409.05610v1](http://arxiv.org/abs/2409.05610v1)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386v1](http://arxiv.org/abs/2409.05386v1)|null|
@@ -26,7 +28,7 @@
 |**2024-08-19**|**Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions**|Yangfan Hu et.al.|[2409.02111v1](http://arxiv.org/abs/2409.02111v1)|null|
 |**2024-09-03**|**Decoding finger velocity from cortical spike trains with recurrent spiking neural networks**|Tengjun Liu et.al.|[2409.01762v1](http://arxiv.org/abs/2409.01762v1)|**[link](https://github.com/fmi-basel/neural-decoding-RSNN)**|
 |**2024-09-03**|**ReSpike: Residual Frames-based Hybrid Spiking Neural Networks for Efficient Action Recognition**|Shiting Xiao et.al.|[2409.01564v1](http://arxiv.org/abs/2409.01564v1)|null|
-|**2024-09-08**|**CoLaNET -- A Spiking Neural Network with Columnar Layered Architecture for Classification**|Mikhail Kiselev et.al.|[2409.01230v3](http://arxiv.org/abs/2409.01230v3)|null|
+|**2024-09-11**|**CoLaNET -- A Spiking Neural Network with Columnar Layered Architecture for Classification**|Mikhail Kiselev et.al.|[2409.01230v4](http://arxiv.org/abs/2409.01230v4)|null|
 |**2024-08-31**|**Digit Recognition using Multimodal Spiking Neural Networks**|William Bjorndahl et.al.|[2409.00552v1](http://arxiv.org/abs/2409.00552v1)|null|
 |**2024-08-19**|**A More Accurate Approximation of Activation Function with Few Spikes Neurons**|Dayena Jeong et.al.|[2409.00044v1](http://arxiv.org/abs/2409.00044v1)|null|
 |**2024-08-16**|**TACOS: Task Agnostic Continual Learning in Spiking Neural Networks**|Nicholas Soures et.al.|[2409.00021v1](http://arxiv.org/abs/2409.00021v1)|null|
@@ -954,5 +956,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
