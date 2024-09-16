@@ -1,4 +1,4 @@
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Efficient FPGA Implementation of an Optimized SNN-based DFE for Optical Communications**|Mohamed Moursi et.al.|[2409.08698v1](http://arxiv.org/abs/2409.08698v1)|null|
+|**2024-08-29**|**Reconsidering the energy efficiency of spiking neural networks**|Zhanglu Yan et.al.|[2409.08290v1](http://arxiv.org/abs/2409.08290v1)|null|
 |**2024-09-12**|**Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example**|Mikhail Kiselev et.al.|[2409.07833v1](http://arxiv.org/abs/2409.07833v1)|null|
 |**2024-09-12**|**Training Spiking Neural Networks via Augmented Direct Feedback Alignment**|Yongbo Zhang et.al.|[2409.07776v1](http://arxiv.org/abs/2409.07776v1)|null|
 |**2024-09-09**|**Optical Spiking Neurons Enable High-Speed and Energy-Efficient Optical Neural Networks**|Bo Xu et.al.|[2409.05726v1](http://arxiv.org/abs/2409.05726v1)|null|
@@ -113,7 +115,7 @@
 |**2024-07-08**|**Exploiting Heterogeneity in Timescales for Sparse Recurrent Spiking Neural Networks for Energy-Efficient Edge Computing**|Biswadeep Chakraborty et.al.|[2407.06452v1](http://arxiv.org/abs/2407.06452v1)|null|
 |**2024-07-08**|**Multi-Bit Mechanism: A Novel Information Transmission Paradigm for Spiking Neural Networks**|Yongjun Xiao et.al.|[2407.05739v1](http://arxiv.org/abs/2407.05739v1)|null|
 |**2024-07-07**|**Ternary Spike-based Neuromorphic Signal Processing System**|Shuai Wang et.al.|[2407.05310v1](http://arxiv.org/abs/2407.05310v1)|null|
-|**2024-07-07**|**FastSpiker: Enabling Fast Training for Spiking Neural Networks on Event-based Data through Learning Rate Enhancements for Autonomous Embedded Systems**|Iqra Bano et.al.|[2407.05262v1](http://arxiv.org/abs/2407.05262v1)|null|
+|**2024-09-12**|**FastSpiker: Enabling Fast Training for Spiking Neural Networks on Event-based Data through Learning Rate Enhancements for Autonomous Embedded Systems**|Iqra Bano et.al.|[2407.05262v2](http://arxiv.org/abs/2407.05262v2)|null|
 |**2024-07-05**|**SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking**|Xingrun Xing et.al.|[2407.04752v1](http://arxiv.org/abs/2407.04752v1)|null|
 |**2024-07-23**|**Event-Based Simulation of Stochastic Memristive Devices for Neuromorphic Computing**|Waleed El-Geresy et.al.|[2407.04718v2](http://arxiv.org/abs/2407.04718v2)|null|
 |**2024-06-05**|**Efficient Hybrid Neuromorphic-Bayesian Model for Olfaction Sensing: Detection and Classification**|Rizwana Kausar et.al.|[2407.04714v1](http://arxiv.org/abs/2407.04714v1)|null|
@@ -956,5 +958,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
