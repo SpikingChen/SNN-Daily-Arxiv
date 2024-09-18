@@ -1,4 +1,4 @@
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263v1](http://arxiv.org/abs/2409.11263v1)|null|
+|**2024-09-17**|**SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds**|Zhixing Hou et.al.|[2409.11195v1](http://arxiv.org/abs/2409.11195v1)|null|
+|**2024-09-17**|**Contrastive Learning in Memristor-based Neuromorphic Systems**|Cory Merkel et.al.|[2409.10887v1](http://arxiv.org/abs/2409.10887v1)|null|
+|**2024-08-31**|**Slug Mobile: Test-Bench for RL Testing**|Jonathan Wellington Morris et.al.|[2409.10532v1](http://arxiv.org/abs/2409.10532v1)|null|
 |**2024-09-13**|**Efficient FPGA Implementation of an Optimized SNN-based DFE for Optical Communications**|Mohamed Moursi et.al.|[2409.08698v1](http://arxiv.org/abs/2409.08698v1)|null|
 |**2024-08-29**|**Reconsidering the energy efficiency of spiking neural networks**|Zhanglu Yan et.al.|[2409.08290v1](http://arxiv.org/abs/2409.08290v1)|null|
 |**2024-09-12**|**Classifying Images with CoLaNET Spiking Neural Network -- the MNIST Example**|Mikhail Kiselev et.al.|[2409.07833v1](http://arxiv.org/abs/2409.07833v1)|null|
@@ -958,5 +962,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
 
