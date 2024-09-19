@@ -1,4 +1,4 @@
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Hyperspectral Image Classification Based on Faster Residual Multi-branch Spiking Neural Network**|Yang Liu et.al.|[2409.11619v1](http://arxiv.org/abs/2409.11619v1)|null|
+|**2024-09-18**|**Hardware-Friendly Implementation of Physical Reservoir Computing with CMOS-based Time-domain Analog Spiking Neurons**|Nanako Kimura et.al.|[2409.11612v1](http://arxiv.org/abs/2409.11612v1)|null|
+|**2024-09-17**|**Inferno: An Extensible Framework for Spiking Neural Networks**|Marissa Dominijanni et.al.|[2409.11567v1](http://arxiv.org/abs/2409.11567v1)|**[link](https://github.com/mdominijanni/inferno)**|
 |**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263v1](http://arxiv.org/abs/2409.11263v1)|null|
 |**2024-09-17**|**SDP: Spiking Diffusion Policy for Robotic Manipulation with Learnable Channel-Wise Membrane Thresholds**|Zhixing Hou et.al.|[2409.11195v1](http://arxiv.org/abs/2409.11195v1)|null|
 |**2024-09-17**|**Contrastive Learning in Memristor-based Neuromorphic Systems**|Cory Merkel et.al.|[2409.10887v1](http://arxiv.org/abs/2409.10887v1)|null|
@@ -962,5 +965,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240919>back to top</a>)</p>
 
