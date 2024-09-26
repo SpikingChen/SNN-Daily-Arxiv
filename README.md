@@ -1,4 +1,4 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Twin Network Augmentation: A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization**|Lucas Deckers et.al.|[2409.15849v1](http://arxiv.org/abs/2409.15849v1)|null|
+|**2024-09-24**|**Data Poisoning-based Backdoor Attack Framework against Supervised Learning Rules of Spiking Neural Networks**|Lingxin Jin et.al.|[2409.15670v1](http://arxiv.org/abs/2409.15670v1)|null|
+|**2024-09-20**|**DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention**|Boxun Xu et.al.|[2409.15375v1](http://arxiv.org/abs/2409.15375v1)|null|
+|**2024-09-04**|**Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model**|Kaiwen Tang et.al.|[2409.15298v1](http://arxiv.org/abs/2409.15298v1)|null|
+|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176v1](http://arxiv.org/abs/2409.15176v1)|**[link](https://github.com/520jz/spikegs)**|
+|**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918v1](http://arxiv.org/abs/2409.14918v1)|null|
+|**2024-09-22**|**A Neuromorphic Implementation of the DBSCAN Algorithm**|Charles P. Rizzo et.al.|[2409.14298v1](http://arxiv.org/abs/2409.14298v1)|null|
+|**2024-09-19**|**The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning**|Manh V. Nguyen et.al.|[2409.12769v1](http://arxiv.org/abs/2409.12769v1)|null|
+|**2024-09-19**|**A dynamic vision sensor object recognition model based on trainable event-driven convolution and spiking attention mechanism**|Peng Zheng et.al.|[2409.12691v1](http://arxiv.org/abs/2409.12691v1)|null|
+|**2024-09-19**|**Towards Low-latency Event-based Visual Recognition with Hybrid Step-wise Distillation Spiking Neural Networks**|Xian Zhong et.al.|[2409.12507v1](http://arxiv.org/abs/2409.12507v1)|null|
 |**2024-09-18**|**Hyperspectral Image Classification Based on Faster Residual Multi-branch Spiking Neural Network**|Yang Liu et.al.|[2409.11619v1](http://arxiv.org/abs/2409.11619v1)|null|
 |**2024-09-18**|**Hardware-Friendly Implementation of Physical Reservoir Computing with CMOS-based Time-domain Analog Spiking Neurons**|Nanako Kimura et.al.|[2409.11612v1](http://arxiv.org/abs/2409.11612v1)|null|
 |**2024-09-17**|**Inferno: An Extensible Framework for Spiking Neural Networks**|Marissa Dominijanni et.al.|[2409.11567v1](http://arxiv.org/abs/2409.11567v1)|**[link](https://github.com/mdominijanni/inferno)**|
@@ -132,7 +142,7 @@
 |**2024-07-01**|**Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network**|Hyunseok Oh et.al.|[2407.01645v1](http://arxiv.org/abs/2407.01645v1)|**[link](https://github.com/snuhcs/snn_signgd)**|
 |**2024-07-01**|**Real-Time Neuromorphic Navigation: Integrating Event-Based Vision and Physics-Driven Planning on a Parrot Bebop2 Quadrotor**|Amogh Joshi et.al.|[2407.00931v1](http://arxiv.org/abs/2407.00931v1)|**[link](https://github.com/amoghj98/neuronav)**|
 |**2024-06-30**|**HASNAS: A Hardware-Aware Spiking Neural Architecture Search Framework for Neuromorphic Compute-in-Memory Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2407.00641v1](http://arxiv.org/abs/2407.00641v1)|null|
-|**2024-07-01**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708v2](http://arxiv.org/abs/2406.19708v2)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
+|**2024-09-25**|**A Differentiable Approach to Multi-scale Brain Modeling**|Chaoming Wang et.al.|[2406.19708v3](http://arxiv.org/abs/2406.19708v3)|**[link](https://github.com/chaoming0625/differentiable-brain-modeling-workflow)**|
 |**2024-06-28**|**Directly Training Temporal Spiking Neural Network with Sparse Surrogate Gradient**|Yang Li et.al.|[2406.19645v1](http://arxiv.org/abs/2406.19645v1)|null|
 |**2024-06-27**|**Spiking Convolutional Neural Networks for Text Classification**|Changze Lv et.al.|[2406.19230v1](http://arxiv.org/abs/2406.19230v1)|**[link](https://github.com/Lvchangze/snn)**|
 |**2024-06-26**|**On Reducing Activity with Distillation and Regularization for Energy Efficient Spiking Neural Networks**|Thomas Louis et.al.|[2406.18350v1](http://arxiv.org/abs/2406.18350v1)|null|
@@ -965,5 +975,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
 
