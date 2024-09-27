@@ -1,4 +1,4 @@
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics**|Cornelia Sheeran et.al.|[2409.17693v1](http://arxiv.org/abs/2409.17693v1)|null|
 |**2024-09-24**|**Twin Network Augmentation: A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization**|Lucas Deckers et.al.|[2409.15849v1](http://arxiv.org/abs/2409.15849v1)|null|
 |**2024-09-24**|**Data Poisoning-based Backdoor Attack Framework against Supervised Learning Rules of Spiking Neural Networks**|Lingxin Jin et.al.|[2409.15670v1](http://arxiv.org/abs/2409.15670v1)|null|
 |**2024-09-20**|**DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention**|Boxun Xu et.al.|[2409.15375v1](http://arxiv.org/abs/2409.15375v1)|null|
@@ -36,7 +37,7 @@
 |**2024-09-09**|**SpikingRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2409.05610v1](http://arxiv.org/abs/2409.05610v1)|null|
 |**2024-09-09**|**Predictive Coding with Spiking Neural Networks: a Survey**|Antony W. N'dri et.al.|[2409.05386v1](http://arxiv.org/abs/2409.05386v1)|null|
 |**2024-09-08**|**Time-independent Spiking Neuron via Membrane Potential Estimation for Efficient Spiking Neural Networks**|Hanqi Chen et.al.|[2409.04978v1](http://arxiv.org/abs/2409.04978v1)|**[link](https://github.com/chrazqee/mpe-psn)**|
-|**2024-09-06**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428v1](http://arxiv.org/abs/2409.04428v1)|null|
+|**2024-09-26**|**Hybrid Spiking Neural Networks for Low-Power Intra-Cortical Brain-Machine Interfaces**|Alexandru Vasilache et.al.|[2409.04428v2](http://arxiv.org/abs/2409.04428v2)|null|
 |**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082v1](http://arxiv.org/abs/2409.04082v1)|**[link](https://github.com/yitian97/SDformerFlow)**|
 |**2024-09-05**|**Revealing Untapped DSP Optimization Potentials for FPGA-Based Systolic Matrix Engines**|Jindong Li et.al.|[2409.03508v1](http://arxiv.org/abs/2409.03508v1)|null|
 |**2024-09-05**|**Training-free Conversion of Pretrained ANNs to SNNs for Low-Power and High-Performance Applications**|Tong Bu et.al.|[2409.03368v1](http://arxiv.org/abs/2409.03368v1)|null|
@@ -975,5 +976,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240927>back to top</a>)</p>
 
