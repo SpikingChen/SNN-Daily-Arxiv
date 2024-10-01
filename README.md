@@ -1,4 +1,4 @@
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,13 +11,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764v1](http://arxiv.org/abs/2409.19764v1)|null|
+|**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413v1](http://arxiv.org/abs/2409.19413v1)|null|
 |**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396v1](http://arxiv.org/abs/2409.18396v1)|null|
 |**2024-09-26**|**Spatial embedding promotes a specific form of modularity with low entropy and heterogeneous spectral dynamics**|Cornelia Sheeran et.al.|[2409.17693v1](http://arxiv.org/abs/2409.17693v1)|null|
 |**2024-09-24**|**Twin Network Augmentation: A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization**|Lucas Deckers et.al.|[2409.15849v1](http://arxiv.org/abs/2409.15849v1)|null|
 |**2024-09-24**|**Data Poisoning-based Backdoor Attack Framework against Supervised Learning Rules of Spiking Neural Networks**|Lingxin Jin et.al.|[2409.15670v1](http://arxiv.org/abs/2409.15670v1)|null|
 |**2024-09-20**|**DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention**|Boxun Xu et.al.|[2409.15375v1](http://arxiv.org/abs/2409.15375v1)|null|
 |**2024-09-04**|**Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model**|Kaiwen Tang et.al.|[2409.15298v1](http://arxiv.org/abs/2409.15298v1)|null|
-|**2024-09-27**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176v2](http://arxiv.org/abs/2409.15176v2)|**[link](https://github.com/520jz/spikegs)**|
+|**2024-09-30**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176v3](http://arxiv.org/abs/2409.15176v3)|**[link](https://github.com/520jz/spikegs)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918v1](http://arxiv.org/abs/2409.14918v1)|null|
 |**2024-09-22**|**A Neuromorphic Implementation of the DBSCAN Algorithm**|Charles P. Rizzo et.al.|[2409.14298v1](http://arxiv.org/abs/2409.14298v1)|null|
 |**2024-09-19**|**The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning**|Manh V. Nguyen et.al.|[2409.12769v1](http://arxiv.org/abs/2409.12769v1)|null|
@@ -99,7 +101,7 @@
 |**2024-08-01**|**Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion**|Yanchen Li et.al.|[2408.00280v1](http://arxiv.org/abs/2408.00280v1)|null|
 |**2024-07-30**|**An Asynchronous Multi-core Accelerator for SNN inference**|Zhuo Chen et.al.|[2407.20947v1](http://arxiv.org/abs/2407.20947v1)|null|
 |**2024-08-05**|**Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**|Xinhao Luo et.al.|[2407.20708v3](http://arxiv.org/abs/2407.20708v3)|**[link](https://github.com/biclab/spikeyolo)**|
-|**2024-07-30**|**Spiking-DD: Neuromorphic Event Camera based Driver Distraction Detection with Spiking Neural Network**|Waseem Shariff et.al.|[2407.20633v1](http://arxiv.org/abs/2407.20633v1)|null|
+|**2024-09-30**|**Spiking-DD: Neuromorphic Event Camera based Driver Distraction Detection with Spiking Neural Network**|Waseem Shariff et.al.|[2407.20633v2](http://arxiv.org/abs/2407.20633v2)|null|
 |**2024-07-30**|**Neuromorphic on-chip reservoir computing with spiking neural network architectures**|Samip Karki et.al.|[2407.20547v1](http://arxiv.org/abs/2407.20547v1)|null|
 |**2024-07-30**|**Unveiling the Potential of Spiking Dynamics in Graph Representation Learning through Spatial-Temporal Normalization and Coding Strategies**|Mingkun Xu et.al.|[2407.20508v1](http://arxiv.org/abs/2407.20508v1)|null|
 |**2024-07-29**|**Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification**|Yingfu Xu et.al.|[2407.20421v1](http://arxiv.org/abs/2407.20421v1)|**[link](https://github.com/yingfuxu/ann_vs_snn_evflow)**|
@@ -977,5 +979,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241001>back to top</a>)</p>
 
