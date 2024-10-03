@@ -1,4 +1,4 @@
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-01**|**An Intrinsically Knowledge-Transferring Developmental Spiking Neural Network for Tactile Classification**|Jiaqi Xing et.al.|[2410.00745v1](http://arxiv.org/abs/2410.00745v1)|null|
+|**2024-10-01**|**Deep activity propagation via weight initialization in spiking neural networks**|Aurora Micheli et.al.|[2410.00580v1](http://arxiv.org/abs/2410.00580v1)|null|
 |**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764v1](http://arxiv.org/abs/2409.19764v1)|null|
 |**2024-09-28**|**Membership Privacy Evaluation in Deep Spiking Neural Networks**|Jiaxin Li et.al.|[2409.19413v1](http://arxiv.org/abs/2409.19413v1)|null|
 |**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396v1](http://arxiv.org/abs/2409.18396v1)|null|
@@ -979,5 +981,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
