@@ -1,4 +1,4 @@
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**A low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657v1](http://arxiv.org/abs/2410.03657v1)|null|
+|**2024-09-14**|**Multiscale fusion enhanced spiking neural network for invasive BCI neural signal decoding**|Yu Song et.al.|[2410.03533v1](http://arxiv.org/abs/2410.03533v1)|null|
+|**2024-10-04**|**PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks**|Yulong Huang et.al.|[2410.03530v1](http://arxiv.org/abs/2410.03530v1)|null|
+|**2024-10-04**|**The Taiji microresonator as an unidirectional spiking neuron**|Stefano Biasi et.al.|[2410.03257v1](http://arxiv.org/abs/2410.03257v1)|null|
 |**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249v1](http://arxiv.org/abs/2410.02249v1)|null|
 |**2024-10-01**|**An Intrinsically Knowledge-Transferring Developmental Spiking Neural Network for Tactile Classification**|Jiaqi Xing et.al.|[2410.00745v1](http://arxiv.org/abs/2410.00745v1)|null|
 |**2024-10-01**|**Deep activity propagation via weight initialization in spiking neural networks**|Aurora Micheli et.al.|[2410.00580v1](http://arxiv.org/abs/2410.00580v1)|null|
@@ -183,7 +187,7 @@
 |**2024-06-05**|**SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms**|Xingrun Xing et.al.|[2406.03287v1](http://arxiv.org/abs/2406.03287v1)|**[link](https://github.com/xingrun-xing/spikelm)**|
 |**2024-06-05**|**Spiking representation learning for associative memories**|Naresh Ravichandran et.al.|[2406.03054v1](http://arxiv.org/abs/2406.03054v1)|null|
 |**2024-06-05**|**When Spiking neural networks meet temporal attention image decoding and adaptive spiking neuron**|Xuerui Qiu et.al.|[2406.03046v1](http://arxiv.org/abs/2406.03046v1)|**[link](https://github.com/bollossom/iclr_tiny_snn)**|
-|**2024-06-05**|**Rethinking Spiking Neural Networks as State Space Models**|Malyaban Bal et.al.|[2406.02923v1](http://arxiv.org/abs/2406.02923v1)|null|
+|**2024-10-03**|**P-SpikeSSM: Harnessing Probabilistic Spiking State Space Models for Long-Range Dependency Tasks**|Malyaban Bal et.al.|[2406.02923v2](http://arxiv.org/abs/2406.02923v2)|null|
 |**2024-06-04**|**CADE: Cosine Annealing Differential Evolution for Spiking Neural Network**|Runhua Jiang et.al.|[2406.02349v1](http://arxiv.org/abs/2406.02349v1)|**[link](https://github.com/tank-jiang/cade4snn)**|
 |**2024-06-04**|**Context Gating in Spiking Neural Networks: Achieving Lifelong Learning through Integration of Local and Global Plasticity**|Jiangrong Shen et.al.|[2406.01883v1](http://arxiv.org/abs/2406.01883v1)|null|
 |**2024-05-17**|**NeuroAssist: Enhancing Cognitive-Computer Synergy with Adaptive AI and Advanced Neural Decoding for Efficient EEG Signal Classification**|Eeshan G. Dandamudi et.al.|[2406.01600v1](http://arxiv.org/abs/2406.01600v1)|null|
@@ -982,5 +986,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241007>back to top</a>)</p>
 
