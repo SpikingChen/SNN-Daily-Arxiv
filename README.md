@@ -1,4 +1,4 @@
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals**|Ajay B. S. et.al.|[2410.04992v1](http://arxiv.org/abs/2410.04992v1)|null|
+|**2024-10-07**|**Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet**|Xiang Hao et.al.|[2410.04785v1](http://arxiv.org/abs/2410.04785v1)|null|
 |**2024-10-04**|**A low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657v1](http://arxiv.org/abs/2410.03657v1)|null|
 |**2024-09-14**|**Multiscale fusion enhanced spiking neural network for invasive BCI neural signal decoding**|Yu Song et.al.|[2410.03533v1](http://arxiv.org/abs/2410.03533v1)|null|
 |**2024-10-04**|**PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks**|Yulong Huang et.al.|[2410.03530v1](http://arxiv.org/abs/2410.03530v1)|null|
@@ -986,5 +988,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241008>back to top</a>)</p>
 
