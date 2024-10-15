@@ -1,4 +1,4 @@
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,13 +11,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-12**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674v1](http://arxiv.org/abs/2410.09674v1)|null|
+|**2024-10-11**|**Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications**|Mishal Fatima Minhas et.al.|[2410.09218v1](http://arxiv.org/abs/2410.09218v1)|null|
+|**2024-10-11**|**Energy-efficient SNN Architecture using 3nm FinFET Multiport SRAM-based CIM with Online Learning**|Lucas Huijbregts et.al.|[2410.09130v1](http://arxiv.org/abs/2410.09130v1)|null|
 |**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978v1](http://arxiv.org/abs/2410.08978v1)|null|
 |**2024-10-11**|**SpikeBottleNet: Energy Efficient Spike Neural Network Partitioning for Feature Compression in Device-Edge Co-Inference Systems**|Maruf Hassan et.al.|[2410.08673v1](http://arxiv.org/abs/2410.08673v1)|null|
 |**2024-10-11**|**Unsupervised Learning of Spatio-Temporal Patterns in Spiking Neuronal Networks**|Florian Feiler et.al.|[2410.08637v1](http://arxiv.org/abs/2410.08637v1)|null|
 |**2024-09-28**|**Improving Spiking Neural Network Accuracy With Color Model Information Encoded Bit Planes**|Nhan T. Luu et.al.|[2410.08229v1](http://arxiv.org/abs/2410.08229v1)|null|
 |**2024-10-10**|**SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**|Haiyang Wang et.al.|[2410.07857v1](http://arxiv.org/abs/2410.07857v1)|**[link](https://github.com/event-ahu/openpar)**|
 |**2024-10-10**|**Comprehensive Online Training and Deployment for Spiking Neural Networks**|Zecheng Hao et.al.|[2410.07547v1](http://arxiv.org/abs/2410.07547v1)|null|
-|**2024-10-09**|**Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting**|Weixing Zhang et.al.|[2410.07266v1](http://arxiv.org/abs/2410.07266v1)|**[link](https://github.com/shippot/spiking_gs)**|
+|**2024-10-13**|**Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting**|Weixing Zhang et.al.|[2410.07266v2](http://arxiv.org/abs/2410.07266v2)|**[link](https://github.com/zju-bmi-lab/spikinggs)**|
 |**2024-10-08**|**MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals**|Ajay B S et.al.|[2410.04992v2](http://arxiv.org/abs/2410.04992v2)|null|
 |**2024-10-07**|**Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet**|Xiang Hao et.al.|[2410.04785v1](http://arxiv.org/abs/2410.04785v1)|**[link](https://github.com/haoxiangsnr/spiking-fullsubnet)**|
 |**2024-10-04**|**A low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657v1](http://arxiv.org/abs/2410.03657v1)|null|
@@ -35,7 +38,7 @@
 |**2024-09-24**|**Data Poisoning-based Backdoor Attack Framework against Supervised Learning Rules of Spiking Neural Networks**|Lingxin Jin et.al.|[2409.15670v1](http://arxiv.org/abs/2409.15670v1)|null|
 |**2024-09-20**|**DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention**|Boxun Xu et.al.|[2409.15375v1](http://arxiv.org/abs/2409.15375v1)|null|
 |**2024-09-04**|**Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model**|Kaiwen Tang et.al.|[2409.15298v1](http://arxiv.org/abs/2409.15298v1)|null|
-|**2024-10-10**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176v4](http://arxiv.org/abs/2409.15176v4)|**[link](https://github.com/520jz/spikegs)**|
+|**2024-10-14**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176v5](http://arxiv.org/abs/2409.15176v5)|**[link](https://github.com/520jz/spikegs)**|
 |**2024-09-23**|**A Realistic Simulation Framework for Analog/Digital Neuromorphic Architectures**|Fernando M. Quintana et.al.|[2409.14918v1](http://arxiv.org/abs/2409.14918v1)|null|
 |**2024-09-22**|**A Neuromorphic Implementation of the DBSCAN Algorithm**|Charles P. Rizzo et.al.|[2409.14298v1](http://arxiv.org/abs/2409.14298v1)|**[link](https://github.com/TENNLab-UTK/dbscan)**|
 |**2024-09-19**|**The Robustness of Spiking Neural Networks in Communication and its Application towards Network Efficiency in Federated Learning**|Manh V. Nguyen et.al.|[2409.12769v1](http://arxiv.org/abs/2409.12769v1)|null|
@@ -995,5 +998,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241014>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241015>back to top</a>)</p>
 
