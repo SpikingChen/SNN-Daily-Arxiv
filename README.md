@@ -1,4 +1,4 @@
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -114,7 +114,7 @@
 |**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961v1](http://arxiv.org/abs/2408.02961v1)|null|
 |**2024-08-04**|**Abstraction in Neural Networks**|Nancy Lynch et.al.|[2408.02125v1](http://arxiv.org/abs/2408.02125v1)|null|
 |**2024-08-04**|**Configuring Safe Spiking Neural Controllers for Cyber-Physical Systems through Formal Verification**|Arkaprava Gupta et.al.|[2408.01996v1](http://arxiv.org/abs/2408.01996v1)|null|
-|**2024-08-03**|**Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics**|Naichuan Zheng et.al.|[2408.01701v1](http://arxiv.org/abs/2408.01701v1)|null|
+|**2024-10-18**|**Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics**|Naichuan Zheng et.al.|[2408.01701v2](http://arxiv.org/abs/2408.01701v2)|null|
 |**2024-07-18**|**CCSRP: Robust Pruning of Spiking Neural Networks through Cooperative Coevolution**|Zichen Song et.al.|[2408.00794v1](http://arxiv.org/abs/2408.00794v1)|null|
 |**2024-07-17**|**SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network**|Kexin Wang et.al.|[2408.00788v1](http://arxiv.org/abs/2408.00788v1)|null|
 |**2024-08-01**|**Using CSNNs to Perform Event-based Data Processing & Classification on ASL-DVS**|Ria Patel et.al.|[2408.00611v1](http://arxiv.org/abs/2408.00611v1)|null|
@@ -1000,5 +1000,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
 
