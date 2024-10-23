@@ -1,4 +1,4 @@
-## Updated on 2024.10.21
+## Updated on 2024.10.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066v1](http://arxiv.org/abs/2410.17066v1)|null|
+|**2024-10-22**|**Neuromorphic information processing using ultrafast heat dynamics and quench switching of an antiferromagnet**|Jan Zubáč et.al.|[2410.16909v1](http://arxiv.org/abs/2410.16909v1)|null|
+|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746v1](http://arxiv.org/abs/2410.16746v1)|null|
+|**2024-10-22**|**Real-time Sub-milliwatt Epilepsy Detection Implemented on a Spiking Neural Network Edge Inference Processor**|Ruixin Lia et.al.|[2410.16613v1](http://arxiv.org/abs/2410.16613v1)|null|
+|**2024-10-21**|**Gradient-Free Supervised Learning using Spike-Timing-Dependent Plasticity for Image Recognition**|Wei Xie et.al.|[2410.16524v1](http://arxiv.org/abs/2410.16524v1)|**[link](https://github.com/wxie2013/gdfree-supervised-snn-mnist)**|
+|**2024-10-07**|**Hardware-Software Co-optimised Fast and Accurate Deep Reconfigurable Spiking Inference Accelerator Architecture Design Methodology**|Anagha Nimbekar et.al.|[2410.16298v1](http://arxiv.org/abs/2410.16298v1)|null|
+|**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175v1](http://arxiv.org/abs/2410.16175v1)|null|
+|**2024-10-21**|**Enhancing SNN-based Spatio-Temporal Learning: A Benchmark Dataset and Cross-Modality Attention Model**|Shibo Zhou et.al.|[2410.15689v1](http://arxiv.org/abs/2410.15689v1)|**[link](https://github.com/JasonKitty/DVS-SLR)**|
+|**2024-10-20**|**Fractional-order spike-timing-dependent gradient descent for multi-layer spiking neural networks**|Yi Yang et.al.|[2410.15293v1](http://arxiv.org/abs/2410.15293v1)|null|
+|**2024-10-03**|**BrainTransformers: SNN-LLM**|Zhengzheng Tang et.al.|[2410.14687v1](http://arxiv.org/abs/2410.14687v1)|null|
 |**2024-10-15**|**Spiking Neural Belief Propagation Decoder for Short Block Length LDPC Codes**|Alexander von Bank et.al.|[2410.11543v1](http://arxiv.org/abs/2410.11543v1)|null|
-|**2024-10-15**|**Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation**|Chengting Yu et.al.|[2410.11488v1](http://arxiv.org/abs/2410.11488v1)|**[link](https://github.com/tab-ct/rate-based-backpropagation)**|
+|**2024-10-22**|**Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation**|Chengting Yu et.al.|[2410.11488v2](http://arxiv.org/abs/2410.11488v2)|**[link](https://github.com/tab-ct/rate-based-backpropagation)**|
 |**2024-10-12**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674v1](http://arxiv.org/abs/2410.09674v1)|null|
 |**2024-10-11**|**Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications**|Mishal Fatima Minhas et.al.|[2410.09218v1](http://arxiv.org/abs/2410.09218v1)|null|
 |**2024-10-11**|**Energy-efficient SNN Architecture using 3nm FinFET Multiport SRAM-based CIM with Online Learning**|Lucas Huijbregts et.al.|[2410.09130v1](http://arxiv.org/abs/2410.09130v1)|null|
@@ -1000,5 +1010,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
 
