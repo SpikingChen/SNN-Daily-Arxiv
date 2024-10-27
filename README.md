@@ -1,4 +1,4 @@
-## Updated on 2024.10.26
+## Updated on 2024.10.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -16,7 +16,7 @@
 |**2024-10-07**|**SPikE-SSM: A Sparse, Precise, and Efficient Spiking State Space Model for Long Sequences Learning**|Yan Zhong et.al.|[2410.17268v1](http://arxiv.org/abs/2410.17268v1)|null|
 |**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066v1](http://arxiv.org/abs/2410.17066v1)|null|
 |**2024-10-22**|**Neuromorphic information processing using ultrafast heat dynamics and quench switching of an antiferromagnet**|Jan Zubáč et.al.|[2410.16909v1](http://arxiv.org/abs/2410.16909v1)|null|
-|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746v1](http://arxiv.org/abs/2410.16746v1)|null|
+|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746v1](http://arxiv.org/abs/2410.16746v1)|**[link](https://github.com/typistchen/spikmamba)**|
 |**2024-10-22**|**Real-time Sub-milliwatt Epilepsy Detection Implemented on a Spiking Neural Network Edge Inference Processor**|Ruixin Lia et.al.|[2410.16613v1](http://arxiv.org/abs/2410.16613v1)|null|
 |**2024-10-21**|**Gradient-Free Supervised Learning using Spike-Timing-Dependent Plasticity for Image Recognition**|Wei Xie et.al.|[2410.16524v1](http://arxiv.org/abs/2410.16524v1)|**[link](https://github.com/wxie2013/gdfree-supervised-snn-mnist)**|
 |**2024-10-07**|**Hardware-Software Co-optimised Fast and Accurate Deep Reconfigurable Spiking Inference Accelerator Architecture Design Methodology**|Anagha Nimbekar et.al.|[2410.16298v1](http://arxiv.org/abs/2410.16298v1)|null|
@@ -1013,5 +1013,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241027>back to top</a>)</p>
 
