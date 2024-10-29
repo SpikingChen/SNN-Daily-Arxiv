@@ -1,4 +1,4 @@
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@
 |**2024-10-15**|**Spiking Neural Belief Propagation Decoder for Short Block Length LDPC Codes**|Alexander von Bank et.al.|[2410.11543v1](http://arxiv.org/abs/2410.11543v1)|null|
 |**2024-10-22**|**Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation**|Chengting Yu et.al.|[2410.11488v2](http://arxiv.org/abs/2410.11488v2)|**[link](https://github.com/tab-ct/rate-based-backpropagation)**|
 |**2024-10-12**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674v1](http://arxiv.org/abs/2410.09674v1)|null|
-|**2024-10-11**|**Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications**|Mishal Fatima Minhas et.al.|[2410.09218v1](http://arxiv.org/abs/2410.09218v1)|null|
+|**2024-10-28**|**Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications**|Mishal Fatima Minhas et.al.|[2410.09218v2](http://arxiv.org/abs/2410.09218v2)|null|
 |**2024-10-11**|**Energy-efficient SNN Architecture using 3nm FinFET Multiport SRAM-based CIM with Online Learning**|Lucas Huijbregts et.al.|[2410.09130v1](http://arxiv.org/abs/2410.09130v1)|null|
 |**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978v1](http://arxiv.org/abs/2410.08978v1)|null|
 |**2024-10-11**|**SpikeBottleNet: Energy Efficient Spike Neural Network Partitioning for Feature Compression in Device-Edge Co-Inference Systems**|Maruf Hassan et.al.|[2410.08673v1](http://arxiv.org/abs/2410.08673v1)|null|
@@ -124,7 +124,7 @@
 |**2024-08-09**|**Neuromorphic Keyword Spotting with Pulse Density Modulation MEMS Microphones**|Sidi Yaya Arnaud Yarga et.al.|[2408.05156v1](http://arxiv.org/abs/2408.05156v1)|**[link](https://github.com/NECOTIS/Keyword-Spotting-with-PDM)**|
 |**2024-08-09**|**Overcoming the Limitations of Layer Synchronization in Spiking Neural Networks**|Roel Koopman et.al.|[2408.05098v1](http://arxiv.org/abs/2408.05098v1)|null|
 |**2024-07-22**|**Harmonic fractal transformation, 4R-regeneration and noise shaping for ultra wide-band reception in FitzHugh-Nagumo neuronal model**|Mariia Sorokina et.al.|[2408.03951v1](http://arxiv.org/abs/2408.03951v1)|null|
-|**2024-07-21**|**Few-Shot Transfer Learning for Individualized Braking Intent Detection on Neuromorphic Hardware**|Nathan Lutes et.al.|[2408.03336v1](http://arxiv.org/abs/2408.03336v1)|null|
+|**2024-10-27**|**Few-Shot Transfer Learning for Individualized Braking Intent Detection on Neuromorphic Hardware**|Nathan Lutes et.al.|[2408.03336v2](http://arxiv.org/abs/2408.03336v2)|null|
 |**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961v1](http://arxiv.org/abs/2408.02961v1)|null|
 |**2024-08-04**|**Abstraction in Neural Networks**|Nancy Lynch et.al.|[2408.02125v1](http://arxiv.org/abs/2408.02125v1)|null|
 |**2024-08-04**|**Configuring Safe Spiking Neural Controllers for Cyber-Physical Systems through Formal Verification**|Arkaprava Gupta et.al.|[2408.01996v1](http://arxiv.org/abs/2408.01996v1)|null|
@@ -1014,5 +1014,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241029>back to top</a>)</p>
 
