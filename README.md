@@ -1,4 +1,4 @@
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Weight/Output Stationarity**|Nicolas Chauvaux et.al.|[2410.23082v1](http://arxiv.org/abs/2410.23082v1)|null|
 |**2024-10-25**|**A prescriptive theory for brain-like inference**|Hadi Vafaii et.al.|[2410.19315v1](http://arxiv.org/abs/2410.19315v1)|null|
 |**2024-10-24**|**Spatial-Temporal Search for Spiking Neural Networks**|Kaiwei Che et.al.|[2410.18580v1](http://arxiv.org/abs/2410.18580v1)|null|
 |**2024-10-23**|**Spiking Graph Neural Network on Riemannian Manifolds**|Li Sun et.al.|[2410.17941v1](http://arxiv.org/abs/2410.17941v1)|**[link](https://github.com/ZhenhHuang/MSG)**|
@@ -20,14 +21,14 @@
 |**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746v1](http://arxiv.org/abs/2410.16746v1)|**[link](https://github.com/typistchen/spikmamba)**|
 |**2024-10-22**|**Real-time Sub-milliwatt Epilepsy Detection Implemented on a Spiking Neural Network Edge Inference Processor**|Ruixin Lia et.al.|[2410.16613v1](http://arxiv.org/abs/2410.16613v1)|null|
 |**2024-10-21**|**Gradient-Free Supervised Learning using Spike-Timing-Dependent Plasticity for Image Recognition**|Wei Xie et.al.|[2410.16524v1](http://arxiv.org/abs/2410.16524v1)|**[link](https://github.com/wxie2013/gdfree-supervised-snn-mnist)**|
-|**2024-10-07**|**Hardware-Software Co-optimised Fast and Accurate Deep Reconfigurable Spiking Inference Accelerator Architecture Design Methodology**|Anagha Nimbekar et.al.|[2410.16298v1](http://arxiv.org/abs/2410.16298v1)|null|
+|**2024-10-30**|**Hardware-Software Co-optimised Fast and Accurate Deep Reconfigurable Spiking Inference Accelerator Architecture Design Methodology**|Anagha Nimbekar et.al.|[2410.16298v2](http://arxiv.org/abs/2410.16298v2)|null|
 |**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175v1](http://arxiv.org/abs/2410.16175v1)|null|
 |**2024-10-21**|**Enhancing SNN-based Spatio-Temporal Learning: A Benchmark Dataset and Cross-Modality Attention Model**|Shibo Zhou et.al.|[2410.15689v1](http://arxiv.org/abs/2410.15689v1)|**[link](https://github.com/JasonKitty/DVS-SLR)**|
 |**2024-10-20**|**Fractional-order spike-timing-dependent gradient descent for multi-layer spiking neural networks**|Yi Yang et.al.|[2410.15293v1](http://arxiv.org/abs/2410.15293v1)|null|
 |**2024-10-23**|**BrainTransformers: SNN-LLM**|Zhengzheng Tang et.al.|[2410.14687v2](http://arxiv.org/abs/2410.14687v2)|null|
 |**2024-10-15**|**Spiking Neural Belief Propagation Decoder for Short Block Length LDPC Codes**|Alexander von Bank et.al.|[2410.11543v1](http://arxiv.org/abs/2410.11543v1)|null|
 |**2024-10-22**|**Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation**|Chengting Yu et.al.|[2410.11488v2](http://arxiv.org/abs/2410.11488v2)|**[link](https://github.com/tab-ct/rate-based-backpropagation)**|
-|**2024-10-12**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674v1](http://arxiv.org/abs/2410.09674v1)|null|
+|**2024-10-29**|**EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis**|Yi Pan et.al.|[2410.09674v2](http://arxiv.org/abs/2410.09674v2)|null|
 |**2024-10-28**|**Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications**|Mishal Fatima Minhas et.al.|[2410.09218v2](http://arxiv.org/abs/2410.09218v2)|null|
 |**2024-10-11**|**Energy-efficient SNN Architecture using 3nm FinFET Multiport SRAM-based CIM with Online Learning**|Lucas Huijbregts et.al.|[2410.09130v1](http://arxiv.org/abs/2410.09130v1)|null|
 |**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978v1](http://arxiv.org/abs/2410.08978v1)|null|
@@ -41,7 +42,7 @@
 |**2024-10-07**|**Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet**|Xiang Hao et.al.|[2410.04785v1](http://arxiv.org/abs/2410.04785v1)|**[link](https://github.com/haoxiangsnr/spiking-fullsubnet)**|
 |**2024-10-04**|**A low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657v1](http://arxiv.org/abs/2410.03657v1)|null|
 |**2024-09-14**|**Multiscale fusion enhanced spiking neural network for invasive BCI neural signal decoding**|Yu Song et.al.|[2410.03533v1](http://arxiv.org/abs/2410.03533v1)|null|
-|**2024-10-04**|**PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks**|Yulong Huang et.al.|[2410.03530v1](http://arxiv.org/abs/2410.03530v1)|null|
+|**2024-10-30**|**PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks**|Yulong Huang et.al.|[2410.03530v2](http://arxiv.org/abs/2410.03530v2)|null|
 |**2024-10-04**|**The Taiji microresonator as an unidirectional spiking neuron**|Stefano Biasi et.al.|[2410.03257v1](http://arxiv.org/abs/2410.03257v1)|null|
 |**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249v1](http://arxiv.org/abs/2410.02249v1)|null|
 |**2024-10-01**|**An Intrinsically Knowledge-Transferring Developmental Spiking Neural Network for Tactile Classification**|Jiaqi Xing et.al.|[2410.00745v1](http://arxiv.org/abs/2410.00745v1)|null|
@@ -1014,5 +1015,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241031>back to top</a>)</p>
 
