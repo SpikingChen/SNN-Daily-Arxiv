@@ -1,4 +1,4 @@
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -147,7 +147,7 @@
 |**2024-07-30**|**Unveiling the Potential of Spiking Dynamics in Graph Representation Learning through Spatial-Temporal Normalization and Coding Strategies**|Mingkun Xu et.al.|[2407.20508v1](http://arxiv.org/abs/2407.20508v1)|null|
 |**2024-07-29**|**Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification**|Yingfu Xu et.al.|[2407.20421v1](http://arxiv.org/abs/2407.20421v1)|**[link](https://github.com/yingfuxu/ann_vs_snn_evflow)**|
 |**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099v1](http://arxiv.org/abs/2407.20099v1)|**[link](https://github.com/KemingWu/RSC-SNN)**|
-|**2024-07-28**|**Rouser: Robust SNN training using adaptive threshold learning**|Sanaz Mahmoodi Takaghaj et.al.|[2407.19566v1](http://arxiv.org/abs/2407.19566v1)|null|
+|**2024-10-31**|**To Spike or Not to Spike, that is the Question**|Sanaz Mahmoodi Takaghaj et.al.|[2407.19566v2](http://arxiv.org/abs/2407.19566v2)|null|
 |**2024-07-07**|**Spatio-temporal Structure of Excitation and Inhibition Emerges in Spiking Neural Networks with and without Biologically Plausible Constraints**|Balázs Mészáros et.al.|[2407.18917v1](http://arxiv.org/abs/2407.18917v1)|null|
 |**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838v1](http://arxiv.org/abs/2407.18838v1)|null|
 |**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625v1](http://arxiv.org/abs/2407.18625v1)|null|
@@ -207,7 +207,7 @@
 |**2024-06-18**|**Evolutionary Spiking Neural Networks: A Survey**|Shuaijie Shen et.al.|[2406.12552v1](http://arxiv.org/abs/2406.12552v1)|null|
 |**2024-06-18**|**SFedCA: Credit Assignment-Based Active Client Selection Strategy for Spiking Federated Learning**|Qiugang Zhan et.al.|[2406.12200v1](http://arxiv.org/abs/2406.12200v1)|null|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778v1](http://arxiv.org/abs/2406.11778v1)|null|
-|**2024-06-14**|**Exemplar LCA-Decoder: A Scalable Framework for On-Chip Learning**|Sanaz Mahmoodi Takaghaj et.al.|[2406.10066v1](http://arxiv.org/abs/2406.10066v1)|null|
+|**2024-10-31**|**D-SELD: Dataset-Scalable Exemplar LCA-Decoder**|Sanaz Mahmoodi Takaghaj et.al.|[2406.10066v2](http://arxiv.org/abs/2406.10066v2)|null|
 |**2024-06-14**|**Heterogeneous Federated Learning with Convolutional and Spiking Neural Networks**|Yingchao Yu et.al.|[2406.09680v1](http://arxiv.org/abs/2406.09680v1)|null|
 |**2024-06-12**|**ExoSpikeNet: A Light Curve Analysis Based Spiking Neural Network for Exoplanet Detection**|Maneet Chatterjee et.al.|[2406.07927v1](http://arxiv.org/abs/2406.07927v1)|null|
 |**2024-06-12**|**Self-Distillation Learning Based on Temporal-Spatial Consistency for Spiking Neural Networks**|Lin Zuo et.al.|[2406.07862v1](http://arxiv.org/abs/2406.07862v1)|null|
@@ -1020,5 +1020,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241104>back to top</a>)</p>
 
