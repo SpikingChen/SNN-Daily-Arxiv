@@ -1,4 +1,4 @@
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras**|Roberto Riaño et.al.|[2411.03022v1](http://arxiv.org/abs/2411.03022v1)|null|
+|**2024-11-05**|**SpiDR: A Reconfigurable Digital Compute-in-Memory Spiking Neural Network Accelerator for Event-based Perception**|Deepika Sharma et.al.|[2411.02854v1](http://arxiv.org/abs/2411.02854v1)|null|
 |**2024-11-03**|**Energy-Aware FPGA Implementation of Spiking Neural Network with LIF Neurons**|Asmer Hamid Ali et.al.|[2411.01628v1](http://arxiv.org/abs/2411.01628v1)|null|
 |**2024-11-01**|**Differentiable architecture search with multi-dimensional attention for spiking neural networks**|Yilei Man et.al.|[2411.00902v1](http://arxiv.org/abs/2411.00902v1)|null|
 |**2024-11-01**|**All-Optical Excitable Spiking Laser Neuron in InP Generic Integration Technology**|Lukas Puts et.al.|[2411.00697v1](http://arxiv.org/abs/2411.00697v1)|null|
@@ -1024,5 +1026,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
