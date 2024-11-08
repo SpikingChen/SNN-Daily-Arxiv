@@ -1,4 +1,4 @@
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760v1](http://arxiv.org/abs/2411.04760v1)|null|
+|**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728v1](http://arxiv.org/abs/2411.04728v1)|null|
 |**2024-11-05**|**Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras**|Roberto Riaño et.al.|[2411.03022v1](http://arxiv.org/abs/2411.03022v1)|null|
 |**2024-11-05**|**SpiDR: A Reconfigurable Digital Compute-in-Memory Spiking Neural Network Accelerator for Event-based Perception**|Deepika Sharma et.al.|[2411.02854v1](http://arxiv.org/abs/2411.02854v1)|null|
 |**2024-11-03**|**Energy-Aware FPGA Implementation of Spiking Neural Network with LIF Neurons**|Asmer Hamid Ali et.al.|[2411.01628v1](http://arxiv.org/abs/2411.01628v1)|null|
@@ -43,7 +45,7 @@
 |**2024-10-28**|**Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications**|Mishal Fatima Minhas et.al.|[2410.09218v2](http://arxiv.org/abs/2410.09218v2)|null|
 |**2024-10-11**|**Energy-efficient SNN Architecture using 3nm FinFET Multiport SRAM-based CIM with Online Learning**|Lucas Huijbregts et.al.|[2410.09130v1](http://arxiv.org/abs/2410.09130v1)|null|
 |**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978v1](http://arxiv.org/abs/2410.08978v1)|null|
-|**2024-10-11**|**SpikeBottleNet: Energy Efficient Spike Neural Network Partitioning for Feature Compression in Device-Edge Co-Inference Systems**|Maruf Hassan et.al.|[2410.08673v1](http://arxiv.org/abs/2410.08673v1)|null|
+|**2024-11-07**|**SpikeBottleNet: Spike-Driven Feature Compression Architecture for Edge-Cloud Co-Inference**|Maruf Hassan et.al.|[2410.08673v2](http://arxiv.org/abs/2410.08673v2)|null|
 |**2024-10-15**|**Unsupervised Learning of Spatio-Temporal Patterns in Spiking Neuronal Networks**|Florian Feiler et.al.|[2410.08637v2](http://arxiv.org/abs/2410.08637v2)|**[link](https://github.com/ffeiler/unsupervised_sequence_learning_stp_snn)**|
 |**2024-09-28**|**Improving Spiking Neural Network Accuracy With Color Model Information Encoded Bit Planes**|Nhan T. Luu et.al.|[2410.08229v1](http://arxiv.org/abs/2410.08229v1)|null|
 |**2024-10-10**|**SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**|Haiyang Wang et.al.|[2410.07857v1](http://arxiv.org/abs/2410.07857v1)|**[link](https://github.com/event-ahu/openpar)**|
@@ -1026,5 +1028,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241108>back to top</a>)</p>
 
