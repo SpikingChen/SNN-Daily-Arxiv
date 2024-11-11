@@ -1,4 +1,4 @@
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -47,7 +47,7 @@
 |**2024-10-11**|**Realizing Linear Synaptic Plasticity in Electric Double Layer-Gated Transistors for Improved Predictive Accuracy and Efficiency in Neuromorphic Computing**|Nithil Harris Manimaran et.al.|[2410.08978v1](http://arxiv.org/abs/2410.08978v1)|null|
 |**2024-11-07**|**SpikeBottleNet: Spike-Driven Feature Compression Architecture for Edge-Cloud Co-Inference**|Maruf Hassan et.al.|[2410.08673v2](http://arxiv.org/abs/2410.08673v2)|null|
 |**2024-10-15**|**Unsupervised Learning of Spatio-Temporal Patterns in Spiking Neuronal Networks**|Florian Feiler et.al.|[2410.08637v2](http://arxiv.org/abs/2410.08637v2)|**[link](https://github.com/ffeiler/unsupervised_sequence_learning_stp_snn)**|
-|**2024-09-28**|**Improving Spiking Neural Network Accuracy With Color Model Information Encoded Bit Planes**|Nhan T. Luu et.al.|[2410.08229v1](http://arxiv.org/abs/2410.08229v1)|null|
+|**2024-11-08**|**Improvement of Spiking Neural Network with Bit Planes and Color Models**|Nhan T. Luu et.al.|[2410.08229v2](http://arxiv.org/abs/2410.08229v2)|null|
 |**2024-10-10**|**SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**|Haiyang Wang et.al.|[2410.07857v1](http://arxiv.org/abs/2410.07857v1)|**[link](https://github.com/event-ahu/openpar)**|
 |**2024-10-10**|**Comprehensive Online Training and Deployment for Spiking Neural Networks**|Zecheng Hao et.al.|[2410.07547v1](http://arxiv.org/abs/2410.07547v1)|null|
 |**2024-10-17**|**Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting**|Weixing Zhang et.al.|[2410.07266v3](http://arxiv.org/abs/2410.07266v3)|**[link](https://github.com/zju-bmi-lab/spikinggs)**|
@@ -57,7 +57,7 @@
 |**2024-09-14**|**Multiscale fusion enhanced spiking neural network for invasive BCI neural signal decoding**|Yu Song et.al.|[2410.03533v1](http://arxiv.org/abs/2410.03533v1)|null|
 |**2024-10-30**|**PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks**|Yulong Huang et.al.|[2410.03530v2](http://arxiv.org/abs/2410.03530v2)|null|
 |**2024-10-04**|**The Taiji microresonator as an unidirectional spiking neuron**|Stefano Biasi et.al.|[2410.03257v1](http://arxiv.org/abs/2410.03257v1)|null|
-|**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249v1](http://arxiv.org/abs/2410.02249v1)|null|
+|**2024-11-08**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249v2](http://arxiv.org/abs/2410.02249v2)|null|
 |**2024-10-01**|**An Intrinsically Knowledge-Transferring Developmental Spiking Neural Network for Tactile Classification**|Jiaqi Xing et.al.|[2410.00745v1](http://arxiv.org/abs/2410.00745v1)|null|
 |**2024-10-01**|**Deep activity propagation via weight initialization in spiking neural networks**|Aurora Micheli et.al.|[2410.00580v1](http://arxiv.org/abs/2410.00580v1)|null|
 |**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764v1](http://arxiv.org/abs/2409.19764v1)|null|
@@ -156,7 +156,7 @@
 |**2024-07-29**|**Event-based Optical Flow on Neuromorphic Processor: ANN vs. SNN Comparison based on Activation Sparsification**|Yingfu Xu et.al.|[2407.20421v1](http://arxiv.org/abs/2407.20421v1)|**[link](https://github.com/yingfuxu/ann_vs_snn_evflow)**|
 |**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099v1](http://arxiv.org/abs/2407.20099v1)|**[link](https://github.com/KemingWu/RSC-SNN)**|
 |**2024-10-31**|**To Spike or Not to Spike, that is the Question**|Sanaz Mahmoodi Takaghaj et.al.|[2407.19566v2](http://arxiv.org/abs/2407.19566v2)|null|
-|**2024-07-07**|**Spatio-temporal Structure of Excitation and Inhibition Emerges in Spiking Neural Networks with and without Biologically Plausible Constraints**|Balázs Mészáros et.al.|[2407.18917v1](http://arxiv.org/abs/2407.18917v1)|null|
+|**2024-11-08**|**Learning Delays Through Gradients and Structure: Emergence of Spatiotemporal Patterns in Spiking Neural Networks**|Balázs Mészáros et.al.|[2407.18917v2](http://arxiv.org/abs/2407.18917v2)|**[link](https://github.com/mbalazs98/spatiotemporal)**|
 |**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838v1](http://arxiv.org/abs/2407.18838v1)|null|
 |**2024-07-26**|**Topology Optimization of Random Memristors for Input-Aware Dynamic SNN**|Bo Wang et.al.|[2407.18625v1](http://arxiv.org/abs/2407.18625v1)|null|
 |**2024-08-13**|**Spiking Neural Networks in Vertical Federated Learning: Performance Trade-offs**|Maryam Abbasihafshejani et.al.|[2407.17672v2](http://arxiv.org/abs/2407.17672v2)|null|
@@ -1028,5 +1028,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241111>back to top</a>)</p>
 
