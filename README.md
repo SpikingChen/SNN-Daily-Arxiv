@@ -1,4 +1,4 @@
-## Updated on 2024.11.11
+## Updated on 2024.11.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning**|Ruyin Wan et.al.|[2411.07057v1](http://arxiv.org/abs/2411.07057v1)|null|
+|**2024-11-11**|**Evolving Efficient Genetic Encoding for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2411.06792v1](http://arxiv.org/abs/2411.06792v1)|null|
+|**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613v1](http://arxiv.org/abs/2411.06613v1)|null|
+|**2024-10-29**|**SkipSNN: Efficiently Classifying Spike Trains with Event-attention**|Hang Yin et.al.|[2411.05806v1](http://arxiv.org/abs/2411.05806v1)|**[link](https://github.com/Anonymous6369/SkipSNN)**|
+|**2024-10-28**|**Similarity-based context aware continual learning for spiking neural networks**|Bing Han et.al.|[2411.05802v1](http://arxiv.org/abs/2411.05802v1)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760v1](http://arxiv.org/abs/2411.04760v1)|null|
 |**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728v1](http://arxiv.org/abs/2411.04728v1)|null|
 |**2024-11-05**|**Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras**|Roberto Riaño et.al.|[2411.03022v1](http://arxiv.org/abs/2411.03022v1)|null|
@@ -189,7 +194,7 @@
 |**2024-07-05**|**SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking**|Xingrun Xing et.al.|[2407.04752v1](http://arxiv.org/abs/2407.04752v1)|null|
 |**2024-07-23**|**Event-Based Simulation of Stochastic Memristive Devices for Neuromorphic Computing**|Waleed El-Geresy et.al.|[2407.04718v2](http://arxiv.org/abs/2407.04718v2)|null|
 |**2024-06-05**|**Efficient Hybrid Neuromorphic-Bayesian Model for Olfaction Sensing: Detection and Classification**|Rizwana Kausar et.al.|[2407.04714v1](http://arxiv.org/abs/2407.04714v1)|null|
-|**2024-10-15**|**Enhancing learning in spiking neural networks through neuronal heterogeneity and neuromodulatory signaling**|Alejandro Rodriguez-Garcia et.al.|[2407.04525v3](http://arxiv.org/abs/2407.04525v3)|null|
+|**2024-11-11**|**Enhancing learning in spiking neural networks through neuronal heterogeneity and neuromodulatory signaling**|Alejandro Rodriguez-Garcia et.al.|[2407.04525v4](http://arxiv.org/abs/2407.04525v4)|null|
 |**2024-07-24**|**Natively neuromorphic LMU architecture for encoding-free SNN-based HAR on commercial edge devices**|Vittorio Fra et.al.|[2407.04076v2](http://arxiv.org/abs/2407.04076v2)|null|
 |**2024-07-04**|**Compressed Latent Replays for Lightweight Continual Learning on Spiking Neural Networks**|Alberto Dequino et.al.|[2407.03111v2](http://arxiv.org/abs/2407.03111v2)|**[link](https://github.com/dequino/spiking-compressed-continual-learning)**|
 |**2024-07-01**|**Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network**|Hyunseok Oh et.al.|[2407.01645v1](http://arxiv.org/abs/2407.01645v1)|**[link](https://github.com/snuhcs/snn_signgd)**|
@@ -1028,5 +1033,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
 
