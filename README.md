@@ -1,4 +1,4 @@
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Spike Talk in Power Electronic Grids -- Leveraging Post Moore's Computing Laws**|Yubo Song et.al.|[2411.07654v1](http://arxiv.org/abs/2411.07654v1)|null|
+|**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397v1](http://arxiv.org/abs/2411.07397v1)|null|
 |**2024-11-11**|**Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning**|Ruyin Wan et.al.|[2411.07057v1](http://arxiv.org/abs/2411.07057v1)|null|
 |**2024-11-11**|**Evolving Efficient Genetic Encoding for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2411.06792v1](http://arxiv.org/abs/2411.06792v1)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613v1](http://arxiv.org/abs/2411.06613v1)|null|
@@ -1033,5 +1035,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241113>back to top</a>)</p>
 
