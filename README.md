@@ -1,4 +1,4 @@
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-18**|**Temporal and Spatial Reservoir Ensembling Techniques for Liquid State Machines**|Anmol Biswas et.al.|[2411.11414v1](http://arxiv.org/abs/2411.11414v1)|null|
+|**2024-11-19**|**SNN-Based Online Learning of Concepts and Action Laws in an Open World**|Christel Grimaud et.al.|[2411.12308v1](http://arxiv.org/abs/2411.12308v1)|null|
+|**2024-11-18**|**Temporal and Spatial Reservoir Ensembling Techniques for Liquid State Machines**|Anmol Biswas et.al.|[2411.11414v1](http://arxiv.org/abs/2411.11414v1)|**[link](https://github.com/SNNalgo/snntorch-LSM)**|
 |**2024-11-17**|**STOP: Spatiotemporal Orthogonal Propagation for Weight-Threshold-Leakage Synergistic Training of Deep Spiking Neural Networks**|Haoran Gao et.al.|[2411.11082v1](http://arxiv.org/abs/2411.11082v1)|null|
 |**2024-11-15**|**Brain-inspired Action Generation with Spiking Transformer Diffusion Policy Model**|Qianhao Wang et.al.|[2411.09953v1](http://arxiv.org/abs/2411.09953v1)|null|
 |**2024-11-12**|**Spike Talk in Power Electronic Grids -- Leveraging Post Moore's Computing Laws**|Yubo Song et.al.|[2411.07654v1](http://arxiv.org/abs/2411.07654v1)|null|
@@ -125,7 +126,7 @@
 |**2024-08-27**|**SpikingSSMs: Learning Long Sequences with Sparse and Parallel Spiking State Space Models**|Shuaijie Shen et.al.|[2408.14909v1](http://arxiv.org/abs/2408.14909v1)|null|
 |**2024-08-26**|**Sparsity-Aware Hardware-Software Co-Design of Spiking Neural Networks: An Overview**|Ilkin Aliyev et.al.|[2408.14437v1](http://arxiv.org/abs/2408.14437v1)|null|
 |**2024-08-28**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996v2](http://arxiv.org/abs/2408.13996v2)|null|
-|**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[2408.13379v1](http://arxiv.org/abs/2408.13379v1)|null|
+|**2024-11-18**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks on Loihi 2**|Hyo Jong Chung et.al.|[2408.13379v2](http://arxiv.org/abs/2408.13379v2)|null|
 |**2024-08-23**|**Robust Iterative Value Conversion: Deep Reinforcement Learning for Neurochip-driven Edge Robots**|Yuki Kadokawa et.al.|[2408.13018v1](http://arxiv.org/abs/2408.13018v1)|null|
 |**2024-08-22**|**When In-memory Computing Meets Spiking Neural Networks -- A Perspective on Device-Circuit-System-and-Algorithm Co-design**|Abhishek Moitra et.al.|[2408.12767v1](http://arxiv.org/abs/2408.12767v1)|null|
 |**2024-08-08**|**A frugal Spiking Neural Network for unsupervised classification of continuous multivariate temporal data**|Sai Deepesh Pokala et.al.|[2408.12608v1](http://arxiv.org/abs/2408.12608v1)|null|
@@ -1038,5 +1039,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241119>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241120>back to top</a>)</p>
 
