@@ -1,4 +1,4 @@
-## Updated on 2024.11.25
+## Updated on 2024.11.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training**|Man Yao et.al.|[2411.16061v1](http://arxiv.org/abs/2411.16061v1)|**[link](https://github.com/biclab/spike-driven-transformer-v3)**|
+|**2024-11-23**|**Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture**|Ilkin Aliyev et.al.|[2411.15409v1](http://arxiv.org/abs/2411.15409v1)|null|
 |**2024-11-22**|**Minimizing information loss reduces spiking neuronal networks to differential equations**|Jie Chang et.al.|[2411.14801v1](http://arxiv.org/abs/2411.14801v1)|null|
 |**2024-11-22**|**Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology**|Qian Liang et.al.|[2411.14773v1](http://arxiv.org/abs/2411.14773v1)|null|
 |**2024-11-21**|**Uncertainty Quantification in Working Memory via Moment Neural Networks**|Hengyuan Ma et.al.|[2411.14196v1](http://arxiv.org/abs/2411.14196v1)|**[link](https://github.com/awakermhy/mnn_wm_uq)**|
@@ -1046,5 +1048,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241126>back to top</a>)</p>
 
