@@ -1,4 +1,4 @@
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Storing overlapping associative memories on latent manifolds in low-rank spiking networks**|William F. Podlaski et.al.|[2411.17485v1](http://arxiv.org/abs/2411.17485v1)|null|
+|**2024-11-26**|**SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing**|Wangdan Liao et.al.|[2411.17439v1](http://arxiv.org/abs/2411.17439v1)|null|
+|**2024-11-26**|**Noise Adaptor: Enhancing Low-Latency Spiking Neural Networks through Noise-Injected Low-Bit ANN Conversion**|Chen Li et.al.|[2411.17431v1](http://arxiv.org/abs/2411.17431v1)|null|
+|**2024-11-26**|**Event-based Spiking Neural Networks for Object Detection: A Review of Datasets, Architectures, Learning Rules, and Implementation**|Craig Iaboni et.al.|[2411.17006v1](http://arxiv.org/abs/2411.17006v1)|**[link](https://github.com/radlab-sketch/Event-SNN-Resources)**|
+|**2024-11-22**|**TSkips: Efficiency Through Explicit Temporal Delay Connections in Spiking Neural Networks**|Prajna G. Malettira et.al.|[2411.16711v1](http://arxiv.org/abs/2411.16711v1)|null|
 |**2024-11-25**|**Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training**|Man Yao et.al.|[2411.16061v1](http://arxiv.org/abs/2411.16061v1)|**[link](https://github.com/biclab/spike-driven-transformer-v3)**|
-|**2024-11-23**|**Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture**|Ilkin Aliyev et.al.|[2411.15409v1](http://arxiv.org/abs/2411.15409v1)|null|
+|**2024-11-23**|**Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture**|Ilkin Aliyev et.al.|[2411.15409v1](http://arxiv.org/abs/2411.15409v1)|**[link](https://github.com/githubofaliyev/snn-dse)**|
 |**2024-11-22**|**Minimizing information loss reduces spiking neuronal networks to differential equations**|Jie Chang et.al.|[2411.14801v1](http://arxiv.org/abs/2411.14801v1)|null|
 |**2024-11-22**|**Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology**|Qian Liang et.al.|[2411.14773v1](http://arxiv.org/abs/2411.14773v1)|null|
 |**2024-11-21**|**Uncertainty Quantification in Working Memory via Moment Neural Networks**|Hengyuan Ma et.al.|[2411.14196v1](http://arxiv.org/abs/2411.14196v1)|**[link](https://github.com/awakermhy/mnn_wm_uq)**|
@@ -1048,5 +1053,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
 
