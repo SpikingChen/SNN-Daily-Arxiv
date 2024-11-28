@@ -1,4 +1,4 @@
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272v1](http://arxiv.org/abs/2411.18272v1)|null|
+|**2024-11-27**|**IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce**|Da Chang et.al.|[2411.18250v1](http://arxiv.org/abs/2411.18250v1)|null|
 |**2024-11-26**|**Storing overlapping associative memories on latent manifolds in low-rank spiking networks**|William F. Podlaski et.al.|[2411.17485v1](http://arxiv.org/abs/2411.17485v1)|null|
 |**2024-11-26**|**SpikeAtConv: An Integrated Spiking-Convolutional Attention Architecture for Energy-Efficient Neuromorphic Vision Processing**|Wangdan Liao et.al.|[2411.17439v1](http://arxiv.org/abs/2411.17439v1)|null|
 |**2024-11-26**|**Noise Adaptor: Enhancing Low-Latency Spiking Neural Networks through Noise-Injected Low-Bit ANN Conversion**|Chen Li et.al.|[2411.17431v1](http://arxiv.org/abs/2411.17431v1)|null|
@@ -27,7 +29,7 @@
 |**2024-11-21**|**SpikEmo: Enhancing Emotion Recognition With Spiking Temporal Dynamics in Conversations**|Xiaomin Yu et.al.|[2411.13917v1](http://arxiv.org/abs/2411.13917v1)|**[link](https://github.com/yu-xm/spikemo)**|
 |**2024-11-19**|**SNN-Based Online Learning of Concepts and Action Laws in an Open World**|Christel Grimaud et.al.|[2411.12308v1](http://arxiv.org/abs/2411.12308v1)|null|
 |**2024-11-18**|**Temporal and Spatial Reservoir Ensembling Techniques for Liquid State Machines**|Anmol Biswas et.al.|[2411.11414v1](http://arxiv.org/abs/2411.11414v1)|**[link](https://github.com/SNNalgo/snntorch-LSM)**|
-|**2024-11-17**|**STOP: Spatiotemporal Orthogonal Propagation for Weight-Threshold-Leakage Synergistic Training of Deep Spiking Neural Networks**|Haoran Gao et.al.|[2411.11082v1](http://arxiv.org/abs/2411.11082v1)|null|
+|**2024-11-27**|**STOP: Spatiotemporal Orthogonal Propagation for Weight-Threshold-Leakage Synergistic Training of Deep Spiking Neural Networks**|Haoran Gao et.al.|[2411.11082v2](http://arxiv.org/abs/2411.11082v2)|null|
 |**2024-11-15**|**Brain-inspired Action Generation with Spiking Transformer Diffusion Policy Model**|Qianhao Wang et.al.|[2411.09953v1](http://arxiv.org/abs/2411.09953v1)|null|
 |**2024-11-12**|**Spike Talk in Power Electronic Grids -- Leveraging Post Moore's Computing Laws**|Yubo Song et.al.|[2411.07654v1](http://arxiv.org/abs/2411.07654v1)|null|
 |**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397v1](http://arxiv.org/abs/2411.07397v1)|null|
@@ -150,7 +152,7 @@
 |**2024-08-17**|**Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks**|Yongqi Ding et.al.|[2408.11067v1](http://arxiv.org/abs/2408.11067v1)|null|
 |**2024-08-20**|**Towards Efficient Formal Verification of Spiking Neural Network**|Baekryun Seong et.al.|[2408.10900v1](http://arxiv.org/abs/2408.10900v1)|null|
 |**2024-08-26**|**Obtaining Optimal Spiking Neural Network in Sequence Learning via CRNN-SNN Conversion**|Jiahao Su et.al.|[2408.09403v2](http://arxiv.org/abs/2408.09403v2)|null|
-|**2024-08-17**|**Temporal Reversed Training for Spiking Neural Networks with Generalized Spatio-Temporal Representation**|Lin Zuo et.al.|[2408.09108v1](http://arxiv.org/abs/2408.09108v1)|null|
+|**2024-11-27**|**Temporal Reversed Training for Spiking Neural Networks with Generalized Spatio-Temporal Representation**|Lin Zuo et.al.|[2408.09108v2](http://arxiv.org/abs/2408.09108v2)|null|
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794v1](http://arxiv.org/abs/2408.08794v1)|null|
 |**2024-08-14**|**Analog Spiking Neuron in CMOS 28 nm Towards Large-Scale Neuromorphic Processors**|Marwan Besrour et.al.|[2408.07734v1](http://arxiv.org/abs/2408.07734v1)|null|
 |**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517v1](http://arxiv.org/abs/2408.07517v1)|**[link](https://github.com/IGITUGraz/SE-adlif)**|
@@ -1053,5 +1055,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241128>back to top</a>)</p>
 
