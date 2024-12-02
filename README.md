@@ -1,4 +1,4 @@
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**The role of inhibitory neuronal variability in modulating phase diversity between coupled networks**|Katiele V. P. Brito et.al.|[2411.19664v1](http://arxiv.org/abs/2411.19664v1)|null|
+|**2024-11-29**|**Core Placement Optimization of Many-core Brain-Inspired Near-Storage Systems for Spiking Neural Network Training**|Xueke Zhu et.al.|[2411.19430v1](http://arxiv.org/abs/2411.19430v1)|null|
+|**2024-11-29**|**Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification**|Abhishek Mishra et.al.|[2411.19422v1](http://arxiv.org/abs/2411.19422v1)|null|
+|**2024-11-28**|**Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks**|Davide Cipollini et.al.|[2411.19353v1](http://arxiv.org/abs/2411.19353v1)|null|
+|**2024-11-27**|**Investigating Plausibility of Biologically Inspired Bayesian Learning in ANNs**|Ram Zaveri et.al.|[2411.18788v1](http://arxiv.org/abs/2411.18788v1)|null|
 |**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272v1](http://arxiv.org/abs/2411.18272v1)|null|
 |**2024-11-27**|**IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce**|Da Chang et.al.|[2411.18250v1](http://arxiv.org/abs/2411.18250v1)|null|
 |**2024-11-26**|**Storing overlapping associative memories on latent manifolds in low-rank spiking networks**|William F. Podlaski et.al.|[2411.17485v1](http://arxiv.org/abs/2411.17485v1)|null|
@@ -1055,5 +1060,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241202>back to top</a>)</p>
 
