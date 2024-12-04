@@ -1,4 +1,4 @@
-## Updated on 2024.12.03
+## Updated on 2024.12.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|null|
+|**2024-12-02**|**Gated Parametric Neuron for Spike-based Audio Recognition**|Haoran Wang et.al.|[2412.01087v1](http://arxiv.org/abs/2412.01087v1)|null|
+|**2024-11-29**|**Average-Over-Time Spiking Neural Networks for Uncertainty Estimation in Regression**|Tao Sun et.al.|[2412.00278v1](http://arxiv.org/abs/2412.00278v1)|null|
+|**2024-11-29**|**Hybrid Spiking Neural Network -- Transformer Video Classification Model**|Aaron Bateni et.al.|[2412.00237v1](http://arxiv.org/abs/2412.00237v1)|null|
 |**2024-11-29**|**The role of inhibitory neuronal variability in modulating phase diversity between coupled networks**|Katiele V. P. Brito et.al.|[2411.19664v1](http://arxiv.org/abs/2411.19664v1)|null|
 |**2024-11-29**|**Core Placement Optimization of Many-core Brain-Inspired Near-Storage Systems for Spiking Neural Network Training**|Xueke Zhu et.al.|[2411.19430v1](http://arxiv.org/abs/2411.19430v1)|null|
 |**2024-11-29**|**Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification**|Abhishek Mishra et.al.|[2411.19422v1](http://arxiv.org/abs/2411.19422v1)|**[link](https://github.com/abhishekkumarm98/Wafer2Spike)**|
@@ -82,7 +86,7 @@
 |**2024-11-08**|**Improvement of Spiking Neural Network with Bit Planes and Color Models**|Nhan T. Luu et.al.|[2410.08229v2](http://arxiv.org/abs/2410.08229v2)|null|
 |**2024-10-10**|**SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**|Haiyang Wang et.al.|[2410.07857v1](http://arxiv.org/abs/2410.07857v1)|**[link](https://github.com/event-ahu/openpar)**|
 |**2024-10-10**|**Comprehensive Online Training and Deployment for Spiking Neural Networks**|Zecheng Hao et.al.|[2410.07547v1](http://arxiv.org/abs/2410.07547v1)|null|
-|**2024-11-28**|**Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting**|Weixing Zhang et.al.|[2410.07266v4](http://arxiv.org/abs/2410.07266v4)|**[link](https://github.com/zju-bmi-lab/spikinggs)**|
+|**2024-12-03**|**Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting**|Weixing Zhang et.al.|[2410.07266v5](http://arxiv.org/abs/2410.07266v5)|**[link](https://github.com/zju-bmi-lab/spikinggs)**|
 |**2024-10-25**|**MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals**|Ajay B S et.al.|[2410.04992v3](http://arxiv.org/abs/2410.04992v3)|null|
 |**2024-10-07**|**Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet**|Xiang Hao et.al.|[2410.04785v1](http://arxiv.org/abs/2410.04785v1)|**[link](https://github.com/haoxiangsnr/spiking-fullsubnet)**|
 |**2024-10-04**|**A low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657v1](http://arxiv.org/abs/2410.03657v1)|null|
@@ -1060,5 +1064,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
 
