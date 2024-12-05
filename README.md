@@ -1,4 +1,4 @@
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Short-reach Optical Communications: A Real-world Task for Neuromorphic Hardware**|Elias Arnold et.al.|[2412.03129v1](http://arxiv.org/abs/2412.03129v1)|null|
+|**2024-12-04**|**Integrating programmable plasticity in experiment descriptions for analog neuromorphic hardware**|Philipp Spilger et.al.|[2412.03128v1](http://arxiv.org/abs/2412.03128v1)|null|
 |**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293v1](http://arxiv.org/abs/2412.02293v1)|null|
 |**2024-12-02**|**Gated Parametric Neuron for Spike-based Audio Recognition**|Haoran Wang et.al.|[2412.01087v1](http://arxiv.org/abs/2412.01087v1)|null|
 |**2024-11-29**|**Average-Over-Time Spiking Neural Networks for Uncertainty Estimation in Regression**|Tao Sun et.al.|[2412.00278v1](http://arxiv.org/abs/2412.00278v1)|null|
@@ -18,7 +20,7 @@
 |**2024-11-29**|**The role of inhibitory neuronal variability in modulating phase diversity between coupled networks**|Katiele V. P. Brito et.al.|[2411.19664v1](http://arxiv.org/abs/2411.19664v1)|null|
 |**2024-11-29**|**Core Placement Optimization of Many-core Brain-Inspired Near-Storage Systems for Spiking Neural Network Training**|Xueke Zhu et.al.|[2411.19430v1](http://arxiv.org/abs/2411.19430v1)|null|
 |**2024-11-29**|**Wafer2Spike: Spiking Neural Network for Wafer Map Pattern Classification**|Abhishek Mishra et.al.|[2411.19422v1](http://arxiv.org/abs/2411.19422v1)|**[link](https://github.com/abhishekkumarm98/Wafer2Spike)**|
-|**2024-11-28**|**Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks**|Davide Cipollini et.al.|[2411.19353v1](http://arxiv.org/abs/2411.19353v1)|null|
+|**2024-11-28**|**Fused-MemBrain: a spiking processor combining CMOS and self-assembled memristive networks**|Davide Cipollini et.al.|[2411.19353v1](http://arxiv.org/abs/2411.19353v1)|**[link](https://github.com/CipolliniDavide/FusedMemBrain)**|
 |**2024-11-27**|**Investigating Plausibility of Biologically Inspired Bayesian Learning in ANNs**|Ram Zaveri et.al.|[2411.18788v1](http://arxiv.org/abs/2411.18788v1)|null|
 |**2024-11-27**|**NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware**|Shubham Pande et.al.|[2411.18272v1](http://arxiv.org/abs/2411.18272v1)|null|
 |**2024-11-27**|**IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce**|Da Chang et.al.|[2411.18250v1](http://arxiv.org/abs/2411.18250v1)|null|
@@ -140,7 +142,7 @@
 |**2024-08-31**|**Digit Recognition using Multimodal Spiking Neural Networks**|William Bjorndahl et.al.|[2409.00552v1](http://arxiv.org/abs/2409.00552v1)|null|
 |**2024-08-19**|**A More Accurate Approximation of Activation Function with Few Spikes Neurons**|Dayena Jeong et.al.|[2409.00044v1](http://arxiv.org/abs/2409.00044v1)|null|
 |**2024-08-16**|**TACOS: Task Agnostic Continual Learning in Spiking Neural Networks**|Nicholas Soures et.al.|[2409.00021v1](http://arxiv.org/abs/2409.00021v1)|null|
-|**2024-08-30**|**Stepwise Weighted Spike Coding for Deep Spiking Neural Networks**|Yiwen Gu et.al.|[2408.17245v1](http://arxiv.org/abs/2408.17245v1)|null|
+|**2024-12-04**|**Canonic Signed Spike Coding for Efficient Spiking Neural Networks**|Yiwen Gu et.al.|[2408.17245v2](http://arxiv.org/abs/2408.17245v2)|null|
 |**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754v1](http://arxiv.org/abs/2408.16754v1)|**[link](https://github.com/AdamDHines/LENS)**|
 |**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu et.al.|[2408.16564v1](http://arxiv.org/abs/2408.16564v1)|null|
 |**2024-08-29**|**Spiking Diffusion Models**|Jiahang Cao et.al.|[2408.16467v1](http://arxiv.org/abs/2408.16467v1)|**[link](https://github.com/andycao1125/sdm)**|
@@ -1064,5 +1066,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
 
