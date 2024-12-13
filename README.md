@@ -1,4 +1,4 @@
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning**|Isha Jain et.al.|[2412.09379v1](http://arxiv.org/abs/2412.09379v1)|null|
+|**2024-12-12**|**Distribution free uncertainty quantification in neuroscience-inspired deep operators**|Shailesh Garg et.al.|[2412.09369v1](http://arxiv.org/abs/2412.09369v1)|null|
+|**2024-12-12**|**High-Speed Time Series Prediction with a GHz-rate Photonic Spiking Neural Network built with a single VCSEL**|Dafydd Owen-Newns et.al.|[2412.09233v1](http://arxiv.org/abs/2412.09233v1)|null|
+|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209v1](http://arxiv.org/abs/2412.09209v1)|null|
+|**2024-12-12**|**Training Physical Neural Networks for Analog In-Memory Computing**|Yusuke Sakemi et.al.|[2412.09010v1](http://arxiv.org/abs/2412.09010v1)|null|
 |**2024-12-10**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360v1](http://arxiv.org/abs/2412.07360v1)|null|
 |**2024-11-22**|**SpikeFI: A Fault Injection Framework for Spiking Neural Networks**|Theofilos Spyrou et.al.|[2412.06795v1](http://arxiv.org/abs/2412.06795v1)|null|
-|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647v1](http://arxiv.org/abs/2412.06647v1)|null|
+|**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647v1](http://arxiv.org/abs/2412.06647v1)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2024-12-09**|**Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching**|Yifan Huang et.al.|[2412.06355v1](http://arxiv.org/abs/2412.06355v1)|null|
 |**2024-12-09**|**Spiking Neural Networks for Radio Frequency Interference Detection in Radio Astronomy**|Nicholas J. Pritchard et.al.|[2412.06124v1](http://arxiv.org/abs/2412.06124v1)|null|
 |**2024-12-07**|**Towards 3D Acceleration for low-power Mixture-of-Experts and Multi-Head Attention Spiking Transformers**|Boxun Xu et.al.|[2412.05540v1](http://arxiv.org/abs/2412.05540v1)|null|
@@ -1076,5 +1081,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241213>back to top</a>)</p>
 
