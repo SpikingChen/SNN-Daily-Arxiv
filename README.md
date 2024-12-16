@@ -1,4 +1,4 @@
-## Updated on 2024.12.15
+## Updated on 2024.12.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning**|Yi Gu et.al.|[2412.09881v1](http://arxiv.org/abs/2412.09881v1)|null|
 |**2024-12-12**|**Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning**|Isha Jain et.al.|[2412.09379v1](http://arxiv.org/abs/2412.09379v1)|null|
 |**2024-12-12**|**Distribution free uncertainty quantification in neuroscience-inspired deep operators**|Shailesh Garg et.al.|[2412.09369v1](http://arxiv.org/abs/2412.09369v1)|null|
 |**2024-12-12**|**High-Speed Time Series Prediction with a GHz-rate Photonic Spiking Neural Network built with a single VCSEL**|Dafydd Owen-Newns et.al.|[2412.09233v1](http://arxiv.org/abs/2412.09233v1)|null|
@@ -1081,5 +1082,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241216>back to top</a>)</p>
 
