@@ -1,4 +1,4 @@
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810v1](http://arxiv.org/abs/2412.11810v1)|null|
+|**2024-12-16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|Xiaoyin Yang et.al.|[2412.11753v1](http://arxiv.org/abs/2412.11753v1)|**[link](https://github.com/tooyoungalex/aaai25-drivegazen)**|
+|**2024-12-15**|**Deployment Pipeline from Rockpool to Xylo for Edge Computing**|Peng Zhou et.al.|[2412.11047v1](http://arxiv.org/abs/2412.11047v1)|null|
+|**2024-12-14**|**Vertically Integrated Dual-memtransistor Enabled Reconfigurable Heterosynaptic Sensorimotor Networks and In-memory Neuromorphic Computing**|Srilagna Sahoo et.al.|[2412.10757v1](http://arxiv.org/abs/2412.10757v1)|null|
+|**2024-11-30**|**The Reliability Issue in ReRam-based CIM Architecture for SNN: A Survey**|Wei-Ting Chen et.al.|[2412.10389v1](http://arxiv.org/abs/2412.10389v1)|null|
 |**2024-12-13**|**Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning**|Yi Gu et.al.|[2412.09881v1](http://arxiv.org/abs/2412.09881v1)|null|
 |**2024-12-12**|**Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning**|Isha Jain et.al.|[2412.09379v1](http://arxiv.org/abs/2412.09379v1)|null|
 |**2024-12-12**|**Distribution free uncertainty quantification in neuroscience-inspired deep operators**|Shailesh Garg et.al.|[2412.09369v1](http://arxiv.org/abs/2412.09369v1)|null|
@@ -1082,5 +1087,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241217>back to top</a>)</p>
 
