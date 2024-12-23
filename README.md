@@ -1,4 +1,4 @@
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**How connection probability shapes fluctuations of neural population dynamics**|Nils E. Greven et.al.|[2412.16111v1](http://arxiv.org/abs/2412.16111v1)|null|
+|**2024-12-20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|Alexander von Bank et.al.|[2412.15897v1](http://arxiv.org/abs/2412.15897v1)|null|
+|**2024-12-20**|**Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model**|Xin Du et.al.|[2412.15634v1](http://arxiv.org/abs/2412.15634v1)|null|
 |**2024-12-19**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Béna Gabriel et.al.|[2412.15021v1](http://arxiv.org/abs/2412.15021v1)|null|
 |**2024-12-19**|**Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation**|Zhenxin Lei et.al.|[2412.14587v1](http://arxiv.org/abs/2412.14587v1)|null|
 |**2024-12-18**|**Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation**|Zecheng Hao et.al.|[2412.13610v1](http://arxiv.org/abs/2412.13610v1)|null|
@@ -1095,5 +1098,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241223>back to top</a>)</p>
 
