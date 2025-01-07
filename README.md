@@ -1,4 +1,4 @@
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**Spiking monocular event based 6D pose estimation for space application**|Jonathan Courtois et.al.|[2501.02916v1](http://arxiv.org/abs/2501.02916v1)|null|
 |**2025-01-02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|Chen Shang et.al.|[2501.01038v1](http://arxiv.org/abs/2501.01038v1)|null|
 |**2025-01-01**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813v1](http://arxiv.org/abs/2501.00813v1)|null|
 |**2024-12-31**|**Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification**|Qi Zhang et.al.|[2501.00348v1](http://arxiv.org/abs/2501.00348v1)|null|
@@ -1109,5 +1110,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250107>back to top</a>)</p>
 
