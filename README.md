@@ -1,4 +1,4 @@
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|Di Hong et.al.|[2501.08049v1](http://arxiv.org/abs/2501.08049v1)|null|
+|**2025-01-14**|**Spiking Neural Network Accelerator Architecture for Differential-Time Representation using Learned Encoding**|Daniel Windhager et.al.|[2501.07952v1](http://arxiv.org/abs/2501.07952v1)|null|
+|**2025-01-13**|**Energy-Efficient Cryogenic Neuromorphic Network with Superconducting Memristor**|Md Mazharul Islam et.al.|[2501.07683v1](http://arxiv.org/abs/2501.07683v1)|null|
 |**2025-01-13**|**Efficient Event-based Delay Learning in Spiking Neural Networks**|Balázs Mészáros et.al.|[2501.07331v1](http://arxiv.org/abs/2501.07331v1)|null|
 |**2025-01-12**|**Temporal-Aware Spiking Transformer Hashing Based on 3D-DWT**|Zihao Mei et.al.|[2501.06786v1](http://arxiv.org/abs/2501.06786v1)|null|
 |**2025-01-10**|**Binary Event-Driven Spiking Transformer**|Honglin Cao et.al.|[2501.05904v1](http://arxiv.org/abs/2501.05904v1)|null|
@@ -82,7 +85,7 @@
 |**2024-11-25**|**Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training**|Man Yao et.al.|[2411.16061v1](http://arxiv.org/abs/2411.16061v1)|**[link](https://github.com/biclab/spike-driven-transformer-v3)**|
 |**2024-11-23**|**Exploring the Sparsity-Quantization Interplay on a Novel Hybrid SNN Event-Driven Architecture**|Ilkin Aliyev et.al.|[2411.15409v1](http://arxiv.org/abs/2411.15409v1)|**[link](https://github.com/githubofaliyev/snn-dse)**|
 |**2024-11-22**|**Minimizing information loss reduces spiking neuronal networks to differential equations**|Jie Chang et.al.|[2411.14801v1](http://arxiv.org/abs/2411.14801v1)|**[link](https://github.com/changjie98/dsODE)**|
-|**2024-11-22**|**Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology**|Qian Liang et.al.|[2411.14773v1](http://arxiv.org/abs/2411.14773v1)|null|
+|**2025-01-14**|**Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology**|Qian Liang et.al.|[2411.14773v2](http://arxiv.org/abs/2411.14773v2)|null|
 |**2024-11-21**|**Uncertainty Quantification in Working Memory via Moment Neural Networks**|Hengyuan Ma et.al.|[2411.14196v1](http://arxiv.org/abs/2411.14196v1)|**[link](https://github.com/awakermhy/mnn_wm_uq)**|
 |**2024-11-21**|**Spiking neural networks: Towards bio-inspired multimodal perception in robotics**|Katerina Maria Oikonomou et.al.|[2411.14147v1](http://arxiv.org/abs/2411.14147v1)|null|
 |**2024-11-21**|**Hybrid-Neuromorphic Approach for Underwater Robotics Applications: A Conceptual Framework**|Vidya Sudevan et.al.|[2411.13962v1](http://arxiv.org/abs/2411.13962v1)|null|
@@ -110,7 +113,7 @@
 |**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166v1](http://arxiv.org/abs/2410.24166v1)|**[link](https://github.com/christianbresciani/nscep-spiking-NN)**|
 |**2024-10-31**|**Collective dynamics in spiking neural networks: A systematic review**|Afifurrahman et.al.|[2410.23876v1](http://arxiv.org/abs/2410.23876v1)|null|
 |**2024-10-31**|**Neurobench: DCASE 2020 Acoustic Scene Classification benchmark on XyloAudio 2**|Weijie Ke et.al.|[2410.23776v1](http://arxiv.org/abs/2410.23776v1)|null|
-|**2024-10-31**|**Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins**|Chen Shang et.al.|[2410.23639v1](http://arxiv.org/abs/2410.23639v1)|null|
+|**2025-01-14**|**Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins**|Chen Shang et.al.|[2410.23639v2](http://arxiv.org/abs/2410.23639v2)|null|
 |**2024-10-31**|**ETTFS: An Efficient Training Framework for Time-to-First-Spike Neuron**|Kaiwei Che et.al.|[2410.23619v1](http://arxiv.org/abs/2410.23619v1)|null|
 |**2024-10-30**|**An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Weight/Output Stationarity**|Nicolas Chauvaux et.al.|[2410.23082v1](http://arxiv.org/abs/2410.23082v1)|null|
 |**2024-10-25**|**A prescriptive theory for brain-like inference**|Hadi Vafaii et.al.|[2410.19315v1](http://arxiv.org/abs/2410.19315v1)|null|
@@ -1116,5 +1119,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250115>back to top</a>)</p>
 
