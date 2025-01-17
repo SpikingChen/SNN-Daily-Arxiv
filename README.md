@@ -1,4 +1,4 @@
-## Updated on 2025.01.16
+## Updated on 2025.01.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Causal Spike Timing Dependent Plasticity Prevents Assembly Fusion in Recurrent Networks**|Xinruo Yang et.al.|[2501.09296v1](http://arxiv.org/abs/2501.09296v1)|null|
 |**2025-01-15**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|Joshua Nardone et.al.|[2501.08645v1](http://arxiv.org/abs/2501.08645v1)|null|
 |**2025-01-14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|Di Hong et.al.|[2501.08049v1](http://arxiv.org/abs/2501.08049v1)|null|
 |**2025-01-14**|**Spiking Neural Network Accelerator Architecture for Differential-Time Representation using Learned Encoding**|Daniel Windhager et.al.|[2501.07952v1](http://arxiv.org/abs/2501.07952v1)|null|
@@ -1120,5 +1121,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250117>back to top</a>)</p>
 
