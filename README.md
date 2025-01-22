@@ -1,4 +1,4 @@
-## Updated on 2025.01.21
+## Updated on 2025.01.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554v1](http://arxiv.org/abs/2501.11554v1)|null|
+|**2025-01-10**|**Delay Neural Networks (DeNN) for exploiting temporal information in event-based datasets**|Alban Gattepaille et.al.|[2501.10425v1](http://arxiv.org/abs/2501.10425v1)|null|
 |**2025-01-16**|**Causal Spike Timing Dependent Plasticity Prevents Assembly Fusion in Recurrent Networks**|Xinruo Yang et.al.|[2501.09296v1](http://arxiv.org/abs/2501.09296v1)|null|
 |**2025-01-15**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|Joshua Nardone et.al.|[2501.08645v1](http://arxiv.org/abs/2501.08645v1)|null|
 |**2025-01-14**|**Self-Attentive Spatio-Temporal Calibration for Precise Intermediate Layer Matching in ANN-to-SNN Distillation**|Di Hong et.al.|[2501.08049v1](http://arxiv.org/abs/2501.08049v1)|null|
@@ -32,7 +34,7 @@
 |**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654v1](http://arxiv.org/abs/2412.17654v1)|null|
 |**2024-12-23**|**HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics**|Murat Isik et.al.|[2412.17571v1](http://arxiv.org/abs/2412.17571v1)|null|
 |**2024-12-23**|**Evaluation of Bio-Inspired Models under Different Learning Settings For Energy Efficiency in Network Traffic Prediction**|Theodoros Tsiolakis et.al.|[2412.17565v1](http://arxiv.org/abs/2412.17565v1)|null|
-|**2024-12-23**|**FedLEC: Effective Federated Learning Algorithm with Spiking Neural Networks Under Label Skews**|Di Yu et.al.|[2412.17305v1](http://arxiv.org/abs/2412.17305v1)|null|
+|**2025-01-19**|**Exploiting Label Skewness for Spiking Neural Networks in Federated Learning**|Di Yu et.al.|[2412.17305v2](http://arxiv.org/abs/2412.17305v2)|null|
 |**2024-12-18**|**Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network**|Ziqing Wang et.al.|[2412.16219v1](http://arxiv.org/abs/2412.16219v1)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2024-12-20**|**How connection probability shapes fluctuations of neural population dynamics**|Nils E. Greven et.al.|[2412.16111v1](http://arxiv.org/abs/2412.16111v1)|null|
 |**2024-12-20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|Alexander von Bank et.al.|[2412.15897v1](http://arxiv.org/abs/2412.15897v1)|null|
@@ -44,7 +46,7 @@
 |**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858v1](http://arxiv.org/abs/2412.12858v1)|null|
 |**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843v1](http://arxiv.org/abs/2412.12843v1)|null|
 |**2024-12-17**|**ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning**|Wenyao Ni et.al.|[2412.12696v1](http://arxiv.org/abs/2412.12696v1)|null|
-|**2024-12-18**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525v2](http://arxiv.org/abs/2412.12525v2)|**[link](https://github.com/shen-aoyu/CREST)**|
+|**2025-01-19**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525v3](http://arxiv.org/abs/2412.12525v3)|**[link](https://github.com/shen-aoyu/CREST)**|
 |**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810v1](http://arxiv.org/abs/2412.11810v1)|null|
 |**2024-12-16**|**DriveGazen: Event-Based Driving Status Recognition using Conventional Camera**|Xiaoyin Yang et.al.|[2412.11753v1](http://arxiv.org/abs/2412.11753v1)|**[link](https://github.com/tooyoungalex/aaai25-drivegazen)**|
 |**2024-12-15**|**Deployment Pipeline from Rockpool to Xylo for Edge Computing**|Peng Zhou et.al.|[2412.11047v1](http://arxiv.org/abs/2412.11047v1)|null|
@@ -1121,5 +1123,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250121>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250122>back to top</a>)</p>
 
