@@ -1,4 +1,4 @@
-## Updated on 2025.01.24
+## Updated on 2025.01.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -32,7 +32,7 @@
 |**2025-01-02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|Chen Shang et.al.|[2501.01038v1](http://arxiv.org/abs/2501.01038v1)|null|
 |**2025-01-01**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813v1](http://arxiv.org/abs/2501.00813v1)|null|
 |**2024-12-31**|**Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification**|Qi Zhang et.al.|[2501.00348v1](http://arxiv.org/abs/2501.00348v1)|null|
-|**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714v1](http://arxiv.org/abs/2412.20714v1)|**[link](https://github.com/1439278026/lss-ca-snn)**|
+|**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714v1](http://arxiv.org/abs/2412.20714v1)|null|
 |**2024-12-23**|**TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering**|Prabhu Vellaisamy et.al.|[2412.17977v1](http://arxiv.org/abs/2412.17977v1)|null|
 |**2024-12-23**|**Contemporary implementations of spiking bio-inspired neural networks**|Andrey E. Schegolev et.al.|[2412.17926v1](http://arxiv.org/abs/2412.17926v1)|null|
 |**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654v1](http://arxiv.org/abs/2412.17654v1)|null|
@@ -44,7 +44,7 @@
 |**2024-12-20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|Alexander von Bank et.al.|[2412.15897v1](http://arxiv.org/abs/2412.15897v1)|null|
 |**2024-12-20**|**Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model**|Xin Du et.al.|[2412.15634v1](http://arxiv.org/abs/2412.15634v1)|**[link](https://github.com/zju-bmi-lab/DarwinKit)**|
 |**2025-01-03**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Gabriel Béna et.al.|[2412.15021v2](http://arxiv.org/abs/2412.15021v2)|null|
-|**2024-12-19**|**Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation**|Zhenxin Lei et.al.|[2412.14587v1](http://arxiv.org/abs/2412.14587v1)|null|
+|**2024-12-19**|**Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation**|Zhenxin Lei et.al.|[2412.14587v1](http://arxiv.org/abs/2412.14587v1)|**[link](https://github.com/biclab/spike2former)**|
 |**2024-12-18**|**Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation**|Zecheng Hao et.al.|[2412.13610v1](http://arxiv.org/abs/2412.13610v1)|null|
 |**2024-12-18**|**Combining Aggregated Attention and Transformer Architecture for Accurate and Efficient Performance of Spiking Neural Networks**|Hangming Zhang et.al.|[2412.13553v1](http://arxiv.org/abs/2412.13553v1)|null|
 |**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858v1](http://arxiv.org/abs/2412.12858v1)|null|
@@ -1127,5 +1127,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250125>back to top</a>)</p>
 
