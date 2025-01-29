@@ -1,4 +1,4 @@
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745v1](http://arxiv.org/abs/2501.16745v1)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995v1](http://arxiv.org/abs/2501.15995v1)|null|
 |**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925v1](http://arxiv.org/abs/2501.15925v1)|null|
 |**2025-01-27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|Xiaopeng Lin et.al.|[2501.15808v1](http://arxiv.org/abs/2501.15808v1)|null|
 |**2025-01-25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|Farah Baracat et.al.|[2501.15347v1](http://arxiv.org/abs/2501.15347v1)|null|
-|**2025-01-25**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|Yimeng Fan et.al.|[2501.15151v1](http://arxiv.org/abs/2501.15151v1)|**[link](https://github.com/yimeng-fan/spikssd)**|
+|**2025-01-28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|Yimeng Fan et.al.|[2501.15151v2](http://arxiv.org/abs/2501.15151v2)|**[link](https://github.com/yimeng-fan/spikssd)**|
 |**2024-12-19**|**Neuromorphic Spiking Neural Network Based Classification of COVID-19 Spike Sequences**|Taslim Murad et.al.|[2501.14746v1](http://arxiv.org/abs/2501.14746v1)|null|
 |**2024-12-15**|**FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks**|Kairong Yu et.al.|[2501.14744v1](http://arxiv.org/abs/2501.14744v1)|**[link](https://github.com/yukairong/fsta-snn)**|
 |**2025-01-24**|**A Recurrent Spiking Network with Hierarchical Intrinsic Excitability Modulation for Schema Learning**|Yingchao Yu et.al.|[2501.14539v1](http://arxiv.org/abs/2501.14539v1)|null|
@@ -163,7 +164,7 @@
 |**2024-12-03**|**Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting**|Weixing Zhang et.al.|[2410.07266v5](http://arxiv.org/abs/2410.07266v5)|**[link](https://github.com/zju-bmi-lab/spikinggs)**|
 |**2024-10-25**|**MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals**|Ajay B S et.al.|[2410.04992v3](http://arxiv.org/abs/2410.04992v3)|null|
 |**2024-10-07**|**Towards Ultra-Low-Power Neuromorphic Speech Enhancement with Spiking-FullSubNet**|Xiang Hao et.al.|[2410.04785v1](http://arxiv.org/abs/2410.04785v1)|**[link](https://github.com/haoxiangsnr/spiking-fullsubnet)**|
-|**2024-10-04**|**A low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657v1](http://arxiv.org/abs/2410.03657v1)|null|
+|**2025-01-28**|**Low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657v2](http://arxiv.org/abs/2410.03657v2)|null|
 |**2024-09-14**|**Multiscale fusion enhanced spiking neural network for invasive BCI neural signal decoding**|Yu Song et.al.|[2410.03533v1](http://arxiv.org/abs/2410.03533v1)|null|
 |**2024-10-30**|**PRF: Parallel Resonate and Fire Neuron for Long Sequence Learning in Spiking Neural Networks**|Yulong Huang et.al.|[2410.03530v2](http://arxiv.org/abs/2410.03530v2)|null|
 |**2024-10-04**|**The Taiji microresonator as an unidirectional spiking neuron**|Stefano Biasi et.al.|[2410.03257v1](http://arxiv.org/abs/2410.03257v1)|null|
@@ -1138,5 +1139,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
 
