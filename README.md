@@ -1,4 +1,4 @@
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|Ahmed Sharshar et.al.|[2501.17699v1](http://arxiv.org/abs/2501.17699v1)|**[link](https://github.com/ahmed-sharshar/respirodynamics)**|
+|**2025-01-23**|**Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm**|Daniel Casanueva-Morato et.al.|[2501.17172v1](http://arxiv.org/abs/2501.17172v1)|null|
 |**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745v1](http://arxiv.org/abs/2501.16745v1)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995v1](http://arxiv.org/abs/2501.15995v1)|null|
 |**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925v1](http://arxiv.org/abs/2501.15925v1)|null|
@@ -55,7 +57,7 @@
 |**2024-12-20**|**How connection probability shapes fluctuations of neural population dynamics**|Nils E. Greven et.al.|[2412.16111v1](http://arxiv.org/abs/2412.16111v1)|null|
 |**2024-12-20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|Alexander von Bank et.al.|[2412.15897v1](http://arxiv.org/abs/2412.15897v1)|null|
 |**2024-12-20**|**Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model**|Xin Du et.al.|[2412.15634v1](http://arxiv.org/abs/2412.15634v1)|**[link](https://github.com/zju-bmi-lab/DarwinKit)**|
-|**2025-01-03**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Gabriel Béna et.al.|[2412.15021v2](http://arxiv.org/abs/2412.15021v2)|null|
+|**2025-01-28**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Gabriel Béna et.al.|[2412.15021v3](http://arxiv.org/abs/2412.15021v3)|null|
 |**2024-12-19**|**Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation**|Zhenxin Lei et.al.|[2412.14587v1](http://arxiv.org/abs/2412.14587v1)|**[link](https://github.com/biclab/spike2former)**|
 |**2024-12-18**|**Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation**|Zecheng Hao et.al.|[2412.13610v1](http://arxiv.org/abs/2412.13610v1)|null|
 |**2024-12-18**|**Combining Aggregated Attention and Transformer Architecture for Accurate and Efficient Performance of Spiking Neural Networks**|Hangming Zhang et.al.|[2412.13553v1](http://arxiv.org/abs/2412.13553v1)|null|
@@ -1139,5 +1141,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250130>back to top</a>)</p>
 
