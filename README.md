@@ -1,4 +1,4 @@
-## Updated on 2025.02.03
+## Updated on 2025.02.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -29,7 +29,7 @@
 |**2024-12-15**|**FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks**|Kairong Yu et.al.|[2501.14744v1](http://arxiv.org/abs/2501.14744v1)|**[link](https://github.com/yukairong/fsta-snn)**|
 |**2025-01-24**|**A Recurrent Spiking Network with Hierarchical Intrinsic Excitability Modulation for Schema Learning**|Yingchao Yu et.al.|[2501.14539v1](http://arxiv.org/abs/2501.14539v1)|null|
 |**2025-01-24**|**Channel-wise Parallelizable Spiking Neuron with Multiplication-free Dynamics and Large Temporal Receptive Fields**|Peng Xue et.al.|[2501.14490v1](http://arxiv.org/abs/2501.14490v1)|null|
-|**2025-01-24**|**$SpikePack$: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484v1](http://arxiv.org/abs/2501.14484v1)|null|
+|**2025-02-02**|**$SpikePack$: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484v2](http://arxiv.org/abs/2501.14484v2)|null|
 |**2025-01-24**|**Ultrafast neural sampling with spiking nanolasers**|Ivan K. Boikov et.al.|[2501.14446v1](http://arxiv.org/abs/2501.14446v1)|null|
 |**2025-01-23**|**Spikes can transmit neurons' subthreshold membrane potentials**|Valentin Schmutz et.al.|[2501.13845v1](http://arxiv.org/abs/2501.13845v1)|null|
 |**2025-01-25**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492v2](http://arxiv.org/abs/2501.13492v2)|**[link](https://github.com/bollossom/qsd-transformer)**|
@@ -131,7 +131,7 @@
 |**2024-10-29**|**SkipSNN: Efficiently Classifying Spike Trains with Event-attention**|Hang Yin et.al.|[2411.05806v1](http://arxiv.org/abs/2411.05806v1)|**[link](https://github.com/Anonymous6369/SkipSNN)**|
 |**2024-10-28**|**Similarity-based context aware continual learning for spiking neural networks**|Bing Han et.al.|[2411.05802v1](http://arxiv.org/abs/2411.05802v1)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760v1](http://arxiv.org/abs/2411.04760v1)|null|
-|**2024-11-07**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728v1](http://arxiv.org/abs/2411.04728v1)|null|
+|**2025-02-03**|**Neuromorphic Wireless Split Computing with Multi-Level Spikes**|Dengyu Wu et.al.|[2411.04728v2](http://arxiv.org/abs/2411.04728v2)|**[link](https://github.com/kclip/neurocomm-msnn)**|
 |**2024-11-05**|**Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras**|Roberto Riaño et.al.|[2411.03022v1](http://arxiv.org/abs/2411.03022v1)|null|
 |**2024-11-05**|**SpiDR: A Reconfigurable Digital Compute-in-Memory Spiking Neural Network Accelerator for Event-based Perception**|Deepika Sharma et.al.|[2411.02854v1](http://arxiv.org/abs/2411.02854v1)|null|
 |**2024-11-03**|**Energy-Aware FPGA Implementation of Spiking Neural Network with LIF Neurons**|Asmer Hamid Ali et.al.|[2411.01628v1](http://arxiv.org/abs/2411.01628v1)|null|
@@ -1147,5 +1147,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250204>back to top</a>)</p>
 
