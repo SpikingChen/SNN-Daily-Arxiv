@@ -1,4 +1,4 @@
-## Updated on 2025.02.14
+## Updated on 2025.02.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -76,7 +76,7 @@
 |**2025-01-19**|**Exploiting Label Skewness for Spiking Neural Networks in Federated Learning**|Di Yu et.al.|[2412.17305v2](http://arxiv.org/abs/2412.17305v2)|null|
 |**2024-12-18**|**Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network**|Ziqing Wang et.al.|[2412.16219v1](http://arxiv.org/abs/2412.16219v1)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2024-12-20**|**How connection probability shapes fluctuations of neural population dynamics**|Nils E. Greven et.al.|[2412.16111v1](http://arxiv.org/abs/2412.16111v1)|null|
-|**2024-12-20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|Alexander von Bank et.al.|[2412.15897v1](http://arxiv.org/abs/2412.15897v1)|null|
+|**2024-12-20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|Alexander von Bank et.al.|[2412.15897v1](http://arxiv.org/abs/2412.15897v1)|**[link](https://github.com/kit-cel/elena)**|
 |**2024-12-20**|**Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model**|Xin Du et.al.|[2412.15634v1](http://arxiv.org/abs/2412.15634v1)|**[link](https://github.com/zju-bmi-lab/DarwinKit)**|
 |**2025-01-28**|**Event-based backpropagation on the neuromorphic platform SpiNNaker2**|Gabriel Béna et.al.|[2412.15021v3](http://arxiv.org/abs/2412.15021v3)|null|
 |**2024-12-19**|**Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation**|Zhenxin Lei et.al.|[2412.14587v1](http://arxiv.org/abs/2412.14587v1)|**[link](https://github.com/biclab/spike2former)**|
@@ -1162,5 +1162,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250215>back to top</a>)</p>
 
