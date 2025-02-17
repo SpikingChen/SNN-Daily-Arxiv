@@ -1,4 +1,4 @@
-## Updated on 2025.02.16
+## Updated on 2025.02.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,13 +11,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|Chenxiang Ma et.al.|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|null|
+|**2025-02-13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|Chenxiang Ma et.al.|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|**[link](https://github.com/liyc5929/neuroseqbench)**|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|null|
-|**2025-02-09**|**Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**|Junjie Yang et.al.|[2502.08659v1](http://arxiv.org/abs/2502.08659v1)|null|
+|**2025-02-14**|**Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**|Shuqi Shen et.al.|[2502.08659v2](http://arxiv.org/abs/2502.08659v2)|null|
 |**2025-02-12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|Reza Ahmadvand et.al.|[2502.08115v1](http://arxiv.org/abs/2502.08115v1)|null|
 |**2025-02-11**|**OscNet: Machine Learning on CMOS Oscillator Networks**|Wenxiao Cai et.al.|[2502.07192v1](http://arxiv.org/abs/2502.07192v1)|null|
 |**2025-02-10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|Emanuele Coradin et.al.|[2502.06771v1](http://arxiv.org/abs/2502.06771v1)|null|
-|**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|null|
+|**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|**[link](https://github.com/GiuliaDAngelo/Speckegomotion)**|
 |**2025-02-10**|**Low-power Spike-based Wearable Analytics on RRAM Crossbars**|Abhiroop Bhattacharjee et.al.|[2502.06736v1](http://arxiv.org/abs/2502.06736v1)|null|
 |**2025-02-09**|**Energy-Efficient Autonomous Aerial Navigation with Dynamic Vision Sensors: A Physics-Guided Neuromorphic Approach**|Sourav Sanyal et.al.|[2502.05938v1](http://arxiv.org/abs/2502.05938v1)|null|
 |**2025-02-09**|**QP-SNN: Quantized and Pruned Spiking Neural Networks**|Wenjie Wei et.al.|[2502.05905v1](http://arxiv.org/abs/2502.05905v1)|null|
@@ -1162,5 +1162,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250217>back to top</a>)</p>
 
