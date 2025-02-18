@@ -1,4 +1,4 @@
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|Marumitsu Ikeda et.al.|[2502.10946v1](http://arxiv.org/abs/2502.10946v1)|null|
+|**2025-02-05**|**Spiking Neural Network Feature Discrimination Boosts Modality Fusion**|Katerina Maria Oikonomou et.al.|[2502.10423v1](http://arxiv.org/abs/2502.10423v1)|null|
+|**2025-02-05**|**DA-LIF: Dual Adaptive Leaky Integrate-and-Fire Model for Deep Spiking Neural Networks**|Tianqing Zhang et.al.|[2502.10422v1](http://arxiv.org/abs/2502.10422v1)|null|
+|**2025-02-04**|**DRiVE: Dynamic Recognition in VEhicles using snnTorch**|Heerak Vora et.al.|[2502.10421v1](http://arxiv.org/abs/2502.10421v1)|null|
 |**2025-02-13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|Chenxiang Ma et.al.|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|**[link](https://github.com/liyc5929/neuroseqbench)**|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|null|
 |**2025-02-14**|**Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**|Shuqi Shen et.al.|[2502.08659v2](http://arxiv.org/abs/2502.08659v2)|null|
@@ -23,7 +27,7 @@
 |**2025-02-09**|**QP-SNN: Quantized and Pruned Spiking Neural Networks**|Wenjie Wei et.al.|[2502.05905v1](http://arxiv.org/abs/2502.05905v1)|null|
 |**2025-02-08**|**Do Spikes Protect Privacy? Investigating Black-Box Model Inversion Attacks in Spiking Neural Networks**|Hamed Poursiami et.al.|[2502.05509v1](http://arxiv.org/abs/2502.05509v1)|null|
 |**2025-02-05**|**Poisson Hypothesis and large-population limit for networks of spiking neurons**|Daniele Avitabile et.al.|[2502.03379v1](http://arxiv.org/abs/2502.03379v1)|null|
-|**2025-02-05**|**STEM: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v1](http://arxiv.org/abs/2502.03287v1)|null|
+|**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 |**2025-02-03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2502.01837v1](http://arxiv.org/abs/2502.01837v1)|null|
 |**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074v1](http://arxiv.org/abs/2502.00074v1)|null|
 |**2025-01-31**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259v1](http://arxiv.org/abs/2501.19259v1)|null|
@@ -1162,5 +1166,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250218>back to top</a>)</p>
 
