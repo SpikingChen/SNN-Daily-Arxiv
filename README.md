@@ -1,4 +1,4 @@
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Beyond Timesteps: A Novel Activation-wise Membrane Potential Propagation Mechanism for Spiking Neural Networks in 3D cloud**|Jian Song et.al.|[2502.12791v1](http://arxiv.org/abs/2502.12791v1)|null|
+|**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693v1](http://arxiv.org/abs/2502.12693v1)|null|
+|**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677v1](http://arxiv.org/abs/2502.12677v1)|null|
+|**2025-02-18**|**Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning**|Xiang He et.al.|[2502.12488v1](http://arxiv.org/abs/2502.12488v1)|null|
+|**2025-02-13**|**Application-oriented automatic hyperparameter optimization for spiking neural network prototyping**|Vittorio Fra et.al.|[2502.12172v1](http://arxiv.org/abs/2502.12172v1)|null|
 |**2025-02-16**|**Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation**|Marumitsu Ikeda et.al.|[2502.10946v1](http://arxiv.org/abs/2502.10946v1)|null|
 |**2025-02-05**|**Spiking Neural Network Feature Discrimination Boosts Modality Fusion**|Katerina Maria Oikonomou et.al.|[2502.10423v1](http://arxiv.org/abs/2502.10423v1)|null|
 |**2025-02-05**|**DA-LIF: Dual Adaptive Leaky Integrate-and-Fire Model for Deep Spiking Neural Networks**|Tianqing Zhang et.al.|[2502.10422v1](http://arxiv.org/abs/2502.10422v1)|null|
@@ -1166,5 +1171,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
 
