@@ -1,4 +1,4 @@
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572v1](http://arxiv.org/abs/2502.13572v1)|null|
+|**2025-02-19**|**Comparison principles and asymptotic behavior of delayed age-structured neuron models**|María J Cáceres et.al.|[2502.13553v1](http://arxiv.org/abs/2502.13553v1)|null|
+|**2025-02-19**|**SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion**|Naichuan Zheng et.al.|[2502.13385v1](http://arxiv.org/abs/2502.13385v1)|null|
+|**2025-02-18**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|Junyi Guan et.al.|[2502.13191v1](http://arxiv.org/abs/2502.13191v1)|null|
 |**2025-02-18**|**Beyond Timesteps: A Novel Activation-wise Membrane Potential Propagation Mechanism for Spiking Neural Networks in 3D cloud**|Jian Song et.al.|[2502.12791v1](http://arxiv.org/abs/2502.12791v1)|null|
 |**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693v1](http://arxiv.org/abs/2502.12693v1)|null|
 |**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677v1](http://arxiv.org/abs/2502.12677v1)|null|
@@ -1171,5 +1175,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250220>back to top</a>)</p>
 
