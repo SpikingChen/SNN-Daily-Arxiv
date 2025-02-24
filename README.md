@@ -1,4 +1,4 @@
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**Temporal Misalignment and Probabilistic Neurons**|Velibor Bojković et.al.|[2502.14487v1](http://arxiv.org/abs/2502.14487v1)|null|
+|**2025-02-20**|**Fundamental Survey on Neuromorphic Based Audio Classification**|Amlan Basu et.al.|[2502.15056v1](http://arxiv.org/abs/2502.15056v1)|null|
+|**2025-02-21**|**Temporal Misalignment in ANN-SNN Conversion and Its Mitigation via Probabilistic Spiking Neurons**|Velibor Bojković et.al.|[2502.14487v2](http://arxiv.org/abs/2502.14487v2)|null|
 |**2025-02-20**|**Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism**|Yu Liang et.al.|[2502.14344v1](http://arxiv.org/abs/2502.14344v1)|null|
 |**2025-02-20**|**Rethinking Spiking Neural Networks from an Ensemble Learning Perspective**|Yongqi Ding et.al.|[2502.14218v1](http://arxiv.org/abs/2502.14218v1)|null|
 |**2025-02-19**|**Dynamic Activation with Knowledge Distillation for Energy-Efficient Spiking NN Ensembles**|Orestis Konstantaropoulos et.al.|[2502.14023v1](http://arxiv.org/abs/2502.14023v1)|null|
@@ -159,7 +160,7 @@
 |**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397v1](http://arxiv.org/abs/2411.07397v1)|null|
 |**2024-11-11**|**Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning**|Ruyin Wan et.al.|[2411.07057v1](http://arxiv.org/abs/2411.07057v1)|null|
 |**2024-11-11**|**Evolving Efficient Genetic Encoding for Deep Spiking Neural Networks**|Wenxuan Pan et.al.|[2411.06792v1](http://arxiv.org/abs/2411.06792v1)|null|
-|**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613v1](http://arxiv.org/abs/2411.06613v1)|null|
+|**2025-02-21**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613v2](http://arxiv.org/abs/2411.06613v2)|null|
 |**2024-10-29**|**SkipSNN: Efficiently Classifying Spike Trains with Event-attention**|Hang Yin et.al.|[2411.05806v1](http://arxiv.org/abs/2411.05806v1)|**[link](https://github.com/Anonymous6369/SkipSNN)**|
 |**2024-10-28**|**Similarity-based context aware continual learning for spiking neural networks**|Bing Han et.al.|[2411.05802v1](http://arxiv.org/abs/2411.05802v1)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760v1](http://arxiv.org/abs/2411.04760v1)|null|
@@ -1179,5 +1180,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250224>back to top</a>)</p>
 
