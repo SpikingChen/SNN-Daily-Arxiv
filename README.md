@@ -1,4 +1,4 @@
-## Updated on 2025.03.03
+## Updated on 2025.03.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -56,7 +56,7 @@
 |**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074v1](http://arxiv.org/abs/2502.00074v1)|null|
 |**2025-01-31**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259v1](http://arxiv.org/abs/2501.19259v1)|null|
 |**2025-02-10**|**SpikingSoft: A Spiking Neuron Controller for Bio-inspired Locomotion with Soft Snake Robots**|Chuhan Zhang et.al.|[2501.19072v2](http://arxiv.org/abs/2501.19072v2)|null|
-|**2025-01-31**|**Improving vision-language alignment with graph spiking hybrid Networks**|Siyu Zhang et.al.|[2501.19069v1](http://arxiv.org/abs/2501.19069v1)|null|
+|**2025-03-02**|**Improving vision-language alignment with graph spiking hybrid Networks**|Siyu Zhang et.al.|[2501.19069v2](http://arxiv.org/abs/2501.19069v2)|null|
 |**2025-01-30**|**A General-Purpose Neuromorphic Sensor based on Spiketrum Algorithm: Hardware Details and Real-life Applications**|MHD Anas Alsakkal et.al.|[2501.18799v1](http://arxiv.org/abs/2501.18799v1)|null|
 |**2025-01-29**|**Real Time Scheduling Framework for Multi Object Detection via Spiking Neural Networks**|Donghwa Kang et.al.|[2501.18412v1](http://arxiv.org/abs/2501.18412v1)|null|
 |**2025-01-30**|**Neural Network Modeling of Microstructure Complexity Using Digital Libraries**|Yingjie Zhao et.al.|[2501.18189v1](http://arxiv.org/abs/2501.18189v1)|null|
@@ -1190,5 +1190,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
 
