@@ -1,4 +1,4 @@
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v1](http://arxiv.org/abs/2503.02689v1)|null|
+|**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|null|
+|**2025-03-03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|Devin Pohl et.al.|[2503.02033v1](http://arxiv.org/abs/2503.02033v1)|null|
+|**2025-03-03**|**Sustainable AI: Mathematical Foundations of Spiking Neural Networks**|Adalbert Fono et.al.|[2503.02013v1](http://arxiv.org/abs/2503.02013v1)|null|
+|**2025-03-03**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297v1](http://arxiv.org/abs/2503.01297v1)|null|
+|**2025-03-02**|**DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging**|Zhu Liu et.al.|[2503.00905v1](http://arxiv.org/abs/2503.00905v1)|null|
+|**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898v1](http://arxiv.org/abs/2503.00898v1)|null|
+|**2025-03-02**|**Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|Yinqian Sun et.al.|[2503.00713v1](http://arxiv.org/abs/2503.00713v1)|null|
+|**2025-03-01**|**Adaptive Wall-Following Control for Unmanned Ground Vehicles Using Spiking Neural Networks**|Hengye Yang et.al.|[2503.00380v1](http://arxiv.org/abs/2503.00380v1)|null|
+|**2025-03-01**|**Differential Coding for Training-Free ANN-to-SNN Conversion**|Zihan Huang et.al.|[2503.00301v1](http://arxiv.org/abs/2503.00301v1)|null|
+|**2025-02-28**|**Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer**|Yufei Guo et.al.|[2503.00226v1](http://arxiv.org/abs/2503.00226v1)|null|
+|**2025-02-25**|**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**|Dehao Zhang et.al.|[2503.00040v1](http://arxiv.org/abs/2503.00040v1)|null|
 |**2025-02-28**|**Towards High-performance Spiking Transformers from ANN to SNN Conversion**|Zihan Huang et.al.|[2502.21193v1](http://arxiv.org/abs/2502.21193v1)|null|
 |**2025-02-27**|**Neuromorphic Circuits with Spiking Astrocytes for Increased Energy Efficiency, Fault Tolerance, and Memory Capacitance**|Aybars Yunusoglu et.al.|[2502.20492v1](http://arxiv.org/abs/2502.20492v1)|null|
 |**2025-02-19**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v1](http://arxiv.org/abs/2502.20411v1)|null|
@@ -75,7 +87,7 @@
 |**2025-02-02**|**$SpikePack$: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484v2](http://arxiv.org/abs/2501.14484v2)|null|
 |**2025-01-24**|**Ultrafast neural sampling with spiking nanolasers**|Ivan K. Boikov et.al.|[2501.14446v1](http://arxiv.org/abs/2501.14446v1)|null|
 |**2025-01-23**|**Spikes can transmit neurons' subthreshold membrane potentials**|Valentin Schmutz et.al.|[2501.13845v1](http://arxiv.org/abs/2501.13845v1)|null|
-|**2025-02-09**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492v3](http://arxiv.org/abs/2501.13492v3)|**[link](https://github.com/bollossom/qsd-transformer)**|
+|**2025-03-04**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492v4](http://arxiv.org/abs/2501.13492v4)|**[link](https://github.com/bollossom/qsd-transformer)**|
 |**2025-01-23**|**Marketron games: Self-propelling stocks vs dumb money and metastable dynamics of the Good, Bad and Ugly markets**|I. Halperin et.al.|[2501.12676v2](http://arxiv.org/abs/2501.12676v2)|null|
 |**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482v1](http://arxiv.org/abs/2501.12482v1)|null|
 |**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554v1](http://arxiv.org/abs/2501.11554v1)|null|
@@ -1190,5 +1202,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
 
