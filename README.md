@@ -1,4 +1,4 @@
-## Updated on 2025.03.05
+## Updated on 2025.03.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-04**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v1](http://arxiv.org/abs/2503.02689v1)|null|
+|**2025-03-05**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379v1](http://arxiv.org/abs/2503.03379v1)|**[link](https://github.com/dubcyfor3/Prosperity)**|
+|**2025-03-05**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272v1](http://arxiv.org/abs/2503.03272v1)|null|
+|**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144v1](http://arxiv.org/abs/2503.03144v1)|null|
+|**2025-03-05**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v2](http://arxiv.org/abs/2503.02689v2)|null|
 |**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|null|
 |**2025-03-03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|Devin Pohl et.al.|[2503.02033v1](http://arxiv.org/abs/2503.02033v1)|null|
 |**2025-03-03**|**Sustainable AI: Mathematical Foundations of Spiking Neural Networks**|Adalbert Fono et.al.|[2503.02013v1](http://arxiv.org/abs/2503.02013v1)|null|
-|**2025-03-03**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297v1](http://arxiv.org/abs/2503.01297v1)|null|
+|**2025-03-05**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297v2](http://arxiv.org/abs/2503.01297v2)|null|
 |**2025-03-02**|**DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging**|Zhu Liu et.al.|[2503.00905v1](http://arxiv.org/abs/2503.00905v1)|null|
 |**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898v1](http://arxiv.org/abs/2503.00898v1)|null|
 |**2025-03-02**|**Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|Yinqian Sun et.al.|[2503.00713v1](http://arxiv.org/abs/2503.00713v1)|null|
@@ -123,7 +126,7 @@
 |**2024-12-18**|**Faster and Stronger: When ANN-SNN Conversion Meets Parallel Spiking Calculation**|Zecheng Hao et.al.|[2412.13610v1](http://arxiv.org/abs/2412.13610v1)|null|
 |**2024-12-18**|**Combining Aggregated Attention and Transformer Architecture for Accurate and Efficient Performance of Spiking Neural Networks**|Hangming Zhang et.al.|[2412.13553v1](http://arxiv.org/abs/2412.13553v1)|null|
 |**2024-12-17**|**Efficient Speech Command Recognition Leveraging Spiking Neural Network and Curriculum Learning-based Knowledge Distillation**|Jiaqi Wang et.al.|[2412.12858v1](http://arxiv.org/abs/2412.12858v1)|null|
-|**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843v1](http://arxiv.org/abs/2412.12843v1)|null|
+|**2025-03-05**|**SLTNet: Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843v2](http://arxiv.org/abs/2412.12843v2)|null|
 |**2024-12-17**|**ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning**|Wenyao Ni et.al.|[2412.12696v1](http://arxiv.org/abs/2412.12696v1)|null|
 |**2025-01-19**|**CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics**|Ruixin Mao et.al.|[2412.12525v3](http://arxiv.org/abs/2412.12525v3)|**[link](https://github.com/shen-aoyu/CREST)**|
 |**2024-12-16**|**Optimal Gradient Checkpointing for Sparse and Recurrent Architectures using Off-Chip Memory**|Wadjih Bencheikh et.al.|[2412.11810v1](http://arxiv.org/abs/2412.11810v1)|null|
@@ -1202,5 +1205,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
 
