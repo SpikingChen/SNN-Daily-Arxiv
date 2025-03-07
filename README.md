@@ -1,4 +1,4 @@
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**AOLO: Analysis and Optimization For Low-Carbon Oriented Wireless Large Language Model Services**|Xiaoqi Wang et.al.|[2503.04418v1](http://arxiv.org/abs/2503.04418v1)|null|
+|**2025-03-06**|**Eventprop training for efficient neuromorphic applications**|Thomas Shoesmith et.al.|[2503.04341v1](http://arxiv.org/abs/2503.04341v1)|null|
+|**2025-03-06**|**Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks**|Yi Xiao et.al.|[2503.04223v1](http://arxiv.org/abs/2503.04223v1)|null|
+|**2025-03-05**|**Neural Models of Task Adaptation: A Tutorial on Spiking Networks for Executive Control**|Ashwin Viswanathan Kannan et.al.|[2503.03784v1](http://arxiv.org/abs/2503.03784v1)|null|
 |**2025-03-05**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379v1](http://arxiv.org/abs/2503.03379v1)|**[link](https://github.com/dubcyfor3/Prosperity)**|
-|**2025-03-05**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272v1](http://arxiv.org/abs/2503.03272v1)|null|
+|**2025-03-06**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272v2](http://arxiv.org/abs/2503.03272v2)|null|
 |**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144v1](http://arxiv.org/abs/2503.03144v1)|null|
 |**2025-03-05**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v2](http://arxiv.org/abs/2503.02689v2)|null|
 |**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|null|
@@ -30,7 +34,7 @@
 |**2025-02-27**|**Neuromorphic Circuits with Spiking Astrocytes for Increased Energy Efficiency, Fault Tolerance, and Memory Capacitance**|Aybars Yunusoglu et.al.|[2502.20492v1](http://arxiv.org/abs/2502.20492v1)|null|
 |**2025-02-19**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v1](http://arxiv.org/abs/2502.20411v1)|null|
 |**2025-02-27**|**Waves and symbols in neuromorphic hardware: from analog signal processing to digital computing on the same computational substrate**|Dmitrii Zendrikov et.al.|[2502.20381v1](http://arxiv.org/abs/2502.20381v1)|null|
-|**2025-02-27**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|Zikuan Li et.al.|[2502.19660v1](http://arxiv.org/abs/2502.19660v1)|**[link](https://github.com/Miraclelzk/NI-SGCN)**|
+|**2025-03-06**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|Zikuan Li et.al.|[2502.19660v2](http://arxiv.org/abs/2502.19660v2)|**[link](https://github.com/Miraclelzk/NI-SGCN)**|
 |**2025-02-26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|D. Hareb et.al.|[2502.18982v1](http://arxiv.org/abs/2502.18982v1)|null|
 |**2025-02-25**|**On the Privacy-Preserving Properties of Spiking Neural Networks with Unique Surrogate Gradients and Quantization Levels**|Ayana Moshruba et.al.|[2502.18623v1](http://arxiv.org/abs/2502.18623v1)|null|
 |**2025-02-21**|**SpikeRL: A Scalable and Energy-efficient Framework for Deep Spiking Reinforcement Learning**|Tokey Tahmid et.al.|[2502.17496v1](http://arxiv.org/abs/2502.17496v1)|null|
@@ -1205,5 +1209,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250307>back to top</a>)</p>
 
