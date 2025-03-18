@@ -1,4 +1,4 @@
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|null|
 |**2025-03-14**|**Comparative Study of Spike Encoding Methods for Environmental Sound Classification**|Andres Larroza et.al.|[2503.11206v1](http://arxiv.org/abs/2503.11206v1)|null|
 |**2025-03-13**|**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**|Hongze Sun et.al.|[2503.10195v1](http://arxiv.org/abs/2503.10195v1)|null|
 |**2025-03-13**|**DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks**|Minje Kim et.al.|[2503.10052v1](http://arxiv.org/abs/2503.10052v1)|**[link](https://github.com/mnjnkim/dta-snn)**|
@@ -37,7 +38,7 @@
 |**2025-03-02**|**Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|Yinqian Sun et.al.|[2503.00713v1](http://arxiv.org/abs/2503.00713v1)|null|
 |**2025-03-01**|**Adaptive Wall-Following Control for Unmanned Ground Vehicles Using Spiking Neural Networks**|Hengye Yang et.al.|[2503.00380v1](http://arxiv.org/abs/2503.00380v1)|null|
 |**2025-03-01**|**Differential Coding for Training-Free ANN-to-SNN Conversion**|Zihan Huang et.al.|[2503.00301v1](http://arxiv.org/abs/2503.00301v1)|null|
-|**2025-02-28**|**Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer**|Yufei Guo et.al.|[2503.00226v1](http://arxiv.org/abs/2503.00226v1)|null|
+|**2025-03-17**|**Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer**|Yufei Guo et.al.|[2503.00226v2](http://arxiv.org/abs/2503.00226v2)|null|
 |**2025-02-25**|**Memory-Free and Parallel Computation for Quantized Spiking Neural Networks**|Dehao Zhang et.al.|[2503.00040v1](http://arxiv.org/abs/2503.00040v1)|null|
 |**2025-02-28**|**Towards High-performance Spiking Transformers from ANN to SNN Conversion**|Zihan Huang et.al.|[2502.21193v1](http://arxiv.org/abs/2502.21193v1)|null|
 |**2025-02-27**|**Neuromorphic Circuits with Spiking Astrocytes for Increased Energy Efficiency, Fault Tolerance, and Memory Capacitance**|Aybars Yunusoglu et.al.|[2502.20492v1](http://arxiv.org/abs/2502.20492v1)|null|
@@ -58,7 +59,7 @@
 |**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572v1](http://arxiv.org/abs/2502.13572v1)|null|
 |**2025-02-19**|**Comparison principles and asymptotic behavior of delayed age-structured neuron models**|María J Cáceres et.al.|[2502.13553v1](http://arxiv.org/abs/2502.13553v1)|null|
 |**2025-02-19**|**SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion**|Naichuan Zheng et.al.|[2502.13385v1](http://arxiv.org/abs/2502.13385v1)|null|
-|**2025-02-18**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|Junyi Guan et.al.|[2502.13191v1](http://arxiv.org/abs/2502.13191v1)|null|
+|**2025-03-16**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|Junyi Guan et.al.|[2502.13191v2](http://arxiv.org/abs/2502.13191v2)|null|
 |**2025-02-18**|**Beyond Timesteps: A Novel Activation-wise Membrane Potential Propagation Mechanism for Spiking Neural Networks in 3D cloud**|Jian Song et.al.|[2502.12791v1](http://arxiv.org/abs/2502.12791v1)|null|
 |**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693v1](http://arxiv.org/abs/2502.12693v1)|null|
 |**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677v1](http://arxiv.org/abs/2502.12677v1)|null|
@@ -194,7 +195,7 @@
 |**2025-01-27**|**SNN-Based Online Learning of Concepts and Action Laws in an Open World**|Christel Grimaud et.al.|[2411.12308v2](http://arxiv.org/abs/2411.12308v2)|null|
 |**2024-11-18**|**Temporal and Spatial Reservoir Ensembling Techniques for Liquid State Machines**|Anmol Biswas et.al.|[2411.11414v1](http://arxiv.org/abs/2411.11414v1)|**[link](https://github.com/SNNalgo/snntorch-LSM)**|
 |**2024-11-27**|**STOP: Spatiotemporal Orthogonal Propagation for Weight-Threshold-Leakage Synergistic Training of Deep Spiking Neural Networks**|Haoran Gao et.al.|[2411.11082v2](http://arxiv.org/abs/2411.11082v2)|null|
-|**2024-11-15**|**Brain-inspired Action Generation with Spiking Transformer Diffusion Policy Model**|Qianhao Wang et.al.|[2411.09953v1](http://arxiv.org/abs/2411.09953v1)|null|
+|**2025-03-17**|**Brain-inspired Action Generation with Spiking Transformer Diffusion Policy Model**|Qianhao Wang et.al.|[2411.09953v2](http://arxiv.org/abs/2411.09953v2)|null|
 |**2024-11-12**|**Spike Talk in Power Electronic Grids -- Leveraging Post Moore's Computing Laws**|Yubo Song et.al.|[2411.07654v1](http://arxiv.org/abs/2411.07654v1)|null|
 |**2024-11-11**|**Spiking Transformer Hardware Accelerators in 3D Integration**|Boxun Xu et.al.|[2411.07397v1](http://arxiv.org/abs/2411.07397v1)|null|
 |**2024-11-11**|**Randomized Forward Mode Gradient for Spiking Neural Networks in Scientific Machine Learning**|Ruyin Wan et.al.|[2411.07057v1](http://arxiv.org/abs/2411.07057v1)|null|
@@ -1219,5 +1220,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
 
