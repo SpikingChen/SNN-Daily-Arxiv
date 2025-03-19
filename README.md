@@ -1,4 +1,4 @@
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|Yuqi Ding et.al.|[2503.13492v1](http://arxiv.org/abs/2503.13492v1)|null|
 |**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|null|
 |**2025-03-14**|**Comparative Study of Spike Encoding Methods for Environmental Sound Classification**|Andres Larroza et.al.|[2503.11206v1](http://arxiv.org/abs/2503.11206v1)|null|
 |**2025-03-13**|**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**|Hongze Sun et.al.|[2503.10195v1](http://arxiv.org/abs/2503.10195v1)|null|
@@ -35,7 +36,7 @@
 |**2025-03-05**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297v2](http://arxiv.org/abs/2503.01297v2)|null|
 |**2025-03-02**|**DEAL: Data-Efficient Adversarial Learning for High-Quality Infrared Imaging**|Zhu Liu et.al.|[2503.00905v1](http://arxiv.org/abs/2503.00905v1)|null|
 |**2025-03-02**|**Range and Angle Estimation with Spiking Neural Resonators for FMCW Radar**|Nico Reeb et.al.|[2503.00898v1](http://arxiv.org/abs/2503.00898v1)|null|
-|**2025-03-02**|**Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|Yinqian Sun et.al.|[2503.00713v1](http://arxiv.org/abs/2503.00713v1)|null|
+|**2025-03-18**|**Implementing Spiking World Model with Multi-Compartment Neurons for Model-based Reinforcement Learning**|Yinqian Sun et.al.|[2503.00713v2](http://arxiv.org/abs/2503.00713v2)|null|
 |**2025-03-01**|**Adaptive Wall-Following Control for Unmanned Ground Vehicles Using Spiking Neural Networks**|Hengye Yang et.al.|[2503.00380v1](http://arxiv.org/abs/2503.00380v1)|null|
 |**2025-03-01**|**Differential Coding for Training-Free ANN-to-SNN Conversion**|Zihan Huang et.al.|[2503.00301v1](http://arxiv.org/abs/2503.00301v1)|null|
 |**2025-03-17**|**Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer**|Yufei Guo et.al.|[2503.00226v2](http://arxiv.org/abs/2503.00226v2)|null|
@@ -1220,5 +1221,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250319>back to top</a>)</p>
 
