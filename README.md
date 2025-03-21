@@ -1,4 +1,4 @@
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Allostatic Control of Persistent States in Spiking Neural Networks for perception and computation**|Aung Htet et.al.|[2503.16085v1](http://arxiv.org/abs/2503.16085v1)|null|
+|**2025-03-20**|**GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network**|Stijn Groenen et.al.|[2503.16012v1](http://arxiv.org/abs/2503.16012v1)|null|
+|**2025-03-20**|**SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition**|Zeqi Zheng et.al.|[2503.15986v1](http://arxiv.org/abs/2503.15986v1)|null|
+|**2025-03-05**|**Low Dimensional Dynamics of Globally Coupled Complex Riccati Equations: Exact Firing-rate Equations for Spiking Neurons with Clustered Substructure**|Diego Pazó et.al.|[2503.15537v1](http://arxiv.org/abs/2503.15537v1)|null|
 |**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402v1](http://arxiv.org/abs/2503.15402v1)|null|
 |**2025-03-10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|Yuqi Ding et.al.|[2503.13492v1](http://arxiv.org/abs/2503.13492v1)|null|
 |**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|null|
@@ -1222,5 +1226,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250321>back to top</a>)</p>
 
