@@ -1,4 +1,4 @@
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,13 +11,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v1](http://arxiv.org/abs/2503.17132v1)|null|
+|**2025-03-21**|**A Digital Machine Learning Algorithm Simulating Spiking Neural Network CoLaNET**|Mikhail Kiselev et.al.|[2503.17111v1](http://arxiv.org/abs/2503.17111v1)|null|
+|**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061v1](http://arxiv.org/abs/2503.17061v1)|null|
+|**2025-03-21**|**Region Masking to Accelerate Video Processing on Neuromorphic Hardware**|Sreetama Sarkar et.al.|[2503.16775v1](http://arxiv.org/abs/2503.16775v1)|null|
+|**2025-03-20**|**Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement**|Shu Yang et.al.|[2503.16572v1](http://arxiv.org/abs/2503.16572v1)|null|
 |**2025-03-20**|**Allostatic Control of Persistent States in Spiking Neural Networks for perception and computation**|Aung Htet et.al.|[2503.16085v1](http://arxiv.org/abs/2503.16085v1)|null|
-|**2025-03-20**|**GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network**|Stijn Groenen et.al.|[2503.16012v1](http://arxiv.org/abs/2503.16012v1)|null|
+|**2025-03-20**|**GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network**|Stijn Groenen et.al.|[2503.16012v1](http://arxiv.org/abs/2503.16012v1)|**[link](https://github.com/StijnGroenen/GazeSCRNN)**|
 |**2025-03-20**|**SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition**|Zeqi Zheng et.al.|[2503.15986v1](http://arxiv.org/abs/2503.15986v1)|null|
 |**2025-03-05**|**Low Dimensional Dynamics of Globally Coupled Complex Riccati Equations: Exact Firing-rate Equations for Spiking Neurons with Clustered Substructure**|Diego Pazó et.al.|[2503.15537v1](http://arxiv.org/abs/2503.15537v1)|null|
 |**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402v1](http://arxiv.org/abs/2503.15402v1)|null|
 |**2025-03-10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|Yuqi Ding et.al.|[2503.13492v1](http://arxiv.org/abs/2503.13492v1)|null|
-|**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|null|
+|**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|**[link](https://github.com/YBQian-Roy/UCF-Crime-DVS)**|
 |**2025-03-14**|**Comparative Study of Spike Encoding Methods for Environmental Sound Classification**|Andres Larroza et.al.|[2503.11206v1](http://arxiv.org/abs/2503.11206v1)|null|
 |**2025-03-13**|**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**|Hongze Sun et.al.|[2503.10195v1](http://arxiv.org/abs/2503.10195v1)|null|
 |**2025-03-13**|**DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks**|Minje Kim et.al.|[2503.10052v1](http://arxiv.org/abs/2503.10052v1)|**[link](https://github.com/mnjnkim/dta-snn)**|
@@ -196,7 +201,7 @@
 |**2024-11-21**|**Uncertainty Quantification in Working Memory via Moment Neural Networks**|Hengyuan Ma et.al.|[2411.14196v1](http://arxiv.org/abs/2411.14196v1)|**[link](https://github.com/awakermhy/mnn_wm_uq)**|
 |**2024-11-21**|**Spiking neural networks: Towards bio-inspired multimodal perception in robotics**|Katerina Maria Oikonomou et.al.|[2411.14147v1](http://arxiv.org/abs/2411.14147v1)|null|
 |**2024-11-21**|**Hybrid-Neuromorphic Approach for Underwater Robotics Applications: A Conceptual Framework**|Vidya Sudevan et.al.|[2411.13962v1](http://arxiv.org/abs/2411.13962v1)|null|
-|**2024-11-21**|**Neuromorphic Attitude Estimation and Control**|Stein Stroobants et.al.|[2411.13945v1](http://arxiv.org/abs/2411.13945v1)|**[link](https://github.com/tudelft/neuromorphic_att_est_and_control)**|
+|**2025-03-21**|**Neuromorphic Attitude Estimation and Control**|Stein Stroobants et.al.|[2411.13945v2](http://arxiv.org/abs/2411.13945v2)|**[link](https://github.com/tudelft/neuromorphic_att_est_and_control)**|
 |**2024-11-21**|**SpikEmo: Enhancing Emotion Recognition With Spiking Temporal Dynamics in Conversations**|Xiaomin Yu et.al.|[2411.13917v1](http://arxiv.org/abs/2411.13917v1)|**[link](https://github.com/yu-xm/spikemo)**|
 |**2025-01-27**|**SNN-Based Online Learning of Concepts and Action Laws in an Open World**|Christel Grimaud et.al.|[2411.12308v2](http://arxiv.org/abs/2411.12308v2)|null|
 |**2024-11-18**|**Temporal and Spatial Reservoir Ensembling Techniques for Liquid State Machines**|Anmol Biswas et.al.|[2411.11414v1](http://arxiv.org/abs/2411.11414v1)|**[link](https://github.com/SNNalgo/snntorch-LSM)**|
@@ -1226,5 +1231,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250324>back to top</a>)</p>
 
