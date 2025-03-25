@@ -1,4 +1,4 @@
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394v1](http://arxiv.org/abs/2503.17394v1)|null|
 |**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v1](http://arxiv.org/abs/2503.17132v1)|null|
 |**2025-03-21**|**A Digital Machine Learning Algorithm Simulating Spiking Neural Network CoLaNET**|Mikhail Kiselev et.al.|[2503.17111v1](http://arxiv.org/abs/2503.17111v1)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061v1](http://arxiv.org/abs/2503.17061v1)|null|
@@ -116,7 +117,7 @@
 |**2025-02-02**|**$SpikePack$: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484v2](http://arxiv.org/abs/2501.14484v2)|null|
 |**2025-01-24**|**Ultrafast neural sampling with spiking nanolasers**|Ivan K. Boikov et.al.|[2501.14446v1](http://arxiv.org/abs/2501.14446v1)|null|
 |**2025-01-23**|**Spikes can transmit neurons' subthreshold membrane potentials**|Valentin Schmutz et.al.|[2501.13845v1](http://arxiv.org/abs/2501.13845v1)|null|
-|**2025-03-04**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492v4](http://arxiv.org/abs/2501.13492v4)|**[link](https://github.com/bollossom/qsd-transformer)**|
+|**2025-03-23**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492v5](http://arxiv.org/abs/2501.13492v5)|**[link](https://github.com/bollossom/qsd-transformer)**|
 |**2025-01-23**|**Marketron games: Self-propelling stocks vs dumb money and metastable dynamics of the Good, Bad and Ugly markets**|I. Halperin et.al.|[2501.12676v2](http://arxiv.org/abs/2501.12676v2)|null|
 |**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482v1](http://arxiv.org/abs/2501.12482v1)|null|
 |**2025-01-20**|**Event-based vision for egomotion estimation using precise event timing**|Hugh Greatorex et.al.|[2501.11554v1](http://arxiv.org/abs/2501.11554v1)|null|
@@ -134,7 +135,7 @@
 |**2025-01-06**|**The Robustness of Spiking Neural Networks in Federated Learning with Compression Against Non-omniscient Byzantine Attacks**|Manh V. Nguyen et.al.|[2501.03306v1](http://arxiv.org/abs/2501.03306v1)|null|
 |**2025-01-06**|**Spiking monocular event based 6D pose estimation for space application**|Jonathan Courtois et.al.|[2501.02916v1](http://arxiv.org/abs/2501.02916v1)|null|
 |**2025-01-02**|**Energy-Efficient and Intelligent ISAC in V2X Networks with Spiking Neural Networks-Driven DRL**|Chen Shang et.al.|[2501.01038v1](http://arxiv.org/abs/2501.01038v1)|null|
-|**2025-03-18**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813v2](http://arxiv.org/abs/2501.00813v2)|null|
+|**2025-03-21**|**Hybrid Opto-Electrical Excitation of Spin-Transfer Torque Nano-Oscillators for Advanced Computing**|Felix Oberbauer et.al.|[2501.00813v3](http://arxiv.org/abs/2501.00813v3)|null|
 |**2024-12-31**|**Temporal Information Reconstruction and Non-Aligned Residual in Spiking Neural Networks for Speech Classification**|Qi Zhang et.al.|[2501.00348v1](http://arxiv.org/abs/2501.00348v1)|null|
 |**2024-12-30**|**Effective and Efficient Intracortical Brain Signal Decoding with Spiking Neural Networks**|Haotian Fu et.al.|[2412.20714v1](http://arxiv.org/abs/2412.20714v1)|**[link](https://github.com/1439278026/lss-ca-snn)**|
 |**2024-12-23**|**TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering**|Prabhu Vellaisamy et.al.|[2412.17977v1](http://arxiv.org/abs/2412.17977v1)|null|
@@ -1231,5 +1232,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250324>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250325>back to top</a>)</p>
 
