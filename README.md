@@ -1,4 +1,4 @@
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v1](http://arxiv.org/abs/2503.21846v1)|null|
+|**2025-03-22**|**Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation**|Robin Dietrich et.al.|[2503.21795v1](http://arxiv.org/abs/2503.21795v1)|**[link](https://github.com/dietriro/neuroseq)**|
+|**2025-03-20**|**Input-Triggered Hardware Trojan Attack on Spiking Neural Networks**|Spyridon Raptis et.al.|[2503.21793v1](http://arxiv.org/abs/2503.21793v1)|null|
 |**2025-03-27**|**Spiking Rate and Latency Encoding with Resonant Tunnelling Diode Neuron Circuits and Design Influences**|Giovanni Donati et.al.|[2503.21342v1](http://arxiv.org/abs/2503.21342v1)|null|
 |**2025-03-27**|**A 71.2-$μ$W Speech Recognition Accelerator with Recurrent Spiking Neural Network**|Chih-Chyau Yang et.al.|[2503.21337v1](http://arxiv.org/abs/2503.21337v1)|null|
 |**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485v1](http://arxiv.org/abs/2503.20485v1)|**[link](https://github.com/vidya-rejul/uie-snn)**|
@@ -1237,5 +1240,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
 
