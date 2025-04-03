@@ -1,4 +1,4 @@
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Bridge the Gap between SNN and ANN for Image Restoration**|Xin Su et.al.|[2504.01755v1](http://arxiv.org/abs/2504.01755v1)|null|
+|**2025-04-01**|**Dynamic Graph Structure Estimation for Learning Multivariate Point Process using Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2504.01246v1](http://arxiv.org/abs/2504.01246v1)|null|
+|**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957v1](http://arxiv.org/abs/2504.00957v1)|null|
+|**2025-04-01**|**Scaling Up Resonate-and-Fire Networks for Fast Deep Learning**|Thomas E. Huber et.al.|[2504.00719v1](http://arxiv.org/abs/2504.00719v1)|null|
+|**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|null|
 |**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|**[link](https://github.com/lwxfight/snn-underwater)**|
 |**2025-03-31**|**Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism**|Linghao Feng et.al.|[2503.23767v1](http://arxiv.org/abs/2503.23767v1)|null|
 |**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v1](http://arxiv.org/abs/2503.21846v1)|null|
@@ -34,7 +39,7 @@
 |**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402v1](http://arxiv.org/abs/2503.15402v1)|null|
 |**2025-03-10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|Yuqi Ding et.al.|[2503.13492v1](http://arxiv.org/abs/2503.13492v1)|null|
 |**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905v1](http://arxiv.org/abs/2503.12905v1)|**[link](https://github.com/YBQian-Roy/UCF-Crime-DVS)**|
-|**2025-03-14**|**Comparative Study of Spike Encoding Methods for Environmental Sound Classification**|Andres Larroza et.al.|[2503.11206v1](http://arxiv.org/abs/2503.11206v1)|null|
+|**2025-04-02**|**Comparative Study of Spike Encoding Methods for Environmental Sound Classification**|Andres Larroza et.al.|[2503.11206v2](http://arxiv.org/abs/2503.11206v2)|null|
 |**2025-03-13**|**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**|Hongze Sun et.al.|[2503.10195v1](http://arxiv.org/abs/2503.10195v1)|null|
 |**2025-03-13**|**DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks**|Minje Kim et.al.|[2503.10052v1](http://arxiv.org/abs/2503.10052v1)|**[link](https://github.com/mnjnkim/dta-snn)**|
 |**2025-03-19**|**ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network**|Qiang Zhang et.al.|[2503.09985v2](http://arxiv.org/abs/2503.09985v2)|null|
@@ -104,7 +109,7 @@
 |**2025-02-08**|**Do Spikes Protect Privacy? Investigating Black-Box Model Inversion Attacks in Spiking Neural Networks**|Hamed Poursiami et.al.|[2502.05509v1](http://arxiv.org/abs/2502.05509v1)|null|
 |**2025-02-05**|**Poisson Hypothesis and large-population limit for networks of spiking neurons**|Daniele Avitabile et.al.|[2502.03379v1](http://arxiv.org/abs/2502.03379v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
-|**2025-02-03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2502.01837v1](http://arxiv.org/abs/2502.01837v1)|null|
+|**2025-02-03**|**TESS: A Scalable Temporally and Spatially Local Learning Rule for Spiking Neural Networks**|Marco Paul E. Apolinario et.al.|[2502.01837v1](http://arxiv.org/abs/2502.01837v1)|**[link](https://github.com/mapolinario94/TESS)**|
 |**2025-01-31**|**SpikingRTNH: Spiking Neural Network for 4D Radar Object Detection**|Dong-Hee Paek et.al.|[2502.00074v1](http://arxiv.org/abs/2502.00074v1)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-01-31**|**Neuro-LIFT: A Neuromorphic, LLM-based Interactive Framework for Autonomous Drone FlighT at the Edge**|Amogh Joshi et.al.|[2501.19259v1](http://arxiv.org/abs/2501.19259v1)|null|
 |**2025-02-10**|**SpikingSoft: A Spiking Neuron Controller for Bio-inspired Locomotion with Soft Snake Robots**|Chuhan Zhang et.al.|[2501.19072v2](http://arxiv.org/abs/2501.19072v2)|null|
@@ -177,7 +182,7 @@
 |**2024-12-12**|**High-Speed Time Series Prediction with a GHz-rate Photonic Spiking Neural Network built with a single VCSEL**|Dafydd Owen-Newns et.al.|[2412.09233v1](http://arxiv.org/abs/2412.09233v1)|null|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209v1](http://arxiv.org/abs/2412.09209v1)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-12**|**Training Physical Neural Networks for Analog In-Memory Computing**|Yusuke Sakemi et.al.|[2412.09010v1](http://arxiv.org/abs/2412.09010v1)|null|
-|**2025-02-04**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360v2](http://arxiv.org/abs/2412.07360v2)|**[link](https://github.com/bollossom/e-3dsnn)**|
+|**2025-04-02**|**Efficient 3D Recognition with Event-driven Spike Sparse Convolution**|Xuerui Qiu et.al.|[2412.07360v3](http://arxiv.org/abs/2412.07360v3)|**[link](https://github.com/bollossom/e-3dsnn)**|
 |**2024-11-22**|**SpikeFI: A Fault Injection Framework for Spiking Neural Networks**|Theofilos Spyrou et.al.|[2412.06795v1](http://arxiv.org/abs/2412.06795v1)|null|
 |**2024-12-09**|**Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**|Xiao Wang et.al.|[2412.06647v1](http://arxiv.org/abs/2412.06647v1)|**[link](https://github.com/event-ahu/openevdet)**|
 |**2024-12-09**|**Flexible and Scalable Deep Dendritic Spiking Neural Networks with Multiple Nonlinear Branching**|Yifan Huang et.al.|[2412.06355v1](http://arxiv.org/abs/2412.06355v1)|null|
@@ -1242,5 +1247,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
 
