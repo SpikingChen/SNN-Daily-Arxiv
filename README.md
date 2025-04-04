@@ -1,4 +1,4 @@
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Learning dynamics on the picosecond timescale in a superconducting synapse structure**|Ken Segall et.al.|[2504.02754v1](http://arxiv.org/abs/2504.02754v1)|null|
+|**2025-04-03**|**State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons**|Sanja Karilanova et.al.|[2504.02591v1](http://arxiv.org/abs/2504.02591v1)|null|
+|**2025-04-03**|**SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks**|Xinyu Luo et.al.|[2504.02298v1](http://arxiv.org/abs/2504.02298v1)|null|
 |**2025-04-02**|**Bridge the Gap between SNN and ANN for Image Restoration**|Xin Su et.al.|[2504.01755v1](http://arxiv.org/abs/2504.01755v1)|null|
 |**2025-04-01**|**Dynamic Graph Structure Estimation for Learning Multivariate Point Process using Spiking Neural Networks**|Biswadeep Chakraborty et.al.|[2504.01246v1](http://arxiv.org/abs/2504.01246v1)|null|
 |**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957v1](http://arxiv.org/abs/2504.00957v1)|null|
@@ -52,7 +55,7 @@
 |**2025-03-06**|**Eventprop training for efficient neuromorphic applications**|Thomas Shoesmith et.al.|[2503.04341v1](http://arxiv.org/abs/2503.04341v1)|null|
 |**2025-03-06**|**Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks**|Yi Xiao et.al.|[2503.04223v1](http://arxiv.org/abs/2503.04223v1)|null|
 |**2025-03-05**|**Neural Models of Task Adaptation: A Tutorial on Spiking Networks for Executive Control**|Ashwin Viswanathan Kannan et.al.|[2503.03784v1](http://arxiv.org/abs/2503.03784v1)|null|
-|**2025-03-05**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379v1](http://arxiv.org/abs/2503.03379v1)|**[link](https://github.com/dubcyfor3/Prosperity)**|
+|**2025-04-02**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379v2](http://arxiv.org/abs/2503.03379v2)|**[link](https://github.com/dubcyfor3/Prosperity)**|
 |**2025-03-06**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272v2](http://arxiv.org/abs/2503.03272v2)|**[link](https://github.com/ryime/pdsg-sda)**|
 |**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144v1](http://arxiv.org/abs/2503.03144v1)|null|
 |**2025-03-05**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v2](http://arxiv.org/abs/2503.02689v2)|null|
@@ -1247,5 +1250,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250404>back to top</a>)</p>
 
