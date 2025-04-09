@@ -1,4 +1,4 @@
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134v1](http://arxiv.org/abs/2504.06134v1)|null|
+|**2025-04-06**|**Three-Factor Learning in Spiking Neural Networks: An Overview of Methods and Trends from a Machine Learning Perspective**|Szymon Mazurek et.al.|[2504.05341v1](http://arxiv.org/abs/2504.05341v1)|null|
 |**2025-04-04**|**Decision SpikeFormer: Spike-Driven Transformer for Decision Making**|Wei Huang et.al.|[2504.03800v1](http://arxiv.org/abs/2504.03800v1)|null|
 |**2025-03-20**|**HiAER-Spike: Hardware-Software Co-Design for Large-Scale Reconfigurable Event-Driven Neuromorphic Computing**|Gwenevere Frank et.al.|[2504.03671v1](http://arxiv.org/abs/2504.03671v1)|null|
 |**2025-04-03**|**Learning dynamics on the picosecond timescale in a superconducting synapse structure**|Ken Segall et.al.|[2504.02754v1](http://arxiv.org/abs/2504.02754v1)|null|
@@ -1252,5 +1254,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250409>back to top</a>)</p>
 
