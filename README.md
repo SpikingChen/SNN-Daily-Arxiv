@@ -1,4 +1,4 @@
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Revisiting the Haken Lighthouse Model**|S Coombes et.al.|[2504.12821v1](http://arxiv.org/abs/2504.12821v1)|null|
+|**2025-04-17**|**Spike-Kal: A Spiking Neuron Network Assisted Kalman Filter**|Xun Xiao et.al.|[2504.12703v1](http://arxiv.org/abs/2504.12703v1)|null|
+|**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Ziqi Wang et.al.|[2504.12702v1](http://arxiv.org/abs/2504.12702v1)|null|
 |**2025-04-16**|**GT-SVQ: A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization**|Huizhe Zhang et.al.|[2504.11840v1](http://arxiv.org/abs/2504.11840v1)|null|
 |**2025-04-16**|**Polarisation-Inclusive Spiking Neural Networks for Real-Time RFI Detection in Modern Radio Telescopes**|Nicholas J. Pritchard et.al.|[2504.11720v1](http://arxiv.org/abs/2504.11720v1)|null|
 |**2025-04-15**|**Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding**|Francesca Rivelli et.al.|[2504.11568v1](http://arxiv.org/abs/2504.11568v1)|null|
@@ -1266,5 +1269,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250418>back to top</a>)</p>
 
