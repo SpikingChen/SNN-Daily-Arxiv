@@ -1,4 +1,4 @@
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v1](http://arxiv.org/abs/2504.17751v1)|null|
 |**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371v1](http://arxiv.org/abs/2504.14371v1)|null|
 |**2025-04-18**|**Causal pieces: analysing and improving spiking neural networks piece by piece**|Dominik Dold et.al.|[2504.14015v1](http://arxiv.org/abs/2504.14015v1)|null|
 |**2025-04-18**|**SwitchMT: An Adaptive Context Switching Methodology for Scalable Multi-Task Learning in Intelligent Autonomous Agents**|Avaneesh Devkota et.al.|[2504.13541v1](http://arxiv.org/abs/2504.13541v1)|null|
@@ -123,7 +124,7 @@
 |**2025-02-04**|**DRiVE: Dynamic Recognition in VEhicles using snnTorch**|Heerak Vora et.al.|[2502.10421v1](http://arxiv.org/abs/2502.10421v1)|null|
 |**2025-02-13**|**Spiking Neural Networks for Temporal Processing: Status Quo and Future Prospects**|Chenxiang Ma et.al.|[2502.09449v1](http://arxiv.org/abs/2502.09449v1)|**[link](https://github.com/liyc5929/neuroseqbench)**|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393v1](http://arxiv.org/abs/2502.09393v1)|null|
-|**2025-02-14**|**Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**|Shuqi Shen et.al.|[2502.08659v2](http://arxiv.org/abs/2502.08659v2)|null|
+|**2025-04-24**|**Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**|Shuqi Shen et.al.|[2502.08659v3](http://arxiv.org/abs/2502.08659v3)|null|
 |**2025-02-12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|Reza Ahmadvand et.al.|[2502.08115v1](http://arxiv.org/abs/2502.08115v1)|null|
 |**2025-02-11**|**OscNet: Machine Learning on CMOS Oscillator Networks**|Wenxiao Cai et.al.|[2502.07192v1](http://arxiv.org/abs/2502.07192v1)|null|
 |**2025-02-10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|Emanuele Coradin et.al.|[2502.06771v1](http://arxiv.org/abs/2502.06771v1)|null|
@@ -1272,5 +1273,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250425>back to top</a>)</p>
 
