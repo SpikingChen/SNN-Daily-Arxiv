@@ -1,4 +1,4 @@
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|Tianqing Zhang et.al.|[2504.20445v1](http://arxiv.org/abs/2504.20445v1)|null|
 |**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|Mohaddeseh Chegini et.al.|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|null|
 |**2025-04-25**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v2](http://arxiv.org/abs/2504.17751v2)|null|
 |**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371v1](http://arxiv.org/abs/2504.14371v1)|null|
@@ -81,8 +82,8 @@
 |**2025-03-05**|**Neural Models of Task Adaptation: A Tutorial on Spiking Networks for Executive Control**|Ashwin Viswanathan Kannan et.al.|[2503.03784v1](http://arxiv.org/abs/2503.03784v1)|null|
 |**2025-04-02**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379v2](http://arxiv.org/abs/2503.03379v2)|**[link](https://github.com/dubcyfor3/Prosperity)**|
 |**2025-03-06**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272v2](http://arxiv.org/abs/2503.03272v2)|**[link](https://github.com/ryime/pdsg-sda)**|
-|**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144v1](http://arxiv.org/abs/2503.03144v1)|null|
-|**2025-03-05**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v2](http://arxiv.org/abs/2503.02689v2)|null|
+|**2025-04-29**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144v2](http://arxiv.org/abs/2503.03144v2)|null|
+|**2025-04-29**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v3](http://arxiv.org/abs/2503.02689v3)|null|
 |**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|**[link](https://github.com/unibe-cns/sal-code)**|
 |**2025-03-03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|Devin Pohl et.al.|[2503.02033v1](http://arxiv.org/abs/2503.02033v1)|null|
 |**2025-03-03**|**Sustainable AI: Mathematical Foundations of Spiking Neural Networks**|Adalbert Fono et.al.|[2503.02013v1](http://arxiv.org/abs/2503.02013v1)|null|
@@ -1274,5 +1275,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250430>back to top</a>)</p>
 
