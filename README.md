@@ -1,4 +1,4 @@
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-08**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375v1](http://arxiv.org/abs/2505.05375v1)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
+|**2025-05-09**|**CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity**|Yongsheng Huang et.al.|[2505.05992v1](http://arxiv.org/abs/2505.05992v1)|null|
+|**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
+|**2025-05-08**|**ADMM-Based Training for Spiking Neural Networks**|Giovanni Perin et.al.|[2505.05527v1](http://arxiv.org/abs/2505.05527v1)|null|
+|**2025-04-30**|**Akkumula: Evidence accumulation driver models with Spiking Neural Networks**|Alberto Morando et.al.|[2505.05489v1](http://arxiv.org/abs/2505.05489v1)|null|
+|**2025-05-09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
 |**2025-05-08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165v2](http://arxiv.org/abs/2505.04165v2)|null|
 |**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|null|
 |**2025-04-21**|**Ultra-Low-Power Spiking Neurons in 7 nm FinFET Technology: A Comparative Analysis of Leaky Integrate-and-Fire, Morris-Lecar, and Axon-Hillock Architectures**|Logan Larsh et.al.|[2505.03764v1](http://arxiv.org/abs/2505.03764v1)|null|
@@ -52,7 +56,7 @@
 |**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|null|
 |**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|null|
 |**2025-03-31**|**Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism**|Linghao Feng et.al.|[2503.23767v1](http://arxiv.org/abs/2503.23767v1)|null|
-|**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v1](http://arxiv.org/abs/2503.21846v1)|null|
+|**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v1](http://arxiv.org/abs/2503.21846v1)|**[link](https://github.com/YesmineAbdennadher/LightSNN)**|
 |**2025-03-22**|**Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation**|Robin Dietrich et.al.|[2503.21795v1](http://arxiv.org/abs/2503.21795v1)|**[link](https://github.com/dietriro/neuroseq)**|
 |**2025-03-20**|**Input-Triggered Hardware Trojan Attack on Spiking Neural Networks**|Spyridon Raptis et.al.|[2503.21793v1](http://arxiv.org/abs/2503.21793v1)|null|
 |**2025-03-27**|**Spiking Rate and Latency Encoding with Resonant Tunnelling Diode Neuron Circuits and Design Influences**|Giovanni Donati et.al.|[2503.21342v1](http://arxiv.org/abs/2503.21342v1)|null|
@@ -1281,5 +1285,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250512>back to top</a>)</p>
 
