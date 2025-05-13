@@ -1,4 +1,4 @@
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715v1](http://arxiv.org/abs/2505.07715v1)|null|
+|**2025-05-12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|Kamil Jeziorek et.al.|[2505.07556v1](http://arxiv.org/abs/2505.07556v1)|null|
+|**2025-05-12**|**SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction**|Zhixuan Zhang et.al.|[2505.07336v1](http://arxiv.org/abs/2505.07336v1)|null|
+|**2025-05-10**|**Event-based Neural Spike Detection Using Spiking Neural Networks for Neuromorphic iBMI Systems**|Chanwook Hwang et.al.|[2505.06544v1](http://arxiv.org/abs/2505.06544v1)|null|
+|**2025-05-09**|**Sigma-Delta Neural Network Conversion on Loihi 2**|Matthew Brehove et.al.|[2505.06417v1](http://arxiv.org/abs/2505.06417v1)|null|
+|**2025-05-07**|**Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain**|Spyridon Raptis et.al.|[2505.06299v1](http://arxiv.org/abs/2505.06299v1)|null|
 |**2025-05-09**|**CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity**|Yongsheng Huang et.al.|[2505.05992v1](http://arxiv.org/abs/2505.05992v1)|null|
 |**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
 |**2025-05-08**|**ADMM-Based Training for Spiking Neural Networks**|Giovanni Perin et.al.|[2505.05527v1](http://arxiv.org/abs/2505.05527v1)|null|
@@ -56,7 +62,7 @@
 |**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|null|
 |**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|null|
 |**2025-03-31**|**Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism**|Linghao Feng et.al.|[2503.23767v1](http://arxiv.org/abs/2503.23767v1)|null|
-|**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v1](http://arxiv.org/abs/2503.21846v1)|**[link](https://github.com/YesmineAbdennadher/LightSNN)**|
+|**2025-05-12**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v2](http://arxiv.org/abs/2503.21846v2)|**[link](https://github.com/YesmineAbdennadher/LightSNN)**|
 |**2025-03-22**|**Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation**|Robin Dietrich et.al.|[2503.21795v1](http://arxiv.org/abs/2503.21795v1)|**[link](https://github.com/dietriro/neuroseq)**|
 |**2025-03-20**|**Input-Triggered Hardware Trojan Attack on Spiking Neural Networks**|Spyridon Raptis et.al.|[2503.21793v1](http://arxiv.org/abs/2503.21793v1)|null|
 |**2025-03-27**|**Spiking Rate and Latency Encoding with Resonant Tunnelling Diode Neuron Circuits and Design Influences**|Giovanni Donati et.al.|[2503.21342v1](http://arxiv.org/abs/2503.21342v1)|null|
@@ -1285,5 +1291,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
 
