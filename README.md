@@ -1,4 +1,4 @@
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
+|**2025-05-19**|**FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture**|Tenglong Li et.al.|[2505.12771v1](http://arxiv.org/abs/2505.12771v1)|null|
+|**2025-05-19**|**Spiking Neural Network: a low power solution for physical layer authentication**|Jung Hoon Lee et.al.|[2505.12647v1](http://arxiv.org/abs/2505.12647v1)|null|
+|**2025-05-18**|**SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks**|Boxun Xu et.al.|[2505.12292v1](http://arxiv.org/abs/2505.12292v1)|null|
+|**2025-05-18**|**Bridging Quantized Artificial Neural Networks and Neuromorphic Hardware**|Zhenhui Chen et.al.|[2505.12221v1](http://arxiv.org/abs/2505.12221v1)|null|
+|**2025-05-17**|**Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics**|Jiaqiang Jiang et.al.|[2505.11863v1](http://arxiv.org/abs/2505.11863v1)|null|
 |**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455v1](http://arxiv.org/abs/2505.11455v1)|null|
 |**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433v1](http://arxiv.org/abs/2505.11433v1)|null|
 |**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418v1](http://arxiv.org/abs/2505.11418v1)|null|
@@ -176,7 +182,7 @@
 |**2025-01-30**|**Neural Network Modeling of Microstructure Complexity Using Digital Libraries**|Yingjie Zhao et.al.|[2501.18189v1](http://arxiv.org/abs/2501.18189v1)|null|
 |**2025-01-29**|**PulmoFusion: Advancing Pulmonary Health with Efficient Multi-Modal Fusion**|Ahmed Sharshar et.al.|[2501.17699v1](http://arxiv.org/abs/2501.17699v1)|**[link](https://github.com/ahmed-sharshar/respirodynamics)**|
 |**2025-01-23**|**Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm**|Daniel Casanueva-Morato et.al.|[2501.17172v1](http://arxiv.org/abs/2501.17172v1)|null|
-|**2025-01-28**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745v1](http://arxiv.org/abs/2501.16745v1)|null|
+|**2025-05-19**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745v2](http://arxiv.org/abs/2501.16745v2)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995v1](http://arxiv.org/abs/2501.15995v1)|null|
 |**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925v1](http://arxiv.org/abs/2501.15925v1)|null|
 |**2025-01-27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|Xiaopeng Lin et.al.|[2501.15808v1](http://arxiv.org/abs/2501.15808v1)|null|
@@ -184,7 +190,7 @@
 |**2025-01-28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|Yimeng Fan et.al.|[2501.15151v2](http://arxiv.org/abs/2501.15151v2)|**[link](https://github.com/yimeng-fan/spikssd)**|
 |**2024-12-19**|**Neuromorphic Spiking Neural Network Based Classification of COVID-19 Spike Sequences**|Taslim Murad et.al.|[2501.14746v1](http://arxiv.org/abs/2501.14746v1)|null|
 |**2025-02-05**|**FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks**|Kairong Yu et.al.|[2501.14744v2](http://arxiv.org/abs/2501.14744v2)|**[link](https://github.com/yukairong/fsta-snn)**|
-|**2025-05-07**|**Emergence of Abstract Rules in Recurrent Spiking Neural Networks**|Yingchao Yu et.al.|[2501.14539v2](http://arxiv.org/abs/2501.14539v2)|null|
+|**2025-05-19**|**Neuronal and structural differentiation in the emergence of abstract rules in hierarchically modulated spiking neural networks**|Yingchao Yu et.al.|[2501.14539v3](http://arxiv.org/abs/2501.14539v3)|null|
 |**2025-01-24**|**Channel-wise Parallelizable Spiking Neuron with Multiplication-free Dynamics and Large Temporal Receptive Fields**|Peng Xue et.al.|[2501.14490v1](http://arxiv.org/abs/2501.14490v1)|null|
 |**2025-02-02**|**$SpikePack$: Enhanced Information Flow in Spiking Neural Networks with High Hardware Compatibility**|Guobin Shen et.al.|[2501.14484v2](http://arxiv.org/abs/2501.14484v2)|null|
 |**2025-01-24**|**Ultrafast neural sampling with spiking nanolasers**|Ivan K. Boikov et.al.|[2501.14446v1](http://arxiv.org/abs/2501.14446v1)|null|
@@ -1304,5 +1310,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250520>back to top</a>)</p>
 
