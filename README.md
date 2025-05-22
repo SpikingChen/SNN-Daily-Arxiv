@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,21 +11,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**A dynamical memory with only one spiking neuron**|Damien Depannemaecker et.al.|[2505.15453v1](http://arxiv.org/abs/2505.15453v1)|null|
+|**2025-04-14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|Yuchen Tian et.al.|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|null|
+|**2025-05-19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719v1](http://arxiv.org/abs/2505.14719v1)|null|
 |**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535v1](http://arxiv.org/abs/2505.14535v1)|null|
 |**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533v1](http://arxiv.org/abs/2505.14533v1)|null|
 |**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|null|
-|**2025-05-19**|**Spiking Neural Networks with Random Network Architecture**|Zihan Dai et.al.|[2505.13622v1](http://arxiv.org/abs/2505.13622v1)|null|
+|**2025-05-19**|**Spiking Neural Networks with Random Network Architecture**|Zihan Dai et.al.|[2505.13622v1](http://arxiv.org/abs/2505.13622v1)|**[link](https://github.com/asd0731/spiking-neural-networks-with-random-network-architecture)**|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
 |**2025-05-19**|**FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture**|Tenglong Li et.al.|[2505.12771v1](http://arxiv.org/abs/2505.12771v1)|null|
 |**2025-05-19**|**Spiking Neural Network: a low power solution for physical layer authentication**|Jung Hoon Lee et.al.|[2505.12647v1](http://arxiv.org/abs/2505.12647v1)|null|
 |**2025-05-18**|**SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks**|Boxun Xu et.al.|[2505.12292v1](http://arxiv.org/abs/2505.12292v1)|null|
 |**2025-05-18**|**Bridging Quantized Artificial Neural Networks and Neuromorphic Hardware**|Zhenhui Chen et.al.|[2505.12221v1](http://arxiv.org/abs/2505.12221v1)|null|
 |**2025-05-17**|**Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics**|Jiaqiang Jiang et.al.|[2505.11863v1](http://arxiv.org/abs/2505.11863v1)|null|
-|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455v1](http://arxiv.org/abs/2505.11455v1)|null|
+|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455v1](http://arxiv.org/abs/2505.11455v1)|**[link](https://github.com/dgxdn/asrc-snn)**|
 |**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433v1](http://arxiv.org/abs/2505.11433v1)|null|
 |**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418v1](http://arxiv.org/abs/2505.11418v1)|null|
 |**2025-05-16**|**Lightweight LIF-only SNN accelerator using differential time encoding**|Daniel Windhager et.al.|[2505.11252v1](http://arxiv.org/abs/2505.11252v1)|null|
-|**2025-05-16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|Sicheng Shen et.al.|[2505.11151v1](http://arxiv.org/abs/2505.11151v1)|null|
+|**2025-05-16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|Sicheng Shen et.al.|[2505.11151v1](http://arxiv.org/abs/2505.11151v1)|**[link](https://github.com/fancyssc/step)**|
 |**2025-05-16**|**Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection**|Desong Zhang et.al.|[2505.11134v1](http://arxiv.org/abs/2505.11134v1)|null|
 |**2025-05-16**|**Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks**|Chiyue Wei et.al.|[2505.10909v1](http://arxiv.org/abs/2505.10909v1)|null|
 |**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371v1](http://arxiv.org/abs/2505.10371v1)|null|
@@ -1314,5 +1317,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 
