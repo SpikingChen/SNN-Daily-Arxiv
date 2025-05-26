@@ -1,4 +1,4 @@
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023v1](http://arxiv.org/abs/2505.18023v1)|null|
+|**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|
+|**2025-05-23**|**Bruno: Backpropagation Running Undersampled for Novel device Optimization**|Luca Fehlings et.al.|[2505.17791v1](http://arxiv.org/abs/2505.17791v1)|null|
+|**2025-05-23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|Fengyi Wang et.al.|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|null|
+|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|null|
 |**2025-05-22**|**Neuromorphic-based metaheuristics: A new generation of low power, low latency and small footprint optimization algorithms**|El-ghazali Talbi et.al.|[2505.16362v1](http://arxiv.org/abs/2505.16362v1)|null|
-|**2025-05-17**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|Zizheng Zhu et.al.|[2505.15840v1](http://arxiv.org/abs/2505.15840v1)|null|
+|**2025-05-23**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|Zizheng Zhu et.al.|[2505.15840v2](http://arxiv.org/abs/2505.15840v2)|null|
 |**2025-05-16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|Mathias Schmolli et.al.|[2505.15833v1](http://arxiv.org/abs/2505.15833v1)|null|
 |**2025-05-21**|**A dynamical memory with only one spiking neuron**|Damien Depannemaecker et.al.|[2505.15453v1](http://arxiv.org/abs/2505.15453v1)|null|
 |**2025-04-14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|Yuchen Tian et.al.|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|null|
@@ -1320,5 +1325,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
 
