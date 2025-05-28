@@ -1,4 +1,4 @@
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185v1](http://arxiv.org/abs/2505.21185v1)|null|
+|**2025-05-27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|Di Yu et.al.|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|null|
+|**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|null|
 |**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|null|
 |**2025-05-24**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|null|
 |**2025-05-23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023v1](http://arxiv.org/abs/2505.18023v1)|null|
@@ -150,7 +153,7 @@
 |**2025-02-28**|**Towards High-performance Spiking Transformers from ANN to SNN Conversion**|Zihan Huang et.al.|[2502.21193v1](http://arxiv.org/abs/2502.21193v1)|null|
 |**2025-02-27**|**Neuromorphic Circuits with Spiking Astrocytes for Increased Energy Efficiency, Fault Tolerance, and Memory Capacitance**|Aybars Yunusoglu et.al.|[2502.20492v1](http://arxiv.org/abs/2502.20492v1)|null|
 |**2025-04-23**|**A Quarter of a Century of Neuromorphic Architectures on FPGAs -- an Overview**|Wiktor J. Szczerek et.al.|[2502.20415v3](http://arxiv.org/abs/2502.20415v3)|null|
-|**2025-02-19**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v1](http://arxiv.org/abs/2502.20411v1)|null|
+|**2025-05-27**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v2](http://arxiv.org/abs/2502.20411v2)|null|
 |**2025-02-27**|**Waves and symbols in neuromorphic hardware: from analog signal processing to digital computing on the same computational substrate**|Dmitrii Zendrikov et.al.|[2502.20381v1](http://arxiv.org/abs/2502.20381v1)|null|
 |**2025-03-06**|**Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising**|Zikuan Li et.al.|[2502.19660v2](http://arxiv.org/abs/2502.19660v2)|**[link](https://github.com/Miraclelzk/NI-SGCN)**|
 |**2025-02-26**|**Enhanced Neuromorphic Semantic Segmentation Latency through Stream Event**|D. Hareb et.al.|[2502.18982v1](http://arxiv.org/abs/2502.18982v1)|null|
@@ -201,7 +204,7 @@
 |**2025-01-23**|**Towards spiking analog hardware implementation of a trajectory interpolation mechanism for smooth closed-loop control of a spiking robot arm**|Daniel Casanueva-Morato et.al.|[2501.17172v1](http://arxiv.org/abs/2501.17172v1)|null|
 |**2025-05-19**|**Toward Relative Positional Encoding in Spiking Transformers**|Changze Lv et.al.|[2501.16745v2](http://arxiv.org/abs/2501.16745v2)|null|
 |**2025-01-27**|**Brain-Inspired Decentralized Satellite Learning in Space Computing Power Networks**|Peng Yang et.al.|[2501.15995v1](http://arxiv.org/abs/2501.15995v1)|null|
-|**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925v1](http://arxiv.org/abs/2501.15925v1)|null|
+|**2025-01-27**|**Efficient Distillation of Deep Spiking Neural Networks for Full-Range Timestep Deployment**|Chengting Yu et.al.|[2501.15925v1](http://arxiv.org/abs/2501.15925v1)|**[link](https://github.com/Intelli-Chip-Lab/snn_temporal_decoupling_distillation)**|
 |**2025-01-27**|**ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring**|Xiaopeng Lin et.al.|[2501.15808v1](http://arxiv.org/abs/2501.15808v1)|null|
 |**2025-01-25**|**Heterogeneous Population Encoding for Multi-joint Regression using sEMG Signals**|Farah Baracat et.al.|[2501.15347v1](http://arxiv.org/abs/2501.15347v1)|null|
 |**2025-01-28**|**SpikSSD: Better Extraction and Fusion for Object Detection with Spiking Neuron Networks**|Yimeng Fan et.al.|[2501.15151v2](http://arxiv.org/abs/2501.15151v2)|**[link](https://github.com/yimeng-fan/spikssd)**|
@@ -1327,5 +1330,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
 
