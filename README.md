@@ -1,4 +1,4 @@
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|null|
+|**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|
 |**2025-06-05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini. Federico Becattini et.al.|[2506.04817v1](http://arxiv.org/abs/2506.04817v1)|null|
 |**2025-06-05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|null|
@@ -1347,5 +1349,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250608>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
 
