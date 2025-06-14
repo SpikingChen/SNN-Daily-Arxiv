@@ -1,4 +1,4 @@
-## Updated on 2025.06.13
+## Updated on 2025.06.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,26 +11,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|null|
+|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|**[link](https://github.com/wuchangw/fastersnn)**|
 |**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599v1](http://arxiv.org/abs/2506.09599v1)|null|
 |**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgiç et.al.|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|null|
 |**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087v1](http://arxiv.org/abs/2506.09087v1)|null|
 |**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842v1](http://arxiv.org/abs/2506.08842v1)|null|
-|**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138v1](http://arxiv.org/abs/2506.08138v1)|null|
+|**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138v1](http://arxiv.org/abs/2506.08138v1)|**[link](https://github.com/naclab/snndynamicspracticalguide)**|
 |**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v2](http://arxiv.org/abs/2506.07737v2)|null|
 |**2025-06-09**|**ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks**|Yufei Guo et.al.|[2506.07720v1](http://arxiv.org/abs/2506.07720v1)|null|
 |**2025-06-08**|**Transient Dynamics in Lattices of Differentiating Ring Oscillators**|Peter DelMastro et.al.|[2506.07253v1](http://arxiv.org/abs/2506.07253v1)|null|
 |**2025-06-08**|**RBA-FE: A Robust Brain-Inspired Audio Feature Extractor for Depression Diagnosis**|Yu-Xuan Wu et.al.|[2506.07118v1](http://arxiv.org/abs/2506.07118v1)|null|
 |**2025-06-08**|**Less is More: some Computational Principles based on Parcimony, and Limitations of Natural Intelligence**|Laura Cohen et.al.|[2506.07060v1](http://arxiv.org/abs/2506.07060v1)|null|
 |**2025-06-07**|**Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules**|Zofia Rudnicka et.al.|[2506.06750v1](http://arxiv.org/abs/2506.06750v1)|null|
-|**2025-06-04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374v1](http://arxiv.org/abs/2506.06374v1)|null|
+|**2025-06-04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374v1](http://arxiv.org/abs/2506.06374v1)|**[link](https://github.com/maxtimer97/ssm-inspired-lif)**|
 |**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|null|
 |**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|
 |**2025-06-12**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini et.al.|[2506.04817v2](http://arxiv.org/abs/2506.04817v2)|null|
 |**2025-06-05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|null|
 |**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|null|
-|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450v1](http://arxiv.org/abs/2506.03450v1)|**[link](https://github.com/Prithvish04/senMap_paper_submission)**|
+|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450v1](http://arxiv.org/abs/2506.03450v1)|null|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392v1](http://arxiv.org/abs/2506.03392v1)|null|
 |**2025-06-03**|**Minimal Neuron Circuits -- Part I: Resonators**|Amr Nabil et.al.|[2506.02341v1](http://arxiv.org/abs/2506.02341v1)|null|
 |**2025-05-12**|**Efficient ANN-SNN Conversion with Error Compensation Learning**|Chang Liu et.al.|[2506.01968v1](http://arxiv.org/abs/2506.01968v1)|null|
@@ -1362,5 +1362,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250614>back to top</a>)</p>
 
