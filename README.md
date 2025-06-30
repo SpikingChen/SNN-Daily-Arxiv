@@ -1,4 +1,4 @@
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Unified Memcapacitor-Memristor Memory for Synaptic Weights and Neuron Temporal Dynamics**|Simone D'Agostino et.al.|[2506.22227v1](http://arxiv.org/abs/2506.22227v1)|null|
 |**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363v1](http://arxiv.org/abs/2506.21363v1)|null|
 |**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324v1](http://arxiv.org/abs/2506.21324v1)|null|
 |**2025-06-25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|Marc Bara et.al.|[2506.20782v1](http://arxiv.org/abs/2506.20782v1)|null|
@@ -1385,5 +1386,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
 
