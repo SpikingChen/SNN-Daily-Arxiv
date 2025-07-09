@@ -1,4 +1,4 @@
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Exploring Gain-Doped-Waveguide-Synapse for Neuromorphic Applications: A Pulsed Pump-Signal Approach**|Robert Otupiri et.al.|[2507.05931v1](http://arxiv.org/abs/2507.05931v1)|null|
 |**2025-07-07**|**Self-consistent moment dynamics for networks of spiking neurons**|Gianni Valerio Vinci et.al.|[2507.05117v1](http://arxiv.org/abs/2507.05117v1)|null|
 |**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765v1](http://arxiv.org/abs/2507.03765v1)|null|
 |**2025-07-04**|**Benchmarking Spiking Neurons for Linear Quadratic Regulator Control of Multi-linked Pole on a Cart: from Single Neuron to Ensemble**|Shreyan Banerjee et.al.|[2507.03621v1](http://arxiv.org/abs/2507.03621v1)|null|
@@ -26,7 +27,7 @@
 |**2025-06-25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|Marc Bara et.al.|[2506.20782v1](http://arxiv.org/abs/2506.20782v1)|null|
 |**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015v1](http://arxiv.org/abs/2506.20015v1)|null|
 |**2025-06-24**|**A Unified Platform to Evaluate STDP Learning Rule and Synapse Model using Pattern Recognition in a Spiking Neural Network**|Jaskirat Singh Maskeen et.al.|[2506.19377v1](http://arxiv.org/abs/2506.19377v1)|null|
-|**2025-06-24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|Boxuan Zhang et.al.|[2506.19256v1](http://arxiv.org/abs/2506.19256v1)|**[link](https://github.com/ZBX05/Temporal-Regularization-Training)**|
+|**2025-07-08**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|Boxuan Zhang et.al.|[2506.19256v2](http://arxiv.org/abs/2506.19256v2)|**[link](https://github.com/ZBX05/Temporal-Regularization-Training)**|
 |**2025-06-23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|Andrey Derzhavin et.al.|[2506.18306v1](http://arxiv.org/abs/2506.18306v1)|null|
 |**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169v1](http://arxiv.org/abs/2506.17169v1)|null|
 |**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984v1](http://arxiv.org/abs/2506.14984v1)|**[link](https://github.com/mdominijanni/dsstdp-results)**|
@@ -1395,5 +1396,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
 
