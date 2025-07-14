@@ -1,4 +1,4 @@
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|Zihang Song et.al.|[2507.08490v1](http://arxiv.org/abs/2507.08490v1)|null|
+|**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320v1](http://arxiv.org/abs/2507.08320v1)|null|
 |**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734v1](http://arxiv.org/abs/2507.07734v1)|null|
 |**2025-07-10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396v1](http://arxiv.org/abs/2507.07396v1)|null|
 |**2025-07-09**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|Andrew Fan et.al.|[2507.07284v1](http://arxiv.org/abs/2507.07284v1)|null|
@@ -130,7 +132,7 @@
 |**2025-05-08**|**ADMM-Based Training for Spiking Neural Networks**|Giovanni Perin et.al.|[2505.05527v1](http://arxiv.org/abs/2505.05527v1)|null|
 |**2025-04-30**|**Akkumula: Evidence accumulation driver models with Spiking Neural Networks**|Alberto Morando et.al.|[2505.05489v1](http://arxiv.org/abs/2505.05489v1)|null|
 |**2025-05-09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
-|**2025-05-16**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165v4](http://arxiv.org/abs/2505.04165v4)|null|
+|**2025-07-11**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165v5](http://arxiv.org/abs/2505.04165v5)|null|
 |**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|null|
 |**2025-04-21**|**Ultra-Low-Power Spiking Neurons in 7 nm FinFET Technology: A Comparative Analysis of Leaky Integrate-and-Fire, Morris-Lecar, and Axon-Hillock Architectures**|Logan Larsh et.al.|[2505.03764v1](http://arxiv.org/abs/2505.03764v1)|null|
 |**2025-05-03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|Eva Andrés et.al.|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|null|
@@ -1399,5 +1401,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250713>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
 
