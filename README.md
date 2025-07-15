@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540v1](http://arxiv.org/abs/2507.09540v1)|null|
+|**2025-07-13**|**On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks**|Zainab Ali et.al.|[2507.09538v1](http://arxiv.org/abs/2507.09538v1)|null|
+|**2025-07-12**|**Cellular Mechanisms of Phase Maintenance in a Pyloric Motif of a Central Pattern Generator**|Gabrielle O'Brien et.al.|[2507.09360v1](http://arxiv.org/abs/2507.09360v1)|null|
+|**2025-07-12**|**Cross Knowledge Distillation between Artificial and Spiking Neural Networks**|Shuhan Ye et.al.|[2507.09269v1](http://arxiv.org/abs/2507.09269v1)|null|
 |**2025-07-11**|**Onboard Neuromorphic Split Computing via Optical Links for LEO Remote Sensing**|Zihang Song et.al.|[2507.08490v1](http://arxiv.org/abs/2507.08490v1)|null|
 |**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320v1](http://arxiv.org/abs/2507.08320v1)|null|
 |**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734v1](http://arxiv.org/abs/2507.07734v1)|null|
@@ -66,7 +70,7 @@
 |**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|null|
 |**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|
 |**2025-06-12**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini et.al.|[2506.04817v2](http://arxiv.org/abs/2506.04817v2)|null|
-|**2025-06-05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|null|
+|**2025-07-12**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526v2](http://arxiv.org/abs/2506.04526v2)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|null|
 |**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|null|
 |**2025-06-16**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450v2](http://arxiv.org/abs/2506.03450v2)|null|
@@ -86,7 +90,7 @@
 |**2025-05-27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|Di Yu et.al.|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|**[link](https://github.com/AmazingDD/ECC-SNN)**|
 |**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|null|
 |**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|null|
-|**2025-05-24**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|null|
+|**2025-07-13**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608v2](http://arxiv.org/abs/2505.18608v2)|null|
 |**2025-06-13**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023v2](http://arxiv.org/abs/2505.18023v2)|null|
 |**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|
 |**2025-05-23**|**Bruno: Backpropagation Running Undersampled for Novel device Optimization**|Luca Fehlings et.al.|[2505.17791v1](http://arxiv.org/abs/2505.17791v1)|null|
@@ -1401,5 +1405,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250715>back to top</a>)</p>
 
