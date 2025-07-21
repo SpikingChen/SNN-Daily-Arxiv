@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-14**|**LASANA: Large-scale Surrogate Modeling for Analog Neuromorphic Architecture Exploration**|Jason Ho et.al.|[2507.10748v1](http://arxiv.org/abs/2507.10748v1)|null|
+|**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069v1](http://arxiv.org/abs/2507.14069v1)|null|
+|**2025-07-18**|**LASANA: Large-Scale Surrogate Modeling for Analog Neuromorphic Architecture Exploration**|Jason Ho et.al.|[2507.10748v2](http://arxiv.org/abs/2507.10748v2)|null|
 |**2025-07-08**|**An Exact Gradient Framework for Training Spiking Neural Networks**|Arman Ferdowsi et.al.|[2507.10568v1](http://arxiv.org/abs/2507.10568v1)|null|
 |**2025-07-04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|Alessio Caviglia et.al.|[2507.10561v1](http://arxiv.org/abs/2507.10561v1)|null|
 |**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540v1](http://arxiv.org/abs/2507.09540v1)|null|
@@ -1408,5 +1409,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250721>back to top</a>)</p>
 
