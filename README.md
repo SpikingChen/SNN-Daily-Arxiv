@@ -1,4 +1,4 @@
-## Updated on 2025.08.29
+## Updated on 2025.08.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -1418,5 +1418,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250829>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250831>back to top</a>)</p>
 
