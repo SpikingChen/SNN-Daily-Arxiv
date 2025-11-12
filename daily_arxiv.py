@@ -43,9 +43,6 @@ def get_daily_papers(topic,query="SNN", max_results=2):
 
     cnt = 0
 
-    today = datetime.date.today()
-    two_years_ago = today - datetime.timedelta(days=2*365)
-            
     for result in search_engine.results():
 
         paper_id            = result.get_short_id()
@@ -60,8 +57,7 @@ def get_daily_papers(topic,query="SNN", max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
-        if update_time < two_years_ago:
-            continue
+
       
         print("Time = ", update_time ,
               " title = ", paper_title,
@@ -101,8 +97,15 @@ def get_daily_papers(topic,query="SNN", max_results=2):
     data_web = {topic:content_to_web}
     return data,data_web 
 
-def update_json_file(filename,data_all):            
-    json_data = {}
+def update_json_file(filename,data_all):
+    with open(filename,"r") as f:
+        content = f.read()
+        if not content:
+            m = {}
+        else:
+            m = json.loads(content)
+            
+    json_data = m.copy() 
     
     # update papers in each keywords         
     for data in data_all:
@@ -223,13 +226,17 @@ if __name__ == "__main__":
     
     keywords = dict()
     keywords["Spiking Neural Network"]                 = "\"Spiking Neural Network\"OR\"Spiking Neural Networks\"OR\"Spiking Neuron\""
+    # keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\"OR\"image retrieval\""
+    # keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
+    # keywords["Image Matching"]      = "\"Image Matching\"OR\"Keypoint Matching\""
+    # keywords["NeRF"]                = "NeRF"
 
     for topic,keyword in keywords.items():
  
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 200)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 150)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
@@ -242,3 +249,19 @@ if __name__ == "__main__":
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file,md_file)
+
+    # # 2. update docs/index.md file
+    # json_file = "./docs/snn-arxiv-daily-web.json"
+    # md_file   = "./docs/index.md"
+    # # update json data
+    # update_json_file(json_file,data_collector)
+    # # json data to markdown
+    # json_to_md(json_file, md_file, to_web = True)
+
+    # # 3. Update docs/wechat.md file
+    # json_file = "./docs/snn-arxiv-daily-wechat.json"
+    # md_file   = "./docs/wechat.md"
+    # # update json data
+    # update_json_file(json_file, data_collector_web)
+    # # json data to markdown
+    # json_to_md(json_file, md_file, to_web=False, use_title= False)
