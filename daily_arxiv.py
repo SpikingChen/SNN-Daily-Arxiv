@@ -101,36 +101,18 @@ def get_daily_papers(topic,query="SNN", max_results=2):
     data_web = {topic:content_to_web}
     return data,data_web 
 
-def update_json_file(filename,data_all):
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
-    json_data = m.copy() 
+def update_json_file(filename,data_all):            
+    json_data = {}
     
     # update papers in each keywords         
     for data in data_all:
         for keyword in data.keys():
             papers = data[keyword]
 
-            filtered_papers = {}
-            for k, v in papers.items():
-                try:
-                    date_str = v.split('|')[1].replace('**', '').strip()
-                    pub_date = datetime.datetime.strptime(date_str, "%Y-%m-%d").date()
-                except Exception:
-                    continue
-                if pub_date >= two_years_ago:
-                    filtered_papers[k] = v
-
             if keyword in json_data.keys():
-                # 只更新两年内的内容
-                json_data[keyword].update(filtered_papers)
+                json_data[keyword].update(papers)
             else:
-                json_data[keyword] = filtered_papers
+                json_data[keyword] = papers
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
