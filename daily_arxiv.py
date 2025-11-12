@@ -43,9 +43,7 @@ def get_daily_papers(topic,query="SNN", max_results=2):
 
     cnt = 0
 
-        # 获取当前日期
     today = datetime.date.today()
-    # 设置2年前的截止日期
     two_years_ago = today - datetime.timedelta(days=2*365)
             
     for result in search_engine.results():
@@ -118,10 +116,21 @@ def update_json_file(filename,data_all):
         for keyword in data.keys():
             papers = data[keyword]
 
+            filtered_papers = {}
+            for k, v in papers.items():
+                try:
+                    date_str = v.split('|')[1].replace('**', '').strip()
+                    pub_date = datetime.datetime.strptime(date_str, "%Y-%m-%d").date()
+                except Exception:
+                    continue
+                if pub_date >= two_years_ago:
+                    filtered_papers[k] = v
+
             if keyword in json_data.keys():
-                json_data[keyword].update(papers)
+                # 只更新两年内的内容
+                json_data[keyword].update(filtered_papers)
             else:
-                json_data[keyword] = papers
+                json_data[keyword] = filtered_papers
 
     with open(filename,"w") as f:
         json.dump(json_data,f)
