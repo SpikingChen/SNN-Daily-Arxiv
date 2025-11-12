@@ -43,6 +43,11 @@ def get_daily_papers(topic,query="SNN", max_results=2):
 
     cnt = 0
 
+        # 获取当前日期
+    today = datetime.date.today()
+    # 设置2年前的截止日期
+    two_years_ago = today - datetime.timedelta(days=2*365)
+            
     for result in search_engine.results():
 
         paper_id            = result.get_short_id()
@@ -57,7 +62,8 @@ def get_daily_papers(topic,query="SNN", max_results=2):
         update_time         = result.updated.date()
         comments            = result.comment
 
-
+        if update_time < two_years_ago:
+            continue
       
         print("Time = ", update_time ,
               " title = ", paper_title,
