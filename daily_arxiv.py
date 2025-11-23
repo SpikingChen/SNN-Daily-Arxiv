@@ -87,8 +87,8 @@ def get_daily_papers(topic,query="SNN", max_results=2):
         except Exception as e:
             print(f"exception: {e} with id: {paper_key}")
 
-    sorted_content = dict(sorted(content.items(), key=lambda x: x[1].split('|')[1], reverse=True)
-    sorted_content_to_web = dict(sorted(content_to_web.items(), key=lambda x: x[1].split(',')[0], reverse=True)
+    sorted_content = dict(sorted(content.items(), key=lambda x: x[1].split('|')[1], reverse=True))
+    sorted_content_to_web = dict(sorted(content_to_web.items(), key=lambda x: x[1].split(',')[0], reverse=True))
                   
     data = {topic:sorted_content}
     data_web = {topic:content_to_web}
@@ -262,6 +262,7 @@ if __name__ == "__main__":
     # update_json_file(json_file, data_collector_web)
     # # json data to markdown
     # json_to_md(json_file, md_file, to_web=False, use_title= False)
+
 
 
 
