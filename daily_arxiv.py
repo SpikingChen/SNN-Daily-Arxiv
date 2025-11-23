@@ -71,18 +71,6 @@ def get_daily_papers(topic,query="SNN", max_results=2):
             paper_key = paper_id[0:ver_pos]    
 
         try:
-            # r = requests.get(code_url).json()
-            # # source code link
-            # if "official" in r and r["official"]:
-            #     cnt += 1
-            #     repo_url = r["official"]["url"]
-            #     content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-            #     content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
-
-            # else:
-            #     content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
-            #     content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
-
             cnt += 1
             repo_url = paper_url
             content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
@@ -111,7 +99,7 @@ def update_json_file(filename,data_all):
         else:
             m = json.loads(content)
             
-    json_data = {}
+    json_data = m.copy()
     
     # update papers in each keywords         
     for data in data_all:
@@ -242,7 +230,7 @@ if __name__ == "__main__":
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 1000)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 3000)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
@@ -271,6 +259,7 @@ if __name__ == "__main__":
     # update_json_file(json_file, data_collector_web)
     # # json data to markdown
     # json_to_md(json_file, md_file, to_web=False, use_title= False)
+
 
 
 
