@@ -13,6 +13,7 @@ def get_authors(authors, first_author = False):
     else:
         output = authors[0]
     return output
+    
 def sort_papers(papers):
     output = dict()
     keys = list(papers.keys())
@@ -189,7 +190,7 @@ def json_to_md(filename,md_filename,
                     f.write("|:---------|:-----------------------|:---------|:------|\n")
 
             # sort papers by date
-            day_content = sort_papers(day_content)
+            # day_content = sort_papers(day_content)
         
             for _,v in day_content.items():
                 if v is not None:
@@ -262,6 +263,7 @@ if __name__ == "__main__":
     # update_json_file(json_file, data_collector_web)
     # # json data to markdown
     # json_to_md(json_file, md_file, to_web=False, use_title= False)
+
 
 
 
