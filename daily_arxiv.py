@@ -242,7 +242,7 @@ if __name__ == "__main__":
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 200)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 1000)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
@@ -271,6 +271,7 @@ if __name__ == "__main__":
     # update_json_file(json_file, data_collector_web)
     # # json data to markdown
     # json_to_md(json_file, md_file, to_web=False, use_title= False)
+
 
 
 
