@@ -1,4 +1,4 @@
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,7 +17,7 @@
 |**2025-11-20**|**Scenario-Aware Control of Segmented Ladder Bus: Design and FPGA Implementation**|Phu Khanh Huynh et.al.|[2511.15987v1](http://arxiv.org/abs/2511.15987v1)|**[link](http://arxiv.org/abs/2511.15987v1)**|
 |**2025-11-20**|**Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation**|Shuhan Ye et.al.|[2511.12095v2](http://arxiv.org/abs/2511.12095v2)|**[link](http://arxiv.org/abs/2511.12095v2)**|
 |**2025-11-20**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|Phu Khanh Huynh et.al.|[2506.11286v2](http://arxiv.org/abs/2506.11286v2)|**[link](http://arxiv.org/abs/2506.11286v2)**|
-|**2025-11-19**|**On the Contraction of Excitable Systems**|Alessandro Cecconi et.al.|[2511.15477v1](http://arxiv.org/abs/2511.15477v1)|**[link](http://arxiv.org/abs/2511.15477v1)**|
+|**2025-11-21**|**On the Contraction of Excitable Systems**|Alessandro Cecconi et.al.|[2511.15477v2](http://arxiv.org/abs/2511.15477v2)|**[link](http://arxiv.org/abs/2511.15477v2)**|
 |**2025-11-19**|**Detection of spiking motifs of arbitrary length in neural activity using bounded synaptic delays**|Thomas Kronland-Martinet et.al.|[2511.15296v1](http://arxiv.org/abs/2511.15296v1)|**[link](http://arxiv.org/abs/2511.15296v1)**|
 |**2025-11-19**|**Neuromorphic Split Computing via Optical Inter-Satellite Links**|Zihang Song et.al.|[2507.08490v2](http://arxiv.org/abs/2507.08490v2)|**[link](http://arxiv.org/abs/2507.08490v2)**|
 |**2025-11-19**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185v3](http://arxiv.org/abs/2505.21185v3)|**[link](http://arxiv.org/abs/2505.21185v3)**|
@@ -3012,5 +3012,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251124>back to top</a>)</p>
 
