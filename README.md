@@ -1,4 +1,4 @@
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -33,7 +33,7 @@
 |**2025-11-15**|**Compression and Inference of Spiking Neural Networks on Resource-Constrained Hardware**|Karol C. Jurzec et.al.|[2511.12136v1](http://arxiv.org/abs/2511.12136v1)|**[link](http://arxiv.org/abs/2511.12136v1)**|
 |**2025-11-15**|**Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks**|Shuhan Ye et.al.|[2511.12097v1](http://arxiv.org/abs/2511.12097v1)|**[link](http://arxiv.org/abs/2511.12097v1)**|
 |**2025-11-14**|**Emulation-based Neuromorphic Control for the Stabilization of LTI Systems**|Elena Petri et.al.|[2511.11875v1](http://arxiv.org/abs/2511.11875v1)|**[link](http://arxiv.org/abs/2511.11875v1)**|
-|**2025-11-14**|**Inferring response times of perceptual decisions with Poisson variational autoencoders**|Hayden R. Johnson et.al.|[2511.11480v1](http://arxiv.org/abs/2511.11480v1)|**[link](http://arxiv.org/abs/2511.11480v1)**|
+|**2025-11-24**|**Inferring response times of perceptual decisions with Poisson variational autoencoders**|Hayden R. Johnson et.al.|[2511.11480v2](http://arxiv.org/abs/2511.11480v2)|**[link](http://arxiv.org/abs/2511.11480v2)**|
 |**2025-11-14**|**StochEP: Stochastic Equilibrium Propagation for Spiking Convergent Recurrent Neural Networks**|Jiaqi Lin et.al.|[2511.11320v1](http://arxiv.org/abs/2511.11320v1)|**[link](http://arxiv.org/abs/2511.11320v1)**|
 |**2025-11-14**|**LOKI: a 0.266 pJ/SOP Digital SNN Accelerator with Multi-Cycle Clock-Gated SRAM in 22nm**|Rick Luiken et.al.|[2511.11205v1](http://arxiv.org/abs/2511.11205v1)|**[link](http://arxiv.org/abs/2511.11205v1)**|
 |**2025-11-14**|**A Closer Look at Knowledge Distillation in Spiking Neural Network Training**|Xu Liu et.al.|[2511.06902v2](http://arxiv.org/abs/2511.06902v2)|**[link](http://arxiv.org/abs/2511.06902v2)**|
@@ -71,7 +71,7 @@
 |**2025-11-03**|**Neuro-Inspired Task Offloading in Edge-IoT Networks Using Spiking Neural Networks**|Fabio Diniz Rossi et.al.|[2511.01127v1](http://arxiv.org/abs/2511.01127v1)|**[link](http://arxiv.org/abs/2511.01127v1)**|
 |**2025-11-03**|**Augmenting learning in neuro-embodied systems through neurobiological first principles**|Alejandro Rodriguez-Garcia et.al.|[2407.04525v5](http://arxiv.org/abs/2407.04525v5)|**[link](http://arxiv.org/abs/2407.04525v5)**|
 |**2025-11-03**|**Separation rates for the detection of synchronization of interacting point processes in a mean field frame. Application to neuroscience**|Josué Tchouanti et.al.|[2402.01919v3](http://arxiv.org/abs/2402.01919v3)|**[link](http://arxiv.org/abs/2402.01919v3)**|
-|**2025-11-02**|**Random Spiking Neural Networks are Stable and Spectrally Simple**|Ernesto Araya et.al.|[2511.00904v1](http://arxiv.org/abs/2511.00904v1)|**[link](http://arxiv.org/abs/2511.00904v1)**|
+|**2025-11-24**|**Random Spiking Neural Networks are Stable and Spectrally Simple**|Ernesto Araya et.al.|[2511.00904v2](http://arxiv.org/abs/2511.00904v2)|**[link](http://arxiv.org/abs/2511.00904v2)**|
 |**2025-11-01**|**FeNN-DMA: A RISC-V SoC for SNN acceleration**|Zainab Aizaz et.al.|[2511.00732v1](http://arxiv.org/abs/2511.00732v1)|**[link](http://arxiv.org/abs/2511.00732v1)**|
 |**2025-11-01**|**A Multimodal Framework for Depression Detection during Covid-19 via Harvesting Social Media: A Novel Dataset and Method**|Ashutosh Anshul et.al.|[2511.00424v1](http://arxiv.org/abs/2511.00424v1)|**[link](http://arxiv.org/abs/2511.00424v1)**|
 |**2025-10-31**|**The hybrid exact scheme for the simulation of first-passage times of jump-diffusions with time-dependent thresholds**|Sascha Desmettre et.al.|[2511.00155v1](http://arxiv.org/abs/2511.00155v1)|**[link](http://arxiv.org/abs/2511.00155v1)**|
@@ -189,7 +189,7 @@
 |**2025-09-28**|**CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning**|Zijie Xu et.al.|[2509.23791v1](http://arxiv.org/abs/2509.23791v1)|**[link](http://arxiv.org/abs/2509.23791v1)**|
 |**2025-09-27**|**Network-Optimised Spiking Neural Network for Event-Driven Networking**|Muhammad Bilal et.al.|[2509.23516v1](http://arxiv.org/abs/2509.23516v1)|**[link](http://arxiv.org/abs/2509.23516v1)**|
 |**2025-09-27**|**Spatiotemporal Radar Gesture Recognition with Hybrid Spiking Neural Networks: Balancing Accuracy and Efficiency**|Riccardo Mazzieri et.al.|[2509.23303v1](http://arxiv.org/abs/2509.23303v1)|**[link](http://arxiv.org/abs/2509.23303v1)**|
-|**2025-09-27**|**Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition**|Peiyu Liu et.al.|[2509.23253v1](http://arxiv.org/abs/2509.23253v1)|**[link](http://arxiv.org/abs/2509.23253v1)**|
+|**2025-11-24**|**Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition**|Peiyu Liu et.al.|[2509.23253v2](http://arxiv.org/abs/2509.23253v2)|**[link](http://arxiv.org/abs/2509.23253v2)**|
 |**2025-09-27**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396v2](http://arxiv.org/abs/2507.07396v2)|**[link](http://arxiv.org/abs/2507.07396v2)**|
 |**2025-09-27**|**Depolarization block induction via slow NaV1.1 inactivation in Dravet syndrome**|Louisiane Lemaire et.al.|[2505.03919v2](http://arxiv.org/abs/2505.03919v2)|**[link](http://arxiv.org/abs/2505.03919v2)**|
 |**2025-09-26**|**SpikeMatch: Semi-Supervised Learning with Temporal Dynamics of Spiking Neural Networks**|Jini Yang et.al.|[2509.22581v1](http://arxiv.org/abs/2509.22581v1)|**[link](http://arxiv.org/abs/2509.22581v1)**|
@@ -3011,6 +3011,10 @@
 |**2019-07-20**|**A Retina-inspired Sampling Method for Visual Texture Reconstruction**|Lin Zhu et.al.|[1907.08769v1](http://arxiv.org/abs/1907.08769v1)|**[link](http://arxiv.org/abs/1907.08769v1)**|
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
+|**2025-11-23**|**Learning Scalable Temporal Representations in Spiking Neural Networks Without Labels**|Chengwei Zhou et.al.|[2511.18542v1](http://arxiv.org/abs/2511.18542v1)|**[link](http://arxiv.org/abs/2511.18542v1)**|
+|**2025-11-18**|**Energy-based Autoregressive Generation for Neural Population Dynamics**|Ningling Ge et.al.|[2511.17606v1](http://arxiv.org/abs/2511.17606v1)|**[link](http://arxiv.org/abs/2511.17606v1)**|
+|**2025-11-14**|**Temporal-adaptive Weight Quantization for Spiking Neural Networks**|Han Zhang et.al.|[2511.17567v1](http://arxiv.org/abs/2511.17567v1)|**[link](http://arxiv.org/abs/2511.17567v1)**|
+|**2025-11-13**|**Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis**|Yunduo Zhou et.al.|[2511.17563v1](http://arxiv.org/abs/2511.17563v1)|**[link](http://arxiv.org/abs/2511.17563v1)**|
 
-<p align=right>(<a href=#Updated-on-20251124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251125>back to top</a>)</p>
 
