@@ -1,4 +1,4 @@
-## Updated on 2025.11.25
+## Updated on 2025.11.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -215,7 +215,7 @@
 |**2025-09-17**|**Spike Encoding for Environmental Sound: A Comparative Benchmark**|Andres Larroza et.al.|[2503.11206v3](http://arxiv.org/abs/2503.11206v3)|**[link](http://arxiv.org/abs/2503.11206v3)**|
 |**2025-09-16**|**Spiking Vocos: An Energy-Efficient Neural Vocoder**|Yukun Chen et.al.|[2509.13049v1](http://arxiv.org/abs/2509.13049v1)|**[link](http://arxiv.org/abs/2509.13049v1)**|
 |**2025-09-16**|**Drone Detection Using a Low-Power Neuromorphic Virtual Tripwire**|Anton Eldeborg Lundin et.al.|[2509.12997v1](http://arxiv.org/abs/2509.12997v1)|**[link](http://arxiv.org/abs/2509.12997v1)**|
-|**2025-09-16**|**Time-step Mixup for Efficient Spiking Knowledge Transfer from Appearance to Event Domain**|Yuqi Xie et.al.|[2509.12959v1](http://arxiv.org/abs/2509.12959v1)|**[link](http://arxiv.org/abs/2509.12959v1)**|
+|**2025-11-25**|**Time-step Mixup for Efficient Spiking Knowledge Transfer from Appearance to Event Domain**|Yuqi Xie et.al.|[2509.12959v2](http://arxiv.org/abs/2509.12959v2)|**[link](http://arxiv.org/abs/2509.12959v2)**|
 |**2025-09-16**|**A Neuromorphic Model of Learning Meaningful Sequences with Long-Term Memory**|Laxmi R. Iyer et.al.|[2509.12850v1](http://arxiv.org/abs/2509.12850v1)|**[link](http://arxiv.org/abs/2509.12850v1)**|
 |**2025-09-16**|**SGNNBench: A Holistic Evaluation of Spiking Graph Neural Network on Large-scale Graph**|Huizhe Zhang et.al.|[2509.21342v1](http://arxiv.org/abs/2509.21342v1)|**[link](http://arxiv.org/abs/2509.21342v1)**|
 |**2025-09-16**|**Computational Advances in Taste Perception: From Ion Channels to Neural Coding**|Vladimir A. Lazovsky et.al.|[2510.00010v1](http://arxiv.org/abs/2510.00010v1)|**[link](http://arxiv.org/abs/2510.00010v1)**|
@@ -3015,6 +3015,7 @@
 |**2025-11-18**|**Energy-based Autoregressive Generation for Neural Population Dynamics**|Ningling Ge et.al.|[2511.17606v1](http://arxiv.org/abs/2511.17606v1)|**[link](http://arxiv.org/abs/2511.17606v1)**|
 |**2025-11-14**|**Temporal-adaptive Weight Quantization for Spiking Neural Networks**|Han Zhang et.al.|[2511.17567v1](http://arxiv.org/abs/2511.17567v1)|**[link](http://arxiv.org/abs/2511.17567v1)**|
 |**2025-11-13**|**Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis**|Yunduo Zhou et.al.|[2511.17563v1](http://arxiv.org/abs/2511.17563v1)|**[link](http://arxiv.org/abs/2511.17563v1)**|
+|**2025-11-25**|**Realizing Fully-Integrated, Low-Power, Event-Based Pupil Tracking with Neuromorphic Hardware**|Federico Paredes-Valles et.al.|[2511.20175v1](http://arxiv.org/abs/2511.20175v1)|**[link](http://arxiv.org/abs/2511.20175v1)**|
 
-<p align=right>(<a href=#Updated-on-20251125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251126>back to top</a>)</p>
 
