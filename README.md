@@ -1,4 +1,4 @@
-## Updated on 2025.11.26
+## Updated on 2025.11.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -269,7 +269,7 @@
 |**2025-08-25**|**Learning with Spike Synchrony in Spiking Neural Networks**|Yuchen Tian et.al.|[2505.14841v2](http://arxiv.org/abs/2505.14841v2)|**[link](http://arxiv.org/abs/2505.14841v2)**|
 |**2025-08-24**|**Impact of Neuron Models on Spiking Neural Networks performance. A Complexity Based Classification Approach**|Zofia Rudnicka et.al.|[2509.06970v1](http://arxiv.org/abs/2509.06970v1)|**[link](http://arxiv.org/abs/2509.06970v1)**|
 |**2025-08-24**|**Improving Liver Disease Diagnosis with SNNDeep: A Custom Spiking Neural Network Using Diverse Learning Algorithms**|Zofia Rudnicka et.al.|[2508.20125v1](http://arxiv.org/abs/2508.20125v1)|**[link](http://arxiv.org/abs/2508.20125v1)**|
-|**2025-08-24**|**Graphon Signal Processing for Spiking and Biological Neural Networks**|Takuma Sumi et.al.|[2508.17246v1](http://arxiv.org/abs/2508.17246v1)|**[link](http://arxiv.org/abs/2508.17246v1)**|
+|**2025-11-26**|**Graphon Signal Processing for Spiking and Biological Neural Networks**|Takuma Sumi et.al.|[2508.17246v2](http://arxiv.org/abs/2508.17246v2)|**[link](http://arxiv.org/abs/2508.17246v2)**|
 |**2025-08-23**|**Spatio-Temporal Pruning for Compressed Spiking Large Language Models**|Yi Jiang et.al.|[2508.20122v1](http://arxiv.org/abs/2508.20122v1)|**[link](http://arxiv.org/abs/2508.20122v1)**|
 |**2025-08-23**|**Task-Aware Tuning of Time Constants in Spiking Neural Networks for Multimodal Classification**|Chiu-Chang Cheng et.al.|[2508.20121v1](http://arxiv.org/abs/2508.20121v1)|**[link](http://arxiv.org/abs/2508.20121v1)**|
 |**2025-08-22**|**Spike Agreement Dependent Plasticity: A scalable Bio-Inspired learning paradigm for Spiking Neural Networks**|Saptarshi Bej et.al.|[2508.16216v1](http://arxiv.org/abs/2508.16216v1)|**[link](http://arxiv.org/abs/2508.16216v1)**|
@@ -3016,6 +3016,10 @@
 |**2025-11-14**|**Temporal-adaptive Weight Quantization for Spiking Neural Networks**|Han Zhang et.al.|[2511.17567v1](http://arxiv.org/abs/2511.17567v1)|**[link](http://arxiv.org/abs/2511.17567v1)**|
 |**2025-11-13**|**Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis**|Yunduo Zhou et.al.|[2511.17563v1](http://arxiv.org/abs/2511.17563v1)|**[link](http://arxiv.org/abs/2511.17563v1)**|
 |**2025-11-25**|**Realizing Fully-Integrated, Low-Power, Event-Based Pupil Tracking with Neuromorphic Hardware**|Federico Paredes-Valles et.al.|[2511.20175v1](http://arxiv.org/abs/2511.20175v1)|**[link](http://arxiv.org/abs/2511.20175v1)**|
+|**2025-11-26**|**Event-driven eligibility propagation in large sparse networks: efficiency shaped by biological realism**|Agnes Korcsak-Gorzo et.al.|[2511.21674v1](http://arxiv.org/abs/2511.21674v1)|**[link](http://arxiv.org/abs/2511.21674v1)**|
+|**2025-11-26**|**Hybrid SIFT-SNN for Efficient Anomaly Detection of Traffic Flow-Control Infrastructure**|Munish Rathee et.al.|[2511.21337v1](http://arxiv.org/abs/2511.21337v1)|**[link](http://arxiv.org/abs/2511.21337v1)**|
+|**2025-11-26**|**Privacy in Federated Learning with Spiking Neural Networks**|Dogukan Aksu et.al.|[2511.21181v1](http://arxiv.org/abs/2511.21181v1)|**[link](http://arxiv.org/abs/2511.21181v1)**|
+|**2025-11-14**|**Phase Plane Analysis of Firing Patterns in the Adaptive Exponential Integrate-and-Fire Model**|Wu-Fei Zhang et.al.|[2511.20670v1](http://arxiv.org/abs/2511.20670v1)|**[link](http://arxiv.org/abs/2511.20670v1)**|
 
-<p align=right>(<a href=#Updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251127>back to top</a>)</p>
 
