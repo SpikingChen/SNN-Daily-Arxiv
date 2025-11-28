@@ -1,4 +1,4 @@
-## Updated on 2025.11.27
+## Updated on 2025.11.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -3021,5 +3021,5 @@
 |**2025-11-26**|**Privacy in Federated Learning with Spiking Neural Networks**|Dogukan Aksu et.al.|[2511.21181v1](http://arxiv.org/abs/2511.21181v1)|**[link](http://arxiv.org/abs/2511.21181v1)**|
 |**2025-11-14**|**Phase Plane Analysis of Firing Patterns in the Adaptive Exponential Integrate-and-Fire Model**|Wu-Fei Zhang et.al.|[2511.20670v1](http://arxiv.org/abs/2511.20670v1)|**[link](http://arxiv.org/abs/2511.20670v1)**|
 
-<p align=right>(<a href=#Updated-on-20251127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251128>back to top</a>)</p>
 
