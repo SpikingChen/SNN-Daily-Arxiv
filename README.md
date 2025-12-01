@@ -1,4 +1,4 @@
-## Updated on 2025.11.30
+## Updated on 2025.12.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -3020,6 +3020,11 @@
 |**2025-11-26**|**Hybrid SIFT-SNN for Efficient Anomaly Detection of Traffic Flow-Control Infrastructure**|Munish Rathee et.al.|[2511.21337v1](http://arxiv.org/abs/2511.21337v1)|**[link](http://arxiv.org/abs/2511.21337v1)**|
 |**2025-11-26**|**Privacy in Federated Learning with Spiking Neural Networks**|Dogukan Aksu et.al.|[2511.21181v1](http://arxiv.org/abs/2511.21181v1)|**[link](http://arxiv.org/abs/2511.21181v1)**|
 |**2025-11-14**|**Phase Plane Analysis of Firing Patterns in the Adaptive Exponential Integrate-and-Fire Model**|Wu-Fei Zhang et.al.|[2511.20670v1](http://arxiv.org/abs/2511.20670v1)|**[link](http://arxiv.org/abs/2511.20670v1)**|
+|**2025-11-27**|**Privacy-preserving fall detection at the edge using Sony IMX636 event-based vision sensor and Intel Loihi 2 neuromorphic processor**|Lyes Khacef et.al.|[2511.22554v1](http://arxiv.org/abs/2511.22554v1)|**[link](http://arxiv.org/abs/2511.22554v1)**|
+|**2025-11-27**|**CADC: Crossbar-Aware Dendritic Convolution for Efficient In-memory Computing**|Shuai Dong et.al.|[2511.22166v1](http://arxiv.org/abs/2511.22166v1)|**[link](http://arxiv.org/abs/2511.22166v1)**|
+|**2025-11-27**|**An energy-efficient spiking neural network with continuous learning for self-adaptive brain-machine interface**|Zhou Biyan et.al.|[2511.22108v1](http://arxiv.org/abs/2511.22108v1)|**[link](http://arxiv.org/abs/2511.22108v1)**|
+|**2025-11-27**|**ARES: Anomaly Recognition Model For Edge Streams**|Simone Mungari et.al.|[2511.22078v1](http://arxiv.org/abs/2511.22078v1)|**[link](http://arxiv.org/abs/2511.22078v1)**|
+|**2025-11-26**|**Physics-Informed Spiking Neural Networks via Conservative Flux Quantization**|Chi Zhang et.al.|[2511.21784v1](http://arxiv.org/abs/2511.21784v1)|**[link](http://arxiv.org/abs/2511.21784v1)**|
 
-<p align=right>(<a href=#Updated-on-20251130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251201>back to top</a>)</p>
 
