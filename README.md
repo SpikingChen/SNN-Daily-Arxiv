@@ -1,4 +1,4 @@
-## Updated on 2025.12.01
+## Updated on 2025.12.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -121,7 +121,7 @@
 |**2025-10-20**|**ReLACE: A Resource-Efficient Low-Latency Cortical Acceleration Engine**|Sonu Kumar et.al.|[2510.17392v1](http://arxiv.org/abs/2510.17392v1)|**[link](http://arxiv.org/abs/2510.17392v1)**|
 |**2025-10-20**|**Application-oriented automatic hyperparameter optimization for spiking neural network prototyping**|Vittorio Fra et.al.|[2502.12172v3](http://arxiv.org/abs/2502.12172v3)|**[link](http://arxiv.org/abs/2502.12172v3)**|
 |**2025-10-20**|**What is Memory? A Homological Perspective**|Xin Li et.al.|[2303.04203v3](http://arxiv.org/abs/2303.04203v3)|**[link](http://arxiv.org/abs/2303.04203v3)**|
-|**2025-10-19**|**SpikingBrain: Spiking Brain-inspired Large Models**|Yuqi Pan et.al.|[2509.05276v2](http://arxiv.org/abs/2509.05276v2)|**[link](http://arxiv.org/abs/2509.05276v2)**|
+|**2025-12-01**|**SpikingBrain: Spiking Brain-inspired Large Models**|Yuqi Pan et.al.|[2509.05276v3](http://arxiv.org/abs/2509.05276v3)|**[link](http://arxiv.org/abs/2509.05276v3)**|
 |**2025-10-18**|**Improvement of Spiking Neural Network with Bit Planes and Color Models**|Nhan T. Luu et.al.|[2410.08229v4](http://arxiv.org/abs/2410.08229v4)|**[link](http://arxiv.org/abs/2410.08229v4)**|
 |**2025-10-17**|**SpikeVox: Towards Energy-Efficient Speech Therapy Framework with Spike-driven Generative Language Models**|Rachmad Vidya Wicaksana Putra et.al.|[2510.15566v1](http://arxiv.org/abs/2510.15566v1)|**[link](http://arxiv.org/abs/2510.15566v1)**|
 |**2025-10-17**|**Decoding Listeners Identity: Person Identification from EEG Signals Using a Lightweight Spiking Transformer**|Zheyuan Lin et.al.|[2510.17879v1](http://arxiv.org/abs/2510.17879v1)|**[link](http://arxiv.org/abs/2510.17879v1)**|
@@ -3025,6 +3025,14 @@
 |**2025-11-27**|**An energy-efficient spiking neural network with continuous learning for self-adaptive brain-machine interface**|Zhou Biyan et.al.|[2511.22108v1](http://arxiv.org/abs/2511.22108v1)|**[link](http://arxiv.org/abs/2511.22108v1)**|
 |**2025-11-27**|**ARES: Anomaly Recognition Model For Edge Streams**|Simone Mungari et.al.|[2511.22078v1](http://arxiv.org/abs/2511.22078v1)|**[link](http://arxiv.org/abs/2511.22078v1)**|
 |**2025-11-26**|**Physics-Informed Spiking Neural Networks via Conservative Flux Quantization**|Chi Zhang et.al.|[2511.21784v1](http://arxiv.org/abs/2511.21784v1)|**[link](http://arxiv.org/abs/2511.21784v1)**|
+|**2025-12-01**|**Delays in Spiking Neural Networks: A State Space Model Approach**|Sanja Karilanova et.al.|[2512.01906v1](http://arxiv.org/abs/2512.01906v1)|**[link](http://arxiv.org/abs/2512.01906v1)**|
+|**2025-12-01**|**New Spiking Architecture for Multi-Modal Decision-Making in Autonomous Vehicles**|Aref Ghoreishee et.al.|[2512.01882v1](http://arxiv.org/abs/2512.01882v1)|**[link](http://arxiv.org/abs/2512.01882v1)**|
+|**2025-12-01**|**Revisiting Direct Encoding: Learnable Temporal Dynamics for Static Image Spiking Neural Networks**|Huaxu He et.al.|[2512.01687v1](http://arxiv.org/abs/2512.01687v1)|**[link](http://arxiv.org/abs/2512.01687v1)**|
+|**2025-12-01**|**Parallel Delayed Memory Units for Enhanced Temporal Modeling in Biomedical and Bioacoustic Signal Analysis**|Pengfei Sun et.al.|[2512.01626v1](http://arxiv.org/abs/2512.01626v1)|**[link](http://arxiv.org/abs/2512.01626v1)**|
+|**2025-11-30**|**A Neuromodulable Current-Mode Silicon Neuron for Robust and Adaptive Neuromorphic Systems**|Loris Mendolia et.al.|[2512.01133v1](http://arxiv.org/abs/2512.01133v1)|**[link](http://arxiv.org/abs/2512.01133v1)**|
+|**2025-11-29**|**Hardware-Software Collaborative Computing of Photonic Spiking Reinforcement Learning for Robotic Continuous Control**|Mengting Yu et.al.|[2512.00427v1](http://arxiv.org/abs/2512.00427v1)|**[link](http://arxiv.org/abs/2512.00427v1)**|
+|**2025-11-29**|**Hardware-aware Lightweight Photonic Spiking Neural Network for Pattern Classification**|Shuiying Xiang et.al.|[2512.00419v1](http://arxiv.org/abs/2512.00419v1)|**[link](http://arxiv.org/abs/2512.00419v1)**|
+|**2025-11-27**|**From RISC-V Cores to Neuromorphic Arrays: A Tutorial on Building Scalable Digital Neuromorphic Processors**|Amirreza Yousefzadeh et.al.|[2512.00113v1](http://arxiv.org/abs/2512.00113v1)|**[link](http://arxiv.org/abs/2512.00113v1)**|
 
-<p align=right>(<a href=#Updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251202>back to top</a>)</p>
 
