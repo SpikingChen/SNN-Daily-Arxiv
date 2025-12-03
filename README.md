@@ -1,4 +1,4 @@
-## Updated on 2025.12.02
+## Updated on 2025.12.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -3033,6 +3033,9 @@
 |**2025-11-29**|**Hardware-Software Collaborative Computing of Photonic Spiking Reinforcement Learning for Robotic Continuous Control**|Mengting Yu et.al.|[2512.00427v1](http://arxiv.org/abs/2512.00427v1)|**[link](http://arxiv.org/abs/2512.00427v1)**|
 |**2025-11-29**|**Hardware-aware Lightweight Photonic Spiking Neural Network for Pattern Classification**|Shuiying Xiang et.al.|[2512.00419v1](http://arxiv.org/abs/2512.00419v1)|**[link](http://arxiv.org/abs/2512.00419v1)**|
 |**2025-11-27**|**From RISC-V Cores to Neuromorphic Arrays: A Tutorial on Building Scalable Digital Neuromorphic Processors**|Amirreza Yousefzadeh et.al.|[2512.00113v1](http://arxiv.org/abs/2512.00113v1)|**[link](http://arxiv.org/abs/2512.00113v1)**|
+|**2025-12-02**|**Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks**|Qianhui Liu et.al.|[2512.02459v1](http://arxiv.org/abs/2512.02459v1)|**[link](http://arxiv.org/abs/2512.02459v1)**|
+|**2025-12-02**|**Temporal Dynamics Enhancer for Directly Trained Spiking Object Detectors**|Fan Luo et.al.|[2512.02447v1](http://arxiv.org/abs/2512.02447v1)|**[link](http://arxiv.org/abs/2512.02447v1)**|
+|**2025-12-01**|**Exploring the Potentials of Spiking Neural Networks for Image Deraining**|Shuang Chen et.al.|[2512.02258v1](http://arxiv.org/abs/2512.02258v1)|**[link](http://arxiv.org/abs/2512.02258v1)**|
 
-<p align=right>(<a href=#Updated-on-20251202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251203>back to top</a>)</p>
 
