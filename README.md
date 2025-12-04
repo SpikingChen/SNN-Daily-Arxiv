@@ -1,4 +1,4 @@
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -160,7 +160,7 @@
 |**2025-10-07**|**Learning Neuron Dynamics within Deep Spiking Neural Networks**|Eric Jahns et.al.|[2510.07341v1](http://arxiv.org/abs/2510.07341v1)|**[link](http://arxiv.org/abs/2510.07341v1)**|
 |**2025-10-07**|**Attacking the Spike: On the Transferability and Security of Spiking Neural Networks to Adversarial Examples**|Nuo Xu et.al.|[2209.03358v4](http://arxiv.org/abs/2209.03358v4)|**[link](http://arxiv.org/abs/2209.03358v4)**|
 |**2025-10-06**|**SpikingMamba: Towards Energy-Efficient Large Language Models via Knowledge Distillation from Mamba**|Yulong Huang et.al.|[2510.04595v1](http://arxiv.org/abs/2510.04595v1)|**[link](http://arxiv.org/abs/2510.04595v1)**|
-|**2025-10-06**|**Accuracy-Robustness Trade Off via Spiking Neural Network Gradient Sparsity Trail**|Nhan T. Luu et.al.|[2509.23762v2](http://arxiv.org/abs/2509.23762v2)|**[link](http://arxiv.org/abs/2509.23762v2)**|
+|**2025-12-03**|**Accuracy-Robustness Trade Off via Spiking Neural Network Gradient Sparsity Trail**|Luu Trong Nhan et.al.|[2509.23762v3](http://arxiv.org/abs/2509.23762v3)|**[link](http://arxiv.org/abs/2509.23762v3)**|
 |**2025-10-05**|**Efficient Training of Spiking Neural Networks by Spike-aware Data Pruning**|Chenxiang Ma et.al.|[2510.04098v1](http://arxiv.org/abs/2510.04098v1)|**[link](http://arxiv.org/abs/2510.04098v1)**|
 |**2025-10-05**|**Discretized Quadratic Integrate-and-Fire Neuron Model for Deep Spiking Neural Networks**|Eric Jahns et.al.|[2510.05168v1](http://arxiv.org/abs/2510.05168v1)|**[link](http://arxiv.org/abs/2510.05168v1)**|
 |**2025-10-05**|**PrivSpike: Employing Homomorphic Encryption for Private Inference of Deep Spiking Neural Networks**|Nges Brian Njungle et.al.|[2510.03995v1](http://arxiv.org/abs/2510.03995v1)|**[link](http://arxiv.org/abs/2510.03995v1)**|
@@ -3035,7 +3035,13 @@
 |**2025-11-27**|**From RISC-V Cores to Neuromorphic Arrays: A Tutorial on Building Scalable Digital Neuromorphic Processors**|Amirreza Yousefzadeh et.al.|[2512.00113v1](http://arxiv.org/abs/2512.00113v1)|**[link](http://arxiv.org/abs/2512.00113v1)**|
 |**2025-12-02**|**Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks**|Qianhui Liu et.al.|[2512.02459v1](http://arxiv.org/abs/2512.02459v1)|**[link](http://arxiv.org/abs/2512.02459v1)**|
 |**2025-12-02**|**Temporal Dynamics Enhancer for Directly Trained Spiking Object Detectors**|Fan Luo et.al.|[2512.02447v1](http://arxiv.org/abs/2512.02447v1)|**[link](http://arxiv.org/abs/2512.02447v1)**|
-|**2025-12-01**|**Exploring the Potentials of Spiking Neural Networks for Image Deraining**|Shuang Chen et.al.|[2512.02258v1](http://arxiv.org/abs/2512.02258v1)|**[link](http://arxiv.org/abs/2512.02258v1)**|
+|**2025-12-03**|**Exploring the Potentials of Spiking Neural Networks for Image Deraining**|Shuang Chen et.al.|[2512.02258v2](http://arxiv.org/abs/2512.02258v2)|**[link](http://arxiv.org/abs/2512.02258v2)**|
+|**2025-12-03**|**A CMOS+X Spiking Neuron With On-Chip Machine Learning**|Steven Louis et.al.|[2512.03966v1](http://arxiv.org/abs/2512.03966v1)|**[link](http://arxiv.org/abs/2512.03966v1)**|
+|**2025-12-03**|**Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware**|Kenneth Stewart et.al.|[2512.03911v1](http://arxiv.org/abs/2512.03911v1)|**[link](http://arxiv.org/abs/2512.03911v1)**|
+|**2025-12-03**|**Parameter efficient hybrid spiking-quantum convolutional neural network with surrogate gradient and quantum data-reupload**|Luu Trong Nhan et.al.|[2512.03895v1](http://arxiv.org/abs/2512.03895v1)|**[link](http://arxiv.org/abs/2512.03895v1)**|
+|**2025-12-03**|**Hybrid Temporal-8-Bit Spike Coding for Spiking Neural Network Surrogate Training**|Luu Trong Nhan et.al.|[2512.03879v1](http://arxiv.org/abs/2512.03879v1)|**[link](http://arxiv.org/abs/2512.03879v1)**|
+|**2025-12-03**|**The BrainScaleS-2 multi-chip system: Interconnecting continuous-time neuromorphic compute substrates**|Joscha Ilmberger et.al.|[2512.03781v1](http://arxiv.org/abs/2512.03781v1)|**[link](http://arxiv.org/abs/2512.03781v1)**|
+|**2025-12-03**|**VS-Graph: Scalable and Efficient Graph Classification Using Hyperdimensional Computing**|Hamed Poursiami et.al.|[2512.03394v1](http://arxiv.org/abs/2512.03394v1)|**[link](http://arxiv.org/abs/2512.03394v1)**|
 
-<p align=right>(<a href=#Updated-on-20251203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251204>back to top</a>)</p>
 
