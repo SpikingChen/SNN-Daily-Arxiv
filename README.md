@@ -1,4 +1,4 @@
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -177,7 +177,7 @@
 |**2025-10-02**|**A spiking photonic neural network of 40.000 neurons, trained with rank-order coding for leveraging sparsity**|Ria Talukder et.al.|[2411.19209v3](http://arxiv.org/abs/2411.19209v3)|**[link](http://arxiv.org/abs/2411.19209v3)**|
 |**2025-10-01**|**Spiking Neural Network for Cross-Market Portfolio Optimization in Financial Markets: A Neuromorphic Computing Approach**|Amarendra Mohan et.al.|[2510.15921v1](http://arxiv.org/abs/2510.15921v1)|**[link](http://arxiv.org/abs/2510.15921v1)**|
 |**2025-10-01**|**Low Rank Gradients and Where to Find Them**|Rishi Sonthalia et.al.|[2510.01303v1](http://arxiv.org/abs/2510.01303v1)|**[link](http://arxiv.org/abs/2510.01303v1)**|
-|**2025-10-01**|**Random Feature Spiking Neural Networks**|Maximilian Gollwitzer et.al.|[2510.01012v1](http://arxiv.org/abs/2510.01012v1)|**[link](http://arxiv.org/abs/2510.01012v1)**|
+|**2025-12-04**|**Random Feature Spiking Neural Networks**|Maximilian Gollwitzer et.al.|[2510.01012v2](http://arxiv.org/abs/2510.01012v2)|**[link](http://arxiv.org/abs/2510.01012v2)**|
 |**2025-10-01**|**Adaptive Event Stream Slicing for Open-Vocabulary Event-Based Object Detection via Vision-Language Knowledge Distillation**|Jinchang Zhang et.al.|[2510.00681v1](http://arxiv.org/abs/2510.00681v1)|**[link](http://arxiv.org/abs/2510.00681v1)**|
 |**2025-10-01**|**Integration of Calcium Imaging Traces via Deep Generative Modeling**|Berta Ros et.al.|[2501.14615v3](http://arxiv.org/abs/2501.14615v3)|**[link](http://arxiv.org/abs/2501.14615v3)**|
 |**2025-09-30**|**The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain**|Adrian Kosowski et.al.|[2509.26507v1](http://arxiv.org/abs/2509.26507v1)|**[link](http://arxiv.org/abs/2509.26507v1)**|
@@ -3036,12 +3036,17 @@
 |**2025-12-02**|**Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks**|Qianhui Liu et.al.|[2512.02459v1](http://arxiv.org/abs/2512.02459v1)|**[link](http://arxiv.org/abs/2512.02459v1)**|
 |**2025-12-02**|**Temporal Dynamics Enhancer for Directly Trained Spiking Object Detectors**|Fan Luo et.al.|[2512.02447v1](http://arxiv.org/abs/2512.02447v1)|**[link](http://arxiv.org/abs/2512.02447v1)**|
 |**2025-12-03**|**Exploring the Potentials of Spiking Neural Networks for Image Deraining**|Shuang Chen et.al.|[2512.02258v2](http://arxiv.org/abs/2512.02258v2)|**[link](http://arxiv.org/abs/2512.02258v2)**|
-|**2025-12-03**|**A CMOS+X Spiking Neuron With On-Chip Machine Learning**|Steven Louis et.al.|[2512.03966v1](http://arxiv.org/abs/2512.03966v1)|**[link](http://arxiv.org/abs/2512.03966v1)**|
+|**2025-12-04**|**A CMOS+X Spiking Neuron With On-Chip Machine Learning**|Steven Louis et.al.|[2512.03966v2](http://arxiv.org/abs/2512.03966v2)|**[link](http://arxiv.org/abs/2512.03966v2)**|
 |**2025-12-03**|**Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware**|Kenneth Stewart et.al.|[2512.03911v1](http://arxiv.org/abs/2512.03911v1)|**[link](http://arxiv.org/abs/2512.03911v1)**|
 |**2025-12-03**|**Parameter efficient hybrid spiking-quantum convolutional neural network with surrogate gradient and quantum data-reupload**|Luu Trong Nhan et.al.|[2512.03895v1](http://arxiv.org/abs/2512.03895v1)|**[link](http://arxiv.org/abs/2512.03895v1)**|
 |**2025-12-03**|**Hybrid Temporal-8-Bit Spike Coding for Spiking Neural Network Surrogate Training**|Luu Trong Nhan et.al.|[2512.03879v1](http://arxiv.org/abs/2512.03879v1)|**[link](http://arxiv.org/abs/2512.03879v1)**|
 |**2025-12-03**|**The BrainScaleS-2 multi-chip system: Interconnecting continuous-time neuromorphic compute substrates**|Joscha Ilmberger et.al.|[2512.03781v1](http://arxiv.org/abs/2512.03781v1)|**[link](http://arxiv.org/abs/2512.03781v1)**|
 |**2025-12-03**|**VS-Graph: Scalable and Efficient Graph Classification Using Hyperdimensional Computing**|Hamed Poursiami et.al.|[2512.03394v1](http://arxiv.org/abs/2512.03394v1)|**[link](http://arxiv.org/abs/2512.03394v1)**|
+|**2025-12-04**|**Engineered Inclined Energy Landscapes Enabling Free Flow of Magnetic Microstructures for Artificial Neuron Applications**|Anmol Sharma et.al.|[2512.05020v1](http://arxiv.org/abs/2512.05020v1)|**[link](http://arxiv.org/abs/2512.05020v1)**|
+|**2025-12-04**|**Plug-and-Play Homeostatic Spark: Zero-Cost Acceleration for SNN Training Across Paradigms**|Rui Chen et.al.|[2512.05015v1](http://arxiv.org/abs/2512.05015v1)|**[link](http://arxiv.org/abs/2512.05015v1)**|
+|**2025-12-04**|**Revealing stimulus-dependent dynamics through statistical complexity**|Edson V. de Paula et.al.|[2512.05007v1](http://arxiv.org/abs/2512.05007v1)|**[link](http://arxiv.org/abs/2512.05007v1)**|
+|**2025-12-04**|**MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**|Donghyun Lee et.al.|[2512.04443v1](http://arxiv.org/abs/2512.04443v1)|**[link](http://arxiv.org/abs/2512.04443v1)**|
+|**2025-12-03**|**When do spectral gradient updates help in deep learning?**|Damek Davis et.al.|[2512.04299v1](http://arxiv.org/abs/2512.04299v1)|**[link](http://arxiv.org/abs/2512.04299v1)**|
 
-<p align=right>(<a href=#Updated-on-20251204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251205>back to top</a>)</p>
 
