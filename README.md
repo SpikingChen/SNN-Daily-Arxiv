@@ -1,4 +1,4 @@
-## Updated on 2025.12.06
+## Updated on 2025.12.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -3048,5 +3048,5 @@
 |**2025-12-04**|**MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**|Donghyun Lee et.al.|[2512.04443v1](http://arxiv.org/abs/2512.04443v1)|**[link](http://arxiv.org/abs/2512.04443v1)**|
 |**2025-12-03**|**When do spectral gradient updates help in deep learning?**|Damek Davis et.al.|[2512.04299v1](http://arxiv.org/abs/2512.04299v1)|**[link](http://arxiv.org/abs/2512.04299v1)**|
 
-<p align=right>(<a href=#Updated-on-20251206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251207>back to top</a>)</p>
 
