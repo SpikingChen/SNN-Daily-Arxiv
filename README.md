@@ -1,4 +1,4 @@
-## Updated on 2025.12.07
+## Updated on 2025.12.08
 
 <details>
   <summary>Table of Contents</summary>
@@ -318,10 +318,10 @@
 |**2025-08-07**|**Neuromorphic Cybersecurity with Semi-supervised Lifelong Learning**|Md Zesun Ahmed Mia et.al.|[2508.04610v2](http://arxiv.org/abs/2508.04610v2)|**[link](http://arxiv.org/abs/2508.04610v2)**|
 |**2025-08-06**|**Drone Detection with Event Cameras**|Gabriele Magrini et.al.|[2508.04564v1](http://arxiv.org/abs/2508.04564v1)|**[link](http://arxiv.org/abs/2508.04564v1)**|
 |**2025-08-06**|**Is the cortical dynamics ergodic? A numerical study in partially symmetric networks of spiking neurons**|Ferdinand Tixidre et.al.|[2508.04354v1](http://arxiv.org/abs/2508.04354v1)|**[link](http://arxiv.org/abs/2508.04354v1)**|
-|**2025-08-06**|**TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling**|Deming Zhou et.al.|[2508.04270v1](http://arxiv.org/abs/2508.04270v1)|**[link](http://arxiv.org/abs/2508.04270v1)**|
+|**2025-11-21**|**TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling**|Deming Zhou et.al.|[2508.04270v2](http://arxiv.org/abs/2508.04270v2)|**[link](http://arxiv.org/abs/2508.04270v2)**|
 |**2025-08-06**|**Live Demonstration: Neuromorphic Radar for Gesture Recognition**|Satyapreet Singh Yadav et.al.|[2508.03324v2](http://arxiv.org/abs/2508.03324v2)|**[link](http://arxiv.org/abs/2508.03324v2)**|
 |**2025-08-05**|**Spiking Neural Networks for Resource Allocation in UAV-Enabled Wireless Networks**|Vasileios Kouvakis et.al.|[2508.03279v1](http://arxiv.org/abs/2508.03279v1)|**[link](http://arxiv.org/abs/2508.03279v1)**|
-|**2025-08-05**|**Ultralight Polarity-Split Neuromorphic SNN for Event-Stream Super-Resolution**|Chuanzhi Xu et.al.|[2508.03244v1](http://arxiv.org/abs/2508.03244v1)|**[link](http://arxiv.org/abs/2508.03244v1)**|
+|**2025-11-27**|**Ultralight Polarity-Split Neuromorphic SNN for Event-Stream Super-Resolution**|Chuanzhi Xu et.al.|[2508.03244v2](http://arxiv.org/abs/2508.03244v2)|**[link](http://arxiv.org/abs/2508.03244v2)**|
 |**2025-08-02**|**ParaRevSNN: A Parallel Reversible Spiking Neural Network for Efficient Training and Inference**|Changqing Xu et.al.|[2508.01223v1](http://arxiv.org/abs/2508.01223v1)|**[link](http://arxiv.org/abs/2508.01223v1)**|
 |**2025-08-01**|**HetSyn: Versatile Timescale Integration in Spiking Neural Networks via Heterogeneous Synapses**|Zhichao Deng et.al.|[2508.11644v1](http://arxiv.org/abs/2508.11644v1)|**[link](http://arxiv.org/abs/2508.11644v1)**|
 |**2025-08-01**|**Self-strain suppression of the metal-to-insulator transition in phase-change oxide devices**|Nicolò D'Anna et.al.|[2508.00347v1](http://arxiv.org/abs/2508.00347v1)|**[link](http://arxiv.org/abs/2508.00347v1)**|
@@ -3047,6 +3047,10 @@
 |**2025-12-04**|**Revealing stimulus-dependent dynamics through statistical complexity**|Edson V. de Paula et.al.|[2512.05007v1](http://arxiv.org/abs/2512.05007v1)|**[link](http://arxiv.org/abs/2512.05007v1)**|
 |**2025-12-04**|**MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**|Donghyun Lee et.al.|[2512.04443v1](http://arxiv.org/abs/2512.04443v1)|**[link](http://arxiv.org/abs/2512.04443v1)**|
 |**2025-12-03**|**When do spectral gradient updates help in deep learning?**|Damek Davis et.al.|[2512.04299v1](http://arxiv.org/abs/2512.04299v1)|**[link](http://arxiv.org/abs/2512.04299v1)**|
+|**2025-12-05**|**EventQueues: Autodifferentiable spike event queues for brain simulation on AI accelerators**|Lennart P. L. Landsmeer et.al.|[2512.05906v1](http://arxiv.org/abs/2512.05906v1)|**[link](http://arxiv.org/abs/2512.05906v1)**|
+|**2025-12-05**|**Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks**|Brian Ezinwoke et.al.|[2512.05868v1](http://arxiv.org/abs/2512.05868v1)|**[link](http://arxiv.org/abs/2512.05868v1)**|
+|**2025-12-05**|**Unleashing Temporal Capacity of Spiking Neural Networks through Spatiotemporal Separation**|Yiting Dong et.al.|[2512.05472v1](http://arxiv.org/abs/2512.05472v1)|**[link](http://arxiv.org/abs/2512.05472v1)**|
+|**2025-12-04**|**NeuromorphicRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2512.05246v1](http://arxiv.org/abs/2512.05246v1)|**[link](http://arxiv.org/abs/2512.05246v1)**|
 
-<p align=right>(<a href=#Updated-on-20251207>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251208>back to top</a>)</p>
 
