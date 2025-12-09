@@ -1,4 +1,4 @@
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -3051,6 +3051,9 @@
 |**2025-12-05**|**Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks**|Brian Ezinwoke et.al.|[2512.05868v1](http://arxiv.org/abs/2512.05868v1)|**[link](http://arxiv.org/abs/2512.05868v1)**|
 |**2025-12-05**|**Unleashing Temporal Capacity of Spiking Neural Networks through Spatiotemporal Separation**|Yiting Dong et.al.|[2512.05472v1](http://arxiv.org/abs/2512.05472v1)|**[link](http://arxiv.org/abs/2512.05472v1)**|
 |**2025-12-04**|**NeuromorphicRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2512.05246v1](http://arxiv.org/abs/2512.05246v1)|**[link](http://arxiv.org/abs/2512.05246v1)**|
+|**2025-12-08**|**Algorithm-hardware co-design of neuromorphic networks with dual memory pathways**|Pengfei Sun et.al.|[2512.07602v1](http://arxiv.org/abs/2512.07602v1)|**[link](http://arxiv.org/abs/2512.07602v1)**|
+|**2025-12-08**|**SINRL: Socially Integrated Navigation with Reinforcement Learning using Spiking Neural Networks**|Florian Tretter et.al.|[2512.07266v1](http://arxiv.org/abs/2512.07266v1)|**[link](http://arxiv.org/abs/2512.07266v1)**|
+|**2025-12-08**|**Synchrony-Gated Plasticity with Dopamine Modulation for Spiking Neural Networks**|Yuchen Tian et.al.|[2512.07194v1](http://arxiv.org/abs/2512.07194v1)|**[link](http://arxiv.org/abs/2512.07194v1)**|
 
-<p align=right>(<a href=#Updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251209>back to top</a>)</p>
 
