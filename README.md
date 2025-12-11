@@ -1,4 +1,4 @@
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -3055,6 +3055,8 @@
 |**2025-12-08**|**SINRL: Socially Integrated Navigation with Reinforcement Learning using Spiking Neural Networks**|Florian Tretter et.al.|[2512.07266v1](http://arxiv.org/abs/2512.07266v1)|**[link](http://arxiv.org/abs/2512.07266v1)**|
 |**2025-12-08**|**Synchrony-Gated Plasticity with Dopamine Modulation for Spiking Neural Networks**|Yuchen Tian et.al.|[2512.07194v1](http://arxiv.org/abs/2512.07194v1)|**[link](http://arxiv.org/abs/2512.07194v1)**|
 |**2025-12-09**|**LayerPipe2: Multistage Pipelining and Weight Recompute via Improved Exponential Moving Average for Training Neural Networks**|Nanda K. Unnikrishnan et.al.|[2512.08160v1](http://arxiv.org/abs/2512.08160v1)|**[link](http://arxiv.org/abs/2512.08160v1)**|
+|**2025-12-10**|**CS3D: An Efficient Facial Expression Recognition via Event Vision**|Zhe Wang et.al.|[2512.09592v1](http://arxiv.org/abs/2512.09592v1)|**[link](http://arxiv.org/abs/2512.09592v1)**|
+|**2025-12-10**|**Scalable Construction of Spiking Neural Networks using up to thousands of GPUs**|Bruno Golosio et.al.|[2512.09502v1](http://arxiv.org/abs/2512.09502v1)|**[link](http://arxiv.org/abs/2512.09502v1)**|
 
-<p align=right>(<a href=#Updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251211>back to top</a>)</p>
 
