@@ -1,4 +1,4 @@
-## Updated on 2025.12.11
+## Updated on 2025.12.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -3051,12 +3051,17 @@
 |**2025-12-05**|**Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks**|Brian Ezinwoke et.al.|[2512.05868v1](http://arxiv.org/abs/2512.05868v1)|**[link](http://arxiv.org/abs/2512.05868v1)**|
 |**2025-12-05**|**Unleashing Temporal Capacity of Spiking Neural Networks through Spatiotemporal Separation**|Yiting Dong et.al.|[2512.05472v1](http://arxiv.org/abs/2512.05472v1)|**[link](http://arxiv.org/abs/2512.05472v1)**|
 |**2025-12-04**|**NeuromorphicRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2512.05246v1](http://arxiv.org/abs/2512.05246v1)|**[link](http://arxiv.org/abs/2512.05246v1)**|
-|**2025-12-08**|**Algorithm-hardware co-design of neuromorphic networks with dual memory pathways**|Pengfei Sun et.al.|[2512.07602v1](http://arxiv.org/abs/2512.07602v1)|**[link](http://arxiv.org/abs/2512.07602v1)**|
+|**2025-12-11**|**Algorithm-hardware co-design of neuromorphic networks with dual memory pathways**|Pengfei Sun et.al.|[2512.07602v2](http://arxiv.org/abs/2512.07602v2)|**[link](http://arxiv.org/abs/2512.07602v2)**|
 |**2025-12-08**|**SINRL: Socially Integrated Navigation with Reinforcement Learning using Spiking Neural Networks**|Florian Tretter et.al.|[2512.07266v1](http://arxiv.org/abs/2512.07266v1)|**[link](http://arxiv.org/abs/2512.07266v1)**|
 |**2025-12-08**|**Synchrony-Gated Plasticity with Dopamine Modulation for Spiking Neural Networks**|Yuchen Tian et.al.|[2512.07194v1](http://arxiv.org/abs/2512.07194v1)|**[link](http://arxiv.org/abs/2512.07194v1)**|
 |**2025-12-09**|**LayerPipe2: Multistage Pipelining and Weight Recompute via Improved Exponential Moving Average for Training Neural Networks**|Nanda K. Unnikrishnan et.al.|[2512.08160v1](http://arxiv.org/abs/2512.08160v1)|**[link](http://arxiv.org/abs/2512.08160v1)**|
 |**2025-12-10**|**CS3D: An Efficient Facial Expression Recognition via Event Vision**|Zhe Wang et.al.|[2512.09592v1](http://arxiv.org/abs/2512.09592v1)|**[link](http://arxiv.org/abs/2512.09592v1)**|
 |**2025-12-10**|**Scalable Construction of Spiking Neural Networks using up to thousands of GPUs**|Bruno Golosio et.al.|[2512.09502v1](http://arxiv.org/abs/2512.09502v1)|**[link](http://arxiv.org/abs/2512.09502v1)**|
+|**2025-12-11**|**A Spiking Neural Network Implementation of Gaussian Belief Propagation**|Sepideh Adamiat et.al.|[2512.10638v1](http://arxiv.org/abs/2512.10638v1)|**[link](http://arxiv.org/abs/2512.10638v1)**|
+|**2025-12-11**|**Neuromorphic Processor Employing FPGA Technology with Universal Interconnections**|Pracheta Harlikar et.al.|[2512.10180v1](http://arxiv.org/abs/2512.10180v1)|**[link](http://arxiv.org/abs/2512.10180v1)**|
+|**2025-12-11**|**Assessing Neuromorphic Computing for Fingertip Force Decoding from Electromyography**|Abolfazl Shahrooei et.al.|[2512.10179v1](http://arxiv.org/abs/2512.10179v1)|**[link](http://arxiv.org/abs/2512.10179v1)**|
+|**2025-12-10**|**Spatial Spiking Neural Networks Enable Efficient and Robust Temporal Computation**|Lennart P. L. Landsmeer et.al.|[2512.10011v1](http://arxiv.org/abs/2512.10011v1)|**[link](http://arxiv.org/abs/2512.10011v1)**|
+|**2025-12-10**|**Neuromorphic Eye Tracking for Low-Latency Pupil Detection**|Paul Hueber et.al.|[2512.09969v1](http://arxiv.org/abs/2512.09969v1)|**[link](http://arxiv.org/abs/2512.09969v1)**|
 
-<p align=right>(<a href=#Updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251212>back to top</a>)</p>
 
