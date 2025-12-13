@@ -1,4 +1,4 @@
-## Updated on 2025.12.12
+## Updated on 2025.12.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -3063,5 +3063,5 @@
 |**2025-12-10**|**Spatial Spiking Neural Networks Enable Efficient and Robust Temporal Computation**|Lennart P. L. Landsmeer et.al.|[2512.10011v1](http://arxiv.org/abs/2512.10011v1)|**[link](http://arxiv.org/abs/2512.10011v1)**|
 |**2025-12-10**|**Neuromorphic Eye Tracking for Low-Latency Pupil Detection**|Paul Hueber et.al.|[2512.09969v1](http://arxiv.org/abs/2512.09969v1)|**[link](http://arxiv.org/abs/2512.09969v1)**|
 
-<p align=right>(<a href=#Updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251213>back to top</a>)</p>
 
