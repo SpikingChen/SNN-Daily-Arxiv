@@ -1,4 +1,4 @@
-## Updated on 2025.12.14
+## Updated on 2025.12.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -3062,6 +3062,7 @@
 |**2025-12-11**|**Assessing Neuromorphic Computing for Fingertip Force Decoding from Electromyography**|Abolfazl Shahrooei et.al.|[2512.10179v1](http://arxiv.org/abs/2512.10179v1)|**[link](http://arxiv.org/abs/2512.10179v1)**|
 |**2025-12-10**|**Spatial Spiking Neural Networks Enable Efficient and Robust Temporal Computation**|Lennart P. L. Landsmeer et.al.|[2512.10011v1](http://arxiv.org/abs/2512.10011v1)|**[link](http://arxiv.org/abs/2512.10011v1)**|
 |**2025-12-10**|**Neuromorphic Eye Tracking for Low-Latency Pupil Detection**|Paul Hueber et.al.|[2512.09969v1](http://arxiv.org/abs/2512.09969v1)|**[link](http://arxiv.org/abs/2512.09969v1)**|
+|**2025-12-12**|**CogniSNN: Enabling Neuron-Expandability, Pathway-Reusability, and Dynamic-Configurability with Random Graph Architectures in Spiking Neural Networks**|Yongsheng Huang et.al.|[2512.11743v1](http://arxiv.org/abs/2512.11743v1)|**[link](http://arxiv.org/abs/2512.11743v1)**|
 
-<p align=right>(<a href=#Updated-on-20251214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251215>back to top</a>)</p>
 
