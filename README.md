@@ -1,4 +1,4 @@
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -303,7 +303,7 @@
 |**2025-08-13**|**SLTNet: Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xianlei Long et.al.|[2412.12843v3](http://arxiv.org/abs/2412.12843v3)|**[link](http://arxiv.org/abs/2412.12843v3)**|
 |**2025-08-11**|**Adaptive Spiking with Plasticity for Energy Aware Neuromorphic Systems**|Eduardo Calle-Ortiz et.al.|[2508.11689v1](http://arxiv.org/abs/2508.11689v1)|**[link](http://arxiv.org/abs/2508.11689v1)**|
 |**2025-08-11**|**Field-theoretic approach to compartmental neuronal networks: impact of dendritic calcium spike-dependent bursting**|Audrey O'Brien Teasley et.al.|[2508.08405v1](http://arxiv.org/abs/2508.08405v1)|**[link](http://arxiv.org/abs/2508.08405v1)**|
-|**2025-08-11**|**Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformer**|Jingya Wang et.al.|[2508.07710v1](http://arxiv.org/abs/2508.07710v1)|**[link](http://arxiv.org/abs/2508.07710v1)**|
+|**2025-12-14**|**Training-Free ANN-to-SNN Conversion for High-Performance Spiking Transformer**|Jingya Wang et.al.|[2508.07710v2](http://arxiv.org/abs/2508.07710v2)|**[link](http://arxiv.org/abs/2508.07710v2)**|
 |**2025-08-11**|**Model Predictive Control on the Neural Manifold**|Christof Fehrman et.al.|[2406.14801v2](http://arxiv.org/abs/2406.14801v2)|**[link](http://arxiv.org/abs/2406.14801v2)**|
 |**2025-08-10**|**Multimodal Spiking Neural Network for Space Robotic Manipulation**|Liwen Zhang et.al.|[2508.07287v1](http://arxiv.org/abs/2508.07287v1)|**[link](http://arxiv.org/abs/2508.07287v1)**|
 |**2025-08-10**|**From Spikes to Heavy Tails: Unveiling the Spectral Evolution of Neural Networks**|Vignesh Kothapalli et.al.|[2406.04657v3](http://arxiv.org/abs/2406.04657v3)|**[link](http://arxiv.org/abs/2406.04657v3)**|
@@ -3063,6 +3063,7 @@
 |**2025-12-10**|**Spatial Spiking Neural Networks Enable Efficient and Robust Temporal Computation**|Lennart P. L. Landsmeer et.al.|[2512.10011v1](http://arxiv.org/abs/2512.10011v1)|**[link](http://arxiv.org/abs/2512.10011v1)**|
 |**2025-12-10**|**Neuromorphic Eye Tracking for Low-Latency Pupil Detection**|Paul Hueber et.al.|[2512.09969v1](http://arxiv.org/abs/2512.09969v1)|**[link](http://arxiv.org/abs/2512.09969v1)**|
 |**2025-12-12**|**CogniSNN: Enabling Neuron-Expandability, Pathway-Reusability, and Dynamic-Configurability with Random Graph Architectures in Spiking Neural Networks**|Yongsheng Huang et.al.|[2512.11743v1](http://arxiv.org/abs/2512.11743v1)|**[link](http://arxiv.org/abs/2512.11743v1)**|
+|**2025-12-03**|**Spiking Manifesto**|Eugene Izhikevich et.al.|[2512.11843v1](http://arxiv.org/abs/2512.11843v1)|**[link](http://arxiv.org/abs/2512.11843v1)**|
 
-<p align=right>(<a href=#Updated-on-20251215>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251216>back to top</a>)</p>
 
