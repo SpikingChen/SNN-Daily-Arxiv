@@ -1,4 +1,4 @@
-## Updated on 2025.12.17
+## Updated on 2025.12.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -3065,5 +3065,5 @@
 |**2025-12-12**|**CogniSNN: Enabling Neuron-Expandability, Pathway-Reusability, and Dynamic-Configurability with Random Graph Architectures in Spiking Neural Networks**|Yongsheng Huang et.al.|[2512.11743v1](http://arxiv.org/abs/2512.11743v1)|**[link](http://arxiv.org/abs/2512.11743v1)**|
 |**2025-12-03**|**Spiking Manifesto**|Eugene Izhikevich et.al.|[2512.11843v1](http://arxiv.org/abs/2512.11843v1)|**[link](http://arxiv.org/abs/2512.11843v1)**|
 
-<p align=right>(<a href=#Updated-on-20251217>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251218>back to top</a>)</p>
 
