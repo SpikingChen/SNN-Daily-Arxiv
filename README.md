@@ -1,4 +1,4 @@
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -187,7 +187,7 @@
 |**2025-09-29**|**Hybrid Layer-Wise ANN-SNN With Surrogate Spike Encoding-Decoding Structure**|Nhan T. Luu et.al.|[2509.24411v1](http://arxiv.org/abs/2509.24411v1)|**[link](http://arxiv.org/abs/2509.24411v1)**|
 |**2025-09-29**|**Toward Efficient Spiking Transformers: Synapse Pruning Meets Synergistic Learning-Based Compensation**|Hongze Sun et.al.|[2508.01992v3](http://arxiv.org/abs/2508.01992v3)|**[link](http://arxiv.org/abs/2508.01992v3)**|
 |**2025-09-28**|**CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning**|Zijie Xu et.al.|[2509.23791v1](http://arxiv.org/abs/2509.23791v1)|**[link](http://arxiv.org/abs/2509.23791v1)**|
-|**2025-09-27**|**Network-Optimised Spiking Neural Network for Event-Driven Networking**|Muhammad Bilal et.al.|[2509.23516v1](http://arxiv.org/abs/2509.23516v1)|**[link](http://arxiv.org/abs/2509.23516v1)**|
+|**2025-12-18**|**Network-Optimised Spiking Neural Network for Event-Driven Networking**|Muhammad Bilal et.al.|[2509.23516v2](http://arxiv.org/abs/2509.23516v2)|**[link](http://arxiv.org/abs/2509.23516v2)**|
 |**2025-09-27**|**Spatiotemporal Radar Gesture Recognition with Hybrid Spiking Neural Networks: Balancing Accuracy and Efficiency**|Riccardo Mazzieri et.al.|[2509.23303v1](http://arxiv.org/abs/2509.23303v1)|**[link](http://arxiv.org/abs/2509.23303v1)**|
 |**2025-11-24**|**Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition**|Peiyu Liu et.al.|[2509.23253v2](http://arxiv.org/abs/2509.23253v2)|**[link](http://arxiv.org/abs/2509.23253v2)**|
 |**2025-09-27**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396v2](http://arxiv.org/abs/2507.07396v2)|**[link](http://arxiv.org/abs/2507.07396v2)**|
@@ -3060,10 +3060,12 @@
 |**2025-12-11**|**A Spiking Neural Network Implementation of Gaussian Belief Propagation**|Sepideh Adamiat et.al.|[2512.10638v1](http://arxiv.org/abs/2512.10638v1)|**[link](http://arxiv.org/abs/2512.10638v1)**|
 |**2025-12-11**|**Neuromorphic Processor Employing FPGA Technology with Universal Interconnections**|Pracheta Harlikar et.al.|[2512.10180v1](http://arxiv.org/abs/2512.10180v1)|**[link](http://arxiv.org/abs/2512.10180v1)**|
 |**2025-12-11**|**Assessing Neuromorphic Computing for Fingertip Force Decoding from Electromyography**|Abolfazl Shahrooei et.al.|[2512.10179v1](http://arxiv.org/abs/2512.10179v1)|**[link](http://arxiv.org/abs/2512.10179v1)**|
-|**2025-12-10**|**Spatial Spiking Neural Networks Enable Efficient and Robust Temporal Computation**|Lennart P. L. Landsmeer et.al.|[2512.10011v1](http://arxiv.org/abs/2512.10011v1)|**[link](http://arxiv.org/abs/2512.10011v1)**|
+|**2025-12-17**|**Spatial Spiking Neural Networks Enable Efficient and Robust Temporal Computation**|Lennart P. L. Landsmeer et.al.|[2512.10011v2](http://arxiv.org/abs/2512.10011v2)|**[link](http://arxiv.org/abs/2512.10011v2)**|
 |**2025-12-10**|**Neuromorphic Eye Tracking for Low-Latency Pupil Detection**|Paul Hueber et.al.|[2512.09969v1](http://arxiv.org/abs/2512.09969v1)|**[link](http://arxiv.org/abs/2512.09969v1)**|
 |**2025-12-12**|**CogniSNN: Enabling Neuron-Expandability, Pathway-Reusability, and Dynamic-Configurability with Random Graph Architectures in Spiking Neural Networks**|Yongsheng Huang et.al.|[2512.11743v1](http://arxiv.org/abs/2512.11743v1)|**[link](http://arxiv.org/abs/2512.11743v1)**|
 |**2025-12-03**|**Spiking Manifesto**|Eugene Izhikevich et.al.|[2512.11843v1](http://arxiv.org/abs/2512.11843v1)|**[link](http://arxiv.org/abs/2512.11843v1)**|
+|**2025-12-18**|**On the Universal Representation Property of Spiking Neural Networks**|Shayan Hundrieser et.al.|[2512.16872v1](http://arxiv.org/abs/2512.16872v1)|**[link](http://arxiv.org/abs/2512.16872v1)**|
+|**2025-12-18**|**Improving Low-Latency Learning Performance in Spiking Neural Networks via a Change-Perceptive Dendrite-Soma-Axon Neuron**|Zeyu Huang et.al.|[2512.16259v1](http://arxiv.org/abs/2512.16259v1)|**[link](http://arxiv.org/abs/2512.16259v1)**|
 
-<p align=right>(<a href=#Updated-on-20251218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251219>back to top</a>)</p>
 
