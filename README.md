@@ -1,4 +1,4 @@
-## Updated on 2025.12.20
+## Updated on 2025.12.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -3067,5 +3067,5 @@
 |**2025-12-18**|**On the Universal Representation Property of Spiking Neural Networks**|Shayan Hundrieser et.al.|[2512.16872v1](http://arxiv.org/abs/2512.16872v1)|**[link](http://arxiv.org/abs/2512.16872v1)**|
 |**2025-12-18**|**Improving Low-Latency Learning Performance in Spiking Neural Networks via a Change-Perceptive Dendrite-Soma-Axon Neuron**|Zeyu Huang et.al.|[2512.16259v1](http://arxiv.org/abs/2512.16259v1)|**[link](http://arxiv.org/abs/2512.16259v1)**|
 
-<p align=right>(<a href=#Updated-on-20251220>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251221>back to top</a>)</p>
 
