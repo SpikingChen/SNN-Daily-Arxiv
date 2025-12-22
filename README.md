@@ -1,4 +1,4 @@
-## Updated on 2025.12.21
+## Updated on 2025.12.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -56,7 +56,7 @@
 |**2025-11-07**|**Travelling waves modulated by subthreshold oscillations in networks of integrate-and-fire neurons**|Henry D. J. Kerr et.al.|[2511.05232v1](http://arxiv.org/abs/2511.05232v1)|**[link](http://arxiv.org/abs/2511.05232v1)**|
 |**2025-11-07**|**NeuroFlex: Column-Exact ANN-SNN Co-Execution Accelerator with Cost-Guided Scheduling**|Varun Manjunath et.al.|[2511.05215v1](http://arxiv.org/abs/2511.05215v1)|**[link](http://arxiv.org/abs/2511.05215v1)**|
 |**2025-11-07**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320v2](http://arxiv.org/abs/2506.05320v2)|**[link](http://arxiv.org/abs/2506.05320v2)**|
-|**2025-11-06**|**CBMC-V3: A CNS-inspired Control Framework Towards Manipulation Agility with SNN**|Yanbo Pang et.al.|[2511.04109v1](http://arxiv.org/abs/2511.04109v1)|**[link](http://arxiv.org/abs/2511.04109v1)**|
+|**2025-12-19**|**CBMC-V3: A CNS-inspired Control Framework Towards Manipulation Agility with SNN**|Yanbo Pang et.al.|[2511.04109v2](http://arxiv.org/abs/2511.04109v2)|**[link](http://arxiv.org/abs/2511.04109v2)**|
 |**2025-11-06**|**Enhanced stochasticity in irradiated vanadium oxide oscillators**|Nareg Ghazikhanian et.al.|[2511.04043v1](http://arxiv.org/abs/2511.04043v1)|**[link](http://arxiv.org/abs/2511.04043v1)**|
 |**2025-11-06**|**Towards Efficient and Accurate Spiking Neural Networks via Adaptive Bit Allocation**|Xingting Yao et.al.|[2506.23717v3](http://arxiv.org/abs/2506.23717v3)|**[link](http://arxiv.org/abs/2506.23717v3)**|
 |**2025-11-05**|**MS2Edge: Towards Energy-Efficient and Crisp Edge Detection with Multi-Scale Residual Learning in SNNs**|Yimeng Fan et.al.|[2511.13735v1](http://arxiv.org/abs/2511.13735v1)|**[link](http://arxiv.org/abs/2511.13735v1)**|
@@ -128,7 +128,7 @@
 |**2025-10-17**|**Traces Propagation: Memory-Efficient and Scalable Forward-Only Learning in Spiking Neural Networks**|Lorenzo Pes et.al.|[2509.13053v2](http://arxiv.org/abs/2509.13053v2)|**[link](http://arxiv.org/abs/2509.13053v2)**|
 |**2025-10-16**|**MoCom: Motion-based Inter-MAV Visual Communication Using Event Vision and Spiking Neural Networks**|Zhang Nengbo et.al.|[2510.14770v1](http://arxiv.org/abs/2510.14770v1)|**[link](http://arxiv.org/abs/2510.14770v1)**|
 |**2025-10-16**|**Resonate-and-Fire Photonic-Electronic Spiking Neurons for Fast and Efficient Light-Enabled Neuromorphic Processing Systems**|Andrew Adair et.al.|[2510.14515v1](http://arxiv.org/abs/2510.14515v1)|**[link](http://arxiv.org/abs/2510.14515v1)**|
-|**2025-10-16**|**SHaRe-SSM: An Oscillatory Spiking Neural Network for Target Variable Modeling in Long Sequences**|Kartikay Agrawal et.al.|[2510.14386v1](http://arxiv.org/abs/2510.14386v1)|**[link](http://arxiv.org/abs/2510.14386v1)**|
+|**2025-12-19**|**ASecond-Order SpikingSSM for Wearables**|Kartikay Agrawal et.al.|[2510.14386v2](http://arxiv.org/abs/2510.14386v2)|**[link](http://arxiv.org/abs/2510.14386v2)**|
 |**2025-10-16**|**Spiking Neural Network Architecture Search: A Survey**|Kama Svoboda et.al.|[2510.14235v1](http://arxiv.org/abs/2510.14235v1)|**[link](http://arxiv.org/abs/2510.14235v1)**|
 |**2025-10-16**|**Neural Networks for Bayesian Inverse Problems Governed by a Nonlinear ODE**|German Villalobos et.al.|[2510.14197v1](http://arxiv.org/abs/2510.14197v1)|**[link](http://arxiv.org/abs/2510.14197v1)**|
 |**2025-10-16**|**Using Information Geometry to Characterize Higher-Order Interactions in EEG**|Eric Albers et.al.|[2510.14188v1](http://arxiv.org/abs/2510.14188v1)|**[link](http://arxiv.org/abs/2510.14188v1)**|
@@ -3066,6 +3066,7 @@
 |**2025-12-03**|**Spiking Manifesto**|Eugene Izhikevich et.al.|[2512.11843v1](http://arxiv.org/abs/2512.11843v1)|**[link](http://arxiv.org/abs/2512.11843v1)**|
 |**2025-12-18**|**On the Universal Representation Property of Spiking Neural Networks**|Shayan Hundrieser et.al.|[2512.16872v1](http://arxiv.org/abs/2512.16872v1)|**[link](http://arxiv.org/abs/2512.16872v1)**|
 |**2025-12-18**|**Improving Low-Latency Learning Performance in Spiking Neural Networks via a Change-Perceptive Dendrite-Soma-Axon Neuron**|Zeyu Huang et.al.|[2512.16259v1](http://arxiv.org/abs/2512.16259v1)|**[link](http://arxiv.org/abs/2512.16259v1)**|
+|**2025-12-19**|**NeuRehab: A Reinforcement Learning and Spiking Neural Network-Based Rehab Automation Framework**|Phani Pavan Kambhampati et.al.|[2512.17841v1](http://arxiv.org/abs/2512.17841v1)|**[link](http://arxiv.org/abs/2512.17841v1)**|
 
-<p align=right>(<a href=#Updated-on-20251221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251222>back to top</a>)</p>
 
