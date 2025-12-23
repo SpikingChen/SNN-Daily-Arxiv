@@ -1,4 +1,4 @@
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -141,7 +141,7 @@
 |**2025-10-14**|**SpikePool: Event-driven Spiking Transformer with Pooling Attention**|Donghyun Lee et.al.|[2510.12102v1](http://arxiv.org/abs/2510.12102v1)|**[link](http://arxiv.org/abs/2510.12102v1)**|
 |**2025-10-14**|**Large Language Models Inference Engines based on Spiking Neural Networks**|Adarsha Balaji et.al.|[2510.00133v3](http://arxiv.org/abs/2510.00133v3)|**[link](http://arxiv.org/abs/2510.00133v3)**|
 |**2025-10-13**|**Local Timescale Gates for Timescale-Robust Continual Spiking Neural Networks**|Ansh Tiwari et.al.|[2510.12843v1](http://arxiv.org/abs/2510.12843v1)|**[link](http://arxiv.org/abs/2510.12843v1)**|
-|**2025-10-13**|**Network-Optimised Spiking Neural Network (NOS) Scheduling for 6G O-RAN: Spectral Margin and Delay-Tail Control**|Muhammad Bilal et.al.|[2510.11291v1](http://arxiv.org/abs/2510.11291v1)|**[link](http://arxiv.org/abs/2510.11291v1)**|
+|**2025-12-22**|**Network-Optimised Spiking Neural Network (NOS) Scheduling for 6G O-RAN: Spectral Margin and Delay-Tail Control**|Muhammad Bilal et.al.|[2510.11291v2](http://arxiv.org/abs/2510.11291v2)|**[link](http://arxiv.org/abs/2510.11291v2)**|
 |**2025-10-13**|**NSPDI-SNN: An efficient lightweight SNN based on nonlinear synaptic pruning and dendritic integration**|Wuque Cai et.al.|[2508.21566v2](http://arxiv.org/abs/2508.21566v2)|**[link](http://arxiv.org/abs/2508.21566v2)**|
 |**2025-10-13**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043v2](http://arxiv.org/abs/2507.16043v2)|**[link](http://arxiv.org/abs/2507.16043v2)**|
 |**2025-10-13**|**The role of oscillations in grid cells' toroidal topology**|Giovanni di Sarra et.al.|[2501.19262v2](http://arxiv.org/abs/2501.19262v2)|**[link](http://arxiv.org/abs/2501.19262v2)**|
@@ -187,7 +187,7 @@
 |**2025-09-29**|**Hybrid Layer-Wise ANN-SNN With Surrogate Spike Encoding-Decoding Structure**|Nhan T. Luu et.al.|[2509.24411v1](http://arxiv.org/abs/2509.24411v1)|**[link](http://arxiv.org/abs/2509.24411v1)**|
 |**2025-09-29**|**Toward Efficient Spiking Transformers: Synapse Pruning Meets Synergistic Learning-Based Compensation**|Hongze Sun et.al.|[2508.01992v3](http://arxiv.org/abs/2508.01992v3)|**[link](http://arxiv.org/abs/2508.01992v3)**|
 |**2025-09-28**|**CaRe-BN: Precise Moving Statistics for Stabilizing Spiking Neural Networks in Reinforcement Learning**|Zijie Xu et.al.|[2509.23791v1](http://arxiv.org/abs/2509.23791v1)|**[link](http://arxiv.org/abs/2509.23791v1)**|
-|**2025-12-18**|**Network-Optimised Spiking Neural Network for Event-Driven Networking**|Muhammad Bilal et.al.|[2509.23516v2](http://arxiv.org/abs/2509.23516v2)|**[link](http://arxiv.org/abs/2509.23516v2)**|
+|**2025-12-19**|**Network-Optimised Spiking Neural Network for Event-Driven Networking**|Muhammad Bilal et.al.|[2509.23516v3](http://arxiv.org/abs/2509.23516v3)|**[link](http://arxiv.org/abs/2509.23516v3)**|
 |**2025-09-27**|**Spatiotemporal Radar Gesture Recognition with Hybrid Spiking Neural Networks: Balancing Accuracy and Efficiency**|Riccardo Mazzieri et.al.|[2509.23303v1](http://arxiv.org/abs/2509.23303v1)|**[link](http://arxiv.org/abs/2509.23303v1)**|
 |**2025-11-24**|**Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition**|Peiyu Liu et.al.|[2509.23253v2](http://arxiv.org/abs/2509.23253v2)|**[link](http://arxiv.org/abs/2509.23253v2)**|
 |**2025-09-27**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396v2](http://arxiv.org/abs/2507.07396v2)|**[link](http://arxiv.org/abs/2507.07396v2)**|
@@ -3067,6 +3067,10 @@
 |**2025-12-18**|**On the Universal Representation Property of Spiking Neural Networks**|Shayan Hundrieser et.al.|[2512.16872v1](http://arxiv.org/abs/2512.16872v1)|**[link](http://arxiv.org/abs/2512.16872v1)**|
 |**2025-12-18**|**Improving Low-Latency Learning Performance in Spiking Neural Networks via a Change-Perceptive Dendrite-Soma-Axon Neuron**|Zeyu Huang et.al.|[2512.16259v1](http://arxiv.org/abs/2512.16259v1)|**[link](http://arxiv.org/abs/2512.16259v1)**|
 |**2025-12-19**|**NeuRehab: A Reinforcement Learning and Spiking Neural Network-Based Rehab Automation Framework**|Phani Pavan Kambhampati et.al.|[2512.17841v1](http://arxiv.org/abs/2512.17841v1)|**[link](http://arxiv.org/abs/2512.17841v1)**|
+|**2025-12-22**|**Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization**|Zhongwei Chen et.al.|[2512.19365v1](http://arxiv.org/abs/2512.19365v1)|**[link](http://arxiv.org/abs/2512.19365v1)**|
+|**2025-12-22**|**Photonic Spiking Graph Neural Network for Energy-Efficient Structured Data Processing**|Wanting Yu et.al.|[2512.19182v1](http://arxiv.org/abs/2512.19182v1)|**[link](http://arxiv.org/abs/2512.19182v1)**|
+|**2025-12-21**|**Modality-Dependent Memory Mechanisms in Cross-Modal Neuromorphic Computing**|Effiong Blessing et.al.|[2512.18575v1](http://arxiv.org/abs/2512.18575v1)|**[link](http://arxiv.org/abs/2512.18575v1)**|
+|**2025-12-19**|**Responses to transient perturbation can distinguish intrinsic from latent criticality in spiking neural populations**|Jacob T. Crosser et.al.|[2512.18113v1](http://arxiv.org/abs/2512.18113v1)|**[link](http://arxiv.org/abs/2512.18113v1)**|
 
-<p align=right>(<a href=#Updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251223>back to top</a>)</p>
 
