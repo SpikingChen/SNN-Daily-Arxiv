@@ -1,4 +1,4 @@
-## Updated on 2025.12.23
+## Updated on 2025.12.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -3072,5 +3072,5 @@
 |**2025-12-21**|**Modality-Dependent Memory Mechanisms in Cross-Modal Neuromorphic Computing**|Effiong Blessing et.al.|[2512.18575v1](http://arxiv.org/abs/2512.18575v1)|**[link](http://arxiv.org/abs/2512.18575v1)**|
 |**2025-12-19**|**Responses to transient perturbation can distinguish intrinsic from latent criticality in spiking neural populations**|Jacob T. Crosser et.al.|[2512.18113v1](http://arxiv.org/abs/2512.18113v1)|**[link](http://arxiv.org/abs/2512.18113v1)**|
 
-<p align=right>(<a href=#Updated-on-20251223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251224>back to top</a>)</p>
 
