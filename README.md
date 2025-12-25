@@ -1,4 +1,4 @@
-## Updated on 2025.12.24
+## Updated on 2025.12.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -3071,6 +3071,7 @@
 |**2025-12-22**|**Photonic Spiking Graph Neural Network for Energy-Efficient Structured Data Processing**|Wanting Yu et.al.|[2512.19182v1](http://arxiv.org/abs/2512.19182v1)|**[link](http://arxiv.org/abs/2512.19182v1)**|
 |**2025-12-21**|**Modality-Dependent Memory Mechanisms in Cross-Modal Neuromorphic Computing**|Effiong Blessing et.al.|[2512.18575v1](http://arxiv.org/abs/2512.18575v1)|**[link](http://arxiv.org/abs/2512.18575v1)**|
 |**2025-12-19**|**Responses to transient perturbation can distinguish intrinsic from latent criticality in spiking neural populations**|Jacob T. Crosser et.al.|[2512.18113v1](http://arxiv.org/abs/2512.18113v1)|**[link](http://arxiv.org/abs/2512.18113v1)**|
+|**2025-12-24**|**ElfCore: A 28nm Neural Processor Enabling Dynamic Structured Sparse Training and Online Self-Supervised Learning with Activity-Dependent Weight Update**|Zhe Su et.al.|[2512.21153v1](http://arxiv.org/abs/2512.21153v1)|**[link](http://arxiv.org/abs/2512.21153v1)**|
 
-<p align=right>(<a href=#Updated-on-20251224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251225>back to top</a>)</p>
 
