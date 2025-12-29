@@ -1,4 +1,4 @@
-## Updated on 2025.12.28
+## Updated on 2025.12.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -3072,6 +3072,7 @@
 |**2025-12-21**|**Modality-Dependent Memory Mechanisms in Cross-Modal Neuromorphic Computing**|Effiong Blessing et.al.|[2512.18575v1](http://arxiv.org/abs/2512.18575v1)|**[link](http://arxiv.org/abs/2512.18575v1)**|
 |**2025-12-19**|**Responses to transient perturbation can distinguish intrinsic from latent criticality in spiking neural populations**|Jacob T. Crosser et.al.|[2512.18113v1](http://arxiv.org/abs/2512.18113v1)|**[link](http://arxiv.org/abs/2512.18113v1)**|
 |**2025-12-24**|**ElfCore: A 28nm Neural Processor Enabling Dynamic Structured Sparse Training and Online Self-Supervised Learning with Activity-Dependent Weight Update**|Zhe Su et.al.|[2512.21153v1](http://arxiv.org/abs/2512.21153v1)|**[link](http://arxiv.org/abs/2512.21153v1)**|
+|**2025-12-25**|**Metaboplasticity: The Reciprocal Regulation of Neuronal Activity and Cellular Energetics**|Ece Öner et.al.|[2512.21659v1](http://arxiv.org/abs/2512.21659v1)|**[link](http://arxiv.org/abs/2512.21659v1)**|
 
-<p align=right>(<a href=#Updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
 
