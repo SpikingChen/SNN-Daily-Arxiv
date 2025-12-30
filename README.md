@@ -1,4 +1,4 @@
-## Updated on 2025.12.29
+## Updated on 2025.12.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -3073,6 +3073,8 @@
 |**2025-12-19**|**Responses to transient perturbation can distinguish intrinsic from latent criticality in spiking neural populations**|Jacob T. Crosser et.al.|[2512.18113v1](http://arxiv.org/abs/2512.18113v1)|**[link](http://arxiv.org/abs/2512.18113v1)**|
 |**2025-12-24**|**ElfCore: A 28nm Neural Processor Enabling Dynamic Structured Sparse Training and Online Self-Supervised Learning with Activity-Dependent Weight Update**|Zhe Su et.al.|[2512.21153v1](http://arxiv.org/abs/2512.21153v1)|**[link](http://arxiv.org/abs/2512.21153v1)**|
 |**2025-12-25**|**Metaboplasticity: The Reciprocal Regulation of Neuronal Activity and Cellular Energetics**|Ece Öner et.al.|[2512.21659v1](http://arxiv.org/abs/2512.21659v1)|**[link](http://arxiv.org/abs/2512.21659v1)**|
+|**2025-12-27**|**Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks**|Jihang Wang et.al.|[2512.22522v1](http://arxiv.org/abs/2512.22522v1)|**[link](http://arxiv.org/abs/2512.22522v1)**|
+|**2025-12-22**|**Signal-SGN++: Topology-Enhanced Time-Frequency Spiking Graph Network for Skeleton-Based Action Recognition**|Naichuan Zheng et.al.|[2512.22214v1](http://arxiv.org/abs/2512.22214v1)|**[link](http://arxiv.org/abs/2512.22214v1)**|
 
-<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251230>back to top</a>)</p>
 
