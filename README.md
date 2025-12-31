@@ -1,4 +1,4 @@
-## Updated on 2025.12.30
+## Updated on 2025.12.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -3076,5 +3076,5 @@
 |**2025-12-27**|**Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks**|Jihang Wang et.al.|[2512.22522v1](http://arxiv.org/abs/2512.22522v1)|**[link](http://arxiv.org/abs/2512.22522v1)**|
 |**2025-12-22**|**Signal-SGN++: Topology-Enhanced Time-Frequency Spiking Graph Network for Skeleton-Based Action Recognition**|Naichuan Zheng et.al.|[2512.22214v1](http://arxiv.org/abs/2512.22214v1)|**[link](http://arxiv.org/abs/2512.22214v1)**|
 
-<p align=right>(<a href=#Updated-on-20251230>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251231>back to top</a>)</p>
 
