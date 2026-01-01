@@ -1,4 +1,4 @@
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -3063,7 +3063,7 @@
 |**2025-12-17**|**Spatial Spiking Neural Networks Enable Efficient and Robust Temporal Computation**|Lennart P. L. Landsmeer et.al.|[2512.10011v2](http://arxiv.org/abs/2512.10011v2)|**[link](http://arxiv.org/abs/2512.10011v2)**|
 |**2025-12-10**|**Neuromorphic Eye Tracking for Low-Latency Pupil Detection**|Paul Hueber et.al.|[2512.09969v1](http://arxiv.org/abs/2512.09969v1)|**[link](http://arxiv.org/abs/2512.09969v1)**|
 |**2025-12-12**|**CogniSNN: Enabling Neuron-Expandability, Pathway-Reusability, and Dynamic-Configurability with Random Graph Architectures in Spiking Neural Networks**|Yongsheng Huang et.al.|[2512.11743v1](http://arxiv.org/abs/2512.11743v1)|**[link](http://arxiv.org/abs/2512.11743v1)**|
-|**2025-12-03**|**Spiking Manifesto**|Eugene Izhikevich et.al.|[2512.11843v1](http://arxiv.org/abs/2512.11843v1)|**[link](http://arxiv.org/abs/2512.11843v1)**|
+|**2025-12-31**|**Spiking Manifesto**|Eugene Izhikevich et.al.|[2512.11843v2](http://arxiv.org/abs/2512.11843v2)|**[link](http://arxiv.org/abs/2512.11843v2)**|
 |**2025-12-18**|**On the Universal Representation Property of Spiking Neural Networks**|Shayan Hundrieser et.al.|[2512.16872v1](http://arxiv.org/abs/2512.16872v1)|**[link](http://arxiv.org/abs/2512.16872v1)**|
 |**2025-12-18**|**Improving Low-Latency Learning Performance in Spiking Neural Networks via a Change-Perceptive Dendrite-Soma-Axon Neuron**|Zeyu Huang et.al.|[2512.16259v1](http://arxiv.org/abs/2512.16259v1)|**[link](http://arxiv.org/abs/2512.16259v1)**|
 |**2025-12-19**|**NeuRehab: A Reinforcement Learning and Spiking Neural Network-Based Rehab Automation Framework**|Phani Pavan Kambhampati et.al.|[2512.17841v1](http://arxiv.org/abs/2512.17841v1)|**[link](http://arxiv.org/abs/2512.17841v1)**|
@@ -3075,6 +3075,10 @@
 |**2025-12-25**|**Metaboplasticity: The Reciprocal Regulation of Neuronal Activity and Cellular Energetics**|Ece Öner et.al.|[2512.21659v1](http://arxiv.org/abs/2512.21659v1)|**[link](http://arxiv.org/abs/2512.21659v1)**|
 |**2025-12-27**|**Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks**|Jihang Wang et.al.|[2512.22522v1](http://arxiv.org/abs/2512.22522v1)|**[link](http://arxiv.org/abs/2512.22522v1)**|
 |**2025-12-22**|**Signal-SGN++: Topology-Enhanced Time-Frequency Spiking Graph Network for Skeleton-Based Action Recognition**|Naichuan Zheng et.al.|[2512.22214v1](http://arxiv.org/abs/2512.22214v1)|**[link](http://arxiv.org/abs/2512.22214v1)**|
+|**2025-12-31**|**Optical Spiking Neural Networks via Rogue-Wave Statistics**|Bahadır Utku Kesgin et.al.|[2512.24983v1](http://arxiv.org/abs/2512.24983v1)|**[link](http://arxiv.org/abs/2512.24983v1)**|
+|**2025-12-30**|**Exploring the Potential of Spiking Neural Networks in UWB Channel Estimation**|Youdong Zhang et.al.|[2512.23975v1](http://arxiv.org/abs/2512.23975v1)|**[link](http://arxiv.org/abs/2512.23975v1)**|
+|**2025-12-30**|**U-Net-Like Spiking Neural Networks for Single Image Dehazing**|Huibin Li et.al.|[2512.23950v1](http://arxiv.org/abs/2512.23950v1)|**[link](http://arxiv.org/abs/2512.23950v1)**|
+|**2025-12-19**|**Spike-Timing-Dependent Plasticity for Bernoulli Message Passing**|Sepideh Adamiat et.al.|[2512.23728v1](http://arxiv.org/abs/2512.23728v1)|**[link](http://arxiv.org/abs/2512.23728v1)**|
 
-<p align=right>(<a href=#Updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260101>back to top</a>)</p>
 
