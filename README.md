@@ -1,4 +1,4 @@
-## Updated on 2026.01.03
+## Updated on 2026.01.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -3080,5 +3080,5 @@
 |**2025-12-30**|**U-Net-Like Spiking Neural Networks for Single Image Dehazing**|Huibin Li et.al.|[2512.23950v1](http://arxiv.org/abs/2512.23950v1)|**[link](http://arxiv.org/abs/2512.23950v1)**|
 |**2025-12-19**|**Spike-Timing-Dependent Plasticity for Bernoulli Message Passing**|Sepideh Adamiat et.al.|[2512.23728v1](http://arxiv.org/abs/2512.23728v1)|**[link](http://arxiv.org/abs/2512.23728v1)**|
 
-<p align=right>(<a href=#Updated-on-20260103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260104>back to top</a>)</p>
 
