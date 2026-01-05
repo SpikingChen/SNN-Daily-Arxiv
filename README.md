@@ -1,4 +1,4 @@
-## Updated on 2026.01.04
+## Updated on 2026.01.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -3079,6 +3079,9 @@
 |**2025-12-30**|**Exploring the Potential of Spiking Neural Networks in UWB Channel Estimation**|Youdong Zhang et.al.|[2512.23975v1](http://arxiv.org/abs/2512.23975v1)|**[link](http://arxiv.org/abs/2512.23975v1)**|
 |**2025-12-30**|**U-Net-Like Spiking Neural Networks for Single Image Dehazing**|Huibin Li et.al.|[2512.23950v1](http://arxiv.org/abs/2512.23950v1)|**[link](http://arxiv.org/abs/2512.23950v1)**|
 |**2025-12-19**|**Spike-Timing-Dependent Plasticity for Bernoulli Message Passing**|Sepideh Adamiat et.al.|[2512.23728v1](http://arxiv.org/abs/2512.23728v1)|**[link](http://arxiv.org/abs/2512.23728v1)**|
+|**2026-01-02**|**Three factor delay learning rules for spiking neural networks**|Luke Vassallo et.al.|[2601.00668v1](http://arxiv.org/abs/2601.00668v1)|**[link](http://arxiv.org/abs/2601.00668v1)**|
+|**2026-01-01**|**Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing**|Osvaldo Simeone et.al.|[2601.00245v1](http://arxiv.org/abs/2601.00245v1)|**[link](http://arxiv.org/abs/2601.00245v1)**|
+|**2025-12-22**|**Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing**|Nikhil Garg et.al.|[2601.00020v1](http://arxiv.org/abs/2601.00020v1)|**[link](http://arxiv.org/abs/2601.00020v1)**|
 
-<p align=right>(<a href=#Updated-on-20260104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260105>back to top</a>)</p>
 
