@@ -1,4 +1,4 @@
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -3045,7 +3045,7 @@
 |**2025-12-04**|**Engineered Inclined Energy Landscapes Enabling Free Flow of Magnetic Microstructures for Artificial Neuron Applications**|Anmol Sharma et.al.|[2512.05020v1](http://arxiv.org/abs/2512.05020v1)|**[link](http://arxiv.org/abs/2512.05020v1)**|
 |**2025-12-04**|**Plug-and-Play Homeostatic Spark: Zero-Cost Acceleration for SNN Training Across Paradigms**|Rui Chen et.al.|[2512.05015v1](http://arxiv.org/abs/2512.05015v1)|**[link](http://arxiv.org/abs/2512.05015v1)**|
 |**2025-12-04**|**Revealing stimulus-dependent dynamics through statistical complexity**|Edson V. de Paula et.al.|[2512.05007v1](http://arxiv.org/abs/2512.05007v1)|**[link](http://arxiv.org/abs/2512.05007v1)**|
-|**2025-12-04**|**MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**|Donghyun Lee et.al.|[2512.04443v1](http://arxiv.org/abs/2512.04443v1)|**[link](http://arxiv.org/abs/2512.04443v1)**|
+|**2026-01-02**|**MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**|Donghyun Lee et.al.|[2512.04443v2](http://arxiv.org/abs/2512.04443v2)|**[link](http://arxiv.org/abs/2512.04443v2)**|
 |**2025-12-03**|**When do spectral gradient updates help in deep learning?**|Damek Davis et.al.|[2512.04299v1](http://arxiv.org/abs/2512.04299v1)|**[link](http://arxiv.org/abs/2512.04299v1)**|
 |**2025-12-05**|**EventQueues: Autodifferentiable spike event queues for brain simulation on AI accelerators**|Lennart P. L. Landsmeer et.al.|[2512.05906v1](http://arxiv.org/abs/2512.05906v1)|**[link](http://arxiv.org/abs/2512.05906v1)**|
 |**2025-12-05**|**Predicting Price Movements in High-Frequency Financial Data with Spiking Neural Networks**|Brian Ezinwoke et.al.|[2512.05868v1](http://arxiv.org/abs/2512.05868v1)|**[link](http://arxiv.org/abs/2512.05868v1)**|
@@ -3081,7 +3081,12 @@
 |**2025-12-19**|**Spike-Timing-Dependent Plasticity for Bernoulli Message Passing**|Sepideh Adamiat et.al.|[2512.23728v1](http://arxiv.org/abs/2512.23728v1)|**[link](http://arxiv.org/abs/2512.23728v1)**|
 |**2026-01-02**|**Three factor delay learning rules for spiking neural networks**|Luke Vassallo et.al.|[2601.00668v1](http://arxiv.org/abs/2601.00668v1)|**[link](http://arxiv.org/abs/2601.00668v1)**|
 |**2026-01-01**|**Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing**|Osvaldo Simeone et.al.|[2601.00245v1](http://arxiv.org/abs/2601.00245v1)|**[link](http://arxiv.org/abs/2601.00245v1)**|
-|**2025-12-22**|**Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing**|Nikhil Garg et.al.|[2601.00020v1](http://arxiv.org/abs/2601.00020v1)|**[link](http://arxiv.org/abs/2601.00020v1)**|
+|**2026-01-05**|**Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing**|Nikhil Garg et.al.|[2601.00020v2](http://arxiv.org/abs/2601.00020v2)|**[link](http://arxiv.org/abs/2601.00020v2)**|
+|**2026-01-05**|**Bifurcation Analysis Framework of Spiking Neuron Models**|Zhiwei Li et.al.|[2601.02116v1](http://arxiv.org/abs/2601.02116v1)|**[link](http://arxiv.org/abs/2601.02116v1)**|
+|**2026-01-04**|**STEMNIST: Spiking Tactile Extended MNIST Neuromorphic Dataset**|Anubhab Tripathi et.al.|[2601.01658v1](http://arxiv.org/abs/2601.01658v1)|**[link](http://arxiv.org/abs/2601.01658v1)**|
+|**2025-12-17**|**Energy-Efficient Eimeria Parasite Detection Using a Two-Stage Spiking Neural Network Architecture**|Ángel Miguel García-Vico et.al.|[2601.00806v1](http://arxiv.org/abs/2601.00806v1)|**[link](http://arxiv.org/abs/2601.00806v1)**|
+|**2025-12-17**|**ChronoPlastic Spiking Neural Networks**|Sarim Chaudhry et.al.|[2601.00805v1](http://arxiv.org/abs/2601.00805v1)|**[link](http://arxiv.org/abs/2601.00805v1)**|
+|**2025-12-09**|**Implementation of high-efficiency, lightweight residual spiking neural network processor based on field-programmable gate arrays**|Hou Yue et.al.|[2601.00802v1](http://arxiv.org/abs/2601.00802v1)|**[link](http://arxiv.org/abs/2601.00802v1)**|
 
-<p align=right>(<a href=#Updated-on-20260105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260106>back to top</a>)</p>
 
