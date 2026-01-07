@@ -1,4 +1,4 @@
-## Updated on 2026.01.06
+## Updated on 2026.01.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -3087,6 +3087,10 @@
 |**2025-12-17**|**Energy-Efficient Eimeria Parasite Detection Using a Two-Stage Spiking Neural Network Architecture**|Ángel Miguel García-Vico et.al.|[2601.00806v1](http://arxiv.org/abs/2601.00806v1)|**[link](http://arxiv.org/abs/2601.00806v1)**|
 |**2025-12-17**|**ChronoPlastic Spiking Neural Networks**|Sarim Chaudhry et.al.|[2601.00805v1](http://arxiv.org/abs/2601.00805v1)|**[link](http://arxiv.org/abs/2601.00805v1)**|
 |**2025-12-09**|**Implementation of high-efficiency, lightweight residual spiking neural network processor based on field-programmable gate arrays**|Hou Yue et.al.|[2601.00802v1](http://arxiv.org/abs/2601.00802v1)|**[link](http://arxiv.org/abs/2601.00802v1)**|
+|**2026-01-06**|**When Prompting Meets Spiking: Graph Sparse Prompting via Spiking Graph Prompt Learning**|Bo Jiang et.al.|[2601.02662v1](http://arxiv.org/abs/2601.02662v1)|**[link](http://arxiv.org/abs/2601.02662v1)**|
+|**2026-01-06**|**Sparsity-Aware Streaming SNN Accelerator with Output-Channel Dataflow for Automatic Modulation Classification**|Kuilian Yang et.al.|[2601.02613v1](http://arxiv.org/abs/2601.02613v1)|**[link](http://arxiv.org/abs/2601.02613v1)**|
+|**2026-01-02**|**SpikySpace: A Spiking State Space Model for Energy-Efficient Time Series Forecasting**|Kaiwen Tang et.al.|[2601.02411v1](http://arxiv.org/abs/2601.02411v1)|**[link](http://arxiv.org/abs/2601.02411v1)**|
+|**2025-12-31**|**Spiking Heterogeneous Graph Attention Networks**|Buqing Cao et.al.|[2601.02401v1](http://arxiv.org/abs/2601.02401v1)|**[link](http://arxiv.org/abs/2601.02401v1)**|
 
-<p align=right>(<a href=#Updated-on-20260106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260107>back to top</a>)</p>
 
