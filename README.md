@@ -1,4 +1,4 @@
-## Updated on 2026.01.11
+## Updated on 2026.01.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -3093,5 +3093,5 @@
 |**2025-12-31**|**Spiking Heterogeneous Graph Attention Networks**|Buqing Cao et.al.|[2601.02401v1](http://arxiv.org/abs/2601.02401v1)|**[link](http://arxiv.org/abs/2601.02401v1)**|
 |**2026-01-08**|**Memory-Guided Unified Hardware Accelerator for Mixed-Precision Scientific Computing**|Chuanzhen Wang et.al.|[2601.04476v1](http://arxiv.org/abs/2601.04476v1)|**[link](http://arxiv.org/abs/2601.04476v1)**|
 
-<p align=right>(<a href=#Updated-on-20260111>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260112>back to top</a>)</p>
 
