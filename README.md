@@ -1,4 +1,4 @@
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -3080,7 +3080,7 @@
 |**2025-12-30**|**U-Net-Like Spiking Neural Networks for Single Image Dehazing**|Huibin Li et.al.|[2512.23950v1](http://arxiv.org/abs/2512.23950v1)|**[link](http://arxiv.org/abs/2512.23950v1)**|
 |**2025-12-19**|**Spike-Timing-Dependent Plasticity for Bernoulli Message Passing**|Sepideh Adamiat et.al.|[2512.23728v1](http://arxiv.org/abs/2512.23728v1)|**[link](http://arxiv.org/abs/2512.23728v1)**|
 |**2026-01-02**|**Three factor delay learning rules for spiking neural networks**|Luke Vassallo et.al.|[2601.00668v1](http://arxiv.org/abs/2601.00668v1)|**[link](http://arxiv.org/abs/2601.00668v1)**|
-|**2026-01-08**|**Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing**|Osvaldo Simeone et.al.|[2601.00245v2](http://arxiv.org/abs/2601.00245v2)|**[link](http://arxiv.org/abs/2601.00245v2)**|
+|**2026-01-12**|**Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing**|Osvaldo Simeone et.al.|[2601.00245v3](http://arxiv.org/abs/2601.00245v3)|**[link](http://arxiv.org/abs/2601.00245v3)**|
 |**2026-01-05**|**Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing**|Nikhil Garg et.al.|[2601.00020v2](http://arxiv.org/abs/2601.00020v2)|**[link](http://arxiv.org/abs/2601.00020v2)**|
 |**2026-01-05**|**Bifurcation Analysis Framework of Spiking Neuron Models**|Zhiwei Li et.al.|[2601.02116v1](http://arxiv.org/abs/2601.02116v1)|**[link](http://arxiv.org/abs/2601.02116v1)**|
 |**2026-01-04**|**STEMNIST: Spiking Tactile Extended MNIST Neuromorphic Dataset**|Anubhab Tripathi et.al.|[2601.01658v1](http://arxiv.org/abs/2601.01658v1)|**[link](http://arxiv.org/abs/2601.01658v1)**|
@@ -3092,6 +3092,9 @@
 |**2026-01-02**|**SpikySpace: A Spiking State Space Model for Energy-Efficient Time Series Forecasting**|Kaiwen Tang et.al.|[2601.02411v1](http://arxiv.org/abs/2601.02411v1)|**[link](http://arxiv.org/abs/2601.02411v1)**|
 |**2025-12-31**|**Spiking Heterogeneous Graph Attention Networks**|Buqing Cao et.al.|[2601.02401v1](http://arxiv.org/abs/2601.02401v1)|**[link](http://arxiv.org/abs/2601.02401v1)**|
 |**2026-01-08**|**Memory-Guided Unified Hardware Accelerator for Mixed-Precision Scientific Computing**|Chuanzhen Wang et.al.|[2601.04476v1](http://arxiv.org/abs/2601.04476v1)|**[link](http://arxiv.org/abs/2601.04476v1)**|
+|**2026-01-12**|**The Potential Impact of Neuromorphic Computing on Radio Telescope Observatories**|Nicholas J. Pritchard et.al.|[2601.07130v1](http://arxiv.org/abs/2601.07130v1)|**[link](http://arxiv.org/abs/2601.07130v1)**|
+|**2026-01-11**|**Neuromorphic FPGA Design for Digital Signal Processing**|Justin London et.al.|[2601.07069v1](http://arxiv.org/abs/2601.07069v1)|**[link](http://arxiv.org/abs/2601.07069v1)**|
+|**2026-01-10**|**Efficient Aspect Term Extraction using Spiking Neural Network**|Abhishek Kumar Mishra et.al.|[2601.06637v1](http://arxiv.org/abs/2601.06637v1)|**[link](http://arxiv.org/abs/2601.06637v1)**|
 
-<p align=right>(<a href=#Updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260113>back to top</a>)</p>
 
