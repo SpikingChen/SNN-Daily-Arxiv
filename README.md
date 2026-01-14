@@ -1,4 +1,4 @@
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -3095,6 +3095,10 @@
 |**2026-01-12**|**The Potential Impact of Neuromorphic Computing on Radio Telescope Observatories**|Nicholas J. Pritchard et.al.|[2601.07130v1](http://arxiv.org/abs/2601.07130v1)|**[link](http://arxiv.org/abs/2601.07130v1)**|
 |**2026-01-11**|**Neuromorphic FPGA Design for Digital Signal Processing**|Justin London et.al.|[2601.07069v1](http://arxiv.org/abs/2601.07069v1)|**[link](http://arxiv.org/abs/2601.07069v1)**|
 |**2026-01-10**|**Efficient Aspect Term Extraction using Spiking Neural Network**|Abhishek Kumar Mishra et.al.|[2601.06637v1](http://arxiv.org/abs/2601.06637v1)|**[link](http://arxiv.org/abs/2601.06637v1)**|
+|**2026-01-13**|**Supervised Spike Agreement Dependent Plasticity for Fast Local Learning in Spiking Neural Networks**|Gouri Lakshmi S et.al.|[2601.08526v1](http://arxiv.org/abs/2601.08526v1)|**[link](http://arxiv.org/abs/2601.08526v1)**|
+|**2026-01-13**|**Sleep-Based Homeostatic Regularization for Stabilizing Spike-Timing-Dependent Plasticity in Recurrent Spiking Neural Networks**|Andreas Massey et.al.|[2601.08447v1](http://arxiv.org/abs/2601.08447v1)|**[link](http://arxiv.org/abs/2601.08447v1)**|
+|**2026-01-13**|**Spiking Neural-Invariant Kalman Fusion for Accurate Localization Using Low-Cost IMUs**|Yaohua Liu et.al.|[2601.08248v1](http://arxiv.org/abs/2601.08248v1)|**[link](http://arxiv.org/abs/2601.08248v1)**|
+|**2026-01-13**|**A brain-inspired information fusion method for enhancing robot GPS outages navigation**|Yaohua Liu et.al.|[2601.08244v1](http://arxiv.org/abs/2601.08244v1)|**[link](http://arxiv.org/abs/2601.08244v1)**|
 
-<p align=right>(<a href=#Updated-on-20260113>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260114>back to top</a>)</p>
 
