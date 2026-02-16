@@ -13,7 +13,8 @@ def get_authors(authors, first_author = False):
     else:
         output = authors[0]
     return output
-    
+
+
 def sort_papers(papers):
     output = dict()
     keys = list(papers.keys())
@@ -22,7 +23,8 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic,query="SNN", max_results=2):
+
+def get_daily_papers(topic, query="SNN", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -57,8 +59,6 @@ def get_daily_papers(topic,query="SNN", max_results=2):
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
-
-
       
         print("Time = ", update_time ,
               " title = ", paper_title,
@@ -95,7 +95,8 @@ def get_daily_papers(topic,query="SNN", max_results=2):
     data_web = {topic:content_to_web}
     return data, data_web 
 
-def update_json_file(filename,data_all):
+
+def update_json_file(filename, data_all):
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -115,10 +116,16 @@ def update_json_file(filename,data_all):
             else:
                 json_data[keyword] = papers
 
-    with open(filename,"w") as f:
-        json.dump(json_data,f)
+    for keyword in json_data.keys():
+        papers = json_data[keyword]
+        sorted_papers = dict(sorted(papers.items(), key=lambda x: x[1].split('|')[1], reverse=True))
+        json_data[keyword] = sorted_papers
     
-def json_to_md(filename,md_filename,
+    with open(filename, "w") as f:
+        json.dump(json_data, f)
+
+
+def json_to_md(filename, md_filename,
                to_web = False, 
                use_title = True, 
                use_tc = True,
@@ -213,7 +220,6 @@ def json_to_md(filename,md_filename,
     print("finished")        
 
  
-
 if __name__ == "__main__":
 
     data_collector = []
@@ -240,6 +246,7 @@ if __name__ == "__main__":
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file,md_file)
+
 
 
 
