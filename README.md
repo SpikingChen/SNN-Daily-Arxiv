@@ -1,4 +1,4 @@
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-18**|**Hardware-accelerated graph neural networks: an alternative approach for neuromorphic event-based audio classification and keyword spotting on SoC FPGA**|Kamil Jeziorek et.al.|[2602.16442v1](http://arxiv.org/abs/2602.16442v1)|**[link](http://arxiv.org/abs/2602.16442v1)**|
 |**2026-02-13**|**Real-time processing of analog signals on accelerated neuromorphic hardware**|Yannik Stradmann et.al.|[2602.04582v2](http://arxiv.org/abs/2602.04582v2)|**[link](http://arxiv.org/abs/2602.04582v2)**|
 |**2026-02-12**|**Three factor delay learning rules for spiking neural networks**|Luke Vassallo et.al.|[2601.00668v2](http://arxiv.org/abs/2601.00668v2)|**[link](http://arxiv.org/abs/2601.00668v2)**|
 |**2026-02-12**|**Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision**|Anika Tabassum Meem et.al.|[2602.12236v1](http://arxiv.org/abs/2602.12236v1)|**[link](http://arxiv.org/abs/2602.12236v1)**|
@@ -3151,5 +3152,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
 
