@@ -1,4 +1,4 @@
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-24**|**Robust Spiking Neural Networks Against Adversarial Attacks**|Shuai Wang et.al.|[2602.20548v1](http://arxiv.org/abs/2602.20548v1)|**[link](http://arxiv.org/abs/2602.20548v1)**|
 |**2026-02-20**|**Prosthetic Hand Manipulation System Based on EMG and Eye Tracking Powered by the Neuromorphic Processor AltAi**|Roman Akinshin et.al.|[2601.17991v2](http://arxiv.org/abs/2601.17991v2)|**[link](http://arxiv.org/abs/2601.17991v2)**|
 |**2026-02-20**|**Adaptive transitions in FitzHugh-Nagumo networks with Hebb-Oja coupling rules**|Astero Provata et.al.|[2602.18198v1](http://arxiv.org/abs/2602.18198v1)|**[link](http://arxiv.org/abs/2602.18198v1)**|
 |**2026-02-20**|**Flexi-NeurA: A Configurable Neuromorphic Accelerator with Adaptive Bit-Precision Exploration for Edge SNNs**|Mohammad Farahani et.al.|[2602.18140v1](http://arxiv.org/abs/2602.18140v1)|**[link](http://arxiv.org/abs/2602.18140v1)**|
@@ -3156,5 +3157,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260224>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260225>back to top</a>)</p>
 
