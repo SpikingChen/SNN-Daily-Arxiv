@@ -1,4 +1,4 @@
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-02-26**|**Joint encoding of "what" and "when" predictions through error-modulated plasticity in biologically-plausible spiking networks**|Yohei Yamada et.al.|[2510.14382v3](http://arxiv.org/abs/2510.14382v3)|**[link](http://arxiv.org/abs/2510.14382v3)**|
+|**2026-02-26**|**Exploiting network topology in brain-scale simulations of spiking neural networks**|Melissa Lober et.al.|[2602.23274v1](http://arxiv.org/abs/2602.23274v1)|**[link](http://arxiv.org/abs/2602.23274v1)**|
+|**2026-02-26**|**Collective Dynamics in Spiking Neural Networks Beyond Dale's Principle**|Ross Ah-Weng et.al.|[2602.23202v1](http://arxiv.org/abs/2602.23202v1)|**[link](http://arxiv.org/abs/2602.23202v1)**|
+|**2026-02-25**|**Spark: Modular Spiking Neural Networks**|Mario Franco et.al.|[2602.02306v3](http://arxiv.org/abs/2602.02306v3)|**[link](http://arxiv.org/abs/2602.02306v3)**|
+|**2026-02-25**|**Orthogonal Weight Modification Enhances Learning Scalability and Convergence Efficiency without Gradient Backpropagation**|Guoqing Ma et.al.|[2602.22259v1](http://arxiv.org/abs/2602.22259v1)|**[link](http://arxiv.org/abs/2602.22259v1)**|
 |**2026-02-24**|**Robust Spiking Neural Networks Against Adversarial Attacks**|Shuai Wang et.al.|[2602.20548v1](http://arxiv.org/abs/2602.20548v1)|**[link](http://arxiv.org/abs/2602.20548v1)**|
 |**2026-02-20**|**Prosthetic Hand Manipulation System Based on EMG and Eye Tracking Powered by the Neuromorphic Processor AltAi**|Roman Akinshin et.al.|[2601.17991v2](http://arxiv.org/abs/2601.17991v2)|**[link](http://arxiv.org/abs/2601.17991v2)**|
 |**2026-02-20**|**Adaptive transitions in FitzHugh-Nagumo networks with Hebb-Oja coupling rules**|Astero Provata et.al.|[2602.18198v1](http://arxiv.org/abs/2602.18198v1)|**[link](http://arxiv.org/abs/2602.18198v1)**|
@@ -27,7 +32,6 @@
 |**2026-02-10**|**UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra**|Jose Marie Antonio Miñoza et.al.|[2602.11206v1](http://arxiv.org/abs/2602.11206v1)|**[link](http://arxiv.org/abs/2602.11206v1)**|
 |**2026-02-10**|**Sparse Axonal and Dendritic Delays Enable Competitive SNNs for Keyword Classification**|Younes Bouhadjar et.al.|[2602.09746v1](http://arxiv.org/abs/2602.09746v1)|**[link](http://arxiv.org/abs/2602.09746v1)**|
 |**2026-02-10**|**From Lightweight CNNs to SpikeNets: Benchmarking Accuracy-Energy Tradeoffs with Pruned Spiking SqueezeNet**|Radib Bin Kabir et.al.|[2602.09717v1](http://arxiv.org/abs/2602.09717v1)|**[link](http://arxiv.org/abs/2602.09717v1)**|
-|**2026-02-10**|**Spark: Modular Spiking Neural Networks**|Mario Franco et.al.|[2602.02306v2](http://arxiv.org/abs/2602.02306v2)|**[link](http://arxiv.org/abs/2602.02306v2)**|
 |**2026-02-09**|**Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks**|Jihang Wang et.al.|[2512.22522v3](http://arxiv.org/abs/2512.22522v3)|**[link](http://arxiv.org/abs/2512.22522v3)**|
 |**2026-02-09**|**Kirin: Improving ANN efficiency with SNN Hybridization**|Chenyu Wang et.al.|[2602.08817v1](http://arxiv.org/abs/2602.08817v1)|**[link](http://arxiv.org/abs/2602.08817v1)**|
 |**2026-02-09**|**SynSacc: A Blender-to-V2E Pipeline for Synthetic Neuromorphic Eye-Movement Data and Sim-to-Real Spiking Model Training**|Khadija Iddrisu et.al.|[2602.08726v1](http://arxiv.org/abs/2602.08726v1)|**[link](http://arxiv.org/abs/2602.08726v1)**|
@@ -274,7 +278,6 @@
 |**2025-10-22**|**An Efficient Neural Network for Modeling Human Auditory Neurograms for Speech**|Eylon Zohar et.al.|[2510.19354v1](http://arxiv.org/abs/2510.19354v1)|**[link](http://arxiv.org/abs/2510.19354v1)**|
 |**2025-10-22**|**Neuromorphic computing for anomaly detection in a laser powder bed fusion process**|Shreyan Banerjee et.al.|[2510.19309v1](http://arxiv.org/abs/2510.19309v1)|**[link](http://arxiv.org/abs/2510.19309v1)**|
 |**2025-10-21**|**Multi-stable oscillations in cortical networks with two classes of inhibition**|Arnab Dey Sarkar et.al.|[2510.20848v1](http://arxiv.org/abs/2510.20848v1)|**[link](http://arxiv.org/abs/2510.20848v1)**|
-|**2025-10-21**|**Joint encoding of "what" and "when" predictions through error-modulated plasticity in reservoir spiking networks**|Yohei Yamada et.al.|[2510.14382v2](http://arxiv.org/abs/2510.14382v2)|**[link](http://arxiv.org/abs/2510.14382v2)**|
 |**2025-10-21**|**Spike-timing-dependent Hebbian learning as noisy gradient descent**|Niklas Dexheimer et.al.|[2505.10272v2](http://arxiv.org/abs/2505.10272v2)|**[link](http://arxiv.org/abs/2505.10272v2)**|
 |**2025-10-20**|**A Multi-Threading Kernel for Enabling Neuromorphic Edge Applications**|Lars Niedermeier et.al.|[2510.17745v1](http://arxiv.org/abs/2510.17745v1)|**[link](http://arxiv.org/abs/2510.17745v1)**|
 |**2025-10-20**|**Application-oriented automatic hyperparameter optimization for spiking neural network prototyping**|Vittorio Fra et.al.|[2502.12172v3](http://arxiv.org/abs/2502.12172v3)|**[link](http://arxiv.org/abs/2502.12172v3)**|
@@ -3157,5 +3160,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260227>back to top</a>)</p>
 
