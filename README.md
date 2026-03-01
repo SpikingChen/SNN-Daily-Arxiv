@@ -1,4 +1,4 @@
-## Updated on 2026.02.28
+## Updated on 2026.03.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -3160,5 +3160,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260301>back to top</a>)</p>
 
