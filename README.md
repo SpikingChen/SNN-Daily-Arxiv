@@ -1,4 +1,4 @@
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,6 +12,7 @@
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
 |**2026-03-03**|**Hardware Implementation of Photonic Spiking Hash Retrieval**|Shangxuan Shi et.al.|[2603.02738v1](http://arxiv.org/abs/2603.02738v1)|**[link](http://arxiv.org/abs/2603.02738v1)**|
+|**2026-03-03**|**mlx-snn: Spiking Neural Networks on Apple Silicon via MLX**|Jiahao Qin et.al.|[2603.03529v1](http://arxiv.org/abs/2603.03529v1)|**[link](http://arxiv.org/abs/2603.03529v1)**|
 |**2026-02-28**|**TP-Spikformer: Token Pruned Spiking Transformer**|Wenjie Wei et.al.|[2603.00527v1](http://arxiv.org/abs/2603.00527v1)|**[link](http://arxiv.org/abs/2603.00527v1)**|
 |**2026-02-27**|**SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking**|Qiuyang Zhang et.al.|[2602.23963v1](http://arxiv.org/abs/2602.23963v1)|**[link](http://arxiv.org/abs/2602.23963v1)**|
 |**2026-02-26**|**Joint encoding of "what" and "when" predictions through error-modulated plasticity in biologically-plausible spiking networks**|Yohei Yamada et.al.|[2510.14382v3](http://arxiv.org/abs/2510.14382v3)|**[link](http://arxiv.org/abs/2510.14382v3)**|
@@ -3163,5 +3164,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260305>back to top</a>)</p>
 
