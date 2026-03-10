@@ -1,4 +1,4 @@
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-09**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v1](http://arxiv.org/abs/2603.08146v1)|**[link](http://arxiv.org/abs/2603.08146v1)**|
 |**2026-03-05**|**Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing**|Muen Wang et.al.|[2603.04966v1](http://arxiv.org/abs/2603.04966v1)|**[link](http://arxiv.org/abs/2603.04966v1)**|
 |**2026-03-03**|**Hardware Implementation of Photonic Spiking Hash Retrieval**|Shangxuan Shi et.al.|[2603.02738v1](http://arxiv.org/abs/2603.02738v1)|**[link](http://arxiv.org/abs/2603.02738v1)**|
 |**2026-03-03**|**mlx-snn: Spiking Neural Networks on Apple Silicon via MLX**|Jiahao Qin et.al.|[2603.03529v1](http://arxiv.org/abs/2603.03529v1)|**[link](http://arxiv.org/abs/2603.03529v1)**|
@@ -3165,5 +3166,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260310>back to top</a>)</p>
 
