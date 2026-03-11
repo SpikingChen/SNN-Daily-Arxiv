@@ -1,4 +1,4 @@
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-10**|**Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision**|Anika Tabassum Meem et.al.|[2602.12236v2](http://arxiv.org/abs/2602.12236v2)|**[link](http://arxiv.org/abs/2602.12236v2)**|
+|**2026-03-10**|**DendroNN: Dendrocentric Neural Networks for Energy-Efficient Classification of Event-Based Data**|Jann Krausse et.al.|[2603.09274v1](http://arxiv.org/abs/2603.09274v1)|**[link](http://arxiv.org/abs/2603.09274v1)**|
 |**2026-03-09**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v1](http://arxiv.org/abs/2603.08146v1)|**[link](http://arxiv.org/abs/2603.08146v1)**|
+|**2026-03-09**|**Diffusion of Neuromodulators for Temporal Credit Assignment**|João Barretto-Bittar et.al.|[2603.08949v1](http://arxiv.org/abs/2603.08949v1)|**[link](http://arxiv.org/abs/2603.08949v1)**|
 |**2026-03-05**|**Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing**|Muen Wang et.al.|[2603.04966v1](http://arxiv.org/abs/2603.04966v1)|**[link](http://arxiv.org/abs/2603.04966v1)**|
 |**2026-03-03**|**Hardware Implementation of Photonic Spiking Hash Retrieval**|Shangxuan Shi et.al.|[2603.02738v1](http://arxiv.org/abs/2603.02738v1)|**[link](http://arxiv.org/abs/2603.02738v1)**|
 |**2026-03-03**|**mlx-snn: Spiking Neural Networks on Apple Silicon via MLX**|Jiahao Qin et.al.|[2603.03529v1](http://arxiv.org/abs/2603.03529v1)|**[link](http://arxiv.org/abs/2603.03529v1)**|
@@ -23,6 +26,7 @@
 |**2026-02-25**|**Spark: Modular Spiking Neural Networks**|Mario Franco et.al.|[2602.02306v3](http://arxiv.org/abs/2602.02306v3)|**[link](http://arxiv.org/abs/2602.02306v3)**|
 |**2026-02-25**|**Orthogonal Weight Modification Enhances Learning Scalability and Convergence Efficiency without Gradient Backpropagation**|Guoqing Ma et.al.|[2602.22259v1](http://arxiv.org/abs/2602.22259v1)|**[link](http://arxiv.org/abs/2602.22259v1)**|
 |**2026-02-24**|**Robust Spiking Neural Networks Against Adversarial Attacks**|Shuai Wang et.al.|[2602.20548v1](http://arxiv.org/abs/2602.20548v1)|**[link](http://arxiv.org/abs/2602.20548v1)**|
+|**2026-02-21**|**Memory-Augmented Spiking Networks: Synergistic Integration of Complementary Mechanisms for Neuromorphic Vision**|Effiong Blessing et.al.|[2603.08730v1](http://arxiv.org/abs/2603.08730v1)|**[link](http://arxiv.org/abs/2603.08730v1)**|
 |**2026-02-20**|**Prosthetic Hand Manipulation System Based on EMG and Eye Tracking Powered by the Neuromorphic Processor AltAi**|Roman Akinshin et.al.|[2601.17991v2](http://arxiv.org/abs/2601.17991v2)|**[link](http://arxiv.org/abs/2601.17991v2)**|
 |**2026-02-20**|**Adaptive transitions in FitzHugh-Nagumo networks with Hebb-Oja coupling rules**|Astero Provata et.al.|[2602.18198v1](http://arxiv.org/abs/2602.18198v1)|**[link](http://arxiv.org/abs/2602.18198v1)**|
 |**2026-02-20**|**Flexi-NeurA: A Configurable Neuromorphic Accelerator with Adaptive Bit-Precision Exploration for Edge SNNs**|Mohammad Farahani et.al.|[2602.18140v1](http://arxiv.org/abs/2602.18140v1)|**[link](http://arxiv.org/abs/2602.18140v1)**|
@@ -31,7 +35,6 @@
 |**2026-02-18**|**Hardware-accelerated graph neural networks: an alternative approach for neuromorphic event-based audio classification and keyword spotting on SoC FPGA**|Kamil Jeziorek et.al.|[2602.16442v1](http://arxiv.org/abs/2602.16442v1)|**[link](http://arxiv.org/abs/2602.16442v1)**|
 |**2026-02-13**|**Real-time processing of analog signals on accelerated neuromorphic hardware**|Yannik Stradmann et.al.|[2602.04582v2](http://arxiv.org/abs/2602.04582v2)|**[link](http://arxiv.org/abs/2602.04582v2)**|
 |**2026-02-12**|**Three factor delay learning rules for spiking neural networks**|Luke Vassallo et.al.|[2601.00668v2](http://arxiv.org/abs/2601.00668v2)|**[link](http://arxiv.org/abs/2601.00668v2)**|
-|**2026-02-12**|**Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision**|Anika Tabassum Meem et.al.|[2602.12236v1](http://arxiv.org/abs/2602.12236v1)|**[link](http://arxiv.org/abs/2602.12236v1)**|
 |**2026-02-12**|**On the Sensitivity of Firing Rate-Based Federated Spiking Neural Networks to Differential Privacy**|Luiz Pereira et.al.|[2602.12009v1](http://arxiv.org/abs/2602.12009v1)|**[link](http://arxiv.org/abs/2602.12009v1)**|
 |**2026-02-11**|**ReLANCE: A Resource-Efficient Low-Latency Cortical Neural Acceleration Engine**|Sonu Kumar et.al.|[2510.17392v2](http://arxiv.org/abs/2510.17392v2)|**[link](http://arxiv.org/abs/2510.17392v2)**|
 |**2026-02-10**|**SpikySpace: A Spiking State Space Model for Energy-Efficient Time Series Forecasting**|Kaiwen Tang et.al.|[2601.02411v2](http://arxiv.org/abs/2601.02411v2)|**[link](http://arxiv.org/abs/2601.02411v2)**|
@@ -3166,5 +3169,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260311>back to top</a>)</p>
 
