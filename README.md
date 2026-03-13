@@ -1,4 +1,4 @@
-## Updated on 2026.03.11
+## Updated on 2026.03.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-12**|**Chemical Reaction Networks Learn Better than Spiking Neural Networks**|Sophie Jaffard et.al.|[2603.12060v1](http://arxiv.org/abs/2603.12060v1)|**[link](http://arxiv.org/abs/2603.12060v1)**|
+|**2026-03-12**|**SNAP-V: A RISC-V SoC with Configurable Neuromorphic Acceleration for Small-Scale Spiking Neural Networks**|Kanishka Gunawardana et.al.|[2603.11939v1](http://arxiv.org/abs/2603.11939v1)|**[link](http://arxiv.org/abs/2603.11939v1)**|
+|**2026-03-12**|**Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks**|Yongqi Ding et.al.|[2603.11676v1](http://arxiv.org/abs/2603.11676v1)|**[link](http://arxiv.org/abs/2603.11676v1)**|
+|**2026-03-11**|**An Event-Driven E-Skin System with Dynamic Binary Scanning and real time SNN Classification**|Gaishan Li et.al.|[2603.10537v1](http://arxiv.org/abs/2603.10537v1)|**[link](http://arxiv.org/abs/2603.10537v1)**|
 |**2026-03-10**|**Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision**|Anika Tabassum Meem et.al.|[2602.12236v2](http://arxiv.org/abs/2602.12236v2)|**[link](http://arxiv.org/abs/2602.12236v2)**|
 |**2026-03-10**|**DendroNN: Dendrocentric Neural Networks for Energy-Efficient Classification of Event-Based Data**|Jann Krausse et.al.|[2603.09274v1](http://arxiv.org/abs/2603.09274v1)|**[link](http://arxiv.org/abs/2603.09274v1)**|
 |**2026-03-09**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v1](http://arxiv.org/abs/2603.08146v1)|**[link](http://arxiv.org/abs/2603.08146v1)**|
@@ -3169,5 +3173,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260313>back to top</a>)</p>
 
