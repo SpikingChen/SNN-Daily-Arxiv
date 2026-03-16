@@ -1,4 +1,4 @@
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-13**|**SRAM-Based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks**|Hongyang Shang et.al.|[2603.12739v1](http://arxiv.org/abs/2603.12739v1)|**[link](http://arxiv.org/abs/2603.12739v1)**|
 |**2026-03-12**|**Chemical Reaction Networks Learn Better than Spiking Neural Networks**|Sophie Jaffard et.al.|[2603.12060v1](http://arxiv.org/abs/2603.12060v1)|**[link](http://arxiv.org/abs/2603.12060v1)**|
 |**2026-03-12**|**SNAP-V: A RISC-V SoC with Configurable Neuromorphic Acceleration for Small-Scale Spiking Neural Networks**|Kanishka Gunawardana et.al.|[2603.11939v1](http://arxiv.org/abs/2603.11939v1)|**[link](http://arxiv.org/abs/2603.11939v1)**|
 |**2026-03-12**|**Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks**|Yongqi Ding et.al.|[2603.11676v1](http://arxiv.org/abs/2603.11676v1)|**[link](http://arxiv.org/abs/2603.11676v1)**|
@@ -3173,5 +3174,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
 
