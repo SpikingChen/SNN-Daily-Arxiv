@@ -1,4 +1,4 @@
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,16 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-16**|**Scaling and tuning to criticality in resting-state human magnetoencephalography**|Irem Topal et.al.|[2602.17820v2](http://arxiv.org/abs/2602.17820v2)|**[link](http://arxiv.org/abs/2602.17820v2)**|
+|**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184v1](http://arxiv.org/abs/2603.15184v1)|**[link](http://arxiv.org/abs/2603.15184v1)**|
+|**2026-03-16**|**SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning**|Ran Tao et.al.|[2603.14956v1](http://arxiv.org/abs/2603.14956v1)|**[link](http://arxiv.org/abs/2603.14956v1)**|
+|**2026-03-16**|**Spiking Layer-Adaptive Magnitude-based Pruning**|Junqiao Wang et.al.|[2603.14946v1](http://arxiv.org/abs/2603.14946v1)|**[link](http://arxiv.org/abs/2603.14946v1)**|
+|**2026-03-15**|**Wi-Spike: A Low-power WiFi Human Multi-action Recognition Model with Spiking Neural Networks**|Nengbo Zhang et.al.|[2603.14475v1](http://arxiv.org/abs/2603.14475v1)|**[link](http://arxiv.org/abs/2603.14475v1)**|
+|**2026-03-15**|**SPARQ: Spiking Early-Exit Neural Networks for Energy-Efficient Edge AI**|Parth Patne et.al.|[2603.14380v1](http://arxiv.org/abs/2603.14380v1)|**[link](http://arxiv.org/abs/2603.14380v1)**|
+|**2026-03-15**|**MorphSNN: Adaptive Graph Diffusion and Structural Plasticity for Spiking Neural Networks**|Yongsheng Huang et.al.|[2603.14285v1](http://arxiv.org/abs/2603.14285v1)|**[link](http://arxiv.org/abs/2603.14285v1)**|
+|**2026-03-14**|**Collapse or Preserve: Data-Dependent Temporal Aggregation for Spiking Neural Network Acceleration**|Jiahao Qin et.al.|[2603.13810v1](http://arxiv.org/abs/2603.13810v1)|**[link](http://arxiv.org/abs/2603.13810v1)**|
 |**2026-03-13**|**SRAM-Based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks**|Hongyang Shang et.al.|[2603.12739v1](http://arxiv.org/abs/2603.12739v1)|**[link](http://arxiv.org/abs/2603.12739v1)**|
+|**2026-03-13**|**Equivalence of approximation by networks of single- and multi-spike neurons**|Dominik Dold et.al.|[2603.13478v1](http://arxiv.org/abs/2603.13478v1)|**[link](http://arxiv.org/abs/2603.13478v1)**|
 |**2026-03-12**|**Chemical Reaction Networks Learn Better than Spiking Neural Networks**|Sophie Jaffard et.al.|[2603.12060v1](http://arxiv.org/abs/2603.12060v1)|**[link](http://arxiv.org/abs/2603.12060v1)**|
 |**2026-03-12**|**SNAP-V: A RISC-V SoC with Configurable Neuromorphic Acceleration for Small-Scale Spiking Neural Networks**|Kanishka Gunawardana et.al.|[2603.11939v1](http://arxiv.org/abs/2603.11939v1)|**[link](http://arxiv.org/abs/2603.11939v1)**|
 |**2026-03-12**|**Stable Spike: Dual Consistency Optimization via Bitwise AND Operations for Spiking Neural Networks**|Yongqi Ding et.al.|[2603.11676v1](http://arxiv.org/abs/2603.11676v1)|**[link](http://arxiv.org/abs/2603.11676v1)**|
@@ -25,6 +34,7 @@
 |**2026-03-03**|**mlx-snn: Spiking Neural Networks on Apple Silicon via MLX**|Jiahao Qin et.al.|[2603.03529v1](http://arxiv.org/abs/2603.03529v1)|**[link](http://arxiv.org/abs/2603.03529v1)**|
 |**2026-02-28**|**TP-Spikformer: Token Pruned Spiking Transformer**|Wenjie Wei et.al.|[2603.00527v1](http://arxiv.org/abs/2603.00527v1)|**[link](http://arxiv.org/abs/2603.00527v1)**|
 |**2026-02-27**|**SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking**|Qiuyang Zhang et.al.|[2602.23963v1](http://arxiv.org/abs/2602.23963v1)|**[link](http://arxiv.org/abs/2602.23963v1)**|
+|**2026-02-27**|**Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks**|Todd Morrill et.al.|[2603.13283v1](http://arxiv.org/abs/2603.13283v1)|**[link](http://arxiv.org/abs/2603.13283v1)**|
 |**2026-02-26**|**Joint encoding of "what" and "when" predictions through error-modulated plasticity in biologically-plausible spiking networks**|Yohei Yamada et.al.|[2510.14382v3](http://arxiv.org/abs/2510.14382v3)|**[link](http://arxiv.org/abs/2510.14382v3)**|
 |**2026-02-26**|**Exploiting network topology in brain-scale simulations of spiking neural networks**|Melissa Lober et.al.|[2602.23274v1](http://arxiv.org/abs/2602.23274v1)|**[link](http://arxiv.org/abs/2602.23274v1)**|
 |**2026-02-26**|**Collective Dynamics in Spiking Neural Networks Beyond Dale's Principle**|Ross Ah-Weng et.al.|[2602.23202v1](http://arxiv.org/abs/2602.23202v1)|**[link](http://arxiv.org/abs/2602.23202v1)**|
@@ -36,7 +46,6 @@
 |**2026-02-20**|**Adaptive transitions in FitzHugh-Nagumo networks with Hebb-Oja coupling rules**|Astero Provata et.al.|[2602.18198v1](http://arxiv.org/abs/2602.18198v1)|**[link](http://arxiv.org/abs/2602.18198v1)**|
 |**2026-02-20**|**Flexi-NeurA: A Configurable Neuromorphic Accelerator with Adaptive Bit-Precision Exploration for Edge SNNs**|Mohammad Farahani et.al.|[2602.18140v1](http://arxiv.org/abs/2602.18140v1)|**[link](http://arxiv.org/abs/2602.18140v1)**|
 |**2026-02-20**|**HiAER-Spike Software-Hardware Reconfigurable Platform for Event-Driven Neuromorphic Computing at Scale**|Gwenevere Frank et.al.|[2602.18072v1](http://arxiv.org/abs/2602.18072v1)|**[link](http://arxiv.org/abs/2602.18072v1)**|
-|**2026-02-19**|**Scaling and tuning to criticality in resting-state human magnetoencephalography**|Irem Topal et.al.|[2602.17820v1](http://arxiv.org/abs/2602.17820v1)|**[link](http://arxiv.org/abs/2602.17820v1)**|
 |**2026-02-18**|**Hardware-accelerated graph neural networks: an alternative approach for neuromorphic event-based audio classification and keyword spotting on SoC FPGA**|Kamil Jeziorek et.al.|[2602.16442v1](http://arxiv.org/abs/2602.16442v1)|**[link](http://arxiv.org/abs/2602.16442v1)**|
 |**2026-02-13**|**Real-time processing of analog signals on accelerated neuromorphic hardware**|Yannik Stradmann et.al.|[2602.04582v2](http://arxiv.org/abs/2602.04582v2)|**[link](http://arxiv.org/abs/2602.04582v2)**|
 |**2026-02-12**|**Three factor delay learning rules for spiking neural networks**|Luke Vassallo et.al.|[2601.00668v2](http://arxiv.org/abs/2601.00668v2)|**[link](http://arxiv.org/abs/2601.00668v2)**|
@@ -3174,5 +3183,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
 
