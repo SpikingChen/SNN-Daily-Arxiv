@@ -1,4 +1,4 @@
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,10 +11,15 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-17**|**Linearized Bregman Iterations for Sparse Spiking Neural Networks**|Daniel Windhager et.al.|[2603.16462v1](http://arxiv.org/abs/2603.16462v1)|**[link](http://arxiv.org/abs/2603.16462v1)**|
+|**2026-03-17**|**SpikeCLR: Contrastive Self-Supervised Learning for Few-Shot Event-Based Vision using Spiking Neural Networks**|Maxime Vaillant et.al.|[2603.16338v1](http://arxiv.org/abs/2603.16338v1)|**[link](http://arxiv.org/abs/2603.16338v1)**|
+|**2026-03-17**|**NeuronSpark: A Spiking Neural Network Language Model with Selective State Space Dynamics**|Zhengzheng Tang et.al.|[2603.16148v1](http://arxiv.org/abs/2603.16148v1)|**[link](http://arxiv.org/abs/2603.16148v1)**|
 |**2026-03-16**|**Scaling and tuning to criticality in resting-state human magnetoencephalography**|Irem Topal et.al.|[2602.17820v2](http://arxiv.org/abs/2602.17820v2)|**[link](http://arxiv.org/abs/2602.17820v2)**|
 |**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184v1](http://arxiv.org/abs/2603.15184v1)|**[link](http://arxiv.org/abs/2603.15184v1)**|
 |**2026-03-16**|**SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning**|Ran Tao et.al.|[2603.14956v1](http://arxiv.org/abs/2603.14956v1)|**[link](http://arxiv.org/abs/2603.14956v1)**|
 |**2026-03-16**|**Spiking Layer-Adaptive Magnitude-based Pruning**|Junqiao Wang et.al.|[2603.14946v1](http://arxiv.org/abs/2603.14946v1)|**[link](http://arxiv.org/abs/2603.14946v1)**|
+|**2026-03-16**|**Determinism in the Undetermined: Deterministic Output in Charge-Conserving Continuous-Time Neuromorphic Systems with Temporal Stochasticity**|Jing Yan et.al.|[2603.15987v1](http://arxiv.org/abs/2603.15987v1)|**[link](http://arxiv.org/abs/2603.15987v1)**|
+|**2026-03-16**|**S2Act: Simple Spiking Actor**|Ugur Akcal et.al.|[2603.15725v1](http://arxiv.org/abs/2603.15725v1)|**[link](http://arxiv.org/abs/2603.15725v1)**|
 |**2026-03-15**|**Wi-Spike: A Low-power WiFi Human Multi-action Recognition Model with Spiking Neural Networks**|Nengbo Zhang et.al.|[2603.14475v1](http://arxiv.org/abs/2603.14475v1)|**[link](http://arxiv.org/abs/2603.14475v1)**|
 |**2026-03-15**|**SPARQ: Spiking Early-Exit Neural Networks for Energy-Efficient Edge AI**|Parth Patne et.al.|[2603.14380v1](http://arxiv.org/abs/2603.14380v1)|**[link](http://arxiv.org/abs/2603.14380v1)**|
 |**2026-03-15**|**MorphSNN: Adaptive Graph Diffusion and Structural Plasticity for Spiking Neural Networks**|Yongsheng Huang et.al.|[2603.14285v1](http://arxiv.org/abs/2603.14285v1)|**[link](http://arxiv.org/abs/2603.14285v1)**|
@@ -3183,5 +3188,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
 
