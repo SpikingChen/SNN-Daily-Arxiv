@@ -1,4 +1,4 @@
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-18**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.|[2603.18062v1](http://arxiv.org/abs/2603.18062v1)|**[link](http://arxiv.org/abs/2603.18062v1)**|
 |**2026-03-17**|**Linearized Bregman Iterations for Sparse Spiking Neural Networks**|Daniel Windhager et.al.|[2603.16462v1](http://arxiv.org/abs/2603.16462v1)|**[link](http://arxiv.org/abs/2603.16462v1)**|
 |**2026-03-17**|**SpikeCLR: Contrastive Self-Supervised Learning for Few-Shot Event-Based Vision using Spiking Neural Networks**|Maxime Vaillant et.al.|[2603.16338v1](http://arxiv.org/abs/2603.16338v1)|**[link](http://arxiv.org/abs/2603.16338v1)**|
 |**2026-03-17**|**NeuronSpark: A Spiking Neural Network Language Model with Selective State Space Dynamics**|Zhengzheng Tang et.al.|[2603.16148v1](http://arxiv.org/abs/2603.16148v1)|**[link](http://arxiv.org/abs/2603.16148v1)**|
+|**2026-03-17**|**An FPGA-Based SoC Architecture with a RISC-V Controller for Energy-Efficient Temporal-Coding Spiking Neural Networks**|Mohammad Javad Sekonji et.al.|[2603.18054v1](http://arxiv.org/abs/2603.18054v1)|**[link](http://arxiv.org/abs/2603.18054v1)**|
 |**2026-03-16**|**Scaling and tuning to criticality in resting-state human magnetoencephalography**|Irem Topal et.al.|[2602.17820v2](http://arxiv.org/abs/2602.17820v2)|**[link](http://arxiv.org/abs/2602.17820v2)**|
 |**2026-03-16**|**CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds**|Vaishnavi Nagabhushana et.al.|[2603.15184v1](http://arxiv.org/abs/2603.15184v1)|**[link](http://arxiv.org/abs/2603.15184v1)**|
 |**2026-03-16**|**SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking Federated Learning**|Ran Tao et.al.|[2603.14956v1](http://arxiv.org/abs/2603.14956v1)|**[link](http://arxiv.org/abs/2603.14956v1)**|
@@ -24,6 +26,7 @@
 |**2026-03-15**|**SPARQ: Spiking Early-Exit Neural Networks for Energy-Efficient Edge AI**|Parth Patne et.al.|[2603.14380v1](http://arxiv.org/abs/2603.14380v1)|**[link](http://arxiv.org/abs/2603.14380v1)**|
 |**2026-03-15**|**MorphSNN: Adaptive Graph Diffusion and Structural Plasticity for Spiking Neural Networks**|Yongsheng Huang et.al.|[2603.14285v1](http://arxiv.org/abs/2603.14285v1)|**[link](http://arxiv.org/abs/2603.14285v1)**|
 |**2026-03-14**|**Collapse or Preserve: Data-Dependent Temporal Aggregation for Spiking Neural Network Acceleration**|Jiahao Qin et.al.|[2603.13810v1](http://arxiv.org/abs/2603.13810v1)|**[link](http://arxiv.org/abs/2603.13810v1)**|
+|**2026-03-14**|**Sharpness Aware Surrogate Training for Spiking Neural Networks**|Maximilian Nicholson et.al.|[2603.18039v1](http://arxiv.org/abs/2603.18039v1)|**[link](http://arxiv.org/abs/2603.18039v1)**|
 |**2026-03-13**|**SRAM-Based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks**|Hongyang Shang et.al.|[2603.12739v1](http://arxiv.org/abs/2603.12739v1)|**[link](http://arxiv.org/abs/2603.12739v1)**|
 |**2026-03-13**|**Equivalence of approximation by networks of single- and multi-spike neurons**|Dominik Dold et.al.|[2603.13478v1](http://arxiv.org/abs/2603.13478v1)|**[link](http://arxiv.org/abs/2603.13478v1)**|
 |**2026-03-12**|**Chemical Reaction Networks Learn Better than Spiking Neural Networks**|Sophie Jaffard et.al.|[2603.12060v1](http://arxiv.org/abs/2603.12060v1)|**[link](http://arxiv.org/abs/2603.12060v1)**|
@@ -3188,5 +3191,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260320>back to top</a>)</p>
 
