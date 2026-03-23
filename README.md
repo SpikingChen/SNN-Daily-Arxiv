@@ -1,4 +1,4 @@
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2026-03-18**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.|[2603.18062v1](http://arxiv.org/abs/2603.18062v1)|**[link](http://arxiv.org/abs/2603.18062v1)**|
+|**2026-03-20**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.|[2603.18062v2](http://arxiv.org/abs/2603.18062v2)|**[link](http://arxiv.org/abs/2603.18062v2)**|
 |**2026-03-17**|**Linearized Bregman Iterations for Sparse Spiking Neural Networks**|Daniel Windhager et.al.|[2603.16462v1](http://arxiv.org/abs/2603.16462v1)|**[link](http://arxiv.org/abs/2603.16462v1)**|
 |**2026-03-17**|**SpikeCLR: Contrastive Self-Supervised Learning for Few-Shot Event-Based Vision using Spiking Neural Networks**|Maxime Vaillant et.al.|[2603.16338v1](http://arxiv.org/abs/2603.16338v1)|**[link](http://arxiv.org/abs/2603.16338v1)**|
 |**2026-03-17**|**NeuronSpark: A Spiking Neural Network Language Model with Selective State Space Dynamics**|Zhengzheng Tang et.al.|[2603.16148v1](http://arxiv.org/abs/2603.16148v1)|**[link](http://arxiv.org/abs/2603.16148v1)**|
@@ -37,6 +37,7 @@
 |**2026-03-10**|**DendroNN: Dendrocentric Neural Networks for Energy-Efficient Classification of Event-Based Data**|Jann Krausse et.al.|[2603.09274v1](http://arxiv.org/abs/2603.09274v1)|**[link](http://arxiv.org/abs/2603.09274v1)**|
 |**2026-03-09**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v1](http://arxiv.org/abs/2603.08146v1)|**[link](http://arxiv.org/abs/2603.08146v1)**|
 |**2026-03-09**|**Diffusion of Neuromodulators for Temporal Credit Assignment**|João Barretto-Bittar et.al.|[2603.08949v1](http://arxiv.org/abs/2603.08949v1)|**[link](http://arxiv.org/abs/2603.08949v1)**|
+|**2026-03-09**|**Neural Dynamics Self-Attention for Spiking Transformers**|Dehao Zhang et.al.|[2603.19290v1](http://arxiv.org/abs/2603.19290v1)|**[link](http://arxiv.org/abs/2603.19290v1)**|
 |**2026-03-05**|**Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing**|Muen Wang et.al.|[2603.04966v1](http://arxiv.org/abs/2603.04966v1)|**[link](http://arxiv.org/abs/2603.04966v1)**|
 |**2026-03-03**|**Hardware Implementation of Photonic Spiking Hash Retrieval**|Shangxuan Shi et.al.|[2603.02738v1](http://arxiv.org/abs/2603.02738v1)|**[link](http://arxiv.org/abs/2603.02738v1)**|
 |**2026-03-03**|**mlx-snn: Spiking Neural Networks on Apple Silicon via MLX**|Jiahao Qin et.al.|[2603.03529v1](http://arxiv.org/abs/2603.03529v1)|**[link](http://arxiv.org/abs/2603.03529v1)**|
@@ -3191,5 +3192,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260323>back to top</a>)</p>
 
