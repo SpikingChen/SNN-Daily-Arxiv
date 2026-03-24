@@ -1,4 +1,4 @@
-## Updated on 2026.03.23
+## Updated on 2026.03.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-23**|**Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons**|Ralf Tönjes et.al.|[2603.21781v1](http://arxiv.org/abs/2603.21781v1)|**[link](http://arxiv.org/abs/2603.21781v1)**|
+|**2026-03-23**|**SPINONet: Scalable Spiking Physics-informed Neural Operator for Computational Mechanics Applications**|Shailesh Garg et.al.|[2603.21674v1](http://arxiv.org/abs/2603.21674v1)|**[link](http://arxiv.org/abs/2603.21674v1)**|
+|**2026-03-23**|**Optimal Memory Encoding Through Fluctuation-Response Structure**|Lianxiang Cui et.al.|[2603.21666v1](http://arxiv.org/abs/2603.21666v1)|**[link](http://arxiv.org/abs/2603.21666v1)**|
+|**2026-03-21**|**SOMA: A Single-Material Organic Multivibrator Adaptive Neuron for Fully Integrated PEDOT:PSS Neuromorphic Systems**|Nikita Prudnikov et.al.|[2603.20954v1](http://arxiv.org/abs/2603.20954v1)|**[link](http://arxiv.org/abs/2603.20954v1)**|
+|**2026-03-21**|**Neuronal Self-Adaptation Enhances Capacity and Robustness of Representation in Spiking Neural Networks**|Zhuobin Yang et.al.|[2603.20687v1](http://arxiv.org/abs/2603.20687v1)|**[link](http://arxiv.org/abs/2603.20687v1)**|
 |**2026-03-20**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.|[2603.18062v2](http://arxiv.org/abs/2603.18062v2)|**[link](http://arxiv.org/abs/2603.18062v2)**|
 |**2026-03-17**|**Linearized Bregman Iterations for Sparse Spiking Neural Networks**|Daniel Windhager et.al.|[2603.16462v1](http://arxiv.org/abs/2603.16462v1)|**[link](http://arxiv.org/abs/2603.16462v1)**|
 |**2026-03-17**|**SpikeCLR: Contrastive Self-Supervised Learning for Few-Shot Event-Based Vision using Spiking Neural Networks**|Maxime Vaillant et.al.|[2603.16338v1](http://arxiv.org/abs/2603.16338v1)|**[link](http://arxiv.org/abs/2603.16338v1)**|
@@ -3192,5 +3197,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260324>back to top</a>)</p>
 
