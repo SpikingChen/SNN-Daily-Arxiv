@@ -1,4 +1,4 @@
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-25**|**Mixed-signal implementation of feedback-control optimizer for single-layer Spiking Neural Networks**|Jonathan Haag et.al.|[2603.24113v1](http://arxiv.org/abs/2603.24113v1)|**[link](http://arxiv.org/abs/2603.24113v1)**|
 |**2026-03-24**|**A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low Latency**|Yi Lu et.al.|[2603.23206v1](http://arxiv.org/abs/2603.23206v1)|**[link](http://arxiv.org/abs/2603.23206v1)**|
 |**2026-03-24**|**Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication**|Chen Shang et.al.|[2603.22727v1](http://arxiv.org/abs/2603.22727v1)|**[link](http://arxiv.org/abs/2603.22727v1)**|
 |**2026-03-23**|**Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons**|Ralf Tönjes et.al.|[2603.21781v1](http://arxiv.org/abs/2603.21781v1)|**[link](http://arxiv.org/abs/2603.21781v1)**|
@@ -3199,5 +3200,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260326>back to top</a>)</p>
 
