@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-03-26**|**Delays in Spiking Neural Networks: A State Space Model Approach**|Sanja Karilanova et.al.|[2512.01906v2](http://arxiv.org/abs/2512.01906v2)|**[link](http://arxiv.org/abs/2512.01906v2)**|
+|**2026-03-26**|**Surrogates, Spikes, and Sparsity: Performance Analysis and Characterization of SNN Hyperparameters on Hardware**|Ilkin Aliyev et.al.|[2603.24891v1](http://arxiv.org/abs/2603.24891v1)|**[link](http://arxiv.org/abs/2603.24891v1)**|
 |**2026-03-25**|**Mixed-signal implementation of feedback-control optimizer for single-layer Spiking Neural Networks**|Jonathan Haag et.al.|[2603.24113v1](http://arxiv.org/abs/2603.24113v1)|**[link](http://arxiv.org/abs/2603.24113v1)**|
+|**2026-03-25**|**Characterization of Off-wafer Pulse Communication in BrainScaleS Neuromorphic System**|Bernhard Vogginger et.al.|[2603.24854v1](http://arxiv.org/abs/2603.24854v1)|**[link](http://arxiv.org/abs/2603.24854v1)**|
+|**2026-03-25**|**Reconstructing Spiking Neural Networks Using a Single Neuron with Autapses**|Wuque Cai et.al.|[2603.24692v1](http://arxiv.org/abs/2603.24692v1)|**[link](http://arxiv.org/abs/2603.24692v1)**|
 |**2026-03-24**|**A Latency Coding Framework for Deep Spiking Neural Networks with Ultra-Low Latency**|Yi Lu et.al.|[2603.23206v1](http://arxiv.org/abs/2603.23206v1)|**[link](http://arxiv.org/abs/2603.23206v1)**|
 |**2026-03-24**|**Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication**|Chen Shang et.al.|[2603.22727v1](http://arxiv.org/abs/2603.22727v1)|**[link](http://arxiv.org/abs/2603.22727v1)**|
 |**2026-03-23**|**Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons**|Ralf Tönjes et.al.|[2603.21781v1](http://arxiv.org/abs/2603.21781v1)|**[link](http://arxiv.org/abs/2603.21781v1)**|
@@ -192,7 +196,6 @@
 |**2025-12-02**|**Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks**|Qianhui Liu et.al.|[2512.02459v1](http://arxiv.org/abs/2512.02459v1)|**[link](http://arxiv.org/abs/2512.02459v1)**|
 |**2025-12-02**|**Temporal Dynamics Enhancer for Directly Trained Spiking Object Detectors**|Fan Luo et.al.|[2512.02447v1](http://arxiv.org/abs/2512.02447v1)|**[link](http://arxiv.org/abs/2512.02447v1)**|
 |**2025-12-01**|**SpikingBrain: Spiking Brain-inspired Large Models**|Yuqi Pan et.al.|[2509.05276v3](http://arxiv.org/abs/2509.05276v3)|**[link](http://arxiv.org/abs/2509.05276v3)**|
-|**2025-12-01**|**Delays in Spiking Neural Networks: A State Space Model Approach**|Sanja Karilanova et.al.|[2512.01906v1](http://arxiv.org/abs/2512.01906v1)|**[link](http://arxiv.org/abs/2512.01906v1)**|
 |**2025-12-01**|**New Spiking Architecture for Multi-Modal Decision-Making in Autonomous Vehicles**|Aref Ghoreishee et.al.|[2512.01882v1](http://arxiv.org/abs/2512.01882v1)|**[link](http://arxiv.org/abs/2512.01882v1)**|
 |**2025-12-01**|**Revisiting Direct Encoding: Learnable Temporal Dynamics for Static Image Spiking Neural Networks**|Huaxu He et.al.|[2512.01687v1](http://arxiv.org/abs/2512.01687v1)|**[link](http://arxiv.org/abs/2512.01687v1)**|
 |**2025-12-01**|**Parallel Delayed Memory Units for Enhanced Temporal Modeling in Biomedical and Bioacoustic Signal Analysis**|Pengfei Sun et.al.|[2512.01626v1](http://arxiv.org/abs/2512.01626v1)|**[link](http://arxiv.org/abs/2512.01626v1)**|
@@ -3200,5 +3203,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260327>back to top</a>)</p>
 
