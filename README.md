@@ -1,4 +1,4 @@
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-03**|**ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs**|Md Abrar Jahin et.al.|[2602.01124v2](http://arxiv.org/abs/2602.01124v2)|**[link](http://arxiv.org/abs/2602.01124v2)**|
+|**2026-04-03**|**Biologically Realistic Dynamics for Nonlinear Classification in CMOS+X Neurons**|Steven Louis et.al.|[2604.03187v1](http://arxiv.org/abs/2604.03187v1)|**[link](http://arxiv.org/abs/2604.03187v1)**|
 |**2026-04-02**|**Spike-PTSD: A Bio-Plausible Adversarial Example Attack on Spiking Neural Networks via PTSD-Inspired Spike Scaling**|Lingxin Jin et.al.|[2604.01750v1](http://arxiv.org/abs/2604.01750v1)|**[link](http://arxiv.org/abs/2604.01750v1)**|
 |**2026-04-01**|**Integer-State Dynamics of Quantized Spiking Neural Networks for Efficient Hardware Acceleration**|Lei Zhang et.al.|[2604.01042v1](http://arxiv.org/abs/2604.01042v1)|**[link](http://arxiv.org/abs/2604.01042v1)**|
 |**2026-04-01**|**Fluently Lying: Adversarial Robustness Can Be Substrate-Dependent**|Daye Kang et.al.|[2604.00605v1](http://arxiv.org/abs/2604.00605v1)|**[link](http://arxiv.org/abs/2604.00605v1)**|
@@ -107,7 +109,6 @@
 |**2026-02-02**|**SpikingGamma: Surrogate-Gradient Free and Temporally Precise Online Training of Spiking Neural Networks with Smoothed Delays**|Roel Koopman et.al.|[2602.01978v1](http://arxiv.org/abs/2602.01978v1)|**[link](http://arxiv.org/abs/2602.01978v1)**|
 |**2026-02-02**|**Spin splitting torque enabled artificial neuron with self-reset via synthetic antiferromagnetic coupling**|Badsha Sekh et.al.|[2602.01874v1](http://arxiv.org/abs/2602.01874v1)|**[link](http://arxiv.org/abs/2602.01874v1)**|
 |**2026-02-01**|**Parallel Training in Spiking Neural Networks**|Yanbin Huang et.al.|[2602.01133v1](http://arxiv.org/abs/2602.01133v1)|**[link](http://arxiv.org/abs/2602.01133v1)**|
-|**2026-02-01**|**ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs**|Md Abrar Jahin et.al.|[2602.01124v1](http://arxiv.org/abs/2602.01124v1)|**[link](http://arxiv.org/abs/2602.01124v1)**|
 |**2026-02-01**|**Photonic spiking reinforcement learning for intelligent routing**|Shuiying Xiang et.al.|[2602.01087v1](http://arxiv.org/abs/2602.01087v1)|**[link](http://arxiv.org/abs/2602.01087v1)**|
 |**2026-01-30**|**Learning Alzheimer's Disease Signatures by bridging EEG with Spiking Neural Networks and Biophysical Simulations**|Szymon Mamoń et.al.|[2602.07010v1](http://arxiv.org/abs/2602.07010v1)|**[link](http://arxiv.org/abs/2602.07010v1)**|
 |**2026-01-30**|**Matterhorn: Efficient Analog Sparse Spiking Transformer Architecture with Masked Time-To-First-Spike Encoding**|Zhanglu Yan et.al.|[2601.22876v1](http://arxiv.org/abs/2601.22876v1)|**[link](http://arxiv.org/abs/2601.22876v1)**|
@@ -3214,5 +3215,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260406>back to top</a>)</p>
 
