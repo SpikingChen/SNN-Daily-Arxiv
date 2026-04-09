@@ -1,4 +1,4 @@
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-08**|**Time-Series Classification with Multivariate Statistical Dependence Features**|Yao Sun et.al.|[2604.06537v1](http://arxiv.org/abs/2604.06537v1)|**[link](http://arxiv.org/abs/2604.06537v1)**|
 |**2026-04-05**|**Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing**|Muen Wang et.al.|[2603.04966v2](http://arxiv.org/abs/2603.04966v2)|**[link](http://arxiv.org/abs/2603.04966v2)**|
 |**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et.al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|**[link](http://arxiv.org/abs/2604.04117v1)**|
 |**2026-04-04**|**L-SPINE: A Low-Precision SIMD Spiking Neural Compute Engine for Resource-efficient Edge Inference**|Sonu Kumar et.al.|[2604.03626v1](http://arxiv.org/abs/2604.03626v1)|**[link](http://arxiv.org/abs/2604.03626v1)**|
@@ -3219,5 +3220,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260408>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260409>back to top</a>)</p>
 
