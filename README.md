@@ -1,4 +1,4 @@
-## Updated on 2026.04.09
+## Updated on 2026.04.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-09**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v2](http://arxiv.org/abs/2603.08146v2)|**[link](http://arxiv.org/abs/2603.08146v2)**|
 |**2026-04-08**|**Time-Series Classification with Multivariate Statistical Dependence Features**|Yao Sun et.al.|[2604.06537v1](http://arxiv.org/abs/2604.06537v1)|**[link](http://arxiv.org/abs/2604.06537v1)**|
 |**2026-04-05**|**Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing**|Muen Wang et.al.|[2603.04966v2](http://arxiv.org/abs/2603.04966v2)|**[link](http://arxiv.org/abs/2603.04966v2)**|
 |**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et.al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|**[link](http://arxiv.org/abs/2604.04117v1)**|
@@ -66,7 +67,6 @@
 |**2026-03-11**|**An Event-Driven E-Skin System with Dynamic Binary Scanning and real time SNN Classification**|Gaishan Li et.al.|[2603.10537v1](http://arxiv.org/abs/2603.10537v1)|**[link](http://arxiv.org/abs/2603.10537v1)**|
 |**2026-03-10**|**Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision**|Anika Tabassum Meem et.al.|[2602.12236v2](http://arxiv.org/abs/2602.12236v2)|**[link](http://arxiv.org/abs/2602.12236v2)**|
 |**2026-03-10**|**DendroNN: Dendrocentric Neural Networks for Energy-Efficient Classification of Event-Based Data**|Jann Krausse et.al.|[2603.09274v1](http://arxiv.org/abs/2603.09274v1)|**[link](http://arxiv.org/abs/2603.09274v1)**|
-|**2026-03-09**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v1](http://arxiv.org/abs/2603.08146v1)|**[link](http://arxiv.org/abs/2603.08146v1)**|
 |**2026-03-09**|**Diffusion of Neuromodulators for Temporal Credit Assignment**|João Barretto-Bittar et.al.|[2603.08949v1](http://arxiv.org/abs/2603.08949v1)|**[link](http://arxiv.org/abs/2603.08949v1)**|
 |**2026-03-09**|**Neural Dynamics Self-Attention for Spiking Transformers**|Dehao Zhang et.al.|[2603.19290v1](http://arxiv.org/abs/2603.19290v1)|**[link](http://arxiv.org/abs/2603.19290v1)**|
 |**2026-03-03**|**Hardware Implementation of Photonic Spiking Hash Retrieval**|Shangxuan Shi et.al.|[2603.02738v1](http://arxiv.org/abs/2603.02738v1)|**[link](http://arxiv.org/abs/2603.02738v1)**|
@@ -3220,5 +3220,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260411>back to top</a>)</p>
 
