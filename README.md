@@ -1,4 +1,4 @@
-## Updated on 2026.04.12
+## Updated on 2026.04.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2026-04-09**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v2](http://arxiv.org/abs/2603.08146v2)|**[link](http://arxiv.org/abs/2603.08146v2)**|
+|**2026-04-10**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v3](http://arxiv.org/abs/2603.08146v3)|**[link](http://arxiv.org/abs/2603.08146v3)**|
+|**2026-04-10**|**Ge$^\text{2}$mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer**|Zecheng Hao et.al.|[2604.08894v1](http://arxiv.org/abs/2604.08894v1)|**[link](http://arxiv.org/abs/2604.08894v1)**|
+|**2026-04-09**|**An Asynchronous Delta Modulator for Spike Encoding in Event-Driven Brain-Machine Interface**|Kaushik Lakshmiramanan et.al.|[2604.08758v1](http://arxiv.org/abs/2604.08758v1)|**[link](http://arxiv.org/abs/2604.08758v1)**|
+|**2026-04-09**|**Practical Bayesian Inference for Speech SNNs: Uncertainty and Loss-Landscape Smoothing**|Yesmine Abdennadher et.al.|[2604.08624v1](http://arxiv.org/abs/2604.08624v1)|**[link](http://arxiv.org/abs/2604.08624v1)**|
 |**2026-04-08**|**Time-Series Classification with Multivariate Statistical Dependence Features**|Yao Sun et.al.|[2604.06537v1](http://arxiv.org/abs/2604.06537v1)|**[link](http://arxiv.org/abs/2604.06537v1)**|
 |**2026-04-05**|**Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing**|Muen Wang et.al.|[2603.04966v2](http://arxiv.org/abs/2603.04966v2)|**[link](http://arxiv.org/abs/2603.04966v2)**|
 |**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et.al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|**[link](http://arxiv.org/abs/2604.04117v1)**|
@@ -3220,5 +3223,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260413>back to top</a>)</p>
 
