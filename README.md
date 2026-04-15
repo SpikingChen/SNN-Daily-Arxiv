@@ -1,4 +1,4 @@
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-14**|**Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks for Efficient Eye-based Emotion Recognition**|Qianhui Liu et.al.|[2512.02459v2](http://arxiv.org/abs/2512.02459v2)|**[link](http://arxiv.org/abs/2512.02459v2)**|
+|**2026-04-14**|**Neuron Surface Emitting Laser (NeuronSEL): Spiking Regimes and Negative Differential Resistance in Solitary Multi-junction VCSELs**|Maria Duque-Gijon et.al.|[2604.12893v1](http://arxiv.org/abs/2604.12893v1)|**[link](http://arxiv.org/abs/2604.12893v1)**|
+|**2026-04-14**|**Adaptive Spiking Neurons for Vision and Language Modeling**|Chenlin Zhou et.al.|[2604.12365v1](http://arxiv.org/abs/2604.12365v1)|**[link](http://arxiv.org/abs/2604.12365v1)**|
+|**2026-04-14**|**EMBER: Autonomous Cognitive Behaviour from Learned Spiking Neural Network Dynamics in a Hybrid LLM Architecture**|William Savage et.al.|[2604.12167v1](http://arxiv.org/abs/2604.12167v1)|**[link](http://arxiv.org/abs/2604.12167v1)**|
 |**2026-04-13**|**Multiple spiking functionalities in annealing-optimized Ag/Hf$_{0.5}$Zr$_{0.5}$O$_2$-based memristive neurons**|Nikita Zhidkov et.al.|[2604.11780v1](http://arxiv.org/abs/2604.11780v1)|**[link](http://arxiv.org/abs/2604.11780v1)**|
 |**2026-04-13**|**Winner-Take-All Spiking Transformer for Language Modeling**|Chenlin Zhou et.al.|[2604.11321v1](http://arxiv.org/abs/2604.11321v1)|**[link](http://arxiv.org/abs/2604.11321v1)**|
 |**2026-04-12**|**Towards Green Wearable Computing: A Physics-Aware Spiking Neural Network for Energy-Efficient IMU-based Human Activity Recognition**|Naichuan Zheng et.al.|[2604.10458v1](http://arxiv.org/abs/2604.10458v1)|**[link](http://arxiv.org/abs/2604.10458v1)**|
@@ -217,7 +221,6 @@
 |**2025-12-03**|**The BrainScaleS-2 multi-chip system: Interconnecting continuous-time neuromorphic compute substrates**|Joscha Ilmberger et.al.|[2512.03781v1](http://arxiv.org/abs/2512.03781v1)|**[link](http://arxiv.org/abs/2512.03781v1)**|
 |**2025-12-03**|**VS-Graph: Scalable and Efficient Graph Classification Using Hyperdimensional Computing**|Hamed Poursiami et.al.|[2512.03394v1](http://arxiv.org/abs/2512.03394v1)|**[link](http://arxiv.org/abs/2512.03394v1)**|
 |**2025-12-03**|**When do spectral gradient updates help in deep learning?**|Damek Davis et.al.|[2512.04299v1](http://arxiv.org/abs/2512.04299v1)|**[link](http://arxiv.org/abs/2512.04299v1)**|
-|**2025-12-02**|**Efficient Eye-based Emotion Recognition via Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks**|Qianhui Liu et.al.|[2512.02459v1](http://arxiv.org/abs/2512.02459v1)|**[link](http://arxiv.org/abs/2512.02459v1)**|
 |**2025-12-02**|**Temporal Dynamics Enhancer for Directly Trained Spiking Object Detectors**|Fan Luo et.al.|[2512.02447v1](http://arxiv.org/abs/2512.02447v1)|**[link](http://arxiv.org/abs/2512.02447v1)**|
 |**2025-12-01**|**SpikingBrain: Spiking Brain-inspired Large Models**|Yuqi Pan et.al.|[2509.05276v3](http://arxiv.org/abs/2509.05276v3)|**[link](http://arxiv.org/abs/2509.05276v3)**|
 |**2025-12-01**|**New Spiking Architecture for Multi-Modal Decision-Making in Autonomous Vehicles**|Aref Ghoreishee et.al.|[2512.01882v1](http://arxiv.org/abs/2512.01882v1)|**[link](http://arxiv.org/abs/2512.01882v1)**|
@@ -3227,5 +3230,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
 
