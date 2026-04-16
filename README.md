@@ -1,4 +1,4 @@
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-15**|**An Asynchronous Delta Modulator for Spike Encoding in Event-Driven Brain-Machine Interface**|Kaushik Lakshmiramanan et.al.|[2604.08758v2](http://arxiv.org/abs/2604.08758v2)|**[link](http://arxiv.org/abs/2604.08758v2)**|
+|**2026-04-15**|**SOMA: A Single-Material Organic Multivibrator Adaptive Neuron for Fully Integrated PEDOT:PSS Neuromorphic Systems**|Nikita Prudnikov et.al.|[2603.20954v2](http://arxiv.org/abs/2603.20954v2)|**[link](http://arxiv.org/abs/2603.20954v2)**|
+|**2026-04-15**|**Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays**|Laurent U Perrinet et.al.|[2604.14096v1](http://arxiv.org/abs/2604.14096v1)|**[link](http://arxiv.org/abs/2604.14096v1)**|
+|**2026-04-15**|**General aspects of internal noise in spiking neural networks**|I. D. Kolesnikov et.al.|[2604.13612v1](http://arxiv.org/abs/2604.13612v1)|**[link](http://arxiv.org/abs/2604.13612v1)**|
 |**2026-04-14**|**Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks for Efficient Eye-based Emotion Recognition**|Qianhui Liu et.al.|[2512.02459v2](http://arxiv.org/abs/2512.02459v2)|**[link](http://arxiv.org/abs/2512.02459v2)**|
 |**2026-04-14**|**Neuron Surface Emitting Laser (NeuronSEL): Spiking Regimes and Negative Differential Resistance in Solitary Multi-junction VCSELs**|Maria Duque-Gijon et.al.|[2604.12893v1](http://arxiv.org/abs/2604.12893v1)|**[link](http://arxiv.org/abs/2604.12893v1)**|
 |**2026-04-14**|**Adaptive Spiking Neurons for Vision and Language Modeling**|Chenlin Zhou et.al.|[2604.12365v1](http://arxiv.org/abs/2604.12365v1)|**[link](http://arxiv.org/abs/2604.12365v1)**|
@@ -20,7 +24,6 @@
 |**2026-04-12**|**Towards Green Wearable Computing: A Physics-Aware Spiking Neural Network for Energy-Efficient IMU-based Human Activity Recognition**|Naichuan Zheng et.al.|[2604.10458v1](http://arxiv.org/abs/2604.10458v1)|**[link](http://arxiv.org/abs/2604.10458v1)**|
 |**2026-04-10**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v3](http://arxiv.org/abs/2603.08146v3)|**[link](http://arxiv.org/abs/2603.08146v3)**|
 |**2026-04-10**|**Ge$^\text{2}$mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer**|Zecheng Hao et.al.|[2604.08894v1](http://arxiv.org/abs/2604.08894v1)|**[link](http://arxiv.org/abs/2604.08894v1)**|
-|**2026-04-09**|**An Asynchronous Delta Modulator for Spike Encoding in Event-Driven Brain-Machine Interface**|Kaushik Lakshmiramanan et.al.|[2604.08758v1](http://arxiv.org/abs/2604.08758v1)|**[link](http://arxiv.org/abs/2604.08758v1)**|
 |**2026-04-09**|**Practical Bayesian Inference for Speech SNNs: Uncertainty and Loss-Landscape Smoothing**|Yesmine Abdennadher et.al.|[2604.08624v1](http://arxiv.org/abs/2604.08624v1)|**[link](http://arxiv.org/abs/2604.08624v1)**|
 |**2026-04-08**|**Time-Series Classification with Multivariate Statistical Dependence Features**|Yao Sun et.al.|[2604.06537v1](http://arxiv.org/abs/2604.06537v1)|**[link](http://arxiv.org/abs/2604.06537v1)**|
 |**2026-04-06**|**Sharpness-Aware Surrogate Training for On-Sensor Spiking Neural Networks**|Maximilian Nicholson et.al.|[2604.09696v1](http://arxiv.org/abs/2604.09696v1)|**[link](http://arxiv.org/abs/2604.09696v1)**|
@@ -51,7 +54,6 @@
 |**2026-03-23**|**Impact of heavy-tailed synaptic strength distributions on self-sustained activity in networks of spiking neurons**|Ralf Tönjes et.al.|[2603.21781v1](http://arxiv.org/abs/2603.21781v1)|**[link](http://arxiv.org/abs/2603.21781v1)**|
 |**2026-03-23**|**SPINONet: Scalable Spiking Physics-informed Neural Operator for Computational Mechanics Applications**|Shailesh Garg et.al.|[2603.21674v1](http://arxiv.org/abs/2603.21674v1)|**[link](http://arxiv.org/abs/2603.21674v1)**|
 |**2026-03-23**|**Optimal Memory Encoding Through Fluctuation-Response Structure**|Lianxiang Cui et.al.|[2603.21666v1](http://arxiv.org/abs/2603.21666v1)|**[link](http://arxiv.org/abs/2603.21666v1)**|
-|**2026-03-21**|**SOMA: A Single-Material Organic Multivibrator Adaptive Neuron for Fully Integrated PEDOT:PSS Neuromorphic Systems**|Nikita Prudnikov et.al.|[2603.20954v1](http://arxiv.org/abs/2603.20954v1)|**[link](http://arxiv.org/abs/2603.20954v1)**|
 |**2026-03-21**|**Neuronal Self-Adaptation Enhances Capacity and Robustness of Representation in Spiking Neural Networks**|Zhuobin Yang et.al.|[2603.20687v1](http://arxiv.org/abs/2603.20687v1)|**[link](http://arxiv.org/abs/2603.20687v1)**|
 |**2026-03-20**|**S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition**|Naichuan Zheng et.al.|[2603.18062v2](http://arxiv.org/abs/2603.18062v2)|**[link](http://arxiv.org/abs/2603.18062v2)**|
 |**2026-03-19**|**Brain-inspired AI for Edge Intelligence: a systematic review**|Yingchao Cheng et.al.|[2603.26722v1](http://arxiv.org/abs/2603.26722v1)|**[link](http://arxiv.org/abs/2603.26722v1)**|
@@ -3230,5 +3232,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260416>back to top</a>)</p>
 
