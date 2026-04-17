@@ -1,4 +1,4 @@
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,7 @@
 |**2026-04-15**|**SOMA: A Single-Material Organic Multivibrator Adaptive Neuron for Fully Integrated PEDOT:PSS Neuromorphic Systems**|Nikita Prudnikov et.al.|[2603.20954v2](http://arxiv.org/abs/2603.20954v2)|**[link](http://arxiv.org/abs/2603.20954v2)**|
 |**2026-04-15**|**Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays**|Laurent U Perrinet et.al.|[2604.14096v1](http://arxiv.org/abs/2604.14096v1)|**[link](http://arxiv.org/abs/2604.14096v1)**|
 |**2026-04-15**|**General aspects of internal noise in spiking neural networks**|I. D. Kolesnikov et.al.|[2604.13612v1](http://arxiv.org/abs/2604.13612v1)|**[link](http://arxiv.org/abs/2604.13612v1)**|
+|**2026-04-15**|**Quantization of Spiking Neural Networks Beyond Accuracy**|Evan Gibson Smith et.al.|[2604.14487v1](http://arxiv.org/abs/2604.14487v1)|**[link](http://arxiv.org/abs/2604.14487v1)**|
 |**2026-04-14**|**Neural Architecture Search of Time-to-First-Spike-Coded Spiking Neural Networks for Efficient Eye-based Emotion Recognition**|Qianhui Liu et.al.|[2512.02459v2](http://arxiv.org/abs/2512.02459v2)|**[link](http://arxiv.org/abs/2512.02459v2)**|
 |**2026-04-14**|**Neuron Surface Emitting Laser (NeuronSEL): Spiking Regimes and Negative Differential Resistance in Solitary Multi-junction VCSELs**|Maria Duque-Gijon et.al.|[2604.12893v1](http://arxiv.org/abs/2604.12893v1)|**[link](http://arxiv.org/abs/2604.12893v1)**|
 |**2026-04-14**|**Adaptive Spiking Neurons for Vision and Language Modeling**|Chenlin Zhou et.al.|[2604.12365v1](http://arxiv.org/abs/2604.12365v1)|**[link](http://arxiv.org/abs/2604.12365v1)**|
@@ -3232,5 +3233,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260417>back to top</a>)</p>
 
