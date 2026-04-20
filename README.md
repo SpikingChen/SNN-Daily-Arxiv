@@ -1,4 +1,4 @@
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-17**|**Combining Convolution and Delay Learning in Recurrent Spiking Neural Networks**|Lúcio Folly Sanches Zebendo et.al.|[2604.15997v1](http://arxiv.org/abs/2604.15997v1)|**[link](http://arxiv.org/abs/2604.15997v1)**|
+|**2026-04-17**|**Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks**|Hyeongmeen Baik et.al.|[2604.15714v1](http://arxiv.org/abs/2604.15714v1)|**[link](http://arxiv.org/abs/2604.15714v1)**|
+|**2026-04-16**|**Dual-Timescale Memory in a Spiking Neuron-Astrocyte Network for Efficient Navigation**|Yuliya Tsybina et.al.|[2604.15391v1](http://arxiv.org/abs/2604.15391v1)|**[link](http://arxiv.org/abs/2604.15391v1)**|
 |**2026-04-15**|**An Asynchronous Delta Modulator for Spike Encoding in Event-Driven Brain-Machine Interface**|Kaushik Lakshmiramanan et.al.|[2604.08758v2](http://arxiv.org/abs/2604.08758v2)|**[link](http://arxiv.org/abs/2604.08758v2)**|
 |**2026-04-15**|**SOMA: A Single-Material Organic Multivibrator Adaptive Neuron for Fully Integrated PEDOT:PSS Neuromorphic Systems**|Nikita Prudnikov et.al.|[2603.20954v2](http://arxiv.org/abs/2603.20954v2)|**[link](http://arxiv.org/abs/2603.20954v2)**|
 |**2026-04-15**|**Working Memory in a Recurrent Spiking Neural Networks With Heterogeneous Synaptic Delays**|Laurent U Perrinet et.al.|[2604.14096v1](http://arxiv.org/abs/2604.14096v1)|**[link](http://arxiv.org/abs/2604.14096v1)**|
@@ -3233,5 +3236,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260420>back to top</a>)</p>
 
