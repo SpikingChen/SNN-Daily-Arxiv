@@ -1,4 +1,4 @@
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,8 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-20**|**Spike-NVPT: Learning Robust Visual Prompts via Bio-Inspired Temporal Filtering and Discretization**|Qiugang Zhan et.al.|[2604.18284v1](http://arxiv.org/abs/2604.18284v1)|**[link](http://arxiv.org/abs/2604.18284v1)**|
+|**2026-04-18**|**Towards Green Wearable Computing: A Physics-Aware Spiking Neural Network for Energy-Efficient IMU-based Human Activity Recognition**|Naichuan Zheng et.al.|[2604.10458v2](http://arxiv.org/abs/2604.10458v2)|**[link](http://arxiv.org/abs/2604.10458v2)**|
 |**2026-04-17**|**Combining Convolution and Delay Learning in Recurrent Spiking Neural Networks**|Lúcio Folly Sanches Zebendo et.al.|[2604.15997v1](http://arxiv.org/abs/2604.15997v1)|**[link](http://arxiv.org/abs/2604.15997v1)**|
 |**2026-04-17**|**Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks**|Hyeongmeen Baik et.al.|[2604.15714v1](http://arxiv.org/abs/2604.15714v1)|**[link](http://arxiv.org/abs/2604.15714v1)**|
+|**2026-04-17**|**Neuroscience Inspired Graph Operators Towards Edge-Deployable Virtual Sensing for Irregular Geometries**|William Howes et.al.|[2604.16722v1](http://arxiv.org/abs/2604.16722v1)|**[link](http://arxiv.org/abs/2604.16722v1)**|
 |**2026-04-16**|**Dual-Timescale Memory in a Spiking Neuron-Astrocyte Network for Efficient Navigation**|Yuliya Tsybina et.al.|[2604.15391v1](http://arxiv.org/abs/2604.15391v1)|**[link](http://arxiv.org/abs/2604.15391v1)**|
 |**2026-04-15**|**An Asynchronous Delta Modulator for Spike Encoding in Event-Driven Brain-Machine Interface**|Kaushik Lakshmiramanan et.al.|[2604.08758v2](http://arxiv.org/abs/2604.08758v2)|**[link](http://arxiv.org/abs/2604.08758v2)**|
 |**2026-04-15**|**SOMA: A Single-Material Organic Multivibrator Adaptive Neuron for Fully Integrated PEDOT:PSS Neuromorphic Systems**|Nikita Prudnikov et.al.|[2603.20954v2](http://arxiv.org/abs/2603.20954v2)|**[link](http://arxiv.org/abs/2603.20954v2)**|
@@ -23,14 +26,17 @@
 |**2026-04-14**|**Neuron Surface Emitting Laser (NeuronSEL): Spiking Regimes and Negative Differential Resistance in Solitary Multi-junction VCSELs**|Maria Duque-Gijon et.al.|[2604.12893v1](http://arxiv.org/abs/2604.12893v1)|**[link](http://arxiv.org/abs/2604.12893v1)**|
 |**2026-04-14**|**Adaptive Spiking Neurons for Vision and Language Modeling**|Chenlin Zhou et.al.|[2604.12365v1](http://arxiv.org/abs/2604.12365v1)|**[link](http://arxiv.org/abs/2604.12365v1)**|
 |**2026-04-14**|**EMBER: Autonomous Cognitive Behaviour from Learned Spiking Neural Network Dynamics in a Hybrid LLM Architecture**|William Savage et.al.|[2604.12167v1](http://arxiv.org/abs/2604.12167v1)|**[link](http://arxiv.org/abs/2604.12167v1)**|
+|**2026-04-14**|**Gradient-Free Continual Learning in Spiking Neural Networks via Inter-Spike Interval Regularization**|Samrendra Roy et.al.|[2604.16496v1](http://arxiv.org/abs/2604.16496v1)|**[link](http://arxiv.org/abs/2604.16496v1)**|
 |**2026-04-13**|**Multiple spiking functionalities in annealing-optimized Ag/Hf$_{0.5}$Zr$_{0.5}$O$_2$-based memristive neurons**|Nikita Zhidkov et.al.|[2604.11780v1](http://arxiv.org/abs/2604.11780v1)|**[link](http://arxiv.org/abs/2604.11780v1)**|
 |**2026-04-13**|**Winner-Take-All Spiking Transformer for Language Modeling**|Chenlin Zhou et.al.|[2604.11321v1](http://arxiv.org/abs/2604.11321v1)|**[link](http://arxiv.org/abs/2604.11321v1)**|
-|**2026-04-12**|**Towards Green Wearable Computing: A Physics-Aware Spiking Neural Network for Energy-Efficient IMU-based Human Activity Recognition**|Naichuan Zheng et.al.|[2604.10458v1](http://arxiv.org/abs/2604.10458v1)|**[link](http://arxiv.org/abs/2604.10458v1)**|
+|**2026-04-11**|**Spike-driven Large Language Model**|Han Xu et.al.|[2604.16475v1](http://arxiv.org/abs/2604.16475v1)|**[link](http://arxiv.org/abs/2604.16475v1)**|
+|**2026-04-11**|**Full Feature Spiking Neural Network Simulation on Micro-Controllers for Neuromorphic Applications at the Edge**|L. Niedermeier et.al.|[2604.16474v1](http://arxiv.org/abs/2604.16474v1)|**[link](http://arxiv.org/abs/2604.16474v1)**|
 |**2026-04-10**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v3](http://arxiv.org/abs/2603.08146v3)|**[link](http://arxiv.org/abs/2603.08146v3)**|
 |**2026-04-10**|**Ge$^\text{2}$mS-T: Multi-Dimensional Grouping for Ultra-High Energy Efficiency in Spiking Transformer**|Zecheng Hao et.al.|[2604.08894v1](http://arxiv.org/abs/2604.08894v1)|**[link](http://arxiv.org/abs/2604.08894v1)**|
 |**2026-04-09**|**Practical Bayesian Inference for Speech SNNs: Uncertainty and Loss-Landscape Smoothing**|Yesmine Abdennadher et.al.|[2604.08624v1](http://arxiv.org/abs/2604.08624v1)|**[link](http://arxiv.org/abs/2604.08624v1)**|
 |**2026-04-08**|**Time-Series Classification with Multivariate Statistical Dependence Features**|Yao Sun et.al.|[2604.06537v1](http://arxiv.org/abs/2604.06537v1)|**[link](http://arxiv.org/abs/2604.06537v1)**|
 |**2026-04-06**|**Sharpness-Aware Surrogate Training for On-Sensor Spiking Neural Networks**|Maximilian Nicholson et.al.|[2604.09696v1](http://arxiv.org/abs/2604.09696v1)|**[link](http://arxiv.org/abs/2604.09696v1)**|
+|**2026-04-06**|**Fuzzy Encoding-Decoding to Improve Spiking Q-Learning Performance in Autonomous Driving**|Aref Ghoreishee et.al.|[2604.16436v1](http://arxiv.org/abs/2604.16436v1)|**[link](http://arxiv.org/abs/2604.16436v1)**|
 |**2026-04-05**|**Programmable superconducting neuron with intrinsic in-memory computation and dual-timescale plasticity for ultra-efficient neuromorphic computing**|Muen Wang et.al.|[2603.04966v2](http://arxiv.org/abs/2603.04966v2)|**[link](http://arxiv.org/abs/2603.04966v2)**|
 |**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et.al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|**[link](http://arxiv.org/abs/2604.04117v1)**|
 |**2026-04-04**|**L-SPINE: A Low-Precision SIMD Spiking Neural Compute Engine for Resource-efficient Edge Inference**|Sonu Kumar et.al.|[2604.03626v1](http://arxiv.org/abs/2604.03626v1)|**[link](http://arxiv.org/abs/2604.03626v1)**|
@@ -3236,5 +3242,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260421>back to top</a>)</p>
 
