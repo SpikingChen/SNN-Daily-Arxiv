@@ -1,4 +1,4 @@
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-21**|**A Case for Hypergraphs to Model and Map SNNs on Neuromorphic Hardware**|Marco Ronzani et.al.|[2601.16118v2](http://arxiv.org/abs/2601.16118v2)|**[link](http://arxiv.org/abs/2601.16118v2)**|
 |**2026-04-20**|**Spike-NVPT: Learning Robust Visual Prompts via Bio-Inspired Temporal Filtering and Discretization**|Qiugang Zhan et.al.|[2604.18284v1](http://arxiv.org/abs/2604.18284v1)|**[link](http://arxiv.org/abs/2604.18284v1)**|
 |**2026-04-18**|**Towards Green Wearable Computing: A Physics-Aware Spiking Neural Network for Energy-Efficient IMU-based Human Activity Recognition**|Naichuan Zheng et.al.|[2604.10458v2](http://arxiv.org/abs/2604.10458v2)|**[link](http://arxiv.org/abs/2604.10458v2)**|
 |**2026-04-17**|**Combining Convolution and Delay Learning in Recurrent Spiking Neural Networks**|Lúcio Folly Sanches Zebendo et.al.|[2604.15997v1](http://arxiv.org/abs/2604.15997v1)|**[link](http://arxiv.org/abs/2604.15997v1)**|
@@ -29,6 +30,8 @@
 |**2026-04-14**|**Gradient-Free Continual Learning in Spiking Neural Networks via Inter-Spike Interval Regularization**|Samrendra Roy et.al.|[2604.16496v1](http://arxiv.org/abs/2604.16496v1)|**[link](http://arxiv.org/abs/2604.16496v1)**|
 |**2026-04-13**|**Multiple spiking functionalities in annealing-optimized Ag/Hf$_{0.5}$Zr$_{0.5}$O$_2$-based memristive neurons**|Nikita Zhidkov et.al.|[2604.11780v1](http://arxiv.org/abs/2604.11780v1)|**[link](http://arxiv.org/abs/2604.11780v1)**|
 |**2026-04-13**|**Winner-Take-All Spiking Transformer for Language Modeling**|Chenlin Zhou et.al.|[2604.11321v1](http://arxiv.org/abs/2604.11321v1)|**[link](http://arxiv.org/abs/2604.11321v1)**|
+|**2026-04-13**|**Neuromorphic Continual Learning for Sequential Deployment of Nuclear Plant Monitoring Systems**|Samrendra Roy et.al.|[2604.18611v1](http://arxiv.org/abs/2604.18611v1)|**[link](http://arxiv.org/abs/2604.18611v1)**|
+|**2026-04-13**|**SpikeMLLM: Spike-based Multimodal Large Language Models via Modality-Specific Temporal Scales and Temporal Compression**|Han Xu et.al.|[2604.18610v1](http://arxiv.org/abs/2604.18610v1)|**[link](http://arxiv.org/abs/2604.18610v1)**|
 |**2026-04-11**|**Spike-driven Large Language Model**|Han Xu et.al.|[2604.16475v1](http://arxiv.org/abs/2604.16475v1)|**[link](http://arxiv.org/abs/2604.16475v1)**|
 |**2026-04-11**|**Full Feature Spiking Neural Network Simulation on Micro-Controllers for Neuromorphic Applications at the Edge**|L. Niedermeier et.al.|[2604.16474v1](http://arxiv.org/abs/2604.16474v1)|**[link](http://arxiv.org/abs/2604.16474v1)**|
 |**2026-04-10**|**Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX**|Lukas König et.al.|[2603.08146v3](http://arxiv.org/abs/2603.08146v3)|**[link](http://arxiv.org/abs/2603.08146v3)**|
@@ -156,7 +159,6 @@
 |**2026-01-23**|**Reliable Brain Tumor Segmentation Based on Spiking Neural Networks with Efficient Training**|Aurora Pia Ghiardelli et.al.|[2601.16652v1](http://arxiv.org/abs/2601.16652v1)|**[link](http://arxiv.org/abs/2601.16652v1)**|
 |**2026-01-23**|**Emerging Threats and Countermeasures in Neuromorphic Systems: A Survey**|Pablo Sorrentino et.al.|[2601.16589v1](http://arxiv.org/abs/2601.16589v1)|**[link](http://arxiv.org/abs/2601.16589v1)**|
 |**2026-01-23**|**Spiking Neural Networks for Communication Systems: Encoding Schemes, Learning Algorithms, and Equalization~Techniques**|Eike-Manuel Edelmann et.al.|[2601.16550v1](http://arxiv.org/abs/2601.16550v1)|**[link](http://arxiv.org/abs/2601.16550v1)**|
-|**2026-01-22**|**A Case for Hypergraphs to Model and Map SNNs on Neuromorphic Hardware**|Marco Ronzani et.al.|[2601.16118v1](http://arxiv.org/abs/2601.16118v1)|**[link](http://arxiv.org/abs/2601.16118v1)**|
 |**2026-01-22**|**On the Nonasymptotic Scaling Guarantee of Hyperparameter Estimation in Inhomogeneous, Weakly-Dependent Complex Network Dynamical Systems**|Yi Yu et.al.|[2601.15603v1](http://arxiv.org/abs/2601.15603v1)|**[link](http://arxiv.org/abs/2601.15603v1)**|
 |**2026-01-22**|**Ternary Spiking Neural Networks Enhanced by Complemented Neurons and Membrane Potential Aggregation**|Boxuan Zhang et.al.|[2601.15598v1](http://arxiv.org/abs/2601.15598v1)|**[link](http://arxiv.org/abs/2601.15598v1)**|
 |**2026-01-21**|**Power-Law Scaling in the Classification Performance of Small-Scale Spiking Neural Networks**|Zhengdi Zhang et.al.|[2601.14961v1](http://arxiv.org/abs/2601.14961v1)|**[link](http://arxiv.org/abs/2601.14961v1)**|
@@ -3242,5 +3244,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260422>back to top</a>)</p>
 
