@@ -1,4 +1,4 @@
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-23**|**Monolithically Integrated VO$_2$ Mott Oscillators for Energy-Efficient Spiking Neurons**|Fabio Bersano et.al.|[2604.21487v1](http://arxiv.org/abs/2604.21487v1)|**[link](http://arxiv.org/abs/2604.21487v1)**|
 |**2026-04-21**|**A Case for Hypergraphs to Model and Map SNNs on Neuromorphic Hardware**|Marco Ronzani et.al.|[2601.16118v2](http://arxiv.org/abs/2601.16118v2)|**[link](http://arxiv.org/abs/2601.16118v2)**|
 |**2026-04-20**|**Spike-NVPT: Learning Robust Visual Prompts via Bio-Inspired Temporal Filtering and Discretization**|Qiugang Zhan et.al.|[2604.18284v1](http://arxiv.org/abs/2604.18284v1)|**[link](http://arxiv.org/abs/2604.18284v1)**|
 |**2026-04-18**|**Towards Green Wearable Computing: A Physics-Aware Spiking Neural Network for Energy-Efficient IMU-based Human Activity Recognition**|Naichuan Zheng et.al.|[2604.10458v2](http://arxiv.org/abs/2604.10458v2)|**[link](http://arxiv.org/abs/2604.10458v2)**|
@@ -3244,5 +3245,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260424>back to top</a>)</p>
 
