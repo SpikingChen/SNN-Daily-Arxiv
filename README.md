@@ -1,4 +1,4 @@
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-28**|**QB-LIF: Learnable-Scale Quantized Burst Neurons for Efficient SNNs**|Dewei Bai et.al.|[2604.25688v1](http://arxiv.org/abs/2604.25688v1)|**[link](http://arxiv.org/abs/2604.25688v1)**|
 |**2026-04-26**|**Sparsity-Aware Event-Driven Impulse Radio Transceivers for Reliable Neuromorphic Inference**|Zhengzhong Guan et.al.|[2604.23559v1](http://arxiv.org/abs/2604.23559v1)|**[link](http://arxiv.org/abs/2604.23559v1)**|
 |**2026-04-25**|**A Multiplication-Free Spike-Time Learning Algorithm and its Efficient FPGA Implementation for On-Chip SNN Training**|Maryam Mirsadeghi et.al.|[2604.23218v1](http://arxiv.org/abs/2604.23218v1)|**[link](http://arxiv.org/abs/2604.23218v1)**|
 |**2026-04-24**|**Hardware-Software Co-Design for Event-Driven SNN Deployment on Low-Cost Neuromorphic FPGAs**|Jiwoon Lee et.al.|[2604.22179v1](http://arxiv.org/abs/2604.22179v1)|**[link](http://arxiv.org/abs/2604.22179v1)**|
@@ -3248,5 +3249,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
 
