@@ -1,4 +1,4 @@
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-04-30**|**NeuroRing: Scaling Spiking Neural Networks via Multi-FPGA Bidirectional Ring Topologies and Stream-Dataflow Architectures**|Muhammad Ihsan Al Hafiz et.al.|[2604.28059v1](http://arxiv.org/abs/2604.28059v1)|**[link](http://arxiv.org/abs/2604.28059v1)**|
 |**2026-04-29**|**Evolutionary feature selection for spiking neural network pattern classifiers**|Michal Valko et.al.|[2604.26654v1](http://arxiv.org/abs/2604.26654v1)|**[link](http://arxiv.org/abs/2604.26654v1)**|
+|**2026-04-29**|**Binary Spiking Neural Networks as Causal Models**|Aditya Kar et.al.|[2604.27007v1](http://arxiv.org/abs/2604.27007v1)|**[link](http://arxiv.org/abs/2604.27007v1)**|
+|**2026-04-29**|**EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures**|Gustav Olaf Yunus Laitinen-Fredriksson Lundstrom-Imanov et.al.|[2604.27004v1](http://arxiv.org/abs/2604.27004v1)|**[link](http://arxiv.org/abs/2604.27004v1)**|
 |**2026-04-28**|**QB-LIF: Learnable-Scale Quantized Burst Neurons for Efficient SNNs**|Dewei Bai et.al.|[2604.25688v1](http://arxiv.org/abs/2604.25688v1)|**[link](http://arxiv.org/abs/2604.25688v1)**|
 |**2026-04-26**|**Sparsity-Aware Event-Driven Impulse Radio Transceivers for Reliable Neuromorphic Inference**|Zhengzhong Guan et.al.|[2604.23559v1](http://arxiv.org/abs/2604.23559v1)|**[link](http://arxiv.org/abs/2604.23559v1)**|
 |**2026-04-25**|**A Multiplication-Free Spike-Time Learning Algorithm and its Efficient FPGA Implementation for On-Chip SNN Training**|Maryam Mirsadeghi et.al.|[2604.23218v1](http://arxiv.org/abs/2604.23218v1)|**[link](http://arxiv.org/abs/2604.23218v1)**|
@@ -3250,5 +3253,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260501>back to top</a>)</p>
 
