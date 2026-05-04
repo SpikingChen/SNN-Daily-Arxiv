@@ -1,4 +1,4 @@
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-05-01**|**Affinity Is Not Enough: Recovering the Free Energy Principle in Mixture-of-Experts**|Man Yung Wong et.al.|[2605.00604v1](http://arxiv.org/abs/2605.00604v1)|**[link](http://arxiv.org/abs/2605.00604v1)**|
+|**2026-05-01**|**Scalable Learning in Structured Recurrent Spiking Neural Networks without Backpropagation**|Bo Tang et.al.|[2605.00402v1](http://arxiv.org/abs/2605.00402v1)|**[link](http://arxiv.org/abs/2605.00402v1)**|
+|**2026-05-01**|**A PVT-Resilient Subthreshold SRAM-Based In-Memory Computing Accelerator with In-Situ Regulation for Energy-Efficient Spiking Neural Networks**|Shih-Hang Kao et.al.|[2605.00319v1](http://arxiv.org/abs/2605.00319v1)|**[link](http://arxiv.org/abs/2605.00319v1)**|
 |**2026-04-30**|**NeuroRing: Scaling Spiking Neural Networks via Multi-FPGA Bidirectional Ring Topologies and Stream-Dataflow Architectures**|Muhammad Ihsan Al Hafiz et.al.|[2604.28059v1](http://arxiv.org/abs/2604.28059v1)|**[link](http://arxiv.org/abs/2604.28059v1)**|
+|**2026-04-30**|**BadSNN: Backdoor Attacks on Spiking Neural Networks via Adversarial Spiking Neuron**|Abdullah Arafat Miah et.al.|[2602.07200v2](http://arxiv.org/abs/2602.07200v2)|**[link](http://arxiv.org/abs/2602.07200v2)**|
+|**2026-04-30**|**Real-Time Frame- and Event-based Object Detection with Spiking Neural Networks on Edge Neuromorphic Hardware: Design, Deployment and Benchmark**|Udayanga G. W. K. N. Gamage et.al.|[2605.00146v1](http://arxiv.org/abs/2605.00146v1)|**[link](http://arxiv.org/abs/2605.00146v1)**|
 |**2026-04-29**|**Evolutionary feature selection for spiking neural network pattern classifiers**|Michal Valko et.al.|[2604.26654v1](http://arxiv.org/abs/2604.26654v1)|**[link](http://arxiv.org/abs/2604.26654v1)**|
 |**2026-04-29**|**Binary Spiking Neural Networks as Causal Models**|Aditya Kar et.al.|[2604.27007v1](http://arxiv.org/abs/2604.27007v1)|**[link](http://arxiv.org/abs/2604.27007v1)**|
 |**2026-04-29**|**EdgeSpike: Spiking Neural Networks for Low-Power Autonomous Sensing in Edge IoT Architectures**|Gustav Olaf Yunus Laitinen-Fredriksson Lundstrom-Imanov et.al.|[2604.27004v1](http://arxiv.org/abs/2604.27004v1)|**[link](http://arxiv.org/abs/2604.27004v1)**|
@@ -20,6 +25,7 @@
 |**2026-04-25**|**A Multiplication-Free Spike-Time Learning Algorithm and its Efficient FPGA Implementation for On-Chip SNN Training**|Maryam Mirsadeghi et.al.|[2604.23218v1](http://arxiv.org/abs/2604.23218v1)|**[link](http://arxiv.org/abs/2604.23218v1)**|
 |**2026-04-24**|**Hardware-Software Co-Design for Event-Driven SNN Deployment on Low-Cost Neuromorphic FPGAs**|Jiwoon Lee et.al.|[2604.22179v1](http://arxiv.org/abs/2604.22179v1)|**[link](http://arxiv.org/abs/2604.22179v1)**|
 |**2026-04-23**|**Monolithically Integrated VO$_2$ Mott Oscillators for Energy-Efficient Spiking Neurons**|Fabio Bersano et.al.|[2604.21487v1](http://arxiv.org/abs/2604.21487v1)|**[link](http://arxiv.org/abs/2604.21487v1)**|
+|**2026-04-23**|**Shooting Neutrons at Neurons: Radiation Testing of a Spiking Neural Network on Flash-Based FPGAs**|Wim Nijsink et.al.|[2605.00030v1](http://arxiv.org/abs/2605.00030v1)|**[link](http://arxiv.org/abs/2605.00030v1)**|
 |**2026-04-21**|**A Case for Hypergraphs to Model and Map SNNs on Neuromorphic Hardware**|Marco Ronzani et.al.|[2601.16118v2](http://arxiv.org/abs/2601.16118v2)|**[link](http://arxiv.org/abs/2601.16118v2)**|
 |**2026-04-20**|**Spike-NVPT: Learning Robust Visual Prompts via Bio-Inspired Temporal Filtering and Discretization**|Qiugang Zhan et.al.|[2604.18284v1](http://arxiv.org/abs/2604.18284v1)|**[link](http://arxiv.org/abs/2604.18284v1)**|
 |**2026-04-18**|**Towards Green Wearable Computing: A Physics-Aware Spiking Neural Network for Energy-Efficient IMU-based Human Activity Recognition**|Naichuan Zheng et.al.|[2604.10458v2](http://arxiv.org/abs/2604.10458v2)|**[link](http://arxiv.org/abs/2604.10458v2)**|
@@ -135,7 +141,6 @@
 |**2026-02-09**|**PTS-SNN: A Prompt-Tuned Temporal Shift Spiking Neural Networks for Efficient Speech Emotion Recognition**|Xun Su et.al.|[2602.08240v1](http://arxiv.org/abs/2602.08240v1)|**[link](http://arxiv.org/abs/2602.08240v1)**|
 |**2026-02-08**|**Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks**|Yi Yu et.al.|[2602.03284v2](http://arxiv.org/abs/2602.03284v2)|**[link](http://arxiv.org/abs/2602.03284v2)**|
 |**2026-02-06**|**FeNN-DMA: A RISC-V SoC for SNN acceleration**|Zainab Aizaz et.al.|[2511.00732v2](http://arxiv.org/abs/2511.00732v2)|**[link](http://arxiv.org/abs/2511.00732v2)**|
-|**2026-02-06**|**BadSNN: Backdoor Attacks on Spiking Neural Networks via Adversarial Spiking Neuron**|Abdullah Arafat Miah et.al.|[2602.07200v1](http://arxiv.org/abs/2602.07200v1)|**[link](http://arxiv.org/abs/2602.07200v1)**|
 |**2026-02-06**|**Sparse Spike Encoding of Channel Responses for Energy Efficient Human Activity Recognition**|Eleonora Cicciarella et.al.|[2602.06766v1](http://arxiv.org/abs/2602.06766v1)|**[link](http://arxiv.org/abs/2602.06766v1)**|
 |**2026-02-06**|**A neuromorphic model of the insect visual system for natural image processing**|Adam D. Hines et.al.|[2602.06405v1](http://arxiv.org/abs/2602.06405v1)|**[link](http://arxiv.org/abs/2602.06405v1)**|
 |**2026-02-04**|**Scale-covariant spiking wavelets**|Jens Egholm Pedersen et.al.|[2602.02020v2](http://arxiv.org/abs/2602.02020v2)|**[link](http://arxiv.org/abs/2602.02020v2)**|
@@ -3253,5 +3258,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260504>back to top</a>)</p>
 
