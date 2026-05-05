@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-05-03**|**SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors**|Yahan Yang et.al.|[2605.01937v1](http://arxiv.org/abs/2605.01937v1)|**[link](http://arxiv.org/abs/2605.01937v1)**|
+|**2026-05-03**|**Training Non-Differentiable Networks via Optimal Transport**|An T. Le et.al.|[2605.01928v1](http://arxiv.org/abs/2605.01928v1)|**[link](http://arxiv.org/abs/2605.01928v1)**|
+|**2026-05-03**|**ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization**|Kaiwen Tang et.al.|[2605.01866v1](http://arxiv.org/abs/2605.01866v1)|**[link](http://arxiv.org/abs/2605.01866v1)**|
+|**2026-05-03**|**From Cortical Synchronous Rhythm to Brain Inspired Learning Mechanism: An Oscillatory Spiking Neural Network with Time-Delayed Coordination**|Tingting Dan et.al.|[2605.01656v1](http://arxiv.org/abs/2605.01656v1)|**[link](http://arxiv.org/abs/2605.01656v1)**|
+|**2026-05-02**|**Congestion-Aware Dynamic Axonal Delay for Spiking Neural Networks**|Dewei Bai et.al.|[2605.01291v1](http://arxiv.org/abs/2605.01291v1)|**[link](http://arxiv.org/abs/2605.01291v1)**|
 |**2026-05-01**|**Affinity Is Not Enough: Recovering the Free Energy Principle in Mixture-of-Experts**|Man Yung Wong et.al.|[2605.00604v1](http://arxiv.org/abs/2605.00604v1)|**[link](http://arxiv.org/abs/2605.00604v1)**|
 |**2026-05-01**|**Scalable Learning in Structured Recurrent Spiking Neural Networks without Backpropagation**|Bo Tang et.al.|[2605.00402v1](http://arxiv.org/abs/2605.00402v1)|**[link](http://arxiv.org/abs/2605.00402v1)**|
 |**2026-05-01**|**A PVT-Resilient Subthreshold SRAM-Based In-Memory Computing Accelerator with In-Situ Regulation for Energy-Efficient Spiking Neural Networks**|Shih-Hang Kao et.al.|[2605.00319v1](http://arxiv.org/abs/2605.00319v1)|**[link](http://arxiv.org/abs/2605.00319v1)**|
@@ -3258,5 +3263,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
 
