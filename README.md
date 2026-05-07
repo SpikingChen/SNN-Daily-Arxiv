@@ -1,4 +1,4 @@
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-05-06**|**Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing**|Nikhil Garg et.al.|[2601.00020v3](http://arxiv.org/abs/2601.00020v3)|**[link](http://arxiv.org/abs/2601.00020v3)**|
 |**2026-05-03**|**SNNF: An SNN-based Near-Sensor Noise Filter for Dynamic Vision Sensors**|Yahan Yang et.al.|[2605.01937v1](http://arxiv.org/abs/2605.01937v1)|**[link](http://arxiv.org/abs/2605.01937v1)**|
 |**2026-05-03**|**Training Non-Differentiable Networks via Optimal Transport**|An T. Le et.al.|[2605.01928v1](http://arxiv.org/abs/2605.01928v1)|**[link](http://arxiv.org/abs/2605.01928v1)**|
 |**2026-05-03**|**ShiftLIF: Efficient Multi-Level Spiking Neurons with Power-of-Two Quantization**|Kaiwen Tang et.al.|[2605.01866v1](http://arxiv.org/abs/2605.01866v1)|**[link](http://arxiv.org/abs/2605.01866v1)**|
@@ -201,7 +202,6 @@
 |**2026-01-08**|**Memory-Guided Unified Hardware Accelerator for Mixed-Precision Scientific Computing**|Chuanzhen Wang et.al.|[2601.04476v1](http://arxiv.org/abs/2601.04476v1)|**[link](http://arxiv.org/abs/2601.04476v1)**|
 |**2026-01-06**|**When Prompting Meets Spiking: Graph Sparse Prompting via Spiking Graph Prompt Learning**|Bo Jiang et.al.|[2601.02662v1](http://arxiv.org/abs/2601.02662v1)|**[link](http://arxiv.org/abs/2601.02662v1)**|
 |**2026-01-06**|**Sparsity-Aware Streaming SNN Accelerator with Output-Channel Dataflow for Automatic Modulation Classification**|Kuilian Yang et.al.|[2601.02613v1](http://arxiv.org/abs/2601.02613v1)|**[link](http://arxiv.org/abs/2601.02613v1)**|
-|**2026-01-05**|**Personalized Spiking Neural Networks with Ferroelectric Synapses for EEG Signal Processing**|Nikhil Garg et.al.|[2601.00020v2](http://arxiv.org/abs/2601.00020v2)|**[link](http://arxiv.org/abs/2601.00020v2)**|
 |**2026-01-05**|**Bifurcation Analysis Framework of Spiking Neuron Models**|Zhiwei Li et.al.|[2601.02116v1](http://arxiv.org/abs/2601.02116v1)|**[link](http://arxiv.org/abs/2601.02116v1)**|
 |**2026-01-04**|**STEMNIST: Spiking Tactile Extended MNIST Neuromorphic Dataset**|Anubhab Tripathi et.al.|[2601.01658v1](http://arxiv.org/abs/2601.01658v1)|**[link](http://arxiv.org/abs/2601.01658v1)**|
 |**2026-01-02**|**MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**|Donghyun Lee et.al.|[2512.04443v2](http://arxiv.org/abs/2512.04443v2)|**[link](http://arxiv.org/abs/2512.04443v2)**|
@@ -3264,5 +3264,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
 
