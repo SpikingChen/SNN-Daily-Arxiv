@@ -1,4 +1,4 @@
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-05-08**|**Globally Optimal Training of Spiking Neural Networks via Parameter Reconstruction**|Himanshu Udupi et.al.|[2605.08022v1](http://arxiv.org/abs/2605.08022v1)|**[link](http://arxiv.org/abs/2605.08022v1)**|
+|**2026-05-08**|**Aquatic Neuromorphic Optical Flow**|Pei Zhang et.al.|[2605.07653v1](http://arxiv.org/abs/2605.07653v1)|**[link](http://arxiv.org/abs/2605.07653v1)**|
+|**2026-05-08**|**Direct-to-Event Spiking Neural Network Transfer**|Nhan Trong Luu et.al.|[2605.07207v1](http://arxiv.org/abs/2605.07207v1)|**[link](http://arxiv.org/abs/2605.07207v1)**|
 |**2026-05-07**|**Congestion-Aware Dynamic Axonal Delay for Spiking Neural Networks**|Dewei Bai et.al.|[2605.01291v2](http://arxiv.org/abs/2605.01291v2)|**[link](http://arxiv.org/abs/2605.01291v2)**|
 |**2026-05-07**|**ChronoSpike: An Adaptive Spiking Graph Neural Network for Dynamic Graphs**|Md Abrar Jahin et.al.|[2602.01124v3](http://arxiv.org/abs/2602.01124v3)|**[link](http://arxiv.org/abs/2602.01124v3)**|
 |**2026-05-07**|**Neuromorphic visual attention for Sign-language recognition on SpiNNaker**|Sarka Liskova et.al.|[2605.06005v1](http://arxiv.org/abs/2605.06005v1)|**[link](http://arxiv.org/abs/2605.06005v1)**|
@@ -3266,5 +3269,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
