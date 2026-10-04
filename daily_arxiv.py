@@ -37,6 +37,8 @@ def get_daily_papers(topic, query="SNN", max_results=2):
 
     # content
     output = dict()
+
+    client = arxiv.Client(page_size=100, delay_seconds=3.0, num_retries=3)
     
     search_engine = arxiv.Search(
         query = query,
@@ -46,7 +48,7 @@ def get_daily_papers(topic, query="SNN", max_results=2):
 
     cnt = 0
 
-    for result in search_engine.results():
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
