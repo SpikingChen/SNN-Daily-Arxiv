@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-10-02**|**Learning While Inferring: Local and Parallel Learning for Edge SNNs across Sensing Modalities**|Yanxun Zhang et.al.|[2610.03149v1](http://arxiv.org/abs/2610.03149v1)|**[link](http://arxiv.org/abs/2610.03149v1)**|
 |**2026-10-01**|**Spiking neural networks for streaming qubit readout**|Barry M. Dillon et.al.|[2610.02129v1](http://arxiv.org/abs/2610.02129v1)|**[link](http://arxiv.org/abs/2610.02129v1)**|
 |**2026-10-01**|**Controllable Stochastic Quantization Encoding for Adversarially Robust Spiking Neural Networks**|Yujia Liu et.al.|[2610.01558v1](http://arxiv.org/abs/2610.01558v1)|**[link](http://arxiv.org/abs/2610.01558v1)**|
 |**2026-10-01**|**SpikeMoE: Brain-Inspired Competitive Routing for Flexible Spiking Mixture-of-Experts**|Xiaoli Liu et.al.|[2610.01418v1](http://arxiv.org/abs/2610.01418v1)|**[link](http://arxiv.org/abs/2610.01418v1)**|
@@ -3488,5 +3489,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261005>back to top</a>)</p>
 
