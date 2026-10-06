@@ -1,10 +1,18 @@
 import datetime
+import random
+import time
 import requests
 import json
 import arxiv
 import os
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
+
+# arXiv 按来源 IP 限流，官方要求 1 请求 / 3 秒；GitHub Actions 是共享出口 IP，
+# 被连带限流是常态，因此这些状态码值得退避重试
+RETRY_STATUS = {429, 500, 502, 503, 504}
+MAX_FETCH_ATTEMPTS = 6
+
 
 def get_authors(authors, first_author = False):
     output = str()
@@ -21,7 +29,34 @@ def sort_papers(papers):
     keys.sort(reverse=True)
     for key in keys:
         output[key] = papers[key]
-    return output    
+    return output
+
+
+def fetch_results(client, search_engine, max_attempts = MAX_FETCH_ATTEMPTS):
+    """
+    抓取完整结果集，遇到限流按指数退避重试。
+    失败后从已拿到的条数续抓，不从头再来。
+    @return list[arxiv.Result]
+    """
+    results = []
+    for attempt in range(max_attempts):
+        try:
+            for result in client.results(search_engine, offset = len(results)):
+                results.append(result)
+            return results
+        except arxiv.UnexpectedEmptyPageError:
+            # 翻到空页，说明结果已经取完
+            return results
+        except arxiv.ArxivError as e:
+            status = getattr(e, "status", None)
+            if status not in RETRY_STATUS or attempt == max_attempts - 1:
+                raise
+            # 5/10/20/40/60 秒，加抖动避免多个 job 同时解开封印又同时打过去
+            wait = min(60.0, 5.0 * (2 ** attempt)) + random.uniform(0, 3)
+            print(f"[retry] HTTP {status}, 已有 {len(results)} 条, "
+                  f"{attempt + 1}/{max_attempts}, 等待 {wait:.1f}s")
+            time.sleep(wait)
+    return results
 
 
 def get_daily_papers(topic, query="SNN", max_results=2):
@@ -31,15 +66,16 @@ def get_daily_papers(topic, query="SNN", max_results=2):
     @return paper_with_code: dict
     """
 
-    # output 
-    content = dict() 
+    # output
+    content = dict()
     content_to_web = dict()
 
     # content
     output = dict()
 
-    client = arxiv.Client(page_size=100, delay_seconds=3.0, num_retries=3)
-    
+    # page_size 与 max_results 对齐，一页拿完，减少请求数（arXiv 单页上限 2000）
+    client = arxiv.Client(page_size=200, delay_seconds=3.0, num_retries=3)
+
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
@@ -48,7 +84,14 @@ def get_daily_papers(topic, query="SNN", max_results=2):
 
     cnt = 0
 
-    for result in client.results(search_engine):
+    # 单次抓取失败不再中断整个流程，用已有 json 重新生成 README 即可
+    try:
+        results = fetch_results(client, search_engine)
+    except Exception as e:
+        print(f"[warn] topic '{topic}' 抓取失败，跳过本次: {e!r}")
+        results = []
+
+    for result in results:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -61,7 +104,7 @@ def get_daily_papers(topic, query="SNN", max_results=2):
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
-      
+
         print("Time = ", update_time ,
               " title = ", paper_title,
               " author = ", paper_first_author)
@@ -71,7 +114,7 @@ def get_daily_papers(topic, query="SNN", max_results=2):
         if ver_pos == -1:
             paper_key = paper_id
         else:
-            paper_key = paper_id[0:ver_pos]    
+            paper_key = paper_id[0:ver_pos]
 
         try:
             cnt += 1
@@ -79,9 +122,8 @@ def get_daily_papers(topic, query="SNN", max_results=2):
             content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
             content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
 
-            
+
             # TODO: select useful comments
-            comments = None
             if comments != None:
                 content_to_web[paper_key] = content_to_web[paper_key] + f", {comments}\n"
             else:
@@ -92,10 +134,10 @@ def get_daily_papers(topic, query="SNN", max_results=2):
 
     sorted_content = dict(sorted(content.items(), key=lambda x: x[1].split('|')[1], reverse=True))
     sorted_content_to_web = dict(sorted(content_to_web.items(), key=lambda x: x[1].split(',')[0], reverse=True))
-                  
+
     data = {topic:sorted_content}
-    data_web = {topic:content_to_web}
-    return data, data_web 
+    data_web = {topic:sorted_content_to_web}
+    return data, data_web
 
 
 def update_json_file(filename, data_all):
@@ -105,10 +147,10 @@ def update_json_file(filename, data_all):
             m = {}
         else:
             m = json.loads(content)
-            
+
     json_data = m.copy()
-    
-    # update papers in each keywords         
+
+    # update papers in each keywords
     for data in data_all:
         for keyword in data.keys():
             papers = data[keyword]
@@ -122,14 +164,14 @@ def update_json_file(filename, data_all):
         papers = json_data[keyword]
         sorted_papers = dict(sorted(papers.items(), key=lambda x: x[1].split('|')[1], reverse=True))
         json_data[keyword] = sorted_papers
-    
+
     with open(filename, "w") as f:
         json.dump(json_data, f)
 
 
 def json_to_md(filename, md_filename,
-               to_web = False, 
-               use_title = True, 
+               to_web = False,
+               use_title = True,
                use_tc = True,
                show_badge = False):
     """
@@ -137,11 +179,11 @@ def json_to_md(filename, md_filename,
     @param md_filename: str
     @return None
     """
-    
+
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
-    
+
     with open(filename,"r") as f:
         content = f.read()
         if not content:
@@ -158,18 +200,18 @@ def json_to_md(filename, md_filename,
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
-        
+
         if show_badge == True:
             f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
             f.write(f"[![Forks][forks-shield]][forks-url]\n")
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
-                
+            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
+
         if use_title == True:
             f.write("## Updated on " + DateNow + "\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n\n")
-        
+
         #Add: table of contents
         if use_tc == True:
             f.write("<details>\n")
@@ -179,11 +221,11 @@ def json_to_md(filename, md_filename,
                 day_content = data[keyword]
                 if not day_content:
                     continue
-                kw = keyword.replace(' ','-')      
+                kw = keyword.replace(' ','-')
                 f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
-        
+
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
@@ -203,12 +245,12 @@ def json_to_md(filename, md_filename,
                     f.write(v)
 
             f.write(f"\n")
-            
+
             #Add: back to top
             top_info = f"#Updated on {DateNow}"
             top_info = top_info.replace(' ','-').replace('.','')
             f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
-        
+
         if show_badge == True:
             f.write(f"[contributors-shield]: https://img.shields.io/github/contributors/SpikingChen/snn-arxiv-daily.svg?style=for-the-badge\n")
             f.write(f"[contributors-url]: https://github.com/SpikingChen/snn-arxiv-daily/graphs/contributors\n")
@@ -218,20 +260,21 @@ def json_to_md(filename, md_filename,
             f.write(f"[stars-url]: https://github.com/SpikingChen/snn-arxiv-daily/stargazers\n")
             f.write(f"[issues-shield]: https://img.shields.io/github/issues/SpikingChen/snn-arxiv-daily.svg?style=for-the-badge\n")
             f.write(f"[issues-url]: https://github.com/SpikingChen/snn-arxiv-daily/issues\n\n")
-                
-    print("finished")        
 
- 
+    print("finished")
+
+
 if __name__ == "__main__":
 
     data_collector = []
     data_collector_web= []
-    
+
     keywords = dict()
-    keywords["Spiking Neural Network"]                 = "\"Spiking Neural Network\"OR\"Spiking Neural Networks\"OR\"Spiking Neuron\""
+    # 注意 OR 两侧必须有空格，否则不是合法的 arXiv query 语法
+    keywords["Spiking Neural Network"]                 = "\"Spiking Neural Network\" OR \"Spiking Neural Networks\" OR \"Spiking Neuron\""
 
     for topic,keyword in keywords.items():
- 
+
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
@@ -248,8 +291,3 @@ if __name__ == "__main__":
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file,md_file)
-
-
-
-
-
