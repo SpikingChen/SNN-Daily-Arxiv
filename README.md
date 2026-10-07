@@ -1,4 +1,4 @@
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-10-06**|**Common-Mode Errors Limit Low-Timestep Deep Spiking Q-Networks**|Zijie Xu et.al.|[2610.07808v1](http://arxiv.org/abs/2610.07808v1)|**[link](http://arxiv.org/abs/2610.07808v1)**|
 |**2026-10-05**|**Interplay between Excitability and Noise in Analog Spiking Neurons**|Léopold Van Brandt et.al.|[2610.06720v1](http://arxiv.org/abs/2610.06720v1)|**[link](http://arxiv.org/abs/2610.06720v1)**|
 |**2026-10-03**|**OACM: Optimistic Asynchronous Communication Model for Large-Scale SNN Simulation**|Guangnan Feng et.al.|[2610.04236v1](http://arxiv.org/abs/2610.04236v1)|**[link](http://arxiv.org/abs/2610.04236v1)**|
 |**2026-10-02**|**Learning While Inferring: Local and Parallel Learning for Edge SNNs across Sensing Modalities**|Yanxun Zhang et.al.|[2610.03149v1](http://arxiv.org/abs/2610.03149v1)|**[link](http://arxiv.org/abs/2610.03149v1)**|
@@ -3491,5 +3492,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
 
