@@ -1,4 +1,4 @@
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-10-08**|**SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving**|Chengjun Zhang et.al.|[2610.11583v1](http://arxiv.org/abs/2610.11583v1)|**[link](http://arxiv.org/abs/2610.11583v1)**|
+|**2026-10-08**|**MSGAT: Multi-Head Spiking Graph Attention with Similarity-Space Fusion for Image-Text Retrieval**|Xintao Zong et.al.|[2610.11526v1](http://arxiv.org/abs/2610.11526v1)|**[link](http://arxiv.org/abs/2610.11526v1)**|
 |**2026-10-07**|**EM-SNN: Efficiently Modulated Spiking Neural Network for Remote Sensing Image Dehazing**|Jie Shao et.al.|[2610.09275v1](http://arxiv.org/abs/2610.09275v1)|**[link](http://arxiv.org/abs/2610.09275v1)**|
 |**2026-10-06**|**Common-Mode Errors Limit Low-Timestep Deep Spiking Q-Networks**|Zijie Xu et.al.|[2610.07808v1](http://arxiv.org/abs/2610.07808v1)|**[link](http://arxiv.org/abs/2610.07808v1)**|
 |**2026-10-06**|**SpikeMoE: Brain-Inspired Competitive Routing for Flexible Spiking Mixture-of-Experts**|Xiaoli Liu et.al.|[2610.01418v2](http://arxiv.org/abs/2610.01418v2)|**[link](http://arxiv.org/abs/2610.01418v2)**|
@@ -3493,5 +3495,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261009>back to top</a>)</p>
 
