@@ -1,4 +1,4 @@
-## Updated on 2026.10.12
+## Updated on 2026.10.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,11 +11,14 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-10-09**|**DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness**|Daniel Szelogowski et.al.|[2610.13918v1](http://arxiv.org/abs/2610.13918v1)|**[link](http://arxiv.org/abs/2610.13918v1)**|
+|**2026-10-09**|**A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models**|Ivan Moloshnikov et.al.|[2610.13663v1](http://arxiv.org/abs/2610.13663v1)|**[link](http://arxiv.org/abs/2610.13663v1)**|
 |**2026-10-08**|**SDPAD: A Fully Spike-Driven Pipeline for End-to-End Autonomous Driving**|Chengjun Zhang et.al.|[2610.11583v1](http://arxiv.org/abs/2610.11583v1)|**[link](http://arxiv.org/abs/2610.11583v1)**|
 |**2026-10-08**|**MSGAT: Multi-Head Spiking Graph Attention with Similarity-Space Fusion for Image-Text Retrieval**|Xintao Zong et.al.|[2610.11526v1](http://arxiv.org/abs/2610.11526v1)|**[link](http://arxiv.org/abs/2610.11526v1)**|
 |**2026-10-07**|**EM-SNN: Efficiently Modulated Spiking Neural Network for Remote Sensing Image Dehazing**|Jie Shao et.al.|[2610.09275v1](http://arxiv.org/abs/2610.09275v1)|**[link](http://arxiv.org/abs/2610.09275v1)**|
 |**2026-10-06**|**Common-Mode Errors Limit Low-Timestep Deep Spiking Q-Networks**|Zijie Xu et.al.|[2610.07808v1](http://arxiv.org/abs/2610.07808v1)|**[link](http://arxiv.org/abs/2610.07808v1)**|
 |**2026-10-06**|**SpikeMoE: Brain-Inspired Competitive Routing for Flexible Spiking Mixture-of-Experts**|Xiaoli Liu et.al.|[2610.01418v2](http://arxiv.org/abs/2610.01418v2)|**[link](http://arxiv.org/abs/2610.01418v2)**|
+|**2026-10-06**|**Energy-Efficient Spiking Neural Networks for Sensing-Aided Beam Prediction**|Nhan Thanh Nguyen et.al.|[2610.12507v1](http://arxiv.org/abs/2610.12507v1)|**[link](http://arxiv.org/abs/2610.12507v1)**|
 |**2026-10-05**|**Interplay between Excitability and Noise in Analog Spiking Neurons**|Léopold Van Brandt et.al.|[2610.06720v1](http://arxiv.org/abs/2610.06720v1)|**[link](http://arxiv.org/abs/2610.06720v1)**|
 |**2026-10-03**|**OACM: Optimistic Asynchronous Communication Model for Large-Scale SNN Simulation**|Guangnan Feng et.al.|[2610.04236v1](http://arxiv.org/abs/2610.04236v1)|**[link](http://arxiv.org/abs/2610.04236v1)**|
 |**2026-10-02**|**Learning While Inferring: Local and Parallel Learning for Edge SNNs across Sensing Modalities**|Yanxun Zhang et.al.|[2610.03149v1](http://arxiv.org/abs/2610.03149v1)|**[link](http://arxiv.org/abs/2610.03149v1)**|
@@ -3495,5 +3498,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261012>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261013>back to top</a>)</p>
 
