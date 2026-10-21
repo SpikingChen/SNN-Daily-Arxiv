@@ -1,4 +1,4 @@
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-10-19**|**Online Preplay and Offline Replay Optimize Action Selection in a Closed-Loop Navigation Model**|Masud Ehsani et.al.|[2610.26424v1](http://arxiv.org/abs/2610.26424v1)|**[link](http://arxiv.org/abs/2610.26424v1)**|
+|**2026-10-17**|**SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**|Xiang Hao et.al.|[2610.24696v1](http://arxiv.org/abs/2610.24696v1)|**[link](http://arxiv.org/abs/2610.24696v1)**|
+|**2026-10-17**|**SpikeDuet: CPU-Accelerator Co-Execution of Sparse SNNs on Commodity MCUs**|Muhammad Fahd Ibrahim Bhatti et.al.|[2610.24677v1](http://arxiv.org/abs/2610.24677v1)|**[link](http://arxiv.org/abs/2610.24677v1)**|
 |**2026-10-16**|**Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation**|Zizhe Wang et.al.|[2610.23068v1](http://arxiv.org/abs/2610.23068v1)|**[link](http://arxiv.org/abs/2610.23068v1)**|
 |**2026-10-16**|**SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks**|Kai Sun et.al.|[2610.23046v1](http://arxiv.org/abs/2610.23046v1)|**[link](http://arxiv.org/abs/2610.23046v1)**|
 |**2026-10-15**|**Beyond the Hamming Cliff: Compact Spatial Encodings Preserving Semantic Distance in Spiking Neural Networks**|Sergio Davies et.al.|[2610.22083v1](http://arxiv.org/abs/2610.22083v1)|**[link](http://arxiv.org/abs/2610.22083v1)**|
@@ -22,6 +25,7 @@
 |**2026-10-14**|**Controlling the latency in temporal coded spiking models for neuromorphic datasets**|Alban Gattepaille et.al.|[2610.19732v1](http://arxiv.org/abs/2610.19732v1)|**[link](http://arxiv.org/abs/2610.19732v1)**|
 |**2026-10-14**|**Design and Analysis of Temporal Representations in Neural Networks**|Alban Colas-Gattepaille et.al.|[2610.19730v1](http://arxiv.org/abs/2610.19730v1)|**[link](http://arxiv.org/abs/2610.19730v1)**|
 |**2026-10-14**|**Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions**|Jan Pyrzowski et.al.|[2610.20971v1](http://arxiv.org/abs/2610.20971v1)|**[link](http://arxiv.org/abs/2610.20971v1)**|
+|**2026-10-14**|**A Time-Variant Spiking Neuron from a Unified State-Dynamics Perspective**|Jing Yang et.al.|[2610.23981v1](http://arxiv.org/abs/2610.23981v1)|**[link](http://arxiv.org/abs/2610.23981v1)**|
 |**2026-10-13**|**Saliency-Guided Replay for Continual Learning in Deep Spiking Neural Networks**|Francesco Panetta et.al.|[2610.17998v1](http://arxiv.org/abs/2610.17998v1)|**[link](http://arxiv.org/abs/2610.17998v1)**|
 |**2026-10-12**|**An FPGA-Based Spiking Neural Network for Spatiotemporal Pattern Learning and Classification**|Jingang Jin et.al.|[2610.17463v1](http://arxiv.org/abs/2610.17463v1)|**[link](http://arxiv.org/abs/2610.17463v1)**|
 |**2026-10-12**|**Neuromorphic Decoding and Dynamical Image Reconstruction from Populations of Spiking Retinal Ganglion Cells**|Ning Zhang et.al.|[2610.17154v1](http://arxiv.org/abs/2610.17154v1)|**[link](http://arxiv.org/abs/2610.17154v1)**|
@@ -3519,5 +3523,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261021>back to top</a>)</p>
 
