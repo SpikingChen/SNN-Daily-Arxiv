@@ -1,4 +1,4 @@
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,8 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-10-21**|**Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition**|Pavlos Poulos et.al.|[2610.29720v1](http://arxiv.org/abs/2610.29720v1)|**[link](http://arxiv.org/abs/2610.29720v1)**|
+|**2026-10-21**|**SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network**|Shuangming Yang et.al.|[2610.29158v1](http://arxiv.org/abs/2610.29158v1)|**[link](http://arxiv.org/abs/2610.29158v1)**|
 |**2026-10-20**|**Compute-Optimal Scaling Laws for Spiking Language Models**|Dan Saunders et.al.|[2610.15146v2](http://arxiv.org/abs/2610.15146v2)|**[link](http://arxiv.org/abs/2610.15146v2)**|
 |**2026-10-20**|**SpikCTU: A Compact Spiking Network with Adaptive Recurrent Computation for Speech Command Recognition**|Li Jin et.al.|[2610.14594v2](http://arxiv.org/abs/2610.14594v2)|**[link](http://arxiv.org/abs/2610.14594v2)**|
 |**2026-10-20**|**Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks**|Erik Stolt et.al.|[2610.28495v1](http://arxiv.org/abs/2610.28495v1)|**[link](http://arxiv.org/abs/2610.28495v1)**|
@@ -3525,5 +3527,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261023>back to top</a>)</p>
 
