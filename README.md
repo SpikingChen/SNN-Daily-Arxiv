@@ -1,4 +1,4 @@
-## Updated on 2026.10.25
+## Updated on 2026.10.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,7 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
-|**2026-10-21**|**Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition**|Pavlos Poulos et.al.|[2610.29720v1](http://arxiv.org/abs/2610.29720v1)|**[link](http://arxiv.org/abs/2610.29720v1)**|
+|**2026-10-25**|**A spinal-inspired spiking neural network for continuous finger-joint kinematics estimation from high-density surface EMG**|Cristian David Guerrero-Mendez et.al.|[2610.33979v1](http://arxiv.org/abs/2610.33979v1)|**[link](http://arxiv.org/abs/2610.33979v1)**|
+|**2026-10-23**|**PAFS: Perturbation-Aware Firing Scaffolds for Robust Event-Based SNNs**|Ning Liu et.al.|[2610.32409v1](http://arxiv.org/abs/2610.32409v1)|**[link](http://arxiv.org/abs/2610.32409v1)**|
+|**2026-10-23**|**A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic**|Ali Mehrabi et.al.|[2610.32052v1](http://arxiv.org/abs/2610.32052v1)|**[link](http://arxiv.org/abs/2610.32052v1)**|
+|**2026-10-22**|**Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition**|Pavlos Poulos et.al.|[2610.29720v2](http://arxiv.org/abs/2610.29720v2)|**[link](http://arxiv.org/abs/2610.29720v2)**|
 |**2026-10-21**|**SICAF: Time-Varying Focus Bottleneck for Self-Supervised Event-Based Optical Flow with Spiking Neural Network**|Shuangming Yang et.al.|[2610.29158v1](http://arxiv.org/abs/2610.29158v1)|**[link](http://arxiv.org/abs/2610.29158v1)**|
 |**2026-10-21**|**Spike-Aware Gradient-Based Mixed-Precision Quantization of Spiking Neural Networks for Vision Applications**|Rajshekhar Rakshit et.al.|[2610.30339v1](http://arxiv.org/abs/2610.30339v1)|**[link](http://arxiv.org/abs/2610.30339v1)**|
 |**2026-10-20**|**Compute-Optimal Scaling Laws for Spiking Language Models**|Dan Saunders et.al.|[2610.15146v2](http://arxiv.org/abs/2610.15146v2)|**[link](http://arxiv.org/abs/2610.15146v2)**|
@@ -19,6 +22,7 @@
 |**2026-10-20**|**Model- and Layer-Level Closed-Loop Forecasting with SSM-Based Spiking Neural Networks**|Erik Stolt et.al.|[2610.28495v1](http://arxiv.org/abs/2610.28495v1)|**[link](http://arxiv.org/abs/2610.28495v1)**|
 |**2026-10-20**|**Robust Representation Learning for Spiking Neural Networks based on Conditional Information Bottleneck**|Yuli Zha et.al.|[2610.28110v1](http://arxiv.org/abs/2610.28110v1)|**[link](http://arxiv.org/abs/2610.28110v1)**|
 |**2026-10-19**|**Online Preplay and Offline Replay Optimize Action Selection in a Closed-Loop Navigation Model**|Masud Ehsani et.al.|[2610.26424v1](http://arxiv.org/abs/2610.26424v1)|**[link](http://arxiv.org/abs/2610.26424v1)**|
+|**2026-10-19**|**Evaluating Spiking MoveNet Deployability for Near-Future Onboard Spiking Satellite Pose Estimation**|Jonathan Courtois et.al.|[2610.33061v1](http://arxiv.org/abs/2610.33061v1)|**[link](http://arxiv.org/abs/2610.33061v1)**|
 |**2026-10-17**|**SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**|Xiang Hao et.al.|[2610.24696v1](http://arxiv.org/abs/2610.24696v1)|**[link](http://arxiv.org/abs/2610.24696v1)**|
 |**2026-10-17**|**SpikeDuet: CPU-Accelerator Co-Execution of Sparse SNNs on Commodity MCUs**|Muhammad Fahd Ibrahim Bhatti et.al.|[2610.24677v1](http://arxiv.org/abs/2610.24677v1)|**[link](http://arxiv.org/abs/2610.24677v1)**|
 |**2026-10-16**|**Foundation Models for Autonomous Space Robotics: Architectures, Physical Adaptation, and Validation**|Zizhe Wang et.al.|[2610.23068v1](http://arxiv.org/abs/2610.23068v1)|**[link](http://arxiv.org/abs/2610.23068v1)**|
@@ -3528,5 +3532,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261027>back to top</a>)</p>
 
