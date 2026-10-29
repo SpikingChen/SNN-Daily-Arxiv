@@ -1,4 +1,4 @@
-## Updated on 2026.10.28
+## Updated on 2026.10.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-10-27**|**Keeping Inference in the Radio: Design and Measurement of a Spiking Accelerator for mmWave ISAC Activity Recognition**|Anthony Sánchez et.al.|[2610.37480v1](http://arxiv.org/abs/2610.37480v1)|**[link](http://arxiv.org/abs/2610.37480v1)**|
+|**2026-10-27**|**Spiking Neuromorphic Control for Periodic Orbits Stabilization in Underactuated Robots: A Greedy Lyapunov-Based Approach**|Maksim Surov et.al.|[2610.37310v1](http://arxiv.org/abs/2610.37310v1)|**[link](http://arxiv.org/abs/2610.37310v1)**|
+|**2026-10-27**|**Hardware-Matched Spiking Neural Networks for Real-Time Purkinje Cell Spike Classification**|Arooba Farhan et.al.|[2610.37104v1](http://arxiv.org/abs/2610.37104v1)|**[link](http://arxiv.org/abs/2610.37104v1)**|
+|**2026-10-26**|**Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks**|Ayana Moshruba et.al.|[2610.36298v1](http://arxiv.org/abs/2610.36298v1)|**[link](http://arxiv.org/abs/2610.36298v1)**|
+|**2026-10-26**|**Characterizing Privacy Leakage in Spiking Neural Networks: A Systematic Analysis of Temporal Dynamics, Stochasticity, Neuronal Dynamics and Learning Mechanisms**|Ayana Moshruba et.al.|[2610.36243v1](http://arxiv.org/abs/2610.36243v1)|**[link](http://arxiv.org/abs/2610.36243v1)**|
 |**2026-10-25**|**A spinal-inspired spiking neural network for continuous finger-joint kinematics estimation from high-density surface EMG**|Cristian David Guerrero-Mendez et.al.|[2610.33979v1](http://arxiv.org/abs/2610.33979v1)|**[link](http://arxiv.org/abs/2610.33979v1)**|
 |**2026-10-23**|**PAFS: Perturbation-Aware Firing Scaffolds for Robust Event-Based SNNs**|Ning Liu et.al.|[2610.32409v1](http://arxiv.org/abs/2610.32409v1)|**[link](http://arxiv.org/abs/2610.32409v1)**|
 |**2026-10-23**|**A Resource-Efficient and Precision-Scalable FPGA Accelerator for Spiking Neural Networks Using Minifloat Arithmetic**|Ali Mehrabi et.al.|[2610.32052v1](http://arxiv.org/abs/2610.32052v1)|**[link](http://arxiv.org/abs/2610.32052v1)**|
@@ -3532,5 +3537,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261029>back to top</a>)</p>
 
