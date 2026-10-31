@@ -1,4 +1,4 @@
-## Updated on 2026.10.30
+## Updated on 2026.10.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-10-29**|**AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI**|Volker Kempe et.al.|[2610.39796v1](http://arxiv.org/abs/2610.39796v1)|**[link](http://arxiv.org/abs/2610.39796v1)**|
+|**2026-10-29**|**Hardware-Aware Model Inversion in Memristive Spiking Neural Networks**|Pablo Sorrentino et.al.|[2610.39688v1](http://arxiv.org/abs/2610.39688v1)|**[link](http://arxiv.org/abs/2610.39688v1)**|
+|**2026-10-29**|**GC-LIF: Spiking Group-Equivariant Neural Network With Group-Coupled Membrane Dynamics**|Nhan Trong Luu et.al.|[2610.39601v1](http://arxiv.org/abs/2610.39601v1)|**[link](http://arxiv.org/abs/2610.39601v1)**|
+|**2026-10-28**|**Recognition of auditory objects from continuous and ultra-sparse spike streams in neuromorphic devices**|Leonardo E. S. Tavares et.al.|[2610.38564v1](http://arxiv.org/abs/2610.38564v1)|**[link](http://arxiv.org/abs/2610.38564v1)**|
 |**2026-10-27**|**Keeping Inference in the Radio: Design and Measurement of a Spiking Accelerator for mmWave ISAC Activity Recognition**|Anthony Sánchez et.al.|[2610.37480v1](http://arxiv.org/abs/2610.37480v1)|**[link](http://arxiv.org/abs/2610.37480v1)**|
 |**2026-10-27**|**Spiking Neuromorphic Control for Periodic Orbits Stabilization in Underactuated Robots: A Greedy Lyapunov-Based Approach**|Maksim Surov et.al.|[2610.37310v1](http://arxiv.org/abs/2610.37310v1)|**[link](http://arxiv.org/abs/2610.37310v1)**|
 |**2026-10-27**|**Hardware-Matched Spiking Neural Networks for Real-Time Purkinje Cell Spike Classification**|Arooba Farhan et.al.|[2610.37104v1](http://arxiv.org/abs/2610.37104v1)|**[link](http://arxiv.org/abs/2610.37104v1)**|
@@ -3537,5 +3541,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261031>back to top</a>)</p>
 
