@@ -1,4 +1,4 @@
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-11-01**|**SparseForge: Beyond Spike Sparsity toward Hardware-Exploitable Neuron Pruning for Efficient SNN Acceleration**|Kainan Wang et.al.|[2611.01611v1](http://arxiv.org/abs/2611.01611v1)|**[link](http://arxiv.org/abs/2611.01611v1)**|
 |**2026-10-30**|**Input-dependent Neuromodulation Enhances Mixed-Signal Neuromorphic Hardware**|Aashman Mehta et.al.|[2610.41265v1](http://arxiv.org/abs/2610.41265v1)|**[link](http://arxiv.org/abs/2610.41265v1)**|
 |**2026-10-29**|**AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI**|Volker Kempe et.al.|[2610.39796v1](http://arxiv.org/abs/2610.39796v1)|**[link](http://arxiv.org/abs/2610.39796v1)**|
 |**2026-10-29**|**Hardware-Aware Model Inversion in Memristive Spiking Neural Networks**|Pablo Sorrentino et.al.|[2610.39688v1](http://arxiv.org/abs/2610.39688v1)|**[link](http://arxiv.org/abs/2610.39688v1)**|
@@ -3545,5 +3546,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261104>back to top</a>)</p>
 
