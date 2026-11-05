@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,10 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-11-03**|**Hardware-Aware Model Inversion in Memristive Spiking Neural Networks**|Pablo Sorrentino et.al.|[2610.39688v2](http://arxiv.org/abs/2610.39688v2)|**[link](http://arxiv.org/abs/2610.39688v2)**|
+|**2026-11-02**|**Evolved Spiking Neural Networks for EEG Seizure Detection: Calcium Dynamics and Delay Mechanics**|Tuba Aksoy et.al.|[2611.03841v1](http://arxiv.org/abs/2611.03841v1)|**[link](http://arxiv.org/abs/2611.03841v1)**|
 |**2026-11-01**|**SparseForge: Beyond Spike Sparsity toward Hardware-Exploitable Neuron Pruning for Efficient SNN Acceleration**|Kainan Wang et.al.|[2611.01611v1](http://arxiv.org/abs/2611.01611v1)|**[link](http://arxiv.org/abs/2611.01611v1)**|
 |**2026-10-30**|**Input-dependent Neuromodulation Enhances Mixed-Signal Neuromorphic Hardware**|Aashman Mehta et.al.|[2610.41265v1](http://arxiv.org/abs/2610.41265v1)|**[link](http://arxiv.org/abs/2610.41265v1)**|
 |**2026-10-29**|**AI at a Turning Point: From ChatGPT through Neural Networks to Neuromorphic AI**|Volker Kempe et.al.|[2610.39796v1](http://arxiv.org/abs/2610.39796v1)|**[link](http://arxiv.org/abs/2610.39796v1)**|
-|**2026-10-29**|**Hardware-Aware Model Inversion in Memristive Spiking Neural Networks**|Pablo Sorrentino et.al.|[2610.39688v1](http://arxiv.org/abs/2610.39688v1)|**[link](http://arxiv.org/abs/2610.39688v1)**|
 |**2026-10-29**|**GC-LIF: Spiking Group-Equivariant Neural Network With Group-Coupled Membrane Dynamics**|Nhan Trong Luu et.al.|[2610.39601v1](http://arxiv.org/abs/2610.39601v1)|**[link](http://arxiv.org/abs/2610.39601v1)**|
 |**2026-10-28**|**Recognition of auditory objects from continuous and ultra-sparse spike streams in neuromorphic devices**|Leonardo E. S. Tavares et.al.|[2610.38564v1](http://arxiv.org/abs/2610.38564v1)|**[link](http://arxiv.org/abs/2610.38564v1)**|
 |**2026-10-28**|**State-Dependent Memristor Dynamics for Device-Informed Spike-Timing-Dependent Plasticity in Spiking Neural Networks**|Samiur Rahman Khan et.al.|[2611.00119v1](http://arxiv.org/abs/2611.00119v1)|**[link](http://arxiv.org/abs/2611.00119v1)**|
@@ -3546,5 +3547,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261105>back to top</a>)</p>
 
