@@ -1,4 +1,4 @@
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-11-07**|**Spiking Sensory Networks**|Lleyton Ariton et.al.|[2611.10359v1](http://arxiv.org/abs/2611.10359v1)|**[link](http://arxiv.org/abs/2611.10359v1)**|
+|**2026-11-06**|**Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model**|Maryam Soltani et.al.|[2611.09295v1](http://arxiv.org/abs/2611.09295v1)|**[link](http://arxiv.org/abs/2611.09295v1)**|
+|**2026-11-06**|**Circuit Theory-Informed AI for Condition Monitoring in Power Electronics**|Yubo Song et.al.|[2611.09141v1](http://arxiv.org/abs/2611.09141v1)|**[link](http://arxiv.org/abs/2611.09141v1)**|
 |**2026-11-04**|**A spinal-inspired spiking neural network for continuous finger-joint kinematics estimation from high-density surface EMG**|Cristian David Guerrero-Mendez et.al.|[2610.33979v2](http://arxiv.org/abs/2610.33979v2)|**[link](http://arxiv.org/abs/2610.33979v2)**|
 |**2026-11-04**|**SpikCTU: A Compact Spiking Network with Adaptive Recurrent Computation for Speech Command Recognition**|Jin Li et.al.|[2610.14594v3](http://arxiv.org/abs/2610.14594v3)|**[link](http://arxiv.org/abs/2610.14594v3)**|
 |**2026-11-03**|**Hardware-Aware Model Inversion in Memristive Spiking Neural Networks**|Pablo Sorrentino et.al.|[2610.39688v2](http://arxiv.org/abs/2610.39688v2)|**[link](http://arxiv.org/abs/2610.39688v2)**|
@@ -3548,5 +3551,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
 
