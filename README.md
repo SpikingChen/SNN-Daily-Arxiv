@@ -1,4 +1,4 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,12 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-11-09**|**Controlling the latency in temporal coded spiking models for neuromorphic datasets**|Alban Gattepaille et.al.|[2610.19732v2](http://arxiv.org/abs/2610.19732v2)|**[link](http://arxiv.org/abs/2610.19732v2)**|
+|**2026-11-09**|**Spike-to-Field Mechanisms of Turbulence-Like Dynamics in Spatial Spiking Neural Networks**|Zequan Liu et.al.|[2611.12627v1](http://arxiv.org/abs/2611.12627v1)|**[link](http://arxiv.org/abs/2611.12627v1)**|
+|**2026-11-09**|**TSFFormer: A Frequency-Domain Spike Transformer for Green Human Activity Recognition**|Jiale Deng et.al.|[2611.12090v1](http://arxiv.org/abs/2611.12090v1)|**[link](http://arxiv.org/abs/2611.12090v1)**|
+|**2026-11-08**|**Predictive Neuromorphic Control of a Scanning Mirror System: An Event-Centric Framework**|Changrui Liu et.al.|[2611.11634v1](http://arxiv.org/abs/2611.11634v1)|**[link](http://arxiv.org/abs/2611.11634v1)**|
+|**2026-11-08**|**Understanding Spike Encoding across IoT Sensing Modalities: An Empirical Study**|Yuxuan Hou et.al.|[2611.11317v1](http://arxiv.org/abs/2611.11317v1)|**[link](http://arxiv.org/abs/2611.11317v1)**|
+|**2026-11-08**|**Neural Activity Synchronization-Based Fast Local Learnable Spiking Neural Network Architecture**|Pranith Dutta et.al.|[2611.11053v1](http://arxiv.org/abs/2611.11053v1)|**[link](http://arxiv.org/abs/2611.11053v1)**|
 |**2026-11-07**|**Spiking Sensory Networks**|Lleyton Ariton et.al.|[2611.10359v1](http://arxiv.org/abs/2611.10359v1)|**[link](http://arxiv.org/abs/2611.10359v1)**|
 |**2026-11-06**|**Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model**|Maryam Soltani et.al.|[2611.09295v1](http://arxiv.org/abs/2611.09295v1)|**[link](http://arxiv.org/abs/2611.09295v1)**|
 |**2026-11-06**|**Circuit Theory-Informed AI for Condition Monitoring in Power Electronics**|Yubo Song et.al.|[2611.09141v1](http://arxiv.org/abs/2611.09141v1)|**[link](http://arxiv.org/abs/2611.09141v1)**|
@@ -53,7 +59,6 @@
 |**2026-10-15**|**PSA: A Pruning-Friendly Sparse-Aware Accelerator for Efficient Sparse Convolution in SNNs**|Sanhe Fu et.al.|[2610.21313v1](http://arxiv.org/abs/2610.21313v1)|**[link](http://arxiv.org/abs/2610.21313v1)**|
 |**2026-10-15**|**Upper bounds on the number of causal pieces in spiking neural networks**|Dominik Dold et.al.|[2610.22484v1](http://arxiv.org/abs/2610.22484v1)|**[link](http://arxiv.org/abs/2610.22484v1)**|
 |**2026-10-14**|**STISA: A 0.16 GOPS/W/PE Single-Shot Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2610.19973v1](http://arxiv.org/abs/2610.19973v1)|**[link](http://arxiv.org/abs/2610.19973v1)**|
-|**2026-10-14**|**Controlling the latency in temporal coded spiking models for neuromorphic datasets**|Alban Gattepaille et.al.|[2610.19732v1](http://arxiv.org/abs/2610.19732v1)|**[link](http://arxiv.org/abs/2610.19732v1)**|
 |**2026-10-14**|**Design and Analysis of Temporal Representations in Neural Networks**|Alban Colas-Gattepaille et.al.|[2610.19730v1](http://arxiv.org/abs/2610.19730v1)|**[link](http://arxiv.org/abs/2610.19730v1)**|
 |**2026-10-14**|**Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions**|Jan Pyrzowski et.al.|[2610.20971v1](http://arxiv.org/abs/2610.20971v1)|**[link](http://arxiv.org/abs/2610.20971v1)**|
 |**2026-10-14**|**A Time-Variant Spiking Neuron from a Unified State-Dynamics Perspective**|Jing Yang et.al.|[2610.23981v1](http://arxiv.org/abs/2610.23981v1)|**[link](http://arxiv.org/abs/2610.23981v1)**|
@@ -3551,5 +3556,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261111>back to top</a>)</p>
 
