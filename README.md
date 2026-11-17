@@ -1,4 +1,4 @@
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-11-15**|**State Diagram of Dual-Free-Layer Perpendicular Magnetic Tunnel Junctions for Artificial Spiking Neurons**|Arthur Courberand et.al.|[2611.19727v1](http://arxiv.org/abs/2611.19727v1)|**[link](http://arxiv.org/abs/2611.19727v1)**|
+|**2026-11-13**|**Local Spike Timing Enables Gradient-based Learning in Neural Microcircuits**|Xiangnan Zhang et.al.|[2609.08070v3](http://arxiv.org/abs/2609.08070v3)|**[link](http://arxiv.org/abs/2609.08070v3)**|
+|**2026-11-13**|**Brain-inspired Beam Selection for mmWave RIS Communication**|Aris Karampelas Timotijevic et.al.|[2611.17666v1](http://arxiv.org/abs/2611.17666v1)|**[link](http://arxiv.org/abs/2611.17666v1)**|
 |**2026-11-12**|**Structure-Preserving Leaky Integrate-and-Fire Dynamics on Arbitrary Time Scales**|Billur Kaymakçalan et.al.|[2611.17219v1](http://arxiv.org/abs/2611.17219v1)|**[link](http://arxiv.org/abs/2611.17219v1)**|
 |**2026-11-10**|**Predictive Neuromorphic Control of a Scanning Mirror System: An Event-Centric Framework**|Changrui Liu et.al.|[2611.11634v2](http://arxiv.org/abs/2611.11634v2)|**[link](http://arxiv.org/abs/2611.11634v2)**|
 |**2026-11-10**|**Are Spiking Neural Networks Harder to Steal? The Role of Stochastic Encoding in Model Extraction**|Ayana Moshruba et.al.|[2610.36298v2](http://arxiv.org/abs/2610.36298v2)|**[link](http://arxiv.org/abs/2610.36298v2)**|
@@ -130,7 +133,6 @@
 |**2026-09-11**|**Pedestrian Crossing Intent Classification From Event-Based Vision Using Convolutional Spiking Neural Networks With Temporal Augmentation**|Henok Teklu et.al.|[2609.13328v1](http://arxiv.org/abs/2609.13328v1)|**[link](http://arxiv.org/abs/2609.13328v1)**|
 |**2026-09-10**|**A Time-Based Readout for Vector-Matrix Multiplication in Fully Analog Memristive SNNs**|Elia Mateu-Barriendos et.al.|[2609.11713v1](http://arxiv.org/abs/2609.11713v1)|**[link](http://arxiv.org/abs/2609.11713v1)**|
 |**2026-09-10**|**Polyhedral Geometry of Time-to-First-Spike Neural Networks**|Manjot Singh et.al.|[2609.11227v1](http://arxiv.org/abs/2609.11227v1)|**[link](http://arxiv.org/abs/2609.11227v1)**|
-|**2026-09-10**|**A Gradient-based yet Spike-Timing-Dependent Solution to the Feedback Learning Problem in Neural Microcircuits**|Xiangnan Zhang et.al.|[2609.08070v2](http://arxiv.org/abs/2609.08070v2)|**[link](http://arxiv.org/abs/2609.08070v2)**|
 |**2026-09-09**|**Robust Industrial Cyber Physical Classification Using Neuromorphic Temporal Embeddings and Hybrid SNN XGBoost Under Machine Unlearning Attacks**|Ammar Kamoona et.al.|[2609.09564v1](http://arxiv.org/abs/2609.09564v1)|**[link](http://arxiv.org/abs/2609.09564v1)**|
 |**2026-09-08**|**FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Hybrid Stationarity**|Nicolas Chauvaux et.al.|[2609.08446v1](http://arxiv.org/abs/2609.08446v1)|**[link](http://arxiv.org/abs/2609.08446v1)**|
 |**2026-09-05**|**Brain-Inspired User Positioning for mmWave Beam Management**|Aris Karampelas Timotijevic et.al.|[2609.06252v1](http://arxiv.org/abs/2609.06252v1)|**[link](http://arxiv.org/abs/2609.06252v1)**|
@@ -3560,5 +3562,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261116>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261117>back to top</a>)</p>
 
