@@ -1,4 +1,4 @@
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-11-17**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514v2](http://arxiv.org/abs/2609.39514v2)|**[link](http://arxiv.org/abs/2609.39514v2)**|
+|**2026-11-17**|**EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras**|Yimeng Shan et.al.|[2611.22700v1](http://arxiv.org/abs/2611.22700v1)|**[link](http://arxiv.org/abs/2611.22700v1)**|
+|**2026-11-17**|**Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control**|Artem Guba et.al.|[2611.22639v1](http://arxiv.org/abs/2611.22639v1)|**[link](http://arxiv.org/abs/2611.22639v1)**|
+|**2026-11-16**|**Connectivity from activity in spiking neural networks**|Albert J. Wakhloo et.al.|[2611.21592v1](http://arxiv.org/abs/2611.21592v1)|**[link](http://arxiv.org/abs/2611.21592v1)**|
 |**2026-11-15**|**State Diagram of Dual-Free-Layer Perpendicular Magnetic Tunnel Junctions for Artificial Spiking Neurons**|Arthur Courberand et.al.|[2611.19727v1](http://arxiv.org/abs/2611.19727v1)|**[link](http://arxiv.org/abs/2611.19727v1)**|
 |**2026-11-13**|**Local Spike Timing Enables Gradient-based Learning in Neural Microcircuits**|Xiangnan Zhang et.al.|[2609.08070v3](http://arxiv.org/abs/2609.08070v3)|**[link](http://arxiv.org/abs/2609.08070v3)**|
 |**2026-11-13**|**Brain-inspired Beam Selection for mmWave RIS Communication**|Aris Karampelas Timotijevic et.al.|[2611.17666v1](http://arxiv.org/abs/2611.17666v1)|**[link](http://arxiv.org/abs/2611.17666v1)**|
@@ -94,7 +98,6 @@
 |**2026-10-01**|**Contrastive Attention Mitigates Spectral Bias in Spiking Transformers**|Xiaoli Liu et.al.|[2610.01403v1](http://arxiv.org/abs/2610.01403v1)|**[link](http://arxiv.org/abs/2610.01403v1)**|
 |**2026-09-30**|**Neuromorphic Pseudo-Random Number Generators with a Low Power Hardware Implementation**|Jafar Shamsi et.al.|[2610.00719v1](http://arxiv.org/abs/2610.00719v1)|**[link](http://arxiv.org/abs/2610.00719v1)**|
 |**2026-09-30**|**Stochastic Dynamics of Large-Scale Motif-Embedded Spiking Neuronal Networks**|Gurpreet Jagdev et.al.|[2610.00616v1](http://arxiv.org/abs/2610.00616v1)|**[link](http://arxiv.org/abs/2610.00616v1)**|
-|**2026-09-30**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514v1](http://arxiv.org/abs/2609.39514v1)|**[link](http://arxiv.org/abs/2609.39514v1)**|
 |**2026-09-30**|**Multi-Depth Temporal Fusion for Feedforward, Locally Trained Spiking Neural Networks**|Aidin Attar et.al.|[2609.37047v2](http://arxiv.org/abs/2609.37047v2)|**[link](http://arxiv.org/abs/2609.37047v2)**|
 |**2026-09-29**|**Vmem-$\varphi$: Low-Compute Out-of-Distribution Detection in Spiking Neural Networks from Membrane-Potential Statistics**|Arul Rana et.al.|[2610.00350v1](http://arxiv.org/abs/2610.00350v1)|**[link](http://arxiv.org/abs/2610.00350v1)**|
 |**2026-09-29**|**Simulating Synchrony Loop Networks in the Open Source RISP Neuroprocessor**|Jackson Mowry et.al.|[2609.38432v1](http://arxiv.org/abs/2609.38432v1)|**[link](http://arxiv.org/abs/2609.38432v1)**|
@@ -3562,5 +3565,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261118>back to top</a>)</p>
 
