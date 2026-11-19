@@ -1,4 +1,4 @@
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-11-18**|**AdaS-ViT: Test-Time Adaptive Routing for Spiking Vision Transformers with Ultra-High Energy Efficiency**|Zecheng Hao et.al.|[2611.23728v1](http://arxiv.org/abs/2611.23728v1)|**[link](http://arxiv.org/abs/2611.23728v1)**|
 |**2026-11-17**|**Spike-driven Vision-Language-Action Model**|Shuai Wang et.al.|[2609.39514v2](http://arxiv.org/abs/2609.39514v2)|**[link](http://arxiv.org/abs/2609.39514v2)**|
 |**2026-11-17**|**EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras**|Yimeng Shan et.al.|[2611.22700v1](http://arxiv.org/abs/2611.22700v1)|**[link](http://arxiv.org/abs/2611.22700v1)**|
 |**2026-11-17**|**Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control**|Artem Guba et.al.|[2611.22639v1](http://arxiv.org/abs/2611.22639v1)|**[link](http://arxiv.org/abs/2611.22639v1)**|
+|**2026-11-17**|**SpikWM: Efficient End-to-End Spiking World Modeling for Visual Planning**|Shuhan Ye et.al.|[2611.22981v1](http://arxiv.org/abs/2611.22981v1)|**[link](http://arxiv.org/abs/2611.22981v1)**|
 |**2026-11-16**|**Connectivity from activity in spiking neural networks**|Albert J. Wakhloo et.al.|[2611.21592v1](http://arxiv.org/abs/2611.21592v1)|**[link](http://arxiv.org/abs/2611.21592v1)**|
 |**2026-11-15**|**State Diagram of Dual-Free-Layer Perpendicular Magnetic Tunnel Junctions for Artificial Spiking Neurons**|Arthur Courberand et.al.|[2611.19727v1](http://arxiv.org/abs/2611.19727v1)|**[link](http://arxiv.org/abs/2611.19727v1)**|
 |**2026-11-13**|**Local Spike Timing Enables Gradient-based Learning in Neural Microcircuits**|Xiangnan Zhang et.al.|[2609.08070v3](http://arxiv.org/abs/2609.08070v3)|**[link](http://arxiv.org/abs/2609.08070v3)**|
@@ -141,6 +143,7 @@
 |**2026-09-05**|**Brain-Inspired User Positioning for mmWave Beam Management**|Aris Karampelas Timotijevic et.al.|[2609.06252v1](http://arxiv.org/abs/2609.06252v1)|**[link](http://arxiv.org/abs/2609.06252v1)**|
 |**2026-09-04**|**Large Language Models with At Most One Spike per Neuron**|Zhuoya Zhao et.al.|[2609.05151v1](http://arxiv.org/abs/2609.05151v1)|**[link](http://arxiv.org/abs/2609.05151v1)**|
 |**2026-09-04**|**Robust stabilization with spiking neuronal communication**|Elena Petri et.al.|[2609.05054v1](http://arxiv.org/abs/2609.05054v1)|**[link](http://arxiv.org/abs/2609.05054v1)**|
+|**2026-09-02**|**Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks**|Ayaan Qayyum et.al.|[2611.23242v1](http://arxiv.org/abs/2611.23242v1)|**[link](http://arxiv.org/abs/2611.23242v1)**|
 |**2026-09-01**|**Connectome-Based Modelling Reveals Orientation Maps in the Drosophila Optic Lobe**|Jia-Nuo Liew et.al.|[2609.01330v1](http://arxiv.org/abs/2609.01330v1)|**[link](http://arxiv.org/abs/2609.01330v1)**|
 |**2026-09-01**|**Real-Time Neuromorphic Spectrum Intelligence Simulator**|Navaneetha Krishnan Kamalakannan et.al.|[2609.00585v1](http://arxiv.org/abs/2609.00585v1)|**[link](http://arxiv.org/abs/2609.00585v1)**|
 |**2026-08-31**|**Conjoint Audio-to-Spikes Encoding and Processing for Efficient Neuromorphic Speech Recognition**|Valentin M. Meunier et.al.|[2608.30792v1](http://arxiv.org/abs/2608.30792v1)|**[link](http://arxiv.org/abs/2608.30792v1)**|
@@ -3565,5 +3568,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261119>back to top</a>)</p>
 
