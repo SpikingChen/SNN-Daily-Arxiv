@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,15 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-11-23**|**A New Perspective on ANN-to-SNN Conversion: Hardware-Aligned Multi-Threshold Neuron Dynamics for Neuromorphic Inference**|Shaohong Gu et.al.|[2611.30277v1](http://arxiv.org/abs/2611.30277v1)|**[link](http://arxiv.org/abs/2611.30277v1)**|
+|**2026-11-23**|**Spiking World-Action Models for Robotic Manipulation**|Mingquan Liu et.al.|[2611.30041v1](http://arxiv.org/abs/2611.30041v1)|**[link](http://arxiv.org/abs/2611.30041v1)**|
 |**2026-11-20**|**Opto-Electronic Hybrid Reinforcement Learning Based on MZI for Robotic Manipulator Control**|Mengting Yu et.al.|[2611.27129v1](http://arxiv.org/abs/2611.27129v1)|**[link](http://arxiv.org/abs/2611.27129v1)**|
 |**2026-11-20**|**Acceleration of Sparse and Irregular Workloads through Energy-Efficient Stream Extensions**|Paul Scheffler et.al.|[2611.26939v1](http://arxiv.org/abs/2611.26939v1)|**[link](http://arxiv.org/abs/2611.26939v1)**|
 |**2026-11-20**|**Softmax-Free Attention in Spiking Transformers as Zero-Temperature Two-Level Systems: Applications to XAI**|Roberto C. Sotero et.al.|[2610.15968v2](http://arxiv.org/abs/2610.15968v2)|**[link](http://arxiv.org/abs/2610.15968v2)**|
+|**2026-11-20**|**Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform**|Guillem Fustier-Castillo et.al.|[2611.27953v1](http://arxiv.org/abs/2611.27953v1)|**[link](http://arxiv.org/abs/2611.27953v1)**|
+|**2026-11-20**|**Learning in Symbiosis: Heterogeneous Federated Learning with ANNs and SNNs**|Manh V. Nguyen et.al.|[2611.27686v1](http://arxiv.org/abs/2611.27686v1)|**[link](http://arxiv.org/abs/2611.27686v1)**|
+|**2026-11-20**|**Spiking Neural Networks Incrementally Track Firing-Rate Networks**|Hyunseok Oh et.al.|[2611.27322v1](http://arxiv.org/abs/2611.27322v1)|**[link](http://arxiv.org/abs/2611.27322v1)**|
+|**2026-11-20**|**Stratum: A Hardware-Software Co-Design Framework for SNN Inference on RISC-V**|Wajahat Riaz et.al.|[2611.27277v1](http://arxiv.org/abs/2611.27277v1)|**[link](http://arxiv.org/abs/2611.27277v1)**|
 |**2026-11-19**|**Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control**|Artem Guba et.al.|[2611.22639v3](http://arxiv.org/abs/2611.22639v3)|**[link](http://arxiv.org/abs/2611.22639v3)**|
 |**2026-11-19**|**FEA solver integration of a composite World Model with a Spiking Neural Network memory Block for computationally efficient modelling of defects and variabilities**|Bassam El Said et.al.|[2611.26419v1](http://arxiv.org/abs/2611.26419v1)|**[link](http://arxiv.org/abs/2611.26419v1)**|
 |**2026-11-19**|**Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network**|Fatima Atwi et.al.|[2611.26074v1](http://arxiv.org/abs/2611.26074v1)|**[link](http://arxiv.org/abs/2611.26074v1)**|
@@ -3573,5 +3579,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
 
