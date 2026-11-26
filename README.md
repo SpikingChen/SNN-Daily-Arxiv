@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,10 @@
 
 |Publish Date|Title|Authors|PDF|
 |---|---|---|---|
+|**2026-11-25**|**Trading BRAM for LUTs: Hybrid Bit-Level Weight Storage for FPGA-Based Spiking Neural Networks**|Dimitrios Sekertzis et.al.|[2611.32288v2](http://arxiv.org/abs/2611.32288v2)|**[link](http://arxiv.org/abs/2611.32288v2)**|
 |**2026-11-24**|**Low-Power Spiking Neural Network Acceleration with Differential Time Representation: A Modular Hardware Framework**|Daniel Windhager et.al.|[2611.32758v1](http://arxiv.org/abs/2611.32758v1)|**[link](http://arxiv.org/abs/2611.32758v1)**|
-|**2026-11-24**|**Trading BRAM for LUTs: Hybrid Bit-Level Weight Storage for FPGA-Based Spiking Neural Networks**|Dimitrios Sekertzis et.al.|[2611.32288v1](http://arxiv.org/abs/2611.32288v1)|**[link](http://arxiv.org/abs/2611.32288v1)**|
 |**2026-11-24**|**HEAR, SEE, SPIKE ONCE: Highly Efficient NeuroAI Temporal Neural Networks for Low-Precision Multimodal Audio-Visual Classification and Online Learning**|Shanmuga Venkatachalam et.al.|[2611.31884v1](http://arxiv.org/abs/2611.31884v1)|**[link](http://arxiv.org/abs/2611.31884v1)**|
+|**2026-11-24**|**Neuromorphic architectures as numerical solvers for computational neuroscience**|Jakob Jordan et.al.|[2608.28387v2](http://arxiv.org/abs/2608.28387v2)|**[link](http://arxiv.org/abs/2608.28387v2)**|
 |**2026-11-23**|**A New Perspective on ANN-to-SNN Conversion: Hardware-Aligned Multi-Threshold Neuron Dynamics for Neuromorphic Inference**|Shaohong Gu et.al.|[2611.30277v1](http://arxiv.org/abs/2611.30277v1)|**[link](http://arxiv.org/abs/2611.30277v1)**|
 |**2026-11-23**|**Spiking World-Action Models for Robotic Manipulation**|Mingquan Liu et.al.|[2611.30041v1](http://arxiv.org/abs/2611.30041v1)|**[link](http://arxiv.org/abs/2611.30041v1)**|
 |**2026-11-23**|**The cyborg fly: reflexes survive engineered actuators, coordination needs stand-ins**|Mauricio Muñoz Arias et.al.|[2611.31644v1](http://arxiv.org/abs/2611.31644v1)|**[link](http://arxiv.org/abs/2611.31644v1)**|
@@ -166,7 +167,6 @@
 |**2026-08-31**|**ITP-STDP: A Hardware-Efficient Intrinsic-Timing Power-of-Two Synaptic Learning Engine for On-Chip SNNs**|Haihang Xia et.al.|[2606.06159v2](http://arxiv.org/abs/2606.06159v2)|**[link](http://arxiv.org/abs/2606.06159v2)**|
 |**2026-08-30**|**Towards an Expressivity-Normalized Energy-Demand Comparison of ANNs and SNNs**|Miriam Kranzlmüller et.al.|[2608.29869v1](http://arxiv.org/abs/2608.29869v1)|**[link](http://arxiv.org/abs/2608.29869v1)**|
 |**2026-08-28**|**Low-Power End-to-End Cochlear Implant Speech Denoising with Spiking Neural Networks**|Ludovic Boulanger et.al.|[2608.28493v1](http://arxiv.org/abs/2608.28493v1)|**[link](http://arxiv.org/abs/2608.28493v1)**|
-|**2026-08-28**|**Neuromorphic architectures as numerical solvers for computational neuroscience**|Jakob Jordan et.al.|[2608.28387v1](http://arxiv.org/abs/2608.28387v1)|**[link](http://arxiv.org/abs/2608.28387v1)**|
 |**2026-08-28**|**SpikeOPD: Stable On-Policy Distillation for Autoregressive Spiking Language Models**|Enqiao Lu et.al.|[2608.27857v1](http://arxiv.org/abs/2608.27857v1)|**[link](http://arxiv.org/abs/2608.27857v1)**|
 |**2026-08-27**|**ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification**|M. Middleton et.al.|[2608.27150v1](http://arxiv.org/abs/2608.27150v1)|**[link](http://arxiv.org/abs/2608.27150v1)**|
 |**2026-08-27**|**Benchmarking spiking neural networks across sensing modalities on edge devices**|Xin Du et.al.|[2609.00026v1](http://arxiv.org/abs/2609.00026v1)|**[link](http://arxiv.org/abs/2609.00026v1)**|
@@ -3583,5 +3583,5 @@
 |**2019-07-15**|**Concentration of the matrix-valued minimum mean-square error in optimal Bayesian inference**|Jean Barbier et.al.|[1907.07103v1](http://arxiv.org/abs/1907.07103v1)|**[link](http://arxiv.org/abs/1907.07103v1)**|
 |**2019-07-12**|**Benchmarking Physical Performance of Neural Inference Circuits**|Dmitri E. Nikonov et.al.|[1907.05748v1](http://arxiv.org/abs/1907.05748v1)|**[link](http://arxiv.org/abs/1907.05748v1)**|
 
-<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261126>back to top</a>)</p>
 
